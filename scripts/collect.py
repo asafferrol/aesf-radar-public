@@ -1,3 +1,4 @@
+import os
 #!/usr/bin/env python3
 
 import json
@@ -245,36 +246,49 @@ for source in SOURCES:
 
 
 # REDES · YouTube
-# Primera consulta de prueba. Después se sustituirá por MIS RADARES.
-try:
-    yt = youtube_search("Ferrol", hours=HISTORY_HOURS, max_results=25)
-    yt_items = yt.get("items", [])
+# Se ejecuta únicamente cuando GitHub Actions define RUN_YOUTUBE=1.
+# Así evitamos consumir cuota de la API en cada ciclo del recolector.
+run_youtube = os.environ.get("RUN_YOUTUBE", "0") == "1"
 
+if run_youtube:
+    try:
+        yt = youtube_search("Ferrol", hours=HISTORY_HOURS, max_results=25)
+        yt_items = yt.get("items", [])
+
+        status["youtube"] = {
+            "ok": yt.get("configured", False) and not yt.get("error"),
+            "count": len(yt_items),
+            "name": "YouTube",
+        }
+
+        if yt.get("error"):
+            status["youtube"]["error"] = yt["error"]
+            print(f'ERROR YouTube · Ferrol: {yt["error"]}')
+        else:
+            print(f'OK  YouTube · Ferrol: {len(yt_items)}')
+
+        if yt_items:
+            with open(OUT / "youtube.json", "w", encoding="utf-8") as f:
+                json.dump(yt_items, f, ensure_ascii=False, indent=2)
+
+            all_items.extend(yt_items)
+
+    except Exception as exc:
+        status["youtube"] = {
+            "ok": False,
+            "count": 0,
+            "name": "YouTube",
+            "error": str(exc),
+        }
+        print(f'ERROR YouTube: {exc}')
+else:
     status["youtube"] = {
-        "ok": yt.get("configured", False) and not yt.get("error"),
-        "count": len(yt_items),
-        "name": "YouTube",
-    }
-
-    if yt.get("error"):
-        status["youtube"]["error"] = yt["error"]
-
-    if yt_items:
-        with open(OUT / "youtube.json", "w", encoding="utf-8") as f:
-            json.dump(yt_items, f, ensure_ascii=False, indent=2)
-
-        all_items.extend(yt_items)
-
-    print(f'OK  YouTube · Ferrol: {len(yt_items)}')
-
-except Exception as exc:
-    status["youtube"] = {
-        "ok": False,
+        "ok": True,
         "count": 0,
         "name": "YouTube",
-        "error": str(exc),
+        "skipped": True,
     }
-    print(f'ERROR YouTube: {exc}')
+    print("SKIP YouTube · reservado para ciclo programado")
 
 
 # Mezclamos lo recién capturado con el histórico anterior.
