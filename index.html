@@ -53,7 +53,7 @@ button{
 .desc{color:#bdc9d7;font-size:13px;line-height:1.4}
 .empty{text-align:center;color:var(--muted);padding:35px}
 footer{
-  position:fixed;bottom:0;left:0;right:0;
+  position:relative;
   background:#091525ee;border-top:1px solid var(--line);
   padding:12px;text-align:center;color:#8ea0b5;font-size:12px;
 }
@@ -91,6 +91,7 @@ const q = document.getElementById("q");
 const status = document.getElementById("status");
 const results = document.getElementById("results");
 let data=[];
+let activeFilter="TODO";
 
 function safe(s){
  return (s||"").replace(/[&<>"']/g,c=>({
@@ -101,12 +102,16 @@ function safe(s){
 function render(){
  data.sort((a,b)=>(b.time||0)-(a.time||0));
 
- if(!data.length){
+ const visible = activeFilter==="TODO"
+   ? data
+   : data.filter(x=>x.type===activeFilter);
+
+ if(!visible.length){
    results.innerHTML='<div class="empty">Sin resultados.</div>';
    return;
  }
 
- results.innerHTML=data.slice(0,100).map(x=>`
+ results.innerHTML=visible.slice(0,100).map(x=>`
  <a class="item" href="${safe(x.url)}" target="_blank" rel="noopener">
    <div class="meta">
      <span>${safe(x.source)}</span>
@@ -127,6 +132,7 @@ async function bluesky(term){
 
    return (j.posts||[]).map(p=>({
      source:"BLUESKY",
+     type:"REDES",
      title:p.record?.text||"Publicación",
      desc:"@"+(p.author?.handle||""),
      url:"https://bsky.app/profile/"+p.author.did+
@@ -146,6 +152,7 @@ async function diario(term){
    return [...doc.querySelectorAll("item")]
    .map(i=>({
       source:"DIARIO DE FERROL",
+      type:"NOTICIAS",
       title:i.querySelector("title")?.textContent||"",
       desc:(i.querySelector("description")?.textContent||"")
             .replace(/<[^>]*>/g," "),
@@ -171,13 +178,36 @@ async function gdelt(term){
 
    return (j.articles||[]).map(a=>({
      source:"NOTICIAS · "+(a.domain||"GDELT"),
+     type:"NOTICIAS",
      title:a.title||a.url,
      desc:a.language||"",
      url:a.url,
-     time:0
+     time:a.seendate ? Date.parse(
+       a.seendate.replace(
+         /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/,
+         "$1-$2-$3T$4:$5:$6Z"
+       )
+     ) : 0
    }));
  }catch(e){return []}
 }
+
+document.querySelectorAll(".tab").forEach(tab=>{
+ tab.addEventListener("click",()=>{
+   document.querySelectorAll(".tab").forEach(t=>t.classList.remove("active"));
+   tab.classList.add("active");
+
+   const name=tab.textContent.trim();
+
+   if(["TODO","NOTICIAS","REDES"].includes(name)){
+      activeFilter=name;
+   } else {
+      activeFilter="TODO";
+   }
+
+   render();
+ });
+});
 
 document.getElementById("search").addEventListener("submit",async e=>{
  e.preventDefault();
