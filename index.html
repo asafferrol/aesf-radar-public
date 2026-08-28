@@ -90,156 +90,323 @@ Busca, por ejemplo: Ferrol, Navantia, Racing de Ferrol, F-110…
 const q = document.getElementById("q");
 const status = document.getElementById("status");
 const results = document.getElementById("results");
-let data=[];
-let activeFilter="TODO";
+
+let data = [];
+let activeFilter = "TODO";
+let currentTerm = "";
+
+const health = {
+  cloud: null,
+  gdelt: null,
+  diario: null,
+  bluesky: null
+};
 
 function safe(s){
- return (s||"").replace(/[&<>"']/g,c=>({
- "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
- }[c]));
+  return String(s || "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;",
+    "<":"&lt;",
+    ">":"&gt;",
+    '"':"&quot;",
+    "'":"&#39;"
+  }[c]));
+}
+
+function safeUrl(url){
+  try{
+    const u = new URL(url, location.href);
+    if(u.protocol === "http:" || u.protocol === "https:"){
+      return u.href;
+    }
+  }catch(e){}
+  return "#";
+}
+
+function normalizeText(s){
+  return String(s || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
+function matches(item, term){
+  const needle = normalizeText(term);
+  const haystack = normalizeText(
+    (item.title || "") + " " +
+    (item.desc || "") + " " +
+    (item.source || "")
+  );
+
+  return haystack.includes(needle);
+}
+
+function dedupe(items){
+  const seen = new Set();
+
+  return items.filter(x => {
+    const key = (x.url || x.title || "")
+      .trim()
+      .toLowerCase();
+
+    if(!key || seen.has(key)) return false;
+
+    seen.add(key);
+    return true;
+  });
+}
+
+function visibleData(){
+  const filtered = activeFilter === "TODO"
+    ? data
+    : data.filter(x => x.type === activeFilter);
+
+  return filtered.sort((a,b) => (b.time || 0) - (a.time || 0));
+}
+
+function updateStatus(){
+  const visible = visibleData();
+
+  const noticias = data.filter(x => x.type === "NOTICIAS").length;
+  const oficial = data.filter(x => x.type === "OFICIAL").length;
+  const redes = data.filter(x => x.type === "REDES").length;
+
+  const redState = health.bluesky === false ? " ⚠️" : "";
+
+  status.textContent =
+    visible.length + " resultados" +
+    " · Noticias " + noticias +
+    " · Oficial " + oficial +
+    " · Redes " + redes + redState;
 }
 
 function render(){
- data.sort((a,b)=>(b.time||0)-(a.time||0));
+  const visible = visibleData();
 
- const visible = activeFilter==="TODO"
-   ? data
-   : data.filter(x=>x.type===activeFilter);
+  if(!visible.length){
+    results.innerHTML =
+      '<div class="empty">Sin resultados para este filtro.</div>';
+    updateStatus();
+    return;
+  }
 
- if(!visible.length){
-   results.innerHTML='<div class="empty">Sin resultados.</div>';
-   return;
- }
+  results.innerHTML = visible.slice(0,100).map(x => `
+    <a class="item"
+       href="${safe(safeUrl(x.url))}"
+       target="_blank"
+       rel="noopener noreferrer">
+      <div class="meta">
+        <span>${safe(x.source)}</span>
+        <span>${
+          x.time
+            ? new Date(x.time).toLocaleString("es-ES")
+            : ""
+        }</span>
+      </div>
 
- results.innerHTML=visible.slice(0,100).map(x=>`
- <a class="item" href="${safe(x.url)}" target="_blank" rel="noopener">
-   <div class="meta">
-     <span>${safe(x.source)}</span>
-     <span>${x.time ? new Date(x.time).toLocaleString("es-ES") : ""}</span>
-   </div>
-   <div class="title">${safe(x.title)}</div>
-   ${x.desc ? `<div class="desc">${safe(x.desc).slice(0,300)}</div>` : ""}
- </a>`).join("");
+      <div class="title">${safe(x.title)}</div>
+
+      ${
+        x.desc
+          ? `<div class="desc">${safe(x.desc).slice(0,300)}</div>`
+          : ""
+      }
+    </a>
+  `).join("");
+
+  updateStatus();
+}
+
+async function cloud(term){
+  try{
+    const r = await fetch(
+      "data/all.json?t=" + Date.now(),
+      {cache:"no-store"}
+    );
+
+    if(!r.ok) throw new Error("HTTP " + r.status);
+
+    const j = await r.json();
+    health.cloud = true;
+
+    return (j.items || [])
+      .map(x => ({
+        source: x.source || "AESF CLOUD",
+        type: x.type || "WEB",
+        title: x.title || "",
+        desc: x.description || x.desc || "",
+        url: x.url || "",
+        time: x.time ? Date.parse(x.time) : 0
+      }))
+      .filter(x => matches(x, term));
+
+  }catch(e){
+    health.cloud = false;
+    return [];
+  }
 }
 
 async function bluesky(term){
- try{
-   const url=
-   "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q="+
-   encodeURIComponent(term)+"&limit=50&sort=latest";
+  try{
+    const url =
+      "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=" +
+      encodeURIComponent(term) +
+      "&limit=50&sort=latest";
 
-   const j=await fetch(url).then(r=>r.json());
+    const r = await fetch(url);
 
-   return (j.posts||[]).map(p=>({
-     source:"BLUESKY",
-     type:"REDES",
-     title:p.record?.text||"Publicación",
-     desc:"@"+(p.author?.handle||""),
-     url:"https://bsky.app/profile/"+p.author.did+
-         "/post/"+p.uri.split("/").pop(),
-     time:Date.parse(p.indexedAt)
-   }));
- }catch(e){return []}
+    if(!r.ok) throw new Error("HTTP " + r.status);
+
+    const j = await r.json();
+    health.bluesky = true;
+
+    return (j.posts || []).map(p => ({
+      source: "BLUESKY",
+      type: "REDES",
+      title: p.record?.text || "Publicación",
+      desc: "@" + (p.author?.handle || ""),
+      url:
+        "https://bsky.app/profile/" +
+        p.author.did +
+        "/post/" +
+        p.uri.split("/").pop(),
+      time: Date.parse(p.indexedAt)
+    }));
+
+  }catch(e){
+    health.bluesky = false;
+    return [];
+  }
 }
 
 async function diario(term){
- try{
-   const xml=await fetch("diario_ferrol.xml?t="+Date.now())
-                  .then(r=>r.text());
+  try{
+    const r = await fetch(
+      "diario_ferrol.xml?t=" + Date.now(),
+      {cache:"no-store"}
+    );
 
-   const doc=new DOMParser().parseFromString(xml,"text/xml");
+    if(!r.ok) throw new Error("HTTP " + r.status);
 
-   return [...doc.querySelectorAll("item")]
-   .map(i=>({
-      source:"DIARIO DE FERROL",
-      type:"NOTICIAS",
-      title:i.querySelector("title")?.textContent||"",
-      desc:(i.querySelector("description")?.textContent||"")
-            .replace(/<[^>]*>/g," "),
-      url:i.querySelector("link")?.textContent||"#",
-      time:Date.parse(i.querySelector("pubDate")?.textContent||"")
-   }))
-   .filter(x=>
-      (x.title+" "+x.desc).toLowerCase()
-      .includes(term.toLowerCase())
-   );
+    const xml = await r.text();
+    const doc = new DOMParser().parseFromString(xml, "text/xml");
 
- }catch(e){return []}
+    health.diario = true;
+
+    return [...doc.querySelectorAll("item")]
+      .map(i => ({
+        source: "DIARIO DE FERROL",
+        type: "NOTICIAS",
+        title: i.querySelector("title")?.textContent || "",
+        desc:
+          (i.querySelector("description")?.textContent || "")
+          .replace(/<[^>]*>/g, " "),
+        url: i.querySelector("link")?.textContent || "",
+        time:
+          Date.parse(
+            i.querySelector("pubDate")?.textContent || ""
+          ) || 0
+      }))
+      .filter(x => matches(x, term));
+
+  }catch(e){
+    health.diario = false;
+    return [];
+  }
 }
 
 async function gdelt(term){
- try{
-   const url=
-   "https://api.gdeltproject.org/api/v2/doc/doc?query="+
-   encodeURIComponent(term)+
-   "&mode=artlist&maxrecords=50&sort=datedesc&format=json";
+  try{
+    const url =
+      "https://api.gdeltproject.org/api/v2/doc/doc?query=" +
+      encodeURIComponent(term) +
+      "&mode=artlist&maxrecords=50&sort=datedesc&format=json";
 
-   const j=await fetch(url).then(r=>r.json());
+    const r = await fetch(url);
 
-   return (j.articles||[]).map(a=>({
-     source:"NOTICIAS · "+(a.domain||"GDELT"),
-     type:"NOTICIAS",
-     title:a.title||a.url,
-     desc:a.language||"",
-     url:a.url,
-     time:a.seendate ? Date.parse(
-       a.seendate.replace(
-         /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/,
-         "$1-$2-$3T$4:$5:$6Z"
-       )
-     ) : 0
-   }));
- }catch(e){return []}
+    if(!r.ok) throw new Error("HTTP " + r.status);
+
+    const j = await r.json();
+    health.gdelt = true;
+
+    return (j.articles || []).map(a => ({
+      source: "NOTICIAS · " + (a.domain || "GDELT"),
+      type: "NOTICIAS",
+      title: a.title || a.url,
+      desc: a.language || "",
+      url: a.url || "",
+      time: a.seendate
+        ? Date.parse(
+            a.seendate.replace(
+              /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/,
+              "$1-$2-$3T$4:$5:$6Z"
+            )
+          ) || 0
+        : 0
+    }));
+
+  }catch(e){
+    health.gdelt = false;
+    return [];
+  }
 }
 
-document.querySelectorAll(".tab").forEach(tab=>{
- tab.addEventListener("click",()=>{
-   document.querySelectorAll(".tab").forEach(t=>t.classList.remove("active"));
-   tab.classList.add("active");
+document.querySelectorAll(".tab").forEach(tab => {
+  tab.addEventListener("click", () => {
+    document.querySelectorAll(".tab")
+      .forEach(t => t.classList.remove("active"));
 
-   const name=tab.textContent.trim();
+    tab.classList.add("active");
 
-   if(["TODO","NOTICIAS","REDES"].includes(name)){
-      activeFilter=name;
-   } else {
-      activeFilter="TODO";
-   }
+    const name = tab.textContent.trim();
 
-   render();
- });
+    activeFilter =
+      ["TODO","NOTICIAS","REDES","OFICIAL","WEB"].includes(name)
+        ? name
+        : "TODO";
+
+    render();
+  });
 });
 
-document.getElementById("search").addEventListener("submit",async e=>{
- e.preventDefault();
+document.getElementById("search")
+.addEventListener("submit", async e => {
+  e.preventDefault();
 
- const term=q.value.trim();
- if(!term)return;
+  const term = q.value.trim();
+  if(!term) return;
 
- data=[];
- render();
+  currentTerm = term;
+  data = [];
 
- status.textContent='Buscando "'+term+'"…';
+  health.cloud = null;
+  health.gdelt = null;
+  health.diario = null;
+  health.bluesky = null;
 
- const searches=[
-   bluesky(term),
-   gdelt(term),
-   diario(term)
- ];
+  results.innerHTML =
+    '<div class="empty">Buscando información…</div>';
 
- searches.forEach(p=>{
-   p.then(items=>{
-     data.push(...items);
-     render();
-     status.textContent=
-       data.length+" resultados encontrados · más recientes primero";
-   });
- });
+  status.textContent =
+    'Buscando "' + term + '" en AESF RADAR…';
 
- await Promise.allSettled(searches);
+  const searches = [
+    cloud(term),
+    gdelt(term),
+    diario(term),
+    bluesky(term)
+  ];
 
- status.textContent=
-   data.length+
-   " resultados · Bluesky + noticias globales + Diario de Ferrol";
+  searches.forEach(p => {
+    p.then(items => {
+      data = dedupe([...data, ...items]);
+      render();
+    });
+  });
+
+  await Promise.allSettled(searches);
+
+  data = dedupe(data);
+  render();
 });
 </script>
 </body>
