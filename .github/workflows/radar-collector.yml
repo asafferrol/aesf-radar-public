@@ -2,6 +2,12 @@ name: AESF Radar Collector
 
 on:
   workflow_dispatch:
+    inputs:
+      query:
+        description: "Texto a buscar en AESF RADAR"
+        required: false
+        default: "Ferrol"
+        type: string
 
   schedule:
     - cron: "*/5 * * * *"
@@ -29,7 +35,12 @@ jobs:
       - name: Ejecutar recolector
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python scripts/collect.py
+          RADAR_QUERY: ${{ github.event.inputs.query || 'Ferrol' }}
+          RUN_YOUTUBE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: |
+          echo "Consulta AESF RADAR: $RADAR_QUERY"
+          echo "YouTube activo: $RUN_YOUTUBE"
+          python scripts/collect.py
 
       - name: Guardar datos actualizados
         run: |

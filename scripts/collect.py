@@ -250,9 +250,13 @@ for source in SOURCES:
 # Así evitamos consumir cuota de la API en cada ciclo del recolector.
 run_youtube = os.environ.get("RUN_YOUTUBE", "0") == "1"
 
+# Consulta dinámica para AESF RADAR.
+# GitHub Actions podrá definir RADAR_QUERY en cada búsqueda.
+radar_query = os.environ.get("RADAR_QUERY", "Ferrol").strip() or "Ferrol"
+
 if run_youtube:
     try:
-        yt = youtube_search("Ferrol", hours=HISTORY_HOURS, max_results=25)
+        yt = youtube_search(radar_query, hours=HISTORY_HOURS, max_results=25)
         yt_items = yt.get("items", [])
 
         status["youtube"] = {
@@ -263,9 +267,9 @@ if run_youtube:
 
         if yt.get("error"):
             status["youtube"]["error"] = yt["error"]
-            print(f'ERROR YouTube · Ferrol: {yt["error"]}')
+            print(f'ERROR YouTube · {radar_query}: {yt["error"]}')
         else:
-            print(f'OK  YouTube · Ferrol: {len(yt_items)}')
+            print(f'OK  YouTube · {radar_query}: {len(yt_items)}')
 
         if yt_items:
             with open(OUT / "youtube.json", "w", encoding="utf-8") as f:
