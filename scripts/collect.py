@@ -5,7 +5,7 @@ import re
 import html
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -146,6 +146,69 @@ def dedupe(items):
     return result
 
 
+# AESF RADAR HISTORICO
+# Conservamos información capturada durante 48 horas.
+HISTORY_HOURS = 48
+HISTORY_FILE = OUT / "history.json"
+
+
+def load_history():
+    if not HISTORY_FILE.exists():
+        return []
+
+    try:
+        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        if isinstance(data, dict):
+            return data.get("items", [])
+
+        if isinstance(data, list):
+            return data
+
+    except Exception as exc:
+        print("AVISO histórico:", exc)
+
+    return []
+
+
+def item_datetime(item):
+    value = item.get("time")
+
+    if not value:
+        return None
+
+    try:
+        dt = datetime.fromisoformat(
+            value.replace("Z", "+00:00")
+        )
+
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+
+        return dt.astimezone(timezone.utc)
+
+    except Exception:
+        return None
+
+
+def keep_recent(items, hours=48):
+    limit = datetime.now(timezone.utc) - timedelta(hours=hours)
+    result = []
+
+    for item in items:
+        dt = item_datetime(item)
+
+        # Si una fuente no proporciona fecha, no la descartamos
+        # automáticamente. Se conservará y podremos mejorarla después.
+        if dt is None or dt >= limit:
+            result.append(item)
+
+    return result
+
+
+old_history = load_history()
+
 all_items = []
 status = {}
 
@@ -179,23 +242,63 @@ for source in SOURCES:
         print(f'ERROR {source["name"]}: {exc}')
 
 
-all_items = dedupe(all_items)
+# Mezclamos lo recién capturado con el histórico anterior.
+history_items = dedupe(old_history + all_items)
+history_items = keep_recent(history_items, HISTORY_HOURS)
 
-all_items.sort(
+history_items.sort(
     key=lambda x: x.get("time") or "",
     reverse=True
 )
 
-payload = {
-    "generated_at": datetime.now(timezone.utc).isoformat(),
-    "count": len(all_items),
-    "sources": status,
-    "items": all_items,
+history_payload = {
+    "hours": HISTORY_HOURS,
+    "count": len(history_items),
+    "items": history_items,
 }
 
-with open(OUT / "all.json", "w", encoding="utf-8") as f:
+# history.json solo cambia cuando cambia realmente el contenido.
+with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+    json.dump(history_payload, f, ensure_ascii=False, indent=2)
+
+payload_core = {
+    "count": len(history_items),
+    "sources": status,
+    "items": history_items,
+}
+
+all_path = OUT / "all.json"
+generated_at = None
+
+# Si los datos son exactamente iguales, conservamos generated_at.
+# Así GitHub no crea un commit cada cinco minutos sin novedades.
+if all_path.exists():
+    try:
+        with open(all_path, "r", encoding="utf-8") as f:
+            old_payload = json.load(f)
+
+        old_core = {
+            "count": old_payload.get("count"),
+            "sources": old_payload.get("sources"),
+            "items": old_payload.get("items"),
+        }
+
+        if old_core == payload_core:
+            generated_at = old_payload.get("generated_at")
+
+    except Exception:
+        pass
+
+payload = {
+    "generated_at":
+        generated_at or datetime.now(timezone.utc).isoformat(),
+    **payload_core,
+}
+
+with open(all_path, "w", encoding="utf-8") as f:
     json.dump(payload, f, ensure_ascii=False, indent=2)
 
 print()
-print("TOTAL:", len(all_items))
-print("GENERADO: data/all.json")
+print("NUEVOS/ACTUALES:", len(all_items))
+print("HISTORICO 48H:", len(history_items))
+print("GENERADO: data/history.json + data/all.json")

@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-08-28T17:26:55.605986+00:00",
+  "hours": 48,
   "count": 161,
-  "sources": {
-    "lavoz_ferrol": {
-      "ok": true,
-      "count": 48,
-      "name": "La Voz de Galicia · Ferrol"
-    },
-    "dog": {
-      "ok": true,
-      "count": 31,
-      "name": "DOG · Xunta de Galicia"
-    },
-    "boe": {
-      "ok": true,
-      "count": 99,
-      "name": "BOE"
-    }
-  },
   "items": [
     {
       "title": "El QS 6000 Internacional acelera con una jornada maratoniana de 52 mangas",
