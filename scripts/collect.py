@@ -9,6 +9,8 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+from connectors.youtube import search as youtube_search
+
 SOURCES = [
     {
         "id": "lavoz_ferrol",
@@ -240,6 +242,39 @@ for source in SOURCES:
             "error": str(exc),
         }
         print(f'ERROR {source["name"]}: {exc}')
+
+
+# REDES · YouTube
+# Primera consulta de prueba. Después se sustituirá por MIS RADARES.
+try:
+    yt = youtube_search("Ferrol", hours=HISTORY_HOURS, max_results=25)
+    yt_items = yt.get("items", [])
+
+    status["youtube"] = {
+        "ok": yt.get("configured", False) and not yt.get("error"),
+        "count": len(yt_items),
+        "name": "YouTube",
+    }
+
+    if yt.get("error"):
+        status["youtube"]["error"] = yt["error"]
+
+    if yt_items:
+        with open(OUT / "youtube.json", "w", encoding="utf-8") as f:
+            json.dump(yt_items, f, ensure_ascii=False, indent=2)
+
+        all_items.extend(yt_items)
+
+    print(f'OK  YouTube · Ferrol: {len(yt_items)}')
+
+except Exception as exc:
+    status["youtube"] = {
+        "ok": False,
+        "count": 0,
+        "name": "YouTube",
+        "error": str(exc),
+    }
+    print(f'ERROR YouTube: {exc}')
 
 
 # Mezclamos lo recién capturado con el histórico anterior.

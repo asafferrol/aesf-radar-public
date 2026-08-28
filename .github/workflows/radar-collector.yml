@@ -27,6 +27,8 @@ jobs:
           python-version: "3.12"
 
       - name: Ejecutar recolector
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/collect.py
 
       - name: Guardar datos actualizados
