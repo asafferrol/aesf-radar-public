@@ -3,410 +3,311 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#07111f">
+<meta name="theme-color" content="#05080d">
 <title>AESF RADAR</title>
-
 <style>
 :root{
-  color-scheme:dark;
-  --bg:#07111f;
-  --card:#0e1b2c;
-  --line:#203249;
-  --text:#f4f7fb;
-  --muted:#93a4b8;
-  --blue:#1495ff;
+ --bg:#05080d;--panel:#0c1119;--panel2:#111824;--line:#202a38;
+ --text:#f4f7fb;--muted:#8995a5;--blue:#168cff;--cyan:#4db8ff;
+ --green:#35d07f
 }
 *{box-sizing:border-box}
+html{background:var(--bg)}
 body{
-  margin:0;background:var(--bg);color:var(--text);
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+ margin:0;background:var(--bg);color:var(--text);
+ font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif
 }
-main{max-width:800px;margin:auto;padding:20px 14px 80px}
-h1{font-size:24px;margin:5px 0 18px}
-.logo{color:#55b8ff}
-.search{display:flex;gap:8px}
+.wrap{max-width:900px;margin:auto;padding:0 14px 80px}
+header{
+ position:sticky;top:0;z-index:10;
+ background:rgba(5,8,13,.94);backdrop-filter:blur(18px);
+ padding:calc(12px + env(safe-area-inset-top)) 0 10px
+}
+.brand{display:flex;align-items:center;justify-content:space-between;margin-bottom:13px}
+.logo{font-size:20px;font-weight:900;letter-spacing:.3px}
+.logo b{color:var(--cyan)}
+.live{font-size:11px;color:var(--green);font-weight:800}
+.live:before{content:"●";margin-right:5px}
+.searchbox{
+ display:grid;grid-template-columns:1fr auto;gap:7px;
+ background:var(--panel);border:1px solid var(--line);
+ border-radius:18px;padding:6px
+}
 input{
-  flex:1;background:#0b1726;border:1px solid #2a3d55;
-  border-radius:14px;padding:14px;color:white;font-size:16px;
+ min-width:0;border:0;outline:0;background:transparent;color:white;
+ padding:10px 9px;font-size:17px
 }
 button{
-  border:0;border-radius:13px;background:var(--blue);
-  color:white;font-weight:700;padding:0 17px;
+ border:0;border-radius:13px;background:var(--blue);color:white;
+ font-weight:850;padding:0 17px;font-size:13px
 }
-.tabs{display:flex;gap:8px;overflow:auto;padding:13px 0}
-.tab{
-  background:#101e30;color:#b8c6d6;padding:8px 12px;
-  border-radius:18px;white-space:nowrap;font-size:13px;
+.filters,.times{
+ display:flex;overflow-x:auto;gap:7px;scrollbar-width:none
 }
-.tab.active{background:#123f66;color:#58b9ff}
-#status{color:var(--muted);font-size:13px;margin:5px 2px 13px}
-.item{
-  display:block;color:inherit;text-decoration:none;
-  background:var(--card);border:1px solid var(--line);
-  border-radius:15px;padding:14px;margin:9px 0;
+.filters::-webkit-scrollbar,.times::-webkit-scrollbar{display:none}
+.filters{padding:12px 0 8px}
+.times{padding:0 0 9px}
+.chip{
+ flex:none;border:1px solid var(--line);background:var(--panel);
+ color:#9eabba;border-radius:999px;padding:7px 11px;
+ font-size:11px;font-weight:800;cursor:pointer
 }
-.meta{
-  display:flex;justify-content:space-between;gap:10px;
-  color:#58b9ff;font-size:11px;font-weight:700;
+.chip.active{background:#122d49;border-color:#1c73b6;color:#68c2ff}
+.time.active{background:#202a37;color:white}
+.summary{
+ display:flex;align-items:center;justify-content:space-between;
+ border-bottom:1px solid #151d28;padding:12px 2px 10px
 }
-.title{font-size:16px;font-weight:700;line-height:1.35;margin:7px 0}
-.desc{color:#bdc9d7;font-size:13px;line-height:1.4}
-.empty{text-align:center;color:var(--muted);padding:35px}
-footer{
-  position:relative;
-  background:#091525ee;border-top:1px solid var(--line);
-  padding:12px;text-align:center;color:#8ea0b5;font-size:12px;
+#status{font-size:13px;color:#a8b3c1}
+#status strong{color:white}
+.sort{font-size:11px;color:var(--muted)}
+.result{
+ display:block;color:inherit;text-decoration:none;
+ padding:16px 2px;border-bottom:1px solid #151d28
 }
+.result:active{opacity:.65}
+.topline{
+ display:flex;align-items:center;justify-content:space-between;
+ gap:10px;margin-bottom:7px
+}
+.source{
+ display:flex;align-items:center;gap:7px;
+ font-size:11px;font-weight:850;color:#6cc4ff
+}
+.badge{
+ font-size:9px;padding:3px 6px;border-radius:5px;
+ background:#142234;color:#9bcfff
+}
+.when{font-size:10px;color:#788596;white-space:nowrap}
+.title{font-size:17px;line-height:1.28;font-weight:760;letter-spacing:-.15px}
+.desc{
+ color:#a0acba;font-size:13px;line-height:1.42;
+ margin-top:6px;display:-webkit-box;-webkit-line-clamp:3;
+ -webkit-box-orient:vertical;overflow:hidden
+}
+.domain{font-size:10px;color:#657283;margin-top:8px}
+.empty{text-align:center;padding:70px 20px;color:#768395}
+.empty .radar{font-size:44px;margin-bottom:12px}
+.empty strong{display:block;color:#dbe4ed;font-size:17px;margin-bottom:6px}
+.loading{padding:45px;text-align:center;color:#8290a0}
+.pulse{display:inline-block;color:var(--cyan);animation:p 1s infinite alternate}
+@keyframes p{to{opacity:.25}}
+.stats{
+ display:grid;grid-template-columns:repeat(3,1fr);gap:7px;
+ margin:12px 0 0
+}
+.stat{background:var(--panel);border:1px solid #151e2a;border-radius:11px;padding:9px}
+.stat b{display:block;font-size:15px}
+.stat span{font-size:9px;color:#718093;text-transform:uppercase}
+footer{text-align:center;color:#4f5c6b;font-size:10px;padding:30px 0}
 </style>
 </head>
-
 <body>
-<main>
-<h1>◉ <span class="logo">AESF</span> RADAR</h1>
+<div class="wrap">
+<header>
+ <div class="brand">
+  <div class="logo">◉ <b>AESF</b> RADAR</div>
+  <div class="live">RADAR ACTIVO</div>
+ </div>
 
-<form id="search" class="search">
-<input id="q" placeholder="Buscar cualquier palabra o frase…" autocomplete="off">
-<button>BUSCAR</button>
-</form>
+ <form id="search" class="searchbox">
+  <input id="q" placeholder="¿Qué quieres encontrar?" autocomplete="off" enterkeyhint="search">
+  <button>BUSCAR</button>
+ </form>
 
-<div class="tabs">
-<span class="tab active">TODO</span>
-<span class="tab">NOTICIAS</span>
-<span class="tab">REDES</span>
-<span class="tab">OFICIAL</span>
-<span class="tab">WEB</span>
+ <div class="filters">
+  <span class="chip type active" data-type="TODO">TODO</span>
+  <span class="chip type" data-type="NOTICIAS">NOTICIAS</span>
+  <span class="chip type" data-type="REDES">REDES</span>
+  <span class="chip type" data-type="OFICIAL">OFICIAL</span>
+  <span class="chip type" data-type="WEB">WEB</span>
+ </div>
+
+ <div class="times">
+  <span class="chip time" data-hours="1">1H</span>
+  <span class="chip time" data-hours="6">6H</span>
+  <span class="chip time" data-hours="24">24H</span>
+  <span class="chip time active" data-hours="48">48H</span>
+  <span class="chip time" data-hours="168">7D</span>
+  <span class="chip time" data-hours="720">30D</span>
+ </div>
+</header>
+
+<div class="summary">
+ <div id="status">Escribe una búsqueda para iniciar el radar</div>
+ <div class="sort">MÁS RECIENTE ↓</div>
 </div>
 
-<div id="status">
-Busca, por ejemplo: Ferrol, Navantia, Racing de Ferrol, F-110…
+<div id="stats"></div>
+<div id="results">
+ <div class="empty">
+  <div class="radar">◎</div>
+  <strong>Busca cualquier tema</strong>
+  Ferrol · Navantia · Racing · F-110 · Ferrol Vello…
+ </div>
 </div>
 
-<div id="results"></div>
-</main>
-
-<footer>AESF RADAR · búsqueda pública federada</footer>
+<footer>AESF RADAR · INTELIGENCIA DE FUENTES PÚBLICAS</footer>
+</div>
 
 <script>
-const q = document.getElementById("q");
-const status = document.getElementById("status");
-const results = document.getElementById("results");
+const q=document.getElementById("q");
+const results=document.getElementById("results");
+const status=document.getElementById("status");
+const stats=document.getElementById("stats");
 
-let data = [];
-let activeFilter = "TODO";
-let currentTerm = "";
+let data=[],activeType="TODO",hours=48,currentTerm="";
 
-const health = {
-  cloud: null,
-  gdelt: null,
-  diario: null,
-  bluesky: null
-};
-
-function safe(s){
-  return String(s || "").replace(/[&<>"']/g, c => ({
-    "&":"&amp;",
-    "<":"&lt;",
-    ">":"&gt;",
-    '"':"&quot;",
-    "'":"&#39;"
-  }[c]));
+function esc(s){
+ return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))
 }
-
-function safeUrl(url){
-  try{
-    const u = new URL(url, location.href);
-    if(u.protocol === "http:" || u.protocol === "https:"){
-      return u.href;
-    }
-  }catch(e){}
-  return "#";
+function norm(s){
+ return String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase()
 }
-
-function normalizeText(s){
-  return String(s || "")
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase();
+function validUrl(s){
+ try{const u=new URL(s,location.href);return /^https?:$/.test(u.protocol)?u.href:"#"}catch{return"#"}
 }
-
-function matches(item, term){
-  const needle = normalizeText(term);
-  const haystack = normalizeText(
-    (item.title || "") + " " +
-    (item.desc || "") + " " +
-    (item.source || "")
-  );
-
-  return haystack.includes(needle);
+function match(x,t){
+ const n=norm(t);
+ return norm([x.title,x.desc,x.source,x.author].join(" ")).includes(n)
 }
-
-function dedupe(items){
-  const seen = new Set();
-
-  return items.filter(x => {
-    const key = (x.url || x.title || "")
-      .trim()
-      .toLowerCase();
-
-    if(!key || seen.has(key)) return false;
-
-    seen.add(key);
-    return true;
-  });
+function unique(a){
+ const seen=new Set();
+ return a.filter(x=>{
+  const k=(x.url||x.title||"").trim().toLowerCase();
+  if(!k||seen.has(k))return false;seen.add(k);return true
+ })
 }
-
-function visibleData(){
-  const filtered = activeFilter === "TODO"
-    ? data
-    : data.filter(x => x.type === activeFilter);
-
-  return filtered.sort((a,b) => (b.time || 0) - (a.time || 0));
+function ageLabel(t){
+ if(!t)return "";
+ const d=Date.now()-t,m=Math.floor(d/60000);
+ if(m<1)return "ahora";
+ if(m<60)return "hace "+m+" min";
+ const h=Math.floor(m/60);
+ if(h<24)return "hace "+h+" h";
+ const days=Math.floor(h/24);
+ return days===1?"ayer":"hace "+days+" días"
 }
-
-function updateStatus(){
-  const visible = visibleData();
-
-  const noticias = data.filter(x => x.type === "NOTICIAS").length;
-  const oficial = data.filter(x => x.type === "OFICIAL").length;
-  const redes = data.filter(x => x.type === "REDES").length;
-
-  const redState = health.bluesky === false ? " ⚠️" : "";
-
-  status.textContent =
-    visible.length + " resultados" +
-    " · Noticias " + noticias +
-    " · Oficial " + oficial +
-    " · Redes " + redes + redState;
+function visible(){
+ const limit=Date.now()-hours*3600000;
+ return data.filter(x=>
+  (activeType==="TODO"||x.type===activeType)&&
+  (!x.time||x.time>=limit)
+ ).sort((a,b)=>(b.time||0)-(a.time||0))
 }
-
 function render(){
-  const visible = visibleData();
+ const a=visible();
+ const n=data.filter(x=>x.type==="NOTICIAS").length;
+ const r=data.filter(x=>x.type==="REDES").length;
+ const o=data.filter(x=>x.type==="OFICIAL").length;
 
-  if(!visible.length){
-    results.innerHTML =
-      '<div class="empty">Sin resultados para este filtro.</div>';
-    updateStatus();
-    return;
-  }
+ status.innerHTML=`<strong>${a.length}</strong> resultados para “${esc(currentTerm)}”`;
 
-  results.innerHTML = visible.slice(0,100).map(x => `
-    <a class="item"
-       href="${safe(safeUrl(x.url))}"
-       target="_blank"
-       rel="noopener noreferrer">
-      <div class="meta">
-        <span>${safe(x.source)}</span>
-        <span>${
-          x.time
-            ? new Date(x.time).toLocaleString("es-ES")
-            : ""
-        }</span>
-      </div>
+ stats.innerHTML=`<div class="stats">
+  <div class="stat"><b>${n}</b><span>Noticias</span></div>
+  <div class="stat"><b>${r}</b><span>Redes</span></div>
+  <div class="stat"><b>${o}</b><span>Oficial</span></div>
+ </div>`;
 
-      <div class="title">${safe(x.title)}</div>
+ if(!a.length){
+  results.innerHTML='<div class="empty"><div class="radar">◎</div><strong>Sin coincidencias</strong>Prueba otra palabra o amplía el periodo.</div>';
+  return
+ }
 
-      ${
-        x.desc
-          ? `<div class="desc">${safe(x.desc).slice(0,300)}</div>`
-          : ""
-      }
-    </a>
-  `).join("");
-
-  updateStatus();
+ results.innerHTML=a.slice(0,150).map(x=>{
+  let domain="";
+  try{domain=new URL(x.url).hostname.replace(/^www\./,"")}catch{}
+  return `<a class="result" href="${esc(validUrl(x.url))}" target="_blank" rel="noopener noreferrer">
+   <div class="topline">
+    <div class="source">${esc(x.source)} <span class="badge">${esc(x.type)}</span></div>
+    <div class="when">${ageLabel(x.time)}</div>
+   </div>
+   <div class="title">${esc(x.title)}</div>
+   ${x.desc?`<div class="desc">${esc(x.desc)}</div>`:""}
+   <div class="domain">${esc(domain)}</div>
+  </a>`
+ }).join("")
 }
 
 async function cloud(term){
-  try{
-    const r = await fetch(
-      "data/all.json?t=" + Date.now(),
-      {cache:"no-store"}
-    );
-
-    if(!r.ok) throw new Error("HTTP " + r.status);
-
-    const j = await r.json();
-    health.cloud = true;
-
-    return (j.items || [])
-      .map(x => ({
-        source: x.source || "AESF CLOUD",
-        type: x.type || "WEB",
-        title: x.title || "",
-        desc: x.description || x.desc || "",
-        url: x.url || "",
-        time: x.time ? Date.parse(x.time) : 0
-      }))
-      .filter(x => matches(x, term));
-
-  }catch(e){
-    health.cloud = false;
-    return [];
-  }
+ try{
+  const r=await fetch("data/all.json?t="+Date.now(),{cache:"no-store"});
+  if(!r.ok)throw 0;
+  const j=await r.json();
+  return (j.items||[]).map(x=>({
+   source:x.source||"AESF CLOUD",type:x.type||"WEB",
+   title:x.title||"",desc:x.description||x.desc||"",
+   author:x.author||"",url:x.url||"",
+   time:x.time?Date.parse(x.time):0
+  })).filter(x=>match(x,term))
+ }catch{return[]}
 }
-
-async function bluesky(term){
-  try{
-    const url =
-      "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=" +
-      encodeURIComponent(term) +
-      "&limit=50&sort=latest";
-
-    const r = await fetch(url);
-
-    if(!r.ok) throw new Error("HTTP " + r.status);
-
-    const j = await r.json();
-    health.bluesky = true;
-
-    return (j.posts || []).map(p => ({
-      source: "BLUESKY",
-      type: "REDES",
-      title: p.record?.text || "Publicación",
-      desc: "@" + (p.author?.handle || ""),
-      url:
-        "https://bsky.app/profile/" +
-        p.author.did +
-        "/post/" +
-        p.uri.split("/").pop(),
-      time: Date.parse(p.indexedAt)
-    }));
-
-  }catch(e){
-    health.bluesky = false;
-    return [];
-  }
-}
-
 async function diario(term){
-  try{
-    const r = await fetch(
-      "diario_ferrol.xml?t=" + Date.now(),
-      {cache:"no-store"}
-    );
-
-    if(!r.ok) throw new Error("HTTP " + r.status);
-
-    const xml = await r.text();
-    const doc = new DOMParser().parseFromString(xml, "text/xml");
-
-    health.diario = true;
-
-    return [...doc.querySelectorAll("item")]
-      .map(i => ({
-        source: "DIARIO DE FERROL",
-        type: "NOTICIAS",
-        title: i.querySelector("title")?.textContent || "",
-        desc:
-          (i.querySelector("description")?.textContent || "")
-          .replace(/<[^>]*>/g, " "),
-        url: i.querySelector("link")?.textContent || "",
-        time:
-          Date.parse(
-            i.querySelector("pubDate")?.textContent || ""
-          ) || 0
-      }))
-      .filter(x => matches(x, term));
-
-  }catch(e){
-    health.diario = false;
-    return [];
-  }
+ try{
+  const r=await fetch("diario_ferrol.xml?t="+Date.now(),{cache:"no-store"});
+  if(!r.ok)throw 0;
+  const doc=new DOMParser().parseFromString(await r.text(),"text/xml");
+  return [...doc.querySelectorAll("item")].map(i=>({
+   source:"DIARIO DE FERROL",type:"NOTICIAS",
+   title:i.querySelector("title")?.textContent||"",
+   desc:(i.querySelector("description")?.textContent||"").replace(/<[^>]*>/g," "),
+   url:i.querySelector("link")?.textContent||"",
+   time:Date.parse(i.querySelector("pubDate")?.textContent||"")||0
+  })).filter(x=>match(x,term))
+ }catch{return[]}
 }
-
 async function gdelt(term){
-  try{
-    const url =
-      "https://api.gdeltproject.org/api/v2/doc/doc?query=" +
-      encodeURIComponent(term) +
-      "&mode=artlist&maxrecords=50&sort=datedesc&format=json";
-
-    const r = await fetch(url);
-
-    if(!r.ok) throw new Error("HTTP " + r.status);
-
-    const j = await r.json();
-    health.gdelt = true;
-
-    return (j.articles || []).map(a => ({
-      source: "NOTICIAS · " + (a.domain || "GDELT"),
-      type: "NOTICIAS",
-      title: a.title || a.url,
-      desc: a.language || "",
-      url: a.url || "",
-      time: a.seendate
-        ? Date.parse(
-            a.seendate.replace(
-              /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/,
-              "$1-$2-$3T$4:$5:$6Z"
-            )
-          ) || 0
-        : 0
-    }));
-
-  }catch(e){
-    health.gdelt = false;
-    return [];
-  }
+ try{
+  const u="https://api.gdeltproject.org/api/v2/doc/doc?query="+encodeURIComponent(term)+"&mode=artlist&maxrecords=75&sort=datedesc&format=json";
+  const r=await fetch(u);if(!r.ok)throw 0;
+  const j=await r.json();
+  return (j.articles||[]).map(a=>({
+   source:a.domain||"GDELT",type:"NOTICIAS",title:a.title||"",
+   desc:a.language||"",url:a.url||"",
+   time:a.seendate?Date.parse(a.seendate.replace(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/,"$1-$2-$3T$4:$5:$6Z"))||0:0
+  }))
+ }catch{return[]}
+}
+async function bluesky(term){
+ try{
+  const u="https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q="+encodeURIComponent(term)+"&limit=50&sort=latest";
+  const r=await fetch(u);if(!r.ok)throw 0;
+  const j=await r.json();
+  return (j.posts||[]).map(p=>({
+   source:"BLUESKY",type:"REDES",title:p.record?.text||"Publicación",
+   desc:"@"+(p.author?.handle||""),author:p.author?.handle||"",
+   url:"https://bsky.app/profile/"+p.author.did+"/post/"+p.uri.split("/").pop(),
+   time:Date.parse(p.indexedAt)||0
+  }))
+ }catch{return[]}
 }
 
-document.querySelectorAll(".tab").forEach(tab => {
-  tab.addEventListener("click", () => {
-    document.querySelectorAll(".tab")
-      .forEach(t => t.classList.remove("active"));
+async function search(term){
+ currentTerm=term;
+ data=[];
+ stats.innerHTML="";
+ status.textContent='Buscando “'+term+'”…';
+ results.innerHTML='<div class="loading"><span class="pulse">●</span> Explorando fuentes…</div>';
 
-    tab.classList.add("active");
+ const jobs=[cloud(term),diario(term),gdelt(term),bluesky(term)];
+ jobs.forEach(job=>job.then(items=>{
+  data=unique([...data,...items]);
+  render()
+ }));
+ await Promise.allSettled(jobs);
+ render()
+}
 
-    const name = tab.textContent.trim();
-
-    activeFilter =
-      ["TODO","NOTICIAS","REDES","OFICIAL","WEB"].includes(name)
-        ? name
-        : "TODO";
-
-    render();
-  });
+document.getElementById("search").addEventListener("submit",e=>{
+ e.preventDefault();const t=q.value.trim();if(t)search(t)
 });
-
-document.getElementById("search")
-.addEventListener("submit", async e => {
-  e.preventDefault();
-
-  const term = q.value.trim();
-  if(!term) return;
-
-  currentTerm = term;
-  data = [];
-
-  health.cloud = null;
-  health.gdelt = null;
-  health.diario = null;
-  health.bluesky = null;
-
-  results.innerHTML =
-    '<div class="empty">Buscando información…</div>';
-
-  status.textContent =
-    'Buscando "' + term + '" en AESF RADAR…';
-
-  const searches = [
-    cloud(term),
-    gdelt(term),
-    diario(term),
-    bluesky(term)
-  ];
-
-  searches.forEach(p => {
-    p.then(items => {
-      data = dedupe([...data, ...items]);
-      render();
-    });
-  });
-
-  await Promise.allSettled(searches);
-
-  data = dedupe(data);
-  render();
+document.querySelectorAll(".type").forEach(el=>el.onclick=()=>{
+ document.querySelectorAll(".type").forEach(x=>x.classList.remove("active"));
+ el.classList.add("active");activeType=el.dataset.type;if(currentTerm)render()
+});
+document.querySelectorAll(".time").forEach(el=>el.onclick=()=>{
+ document.querySelectorAll(".time").forEach(x=>x.classList.remove("active"));
+ el.classList.add("active");hours=Number(el.dataset.hours);if(currentTerm)render()
 });
 </script>
 </body>
