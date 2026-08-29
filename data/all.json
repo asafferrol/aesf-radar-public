@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T00:57:09.812361+00:00",
-  "count": 188,
+  "generated_at": "2026-08-29T07:41:26.974868+00:00",
+  "count": 358,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -14,7 +14,7 @@
     },
     "boe": {
       "ok": true,
-      "count": 99,
+      "count": 167,
       "name": "BOE"
     },
     "youtube": {
@@ -25,6 +25,1626 @@
     }
   },
   "items": [
+    {
+      "title": "Poceros saturados por la demanda en Ferrolterra: «Hai xente desesperada porque non ten auga»",
+      "description": "La carga de trabajo se multiplica por la sequía y por temor a que la crisis climática se agrave, y los profesionales del sector escasean",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/29/poceros-saturados-demanda/0003_202608F29C1991.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Noia Campos e Requeixo Cuba intervirán no congreso de Ortigueira sobre Cunqueiro",
+      "description": "Ramón Villares non poderá acudir finalmente á cita, na que si estarán Martinho Montero, Jesús Blázquez e Carlos Breixo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/08/29/span-langglnoia-campos-requeixo-cuba-interviran-congreso-ortigueira-sobre-cunqueirospan/0003_202608F29C6991.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cerdido licita la compra de un tractor con desbrozadora y una retroexcavadora",
+      "description": "La Diputación le aporta al Concello 173.756, el 77,41 % del gasto total que supondrá esta adquisición",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/08/29/cerdido-compra-tractor-desbrozadora-retroexcavadora/0003_202608F29C6993.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "As Somozas destina 12.000 euros a ayudas para alumnos de todos los niveles",
+      "description": "El Concello subvenciona la compra de material escolar y los desplazamientos de los estudiantes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/08/29/as-somozas-destina-12000-euros-ayudas-alumnos-niveles/0003_202608F29C6992.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Eduardo Hermida, fundador de Las Meninas de Canino: «A diario pienso que el festival se me ha ido de las manos»",
+      "description": "El certamen celebra su mayoría de edad del 4 al 7 de septiembre mientras que su creador mira al futuro. «Mi sueño es llegar a la edición número 20 y que esto termine»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/eduardo-hermida-fundador-meninas-canino-diario-pienso-festival-me-ido-manos/00031787932237342599820.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Diputación aporta 450.000 euros para crear la nueva escuela infantil pública de Valdoviño",
+      "description": "El nuevo centro contará con más de 320 metros cuadrados y 45 plazas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/08/29/diputacion-aporta-450000-euros-crear-nueva-escuela-infantil-publica-valdovino/0003_202608F29C5991.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A Cultura toma a rúa en Ortigueira",
+      "description": "El ciclo llega este fin de semana a su final",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/28/cultura-toma-rua-ortigueira/00031787939694673832749.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Concilia Verán Mañón",
+      "description": "Más de 30 niños participaron en esta iniciativa del Concello",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/08/28/concilia-veran-manon/00031787941348886432416.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los mejores percebes y navajas de la ría de Ferrol, para degustar",
+      "description": "La sala Curuxeiras acogió el pasado jueves una jornada organizada por la Cofradía Pescadores de Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/29/mejores-percebes-navajas-ria-degustar/0003_202608F29C8992.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los que se resisten a la «fast fashion»: «Son prendas que no hay otras iguales»",
+      "description": "La segunda mano y los arreglos ganan terreno a la cultura de usar y tirar",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/29/resisten-fast-fashion-prendas-iguales/0003_202608F29C4993.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Román Rodríguez visita las obras del CPI As Mirandas, en Ares: « É un fito educativo »",
+      "description": "Las labores incluyen la ampliación del centro aresano, que suma más de 400 alumnos, y también una rehabilitación integral de las instalaciones ya existentes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/29/roman-rodriguez-visita-obras-cpi-as-mirandas-span-langgle-fito-educativospan/0003_202608F29C5992.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Noche de viernes a ritmo de electro latino en las fiestas de Ferrol",
+      "description": "Danny Romero, José de Rico y Henry Méndez protagonizaron el concierto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/28/noche-viernes-ritmo-electro-latino-fiestas-ferrol/00031787950732529287923.htm",
+      "time": "2026-08-29T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Ministerio para la Transición Ecológica licita por 5,5 millones las obras de restauración de las marismas de Mera, en Ortigueira",
+      "description": "El proyecto eliminará elementos artificiales que alteran el humedal, que es parte de Red Natura 2000",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/08/29/licitadas-55-millones-obras-restauracion-marismas-mera/0003_202608F29C3991.htm",
+      "time": "2026-08-29T02:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Sumario",
+      "description": "Sumario del diario núm. 213, correspondiente al sábado 29 de agosto de 2026. - Referencia: BOE-S-2026-213 - KBytes: 301",
+      "url": "https://www.boe.es/boe/dias/2026/08/29/",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Aplicación provisional del Acuerdo de sede entre el Reino de España y el Programa de las Naciones Unidas para el Desarrollo, hecho en Nueva York y Madrid el 13 y 16 de julio de 2026.",
+      "description": "I. Disposiciones generales - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Tratados internacionales - Referencia: BOE-A-2026-18280 - KBytes: 263 - Páginas: 12",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18280",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden PJC/904/2026, de 26 de agosto, por la que se modifica, en lo que respecta al uso de plomo en pastas de soldadura de alta temperatura de fusión, en componentes en vidrio o cerámica y como elemento de aleación en acero, aluminio y cobre, el anexo III del Real Decreto 219/2013, de 22 de marzo, sobre restricciones a la utilización de determinadas sustancias peligrosas en aparatos eléctricos y electrónicos.",
+      "description": "I. Disposiciones generales - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Aparatos eléctricos y electrónicos - Referencia: BOE-A-2026-18281 - KBytes: 237 - Páginas: 9",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18281",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Ley 4/2026, de 2 de julio, de Caza y Pesca de la Comunidad de Madrid.",
+      "description": "I. Disposiciones generales - COMUNIDAD DE MADRID - Caza y pesca - Referencia: BOE-A-2026-18282 - KBytes: 976 - Páginas: 113",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18282",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Ley 5/2026, de 7 de julio, de reconocimiento del concebido en la aplicación de las medidas de apoyo a la familia en la Comunidad de Madrid.",
+      "description": "I. Disposiciones generales - COMUNIDAD DE MADRID - Familia - Referencia: BOE-A-2026-18283 - KBytes: 216 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18283",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Acuerdo de 21 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Felipe Luis Moreno Gómez.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CONSEJO GENERAL DEL PODER JUDICIAL - Situaciones - Referencia: BOE-A-2026-18284 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18284",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución 430/38368/2026, de 5 de agosto, de la Secretaría de Estado de Defensa, por la que se dispone el cese del General de División del Cuerpo General del Ejército de Tierra don José Luis Murga Martínez como Secretario General del Instituto Nacional de Técnica Aeroespacial «Esteban Terradas».",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE DEFENSA - Ceses - Referencia: BOE-A-2026-18285 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18285",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 26 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de julio de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Destinos - Referencia: BOE-A-2026-18286 - KBytes: 202 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18286",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 26 de agosto de 2026, de la Secretaría de Estado de Economía y Apoyo a la Empresa, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de julio de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Destinos - Referencia: BOE-A-2026-18287 - KBytes: 202 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18287",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 20 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de junio de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Destinos - Referencia: BOE-A-2026-18288 - KBytes: 201 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18288",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 26 de agosto de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, del Cuerpo Superior de Vigilancia Aduanera, especialidades de Investigación, Navegación y Propulsión.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA - Nombramientos - Referencia: BOE-A-2026-18289 - KBytes: 243 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18289",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 26 de agosto de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, del Cuerpo Técnico de Hacienda.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA - Nombramientos - Referencia: BOE-A-2026-18290 - KBytes: 1981 - Páginas: 54",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18290",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden de 31 de julio de 2026, del Departamento de Justicia y Derechos Humanos, por la que se otorga destino al personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - COMUNIDAD AUTÓNOMA DEL PAÍS VASCO - Destinos - Referencia: BOE-A-2026-18291 - KBytes: 223 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18291",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden de 31 de julio de 2026, del Departamento de Justicia y Derechos Humanos, por la que se otorga destino al personal funcionario del Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, que superó el proceso extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - COMUNIDAD AUTÓNOMA DEL PAÍS VASCO - Destinos - Referencia: BOE-A-2026-18292 - KBytes: 212 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18292",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden de 31 de julio de 2026, del Departamento de Justicia y Derechos Humanos, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - COMUNIDAD AUTÓNOMA DEL PAÍS VASCO - Destinos - Referencia: BOE-A-2026-18293 - KBytes: 226 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18293",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Gijón (Asturias), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18294 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18294",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Gijón (Asturias), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18295 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18295",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18296 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18296",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18297 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18297",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18298 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18298",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Villavieja del Lozoya (Madrid), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18299 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18299",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 24 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en la República Popular de China y Banco de Sabadell, SA, para la celebración de la Fiesta Nacional de España.",
+      "description": "III. Otras disposiciones - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Convenios - Referencia: BOE-A-2026-18300 - KBytes: 218 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18300",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución 164/38369/2026, de 21 de agosto, de la Jefatura de la Unidad Militar de Emergencias, por la que se publica el Acuerdo de encomienda de gestión con el Instituto Nacional de Técnica Aeroespacial «Esteban Terradas», para la realización de actividades de carácter material y técnico.",
+      "description": "III. Otras disposiciones - MINISTERIO DE DEFENSA - Encomienda de gestión - Referencia: BOE-A-2026-18301 - KBytes: 239 - Páginas: 9",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18301",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 21 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con la Universidad Internacional de La Rioja, para la realización del Prácticum en los centros educativos dependientes del Ministerio en Ceuta, de los alumnos que cursen el Grado de Maestro en Educación Primaria, el Grado de Maestro en Educación Infantil, el Máster Universitario en formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas, y estudios conducentes a la obtención del Certificado Oficial en Formación Pedagógica y Didáctica para Técnicos de Formación Profesional.",
+      "description": "III. Otras disposiciones - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Convenios - Referencia: BOE-A-2026-18302 - KBytes: 347 - Páginas: 13",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18302",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 8 de julio de 2026, de la Dirección General de Política Energética y Minas, por la que se corrigen errores en la de 20 de abril de 2023, por la que se otorga a Elawan Energy Olmedo 3, SL, autorización administrativa previa para la instalación fotovoltaica «Elawan Olmedo III», de 50,064 MW de potencia instalada, y sus infraestructuras de evacuación, en el término municipal de Ramiro, en la provincia de Valladolid.",
+      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Instalaciones eléctricas - Referencia: BOE-A-2026-18303 - KBytes: 193 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18303",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 21 de agosto de 2026, de la Dirección General de Agenda Urbana y Arquitectura, por la que se publica el Convenio con la Ciudad de Ceuta, para financiar y ejecutar las obras de rehabilitación del Almacén de Abastos de Ceuta.",
+      "description": "III. Otras disposiciones - MINISTERIO DE VIVIENDA Y AGENDA URBANA - Ciudad de Ceuta. Convenio - Referencia: BOE-A-2026-18304 - KBytes: 279 - Páginas: 11",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18304",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 20 de agosto de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con el Instituto de Investigaciones Marinas, la Asociación de Marisqueo a Flote Ría de Vigo, el Instituto Tecnoloxico para o control do Medio Mariño de Galicia y la Universidade de Vigo, para la realización conjunta del proyecto de I+D+i «Estudio de los factores biológicos que afectan a la acumulación de plomo en volandeira, y de la dispersión y origen del plomo en los bancos marisqueros a lo largo de la Ría de Vigo (Volaria)».",
+      "description": "III. Otras disposiciones - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Comunidad Autónoma de Galicia. Convenio - Referencia: BOE-A-2026-18305 - KBytes: 269 - Páginas: 12",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18305",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de agosto de 2026, del Banco de España, por la que se publican los cambios del euro correspondientes al día 28 de agosto de 2026, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+      "description": "III. Otras disposiciones - BANCO DE ESPAÑA - Mercado de divisas - Referencia: BOE-A-2026-18306 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18306",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ALCOY",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28014 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28014",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ARENAS S PEDRO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28015 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28015",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ARENAS S PEDRO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28016 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28016",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "AREVALO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28017 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28017",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "AVILES",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28018 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28018",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "AVILES",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28019 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28019",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "BENAVENTE",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28020 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28020",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "BRIVIESCA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28021 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28021",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CAZORLA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28022 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28022",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CERDANYOLA DEL VALLES",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28023 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28023",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CERVERA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28024 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28024",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "COLLADO VILLALBA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28025 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28025",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "COLLADO VILLALBA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28026 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28026",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "EL VENDRELL",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28027 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28027",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "EL VENDRELL",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28028 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28028",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "GRAU/GRADO-GRADO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28029 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28029",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ILLESCAS",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28030 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28030",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MIERES",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28031 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28031",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MOLLET DEL VALLES",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28032 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28032",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORGAZ",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28033 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28033",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "PICASSENT",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28034 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28034",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "POSADAS",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28035 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28035",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "POSADAS",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28036 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28036",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TALAVERA DE LA REINA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28037 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28037",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TORO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28038 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28038",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "VALDEMORO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28039 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28039",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "BADAJOZ",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28040 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28040",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "BILBAO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28041 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28041",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CASTELLON DE LA PLANA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28042 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28042",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CASTELLON DE LA PLANA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28043 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28043",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CORDOBA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28044 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28044",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CORDOBA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28045 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28045",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CORDOBA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28046 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28046",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ELX",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28047 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28047",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ELX",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28048 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28048",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "HUELVA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28049 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28049",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "IBIZA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28050 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28050",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "JAEN",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28051 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28051",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "JAEN",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28052 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28052",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "LLEIDA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28053 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28053",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MATARO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28054 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28054",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "OVIEDO",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28055 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28055",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "PALMA DE MALLORCA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28056 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28056",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "REUS",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28057 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28057",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "SANTA CRUZ DE TENERIFE",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28058 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28058",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "SEVILLA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28059 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28059",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TERRASSA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28060 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28060",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TORREMOLINOS",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28061 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28061",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TORREVIEJA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28062 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28062",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TORREVIEJA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28063 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28063",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TORREVIEJA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28064 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28064",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TORREVIEJA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28065 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28065",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "TORREVIEJA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28066 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28066",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ZARAGOZA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28067 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28067",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ZARAGOZA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28068 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28068",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ZARAGOZA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28069 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28069",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "GIJON/XIXON-GIJON",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE FAMILIA, INFANCIA Y CAPACIDAD - Referencia: BOE-B-2026-28070 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28070",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "BARCELONA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO MERCANTIL - Referencia: BOE-B-2026-28071 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28071",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "GIRONA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO MERCANTIL - Referencia: BOE-B-2026-28072 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28072",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "GIRONA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO MERCANTIL - Referencia: BOE-B-2026-28073 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28073",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "PALMA DE MALLORCA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO MERCANTIL - Referencia: BOE-B-2026-28074 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28074",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ALMANSA",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN/JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN - Referencia: BOE-B-2026-28075 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28075",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "LINARES",
+      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN/JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN - Referencia: BOE-B-2026-28076 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28076",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MURCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28077 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28077",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MURCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28078 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28078",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MURCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28079 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28079",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MURCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28080 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28080",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "MURCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28081 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28081",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "VALENCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28082 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28082",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "VALENCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28083 - KBytes: 193 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28083",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "VALENCIA",
+      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28084 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28084",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28085 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28085",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS CANTABRIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28086 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28086",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS CANTABRIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28087 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28087",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS CANTABRIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28088 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28088",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS CANTABRIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28089 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28089",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28090 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28090",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28091 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28091",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28092 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28092",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28093 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28093",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28094 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28094",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28095 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28095",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28096 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28096",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28097 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28097",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28098 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28098",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28099 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28099",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28100 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28100",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS BALEARES",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28101 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28101",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28102 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28102",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28103 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28103",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28104 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28104",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28105 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28105",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28106 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28106",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28107 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28107",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28108 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28108",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MURCIA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28109 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28109",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS CATALUÑA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28110 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28110",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28111 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28111",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28112 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28112",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28113 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28113",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28114 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28114",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28115 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28115",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28116 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28116",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28117 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28117",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28118 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28118",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28119 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28119",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS CATALUÑA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28120 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28120",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28121 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28121",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28122 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28122",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28123 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28123",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28124 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28124",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28125 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28125",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28126 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28126",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28127 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28127",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28128 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28128",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28129 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28129",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28130 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28130",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28131 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28131",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28132 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28132",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28133 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28133",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28134 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28134",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28135 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28135",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28136 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28136",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28137 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28137",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28138 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28138",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28139 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28139",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28140 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28140",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28141 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28141",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28142 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28142",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28143 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28143",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28144 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28144",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28145 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28145",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28146 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28146",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28147 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28147",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28148 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28148",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "U.R. SUBASTAS MADRID",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-28149 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28149",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Subdirección General de Energía Eléctrica por el que se da publicidad a la Resolución por la que se finalizan los procedimientos de extinción de la habilitación para el ejercicio de la actividad de comercialización de energía eléctrica a la empresa Holaluz-Clidom, S.A. (R2-408) y de traspaso de sus clientes a un comercializador de referencia, y se acuerda el archivo de los mismos.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28150 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28150",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DIRECCIÓN GENERAL DE PRESUPUESTOS Y PATRIMONIO DEL GOBIERNO DE NAVARRA",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - COMUNIDAD FORAL DE NAVARRA - Referencia: BOE-B-2026-28151 - KBytes: 195 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28151",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "GESTION TRIBUTARIA PROVINCIAL ALBACETE",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - ADMINISTRACIÓN LOCAL - Referencia: BOE-B-2026-28152 - KBytes: 194 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28152",
+      "time": "2026-08-28T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
     {
       "title": "El Abanca Pantín Classic se traslada por unas horas a la alfombra roja",
       "description": "Marlon Lipke y Leticia Canales, los premiados en la Gala Genuines by Jael: «Venir aquí es venir a casa. Creo que fue el primer campeonato en el que hice una final internacional», señaló la vizcaína",
@@ -310,6 +1930,15 @@
       "title": "Pontón reclama en Cariño que a Xunta invista dous millóns en cinco anos no Xeoparque Cabo Ortegal",
       "description": "A portavoz nacional do BNG defende que esta iniciativa «ten que ser unha ferramenta de desenvolvemento que permita dar un maior apoio á economía local»",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/carino/2026/08/28/span-langglponton-reclama-carino-xunta-invista-dous-millons-xeoparque-span/0003_202608F28C6993.htm",
+      "time": "2026-08-28T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Indiegentes llama al «sold out» en La Room de Ferrol: «A ver si hacemos otro lleno»",
+      "description": "La banda de versiones «indie» rock quiere sumarse con la venta de entradas a la campaña de la sala por mantenerse abierta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/indiegentes-llama-sold-out-room-ver-hacemos-lleno/0003_202608F28C2992.htm",
       "time": "2026-08-28T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -1667,105 +3296,6 @@
       "type": "REDES",
       "network": "youtube",
       "author": "🔥 دروب العالم | World Trails"
-    },
-    {
-      "title": "La factura millonaria de las fiestas de Ferrol: esto es lo que cuesta cada espectáculo del programa",
-      "description": "El Concello aporta este año más de 660.000 euros a un programa que la Xunta completó con cuatro grandes conciertos por otros 400.000",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/27/factura-millonaria-fiestas/0003_202608F27C3991.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una jornada convertirá a Ferrol en el epicentro de la sostenibilidad empresarial",
-      "description": "AJE, Repsol y Ceaje organizan el 8 de septiembre en Exponav un encuentro para dar claves sobre la transición ecológica",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/27/jornada-convertira-ferrol-epicentro-sostenibilidad-empresarial/0003_202608F27C2994.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En tractor para llevar agua a viviendas de A Capela: «Ninguén recorda o pozo seco»",
-      "description": "El Concello habilita cuatro puntos de abastecimiento para vecinos de la zona rural que no disponen de traída pública",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/a-capela/2026/08/27/tractores-dar-agua-capela/0003_202608F27C1991.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Fene mejora el paseo de San Valentín",
-      "description": "Las tareas consisten en la reparación y acondicionamiento de la pavimentación de losa de una de las zonas más transitadas del municipio",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/08/27/fene-mejora-paseo-san-valentin/0003_202608F27C5992.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Valdoviño reordena el tráfico en Pantín durante el campeonato de surf",
-      "description": "Las medidas estarán en vigor desde este jueves hasta el domingo 30",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/08/27/valdovino-reordena-trafico-pantin-durante-campeonato-surf/0003_202608F27C5995.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Todos los bocatas que caben en Ferrol",
-      "description": "Los clásicos conviven con propuestas más atrevidas en los locales de la ciudad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/27/bocatas-caben-ferrol-tortilleros-mar-pan-clasicos/0003_202608F27C8993.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La retirada de amianto del Sofía Casanova se amplía a todo el recinto",
-      "description": "Las obras avanzan según lo previsto y no retrasarán la vuelta a las clases",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/26/retirada-amianto-sofia-casanova-amplia-recinto/00031787761898896488383.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Jimmy Go lleva a Ferrol su reto «Romper el Silencio», que busca sensibilizar sobre el suicidio",
-      "description": "El desafio contempla realizar una maratón diaria, unos 3.953 kilómetros, uno por cada persona que murió por suicidio en España en 2024",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/26/jimmy-go-lleva-ferrol-reto-romper-silencio-busca-sensibilizar-sobre-suicidio/00031787762264951104592.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Malla de Os Casás, el día 29 en esta parroquia de Cerdido",
-      "description": "Habrá comida popular, con un menú por 26 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/08/27/malla-os-casas-dia-29-parroquia-cerdido/0003_202608F27C6994.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Olimpíadas Rurais de Couzadoiro, o 12 de setembro",
-      "description": "O día 9 remata o prazo para reservar praza no xantar",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/08/27/span-langglcouzadoiro-vai-volver-olimpicospan/0003_202608F27C6993.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El feirón regresará este domingo a Valdoviño",
-      "description": "Los vendedores ambulantes instalarán sus puestos en la explanada situada frente a la casa Joselito, en el corazón de Porta do Sol",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/08/27/feiron-regresara-domingo-valdovino/0003_202608F27C5994.htm",
-      "time": "2026-08-27T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
