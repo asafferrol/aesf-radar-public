@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T18:58:15.965530+00:00",
-  "count": 187,
+  "generated_at": "2026-08-29T00:57:09.812361+00:00",
+  "count": 188,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -20,10 +20,20 @@
     "youtube": {
       "ok": true,
       "count": 0,
-      "name": "YouTube"
+      "name": "YouTube",
+      "skipped": true
     }
   },
   "items": [
+    {
+      "title": "El Abanca Pantín Classic se traslada por unas horas a la alfombra roja",
+      "description": "Marlon Lipke y Leticia Canales, los premiados en la Gala Genuines by Jael: «Venir aquí es venir a casa. Creo que fue el primer campeonato en el que hice una final internacional», señaló la vizcaína",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/28/abanca-pantin-classic-traslada-horas-alfombra-roja/00031787932816554568152.htm",
+      "time": "2026-08-28T20:30:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Regresar al fútbol profesional, la gran esperanza del Racing de Ferrol y de su afición",
       "description": "El nuevo proyecto verde arranca en el País Vasco frente al Arenas",
