@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 351,
+  "count": 347,
   "items": [
+    {
+      "title": "Pantín, el «anfiteatro natural» que nunca falla al surf de élite",
+      "description": "Las condiciones del arenal, que acogió más de medio centenar de mangas en un solo día, son un seguro de vida para culminar el evento este domingo",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/29/pantin-anfiteatro-natural-nunca-falla-surf-elite/00031788010539416885896.htm",
+      "time": "2026-08-29T14:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Poceros saturados por la demanda en Ferrolterra: «Hai xente desesperada porque non ten auga»",
       "description": "La carga de trabajo se multiplica por la sequía y por temor a que la crisis climática se agrave, y los profesionales del sector escasean",
@@ -3143,59 +3152,6 @@
       "type": "REDES",
       "network": "youtube",
       "author": "AM Inmobiliaria"
-    },
-    {
-      "title": "Primeiras sesions de adestramento tempada 26/27",
-      "description": "Primeiras sesions de adestramento tempada 26/27.",
-      "url": "https://www.youtube.com/watch?v=1icYGdpdTO0",
-      "time": "2026-08-27T16:44:19Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "BAXI Ferrol"
-    },
-    {
-      "title": "Celtas Cortos at Plaza de Armas, Ferrol [LIVE] 8/26/2026 (En Vevo)",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=M0Q9dmymTIc",
-      "time": "2026-08-27T16:28:03Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "kda0b - streamzlive"
-    },
-    {
-      "title": "El pequeño pueblo que se esconde entre A Coruña y Ferrol 👀",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=B6Btb5H7Rbc",
-      "time": "2026-08-27T16:01:48Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "YolandaSbarbosa "
-    },
-    {
-      "title": "Un rayo tronza un árbol junto a una vivienda de Caamouco, en Ares: «Van los vecinos a verlo en procesión»",
-      "description": "Arrancó el tejo, de unos 30 años, pese a tener un pararrayos a apenas cien metros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/08/27/rayo-tronza-arbol-junto-vivienda-caamouco-ares-van-vecinos-verlo-procesion/00031787844335970671525.htm",
-      "time": "2026-08-27T15:44:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "RUBÉN SANTÁS - DAVID FERREIRA | BMW M3 E36 | RALLYE DE FERROL 2026",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=74juchAQQ5Q",
-      "time": "2026-08-27T14:26:56Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "MS VIDEO"
     }
   ]
 }
