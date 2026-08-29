@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 347,
+  "count": 346,
   "items": [
+    {
+      "title": "El «1x1» del Racing de Ferrol en casa del Arenas de Getxo",
+      "description": "El canario Dani Ojeda, aunque no marcó, mostró su desborde por la banda",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/29/1x1-racing-ferrol-casa-arenas-getxo/00031788029502291677356.htm",
+      "time": "2026-08-29T19:01:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Arena en el ojo para el Racing Club Ferrol, que empata en Fadura (1-1)",
+      "description": "Arroyó sacó tajada de una gran conducción de Ojeda en la primera mitad de un duelo en el que los de Javi Vázquez se encerraron y acabaron sucumbiendo en el minuto 90",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/29/racing-arenas/00031788018354783376358.htm",
+      "time": "2026-08-29T18:26:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Pantín, el «anfiteatro natural» que nunca falla al surf de élite",
       "description": "Las condiciones del arenal, que acogió más de medio centenar de mangas en un solo día, son un seguro de vida para culminar el evento este domingo",
@@ -3121,37 +3139,6 @@
       "type": "REDES",
       "network": "youtube",
       "author": "Hagataka Racing"
-    },
-    {
-      "title": "INFORMATIVO 27 08 2026  JUEVES",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=A3P5pas_-Qs",
-      "time": "2026-08-27T19:00:06Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "Televisión Ferrol ( canal 34)"
-    },
-    {
-      "title": "La china SAIC tiene aún unos 270 coches en la explanada de Caneliñas",
-      "description": "El buque Anji Forever trajo 700 automóviles a principios de julio",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/28/china-saic-270-coches-explanada-canelinas/0003_202608F28C3991.htm",
-      "time": "2026-08-27T18:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "OPORTUNIDAD EN FERROL (CENTRO)",
-      "description": "CENTRO‼️ #Piso en #Venta en la zona del #Centro en #Ferrol   Superficie 60m2 1 Habitación 1 Baño completo ...",
-      "url": "https://www.youtube.com/watch?v=HCUUGtrXL3o",
-      "time": "2026-08-27T18:04:46Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "AM Inmobiliaria"
     }
   ]
 }
