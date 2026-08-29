@@ -1,5 +1,41 @@
 [
   {
+    "title": "Javi Vázquez: «En la segunda parte nos faltó el balón»",
+    "description": "El entrenador del Racing también lamenta las ocasiones perdidas de hacer un segundo tanto",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/30/segunda-parte-falto-balon/0003_202608F30P40993.htm",
+    "time": "2026-08-29T20:42:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Así se vivieron las tablas en el estreno del Racing Club Ferrol",
+    "description": "Fadura se tiñó de verde y los jugadores agradecieron el aliento pese al revés en forma de empate en el 90",
+    "url": "https://www.lavozdegalicia.es/album/oparacing/2026/08/29/vivieron-tablas-estreno-racing-club-ferrol/01101788035988184926635.htm",
+    "time": "2026-08-29T20:41:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "O Parrulo Ferrol cae derrotado frente al Burela en A Malata (2-4)",
+    "description": "Yan Mattheus puso el 2-3 en el 33 y la busca del empate derivó en el último gol visitante en este choque amistoso de los de Casas",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/29/parrulo-ferrol-cae-derrotado-frente-burela-malata-2-4/00031788034901918252730.htm",
+    "time": "2026-08-29T20:27:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Roberto Arroyo inaugura su cuenta goleadora",
+    "description": "El Racing de Ferrol hizo nueve remates, cinco de ellos entre los tres palos",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/30/roberto-arroyo-inaugura-cuenta/0003_202608F30P40992.htm",
+    "time": "2026-08-29T19:42:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "El «1x1» del Racing de Ferrol en casa del Arenas de Getxo",
     "description": "El canario Dani Ojeda, aunque no marcó, mostró su desborde por la banda",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/29/1x1-racing-ferrol-casa-arenas-getxo/00031788029502291677356.htm",
@@ -135,37 +171,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El Abanca Pantín Classic se traslada por unas horas a la alfombra roja",
-    "description": "Marlon Lipke y Leticia Canales, los premiados en la Gala Genuines by Jael: «Venir aquí es venir a casa. Creo que fue el primer campeonato en el que hice una final internacional», señaló la vizcaína",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/28/abanca-pantin-classic-traslada-horas-alfombra-roja/00031787932816554568152.htm",
-    "time": "2026-08-28T20:30:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Vallan un edificio de Esteiro, en Ferrol, por el mal estado de una galería",
     "description": "Se trata del número 32 de la calle Fernando VI",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/28/vallan-edificio-esteiro-ferrol-mal-estado-galeria/00031787914041843729994.htm",
     "time": "2026-08-28T11:27:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El salto de Pablo Mera: del bronce europeo al primer equipo del Real Madrid",
-    "description": "El ferrolano ha sido convocado para el amistoso de este sábado ante el Río Breogán",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/28/pablo-mera-bronce-europeo-espana-entrenar-primer-equipo-real-madrid/00031787913809673663680.htm",
-    "time": "2026-08-28T11:10:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Javi Vázquez: «Hay equipo para competir como animales, nos dejaremos la vida en cada partido»",
-    "description": "El técnico del Racing pide hacer borrón y cuenta nueva con lo sucedido en la pasada campaña",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/28/javi-vazquez-equipo-competir-animales-dejaremos-vida-partido/00031787912519703976444.htm",
-    "time": "2026-08-28T10:33:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -183,15 +192,6 @@
     "title": "Indiegentes llama al «sold out» en La Room de Ferrol: «A ver si hacemos otro lleno»",
     "description": "La banda de versiones «indie» rock quiere sumarse con la venta de entradas a la campaña de la sala por mantenerse abierta",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/indiegentes-llama-sold-out-room-ver-hacemos-lleno/0003_202608F28C2992.htm",
-    "time": "2026-08-28T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "A Malata, el plan B de la cubierta y el reto de competir a cielo abierto para el Racing Club Ferrol",
-    "description": "El presidente del club, la responsable de Urbanismo y la dirección de obra explican los motivos de seguridad que alteraron la demolición parcial de la envolvente, que se acometió de manera continuada",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/27/malata-plan-b-cubierta-reto-competir-cielo-abierto-racing-club-ferrol/00031787857184361357285.htm",
     "time": "2026-08-28T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
