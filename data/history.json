@@ -1,7 +1,124 @@
 {
   "hours": 48,
-  "count": 218,
+  "count": 219,
   "items": [
+    {
+      "title": "Los precios de la vivienda en Ferrolterra, de vértigo: «Y se vende todo lo que hay»",
+      "description": "Pontedeume, Cabanas y Ares, el triángulo de oro por la cercanía de la ciudad de A Coruña y la escasa oferta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/08/30/precios-vivienda-desbocan/0003_202608F30C2991.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Desierta la contratación de la caseta de socorrismo portátil de Doniños, en Ferrol",
+      "description": "El gobierno local deberá abrir una nueva licitación",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/desierta-contratacion-caseta-socorrismo-portatil-doninos/0003_202608F30C4993.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol se une a la convocatoria de la FEMP en apoyo a Ceuta",
+      "description": "La concentración será el día 2 de septiembre a las 20.00 horas en la plaza de Armas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/ferrol-une-convocatoria-femp-apoyo-ceuta/0003_202608F30C2994.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Once municipios del área de Ferrol se benefician de ayudas del Fondo de Compensación Ambiental",
+      "description": "Se trata de As Somozas, A Capela, Cariño, Cedeira, Mañón, Monfero, Narón, Ortigueira, As Pontes, San Sadurniño y Valdoviño",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/30/once-municipios-area-benefician-ayudas-fondo-compensacion-ambiental/0003_202608F30C2995.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Narón ofrece dos ediciones de un curso de operador de carretillas",
+      "description": "Tendrán una duración de 50 horas y en cada uno se ofrecerán diez plazas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/08/30/naron-ofrece-dos-ediciones-curso-operador-carretillas/0003_202608F30C5992.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ratas en San Pablo por las obras",
+      "description": "Vecinos del barrio denuncian la proliferación de roedores y reclaman medidas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/30/ratas-san-pablo-obras/0003_202608F30C1991.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Empieza un curso con «los mismos deberes» en materia ferroviaria en Ferrolterra",
+      "description": "El verano ha estado marcado por las constantes incidencias en las vías",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/30/empieza-curso-deberes-materia-ferroviaria/0003_202608F30C6991.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Lugnasad de Cedeira reunió a parejas de todo el país",
+      "description": "Fueron recibidas en la plaza da Laranxeira por el alcalde",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/08/30/san-sadurnino-presume-mejores-productos/0003_202608F30C8992.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Concentración de coches clásicos en el Cantón",
+      "description": "Luego hicieron un recorrido por la costa",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/29/concentracion-coches-clasicos-canton/00031788030337823823739.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El espectáculo de drones y los fuegos de San Ramón se podrán seguir en «streaming»",
+      "description": "Se retransmitirá en directo a través del canal oficial del Ayuntamiento de Ferrol en YouTube",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/espectaculo-drones-fuegos-san-ramon-podran-seguir-streaming/0003_202608F30C2993.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A Festa do Pan de Neda regresa o 6 de setembro con empanadas e doces",
+      "description": "O Concello presentou o pasado venres a programación desta edición",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/08/30/festa-do-pan-neda-regresa-6-setembro-empanadas-doces/0003_202608F30C6992.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De cambiar rutinas a evitar dramas: las claves para preparar la vuelta al cole",
+      "description": "Dos profesionales de la educación reuelven las dudas más frecuentes",
+      "url": "https://www.lavozdegalicia.es/noticia/educacion/2026/08/29/cambiar-rutinas-evitar-dramas-claves-preparar-vuela-cole/00031787997167825508335.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "San Sadurniño presume de sus mejores productos en su Feira Rural",
+      "description": "Numerosas personas se acercaron a A Cortiña pese a la jornada desapacible",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/08/29/san-sadurnino-presume-mejores-productos-feira-rural/00031788030038788152538.htm",
+      "time": "2026-08-30T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Javi Vázquez: «En la segunda parte nos faltó el balón»",
       "description": "El entrenador del Racing también lamenta las ocasiones perdidas de hacer un segundo tanto",
@@ -1875,114 +1992,6 @@
       "type": "REDES",
       "network": "youtube",
       "author": "Arenas Club de Getxo"
-    },
-    {
-      "title": "El pleno de Ferrol aprueba nuevas tarifas para los nichos con el rechazo de la oposición",
-      "description": "El gobierno local defendió la actualización tras la ampliación del cementerio mientras la izquierda pidió bonificaciones y alertó del riesgo de privatización",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/pleno-aprueba-nuevas-tarifas-nichos-rechazo-oposicion/0003_202608F28C1991.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Quinto crucero del mes en el puerto de Ferrol",
-      "description": "El Azamara Quest llegaba a las 13.00 de este jueves a Curuxeiras",
-      "url": "https://www.lavozdegalicia.es/noticia/vigo/vigo/2026/08/28/quinto-crucero-mes-puerto/0003_202608F28C3992.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Showcooking» de percebes y una degustación de navajas en la sala Curuxeiras de Ferrol",
-      "description": "El convite corrió a cargo de la cofradía de pescadores",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/showcooking-percebes-degustacion-navajas-sala-curuxeiras/0003_202608F28C3995.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La actuación de la París de Noia en las fiestas de Ferrol se adelanta a las 20.30 horas",
-      "description": "La actuación tendrá lugar el día 31 de agosto y participará también La Misión",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/programacion-actuacion-paris-noia-adelanta-2030-horas/0003_202608F28C2994.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las emprendedoras de Ferrol se deshacen en regalos para las protagonistas de las fiestas: «Con estas artistas me crie»",
-      "description": "Vanesa Martín y Leire Martínez fueron algunas de las artistas agasajadas por The Vecina, Verónica Castro o Biquiños Doces",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/emprendedoras-deshacen-regalos-artistas-me-crie/0003_202608F28C2991.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Xeoparque Cabo Ortegal xa ten meteorólogo, que publica unha predición diaria da zona: «Para a semana volve o bo tempo»",
-      "description": "José Manuel Sierra, Chema de Couzadoiro, o home do tempo da comarca, comezou este xoves cos boletíns a través da páxina web",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/08/28/span-langgl-xeoparque-cabo-ortegal-xa-ten-meteorologo-publica-unha-predicion-diaria-da-zonaspan/0003_202608F28C6991.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Andrés Rodríguez, profesor de instituto y músico: «La música ahorra mucho psicólogo»",
-      "description": "Este rockero prepara su primer disco en solitario con otro estilo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/28/musica-ahorra-psicologo-estilo-canciones-proximamente/0003_202608F28C8993.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El campo se exhibe este sábado en la Feira Rural de San Sadurniño",
-      "description": "La cita regresará a A Cortiña y contará con 65 puestos y nuevas ofertas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/08/27/campo-exhibe-san-sadurnino-sabado/00031787846777667679977.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol bailó al son de bandurrias y guitarras eléctricas con las rondallas y Rock en Canido",
-      "description": "Este jueves la música fue la protagonista del programa festivo de la urbe",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/ferrol-bailo-bandurrias-guitarras-electricas-rondallas-rock-canido/0003_202608F28C2995.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A Malata, el plan B de la cubierta y el reto de competir a cielo abierto para el Racing Club Ferrol",
-      "description": "El presidente del club, la responsable de Urbanismo y la dirección de obra explican los motivos de seguridad que alteraron la demolición parcial de la envolvente, que se acometió de manera continuada",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/27/malata-plan-b-cubierta-reto-competir-cielo-abierto-racing-club-ferrol/00031787857184361357285.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Pontón reclama en Cariño que a Xunta invista dous millóns en cinco anos no Xeoparque Cabo Ortegal",
-      "description": "A portavoz nacional do BNG defende que esta iniciativa «ten que ser unha ferramenta de desenvolvemento que permita dar un maior apoio á economía local»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/carino/2026/08/28/span-langglponton-reclama-carino-xunta-invista-dous-millons-xeoparque-span/0003_202608F28C6993.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Indiegentes llama al «sold out» en La Room de Ferrol: «A ver si hacemos otro lleno»",
-      "description": "La banda de versiones «indie» rock quiere sumarse con la venta de entradas a la campaña de la sala por mantenerse abierta",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/28/indiegentes-llama-sold-out-room-ver-hacemos-lleno/0003_202608F28C2992.htm",
-      "time": "2026-08-28T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
