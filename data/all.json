@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:24:16.850346+00:00",
+  "generated_at": "2026-08-30T21:18:45.202204+00:00",
   "count": 204,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Sierra Kerr y Ryan Kainalo escriben sus nombres en el libro de oro de Pantín",
+      "description": "La australiana y el brasileño se proclamaron campeones de la 39 edición",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/30/sierra-kerr-ryan-kainalo-escriben-nombres-libro-oro-pantin/00031788114110381788845.htm",
+      "time": "2026-08-30T19:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un primer punto con sabor agridulce",
       "description": "La defensa en bloque bajo del Racing de Ferrol propició la pérdida del balón y que el Arenas llegará arriba con peligro hasta empatar el choque",
@@ -1851,15 +1860,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Abanca Pantín Classic se traslada por unas horas a la alfombra roja",
-      "description": "Marlon Lipke y Leticia Canales, los premiados en la Gala Genuines by Jael: «Venir aquí es venir a casa. Creo que fue el primer campeonato en el que hice una final internacional», señaló la vizcaína",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/28/abanca-pantin-classic-traslada-horas-alfombra-roja/00031787932816554568152.htm",
-      "time": "2026-08-28T20:30:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
