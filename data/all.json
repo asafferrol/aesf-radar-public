@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T14:56:22.213561+00:00",
-  "count": 207,
+  "generated_at": "2026-08-30T18:24:16.850346+00:00",
+  "count": 204,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Un primer punto con sabor agridulce",
+      "description": "La defensa en bloque bajo del Racing de Ferrol propició la pérdida del balón y que el Arenas llegará arriba con peligro hasta empatar el choque",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/31/primer-punto-sabor-agridulce/0003_202608F31P23991.htm",
+      "time": "2026-08-30T18:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El Club de Remo de Ares tendrá que disputar el «playoff» de permanencia en la ACT",
       "description": "Chapela desciende y competirá la próxima temporada en la Liga Galega",
@@ -1851,46 +1860,6 @@
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
-    },
-    {
-      "title": "Regresar al fútbol profesional, la gran esperanza del Racing de Ferrol y de su afición",
-      "description": "El nuevo proyecto verde arranca en el País Vasco frente al Arenas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/29/regresar-futbol-profesional-gran-esperanza-racing-aficionunai-ropero-alvaro-juan-bajas-primer-encuentro-ligael-arbitro-segoviano-nestor-holguera-pitara-partido-ante-arenas/0003_202608F29P33991.htm",
-      "time": "2026-08-28T17:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "INFORMATIVO 28 08 2026 VIERNES",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=SB5k8Fx-sZE",
-      "time": "2026-08-28T17:14:12Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "Televisión Ferrol ( canal 34)"
-    },
-    {
-      "title": "El QS 6000 Internacional acelera con una jornada maratoniana de 52 mangas",
-      "description": "Frederico Morais y Sol Aguirre avanzan hacia las rondas decisivas, mientras que Gony Zubizarreta queda eliminado",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/28/pantin-acelera-jornada-maratoniana-52-mangas-25-minutos/00031787936120165191308.htm",
-      "time": "2026-08-28T17:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La falta de relevo vocacional amenaza la continuidad de las Esclavas del Santísimo Sacramento en Fer",
-      "description": "Video generado automáticamente a partir del artículo publicado en InfoVaticana. Fuente: ...",
-      "url": "https://www.youtube.com/watch?v=FX51hKrrCqQ",
-      "time": "2026-08-28T16:20:46Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "Infovaticana"
     }
   ]
 }
