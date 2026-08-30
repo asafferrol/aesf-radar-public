@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T05:18:34.288148+00:00",
-  "count": 219,
+  "generated_at": "2026-08-30T10:31:18.142716+00:00",
+  "count": 217,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Pablo Mera derriba la puerta del Real Madrid: «Cuando salió en el quinteto inicial reventé a llorar»",
+      "description": "Con solo 16 años, el ferrolano debutó como titular en el amistoso de los blancos frente al Río Breogán con el apoyo de toda su familia y amigos",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/30/ferrolano-pablo-mera-debuta-rompe-techo-primer-equipo-real-madrid/00031788079611889216727.htm",
+      "time": "2026-08-30T10:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Los precios de la vivienda en Ferrolterra, de vértigo: «Y se vende todo lo que hay»",
       "description": "Pontedeume, Cabanas y Ares, el triángulo de oro por la cercanía de la ciudad de A Coruña y la escasa oferta",
@@ -1984,37 +1993,6 @@
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez, técnico del Racing Club Ferrol, en la previa del Arenas Club - Racing",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Oykf2qkteT4",
-      "time": "2026-08-28T10:30:14Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "Racing Club Ferrol "
-    },
-    {
-      "title": "El Baxi se presenta en sociedad en el Torneo Cidade de Ferrol: «Vamos a tratar de volver a ilusionar»",
-      "description": "Las de Lino López, que el 22 de septiembre partirán para iniciar ya su gira europea, se estrenan el 8 de septiembre en A Malata frente al Maristas",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/28/baxi-presenta-sociedad-torneo-cidade-ferrol/00031787910211628906474.htm",
-      "time": "2026-08-28T10:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "PREVIA J1 ERICE RACING FERROL",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=FazeY71dqT4",
-      "time": "2026-08-28T08:59:04Z",
-      "source": "YouTube",
-      "source_id": "youtube",
-      "type": "REDES",
-      "network": "youtube",
-      "author": "Arenas Club de Getxo"
     }
   ]
 }
