@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 213,
+  "count": 209,
   "items": [
+    {
+      "title": "Almendralejo, segunda parada en la gira del Racing Club Ferrol",
+      "description": "El CD Extremadura ya tiene a la venta las entradas para el partido del domingo (18.15 horas) ya están fijadas las horas de los dos siguientes partidos en casa",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/31/almendralejo-segunda-parada-gira-racing-club-ferrol/00031788192547507960389.htm",
+      "time": "2026-08-31T16:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Iago Fuertes, un ganador a prueba de obstáculos: «Sufrió un golpe de calor»",
+      "description": "El naronés, que esta semana compite en el P1 de Madrid, viene de proclamarse campeón de España cadete tras estar al borde de la retirada en la final",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/31/iago-fuertes-ganador-prueba-obstaculos-sufrio-golpe-calor/00031788191006244907680.htm",
+      "time": "2026-08-31T15:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El Mirfak acaricia su décimo Trofeo Presidente Xunta de Galicia",
       "description": "El velero ferrolano encara líder la recta final de la competición, con nueva regata el fin de semana en Baiona",
@@ -1861,60 +1879,6 @@
       "description": "Numerosas personas se acercaron a A Cortiña pese a la jornada desapacible",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/08/29/san-sadurnino-presume-mejores-productos-feira-rural/00031788030038788152538.htm",
       "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «En la segunda parte nos faltó el balón»",
-      "description": "El entrenador del Racing también lamenta las ocasiones perdidas de hacer un segundo tanto",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/30/segunda-parte-falto-balon/0003_202608F30P40993.htm",
-      "time": "2026-08-29T20:42:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Así se vivieron las tablas en el estreno del Racing Club Ferrol",
-      "description": "Fadura se tiñó de verde y los jugadores agradecieron el aliento pese al revés en forma de empate en el 90",
-      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/08/29/vivieron-tablas-estreno-racing-club-ferrol/01101788035988184926635.htm",
-      "time": "2026-08-29T20:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Parrulo Ferrol cae derrotado frente al Burela en A Malata (2-4)",
-      "description": "Yan Mattheus puso el 2-3 en el 33 y la busca del empate derivó en el último gol visitante en este choque amistoso de los de Casas",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/29/parrulo-ferrol-cae-derrotado-frente-burela-malata-2-4/00031788034901918252730.htm",
-      "time": "2026-08-29T20:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Roberto Arroyo inaugura su cuenta goleadora",
-      "description": "El Racing de Ferrol hizo nueve remates, cinco de ellos entre los tres palos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/30/roberto-arroyo-inaugura-cuenta/0003_202608F30P40992.htm",
-      "time": "2026-08-29T19:42:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» del Racing de Ferrol en casa del Arenas de Getxo",
-      "description": "El canario Dani Ojeda, aunque no marcó, mostró su desborde por la banda",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/29/1x1-racing-ferrol-casa-arenas-getxo/00031788029502291677356.htm",
-      "time": "2026-08-29T19:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arena en el ojo para el Racing Club Ferrol, que empata en Fadura (1-1)",
-      "description": "Arroyó sacó tajada de una gran conducción de Ojeda en la primera mitad de un duelo en el que los de Javi Vázquez se encerraron y acabaron sucumbiendo en el minuto 90",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/29/racing-arenas/00031788018354783376358.htm",
-      "time": "2026-08-29T18:26:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
