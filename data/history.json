@@ -1,7 +1,52 @@
 {
   "hours": 48,
-  "count": 209,
+  "count": 213,
   "items": [
+    {
+      "title": "El Mirfak acaricia su décimo Trofeo Presidente Xunta de Galicia",
+      "description": "El velero ferrolano encara líder la recta final de la competición, con nueva regata el fin de semana en Baiona",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/31/mirfak-lidera-clasificacion-trofeo-presidente-xunta-galicia/00031788183164187896879.htm",
+      "time": "2026-08-31T13:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Vuelve el pádel a As Somozas, con cuatro días de torneo y buen ambiente",
+      "description": "Con la totalidad de inscripciones disponibles cubiertas, se desarrollará la segunda edición del Torneo Complexo Multiusos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/08/31/vuelve-padel-as-somozas-cuatro-dias-torneo-buen-ambiente/00031788180401913825206.htm",
+      "time": "2026-08-31T13:05:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El ferrolano Bruno Martín destrona al campeón del mundo en Penencia",
+      "description": "La novena edición del campeonato de bodyboard Cidade de Ferrol exhibió el músculo local con gestas como la victoria sobre Armide Soliveres",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/31/ferrolano-bruno-martin-destrona-campeon-mundo-penencia/00031788178428847538415.htm",
+      "time": "2026-08-31T12:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "«Elas seguen na cancha», la propuesta 3x3 para redondear la Copa Galicia femenina",
+      "description": "La Federación Galega de Baloncesto organiza esta iniciativa gratuita, el 12 de septiembre, coincidiendo con la disputa del torneo en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/31/elas-seguen-na-cancha-propuesta-3x3-redondear-copa-galicia/00031788175752454687681.htm",
+      "time": "2026-08-31T11:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los veteranos del Racing Club Ferrol y su incesante lluvia de títulos",
+      "description": "Golearon al Carral (4-1) para sumar un nuevo trofeo a las vitrinas de A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/31/veteranos-racing-club-ferrol-incesante-lluvia-titulos/00031788173241759979615.htm",
+      "time": "2026-08-31T10:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Los hoteles de Ferrol se llenaron en un agosto flojo para las playas: «Se duplicaron los visitantes»",
       "description": "Los cambios meteorológicos condicionaron un mes con buenas cifras en alojamientos, pero discreto en los negocios costeros",
@@ -1870,15 +1915,6 @@
       "description": "Arroyó sacó tajada de una gran conducción de Ojeda en la primera mitad de un duelo en el que los de Javi Vázquez se encerraron y acabaron sucumbiendo en el minuto 90",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/29/racing-arenas/00031788018354783376358.htm",
       "time": "2026-08-29T18:26:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Pantín, el «anfiteatro natural» que nunca falla al surf de élite",
-      "description": "Las condiciones del arenal, que acogió más de medio centenar de mangas en un solo día, son un seguro de vida para culminar el evento este domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/29/pantin-anfiteatro-natural-nunca-falla-surf-elite/00031788010539416885896.htm",
-      "time": "2026-08-29T14:27:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
