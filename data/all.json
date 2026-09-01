@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T18:07:00.807998+00:00",
-  "count": 436,
+  "generated_at": "2026-09-01T20:58:59.179427+00:00",
+  "count": 434,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -3930,24 +3930,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Sierra Kerr y Ryan Kainalo escriben sus nombres en el libro de oro de Pantín",
-      "description": "La australiana y el brasileño se proclamaron campeones de la 39 edición",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/30/sierra-kerr-ryan-kainalo-escriben-nombres-libro-oro-pantin/00031788114110381788845.htm",
-      "time": "2026-08-30T19:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un primer punto con sabor agridulce",
-      "description": "La defensa en bloque bajo del Racing de Ferrol propició la pérdida del balón y que el Arenas llegará arriba con peligro hasta empatar el choque",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/31/primer-punto-sabor-agridulce/0003_202608F31P23991.htm",
-      "time": "2026-08-30T18:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
