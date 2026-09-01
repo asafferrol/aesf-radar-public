@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T20:58:59.179427+00:00",
-  "count": 434,
+  "generated_at": "2026-09-01T23:10:57.047041+00:00",
+  "count": 295,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -9,7 +9,7 @@
     },
     "dog": {
       "ok": true,
-      "count": 27,
+      "count": 35,
       "name": "DOG · Xunta de Galicia"
     },
     "boe": {
@@ -25,6 +25,330 @@
     }
   },
   "items": [
+    {
+      "title": "El Racing de Ferrol ofrece una segunda oportunidad a Raúl Blanco",
+      "description": "El media punta ya vistió la camiseta del club en la campaña 2024-25 y, con la persiana del mercado bajada, cierra la plantilla como jugador 22",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/01/racing-ferrol-ofrece-segunda-oportunidad-raul-blanco/00031788255900168589311.htm",
+      "time": "2026-09-01T22:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "ORDEN de 25 de agosto de 2026 por la que se convoca el programa Xogade (Juegos gallegos deportivos en edad escolar) para el curso 2026/27.",
+      "description": "III. Otras disposiciones Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0759-250826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CORRECCIÓN DE ERRORES. Resolución de 31 de julio de 2026, de la Dirección General de Formación Profesional, por la que se hace pública la relación de centros autorizados para impartir enseñanzas de formación profesional plurilingües, así como los ciclos formativos y cursos de especialización autorizados, en el curso 2026/27.",
+      "description": "III. Otras disposiciones Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0761-260826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 24 de agosto de 2026 por la que se adjudican las ayudas de la Orden de 19 de diciembre de 2025 por la que se establecen las bases para la concesión, en régimen de concurrencia competitiva, de las ayudas para la formación de doctores y doctoras de las universidades del Sistema universitario de Galicia (SUG) en empresas y centros de innovación y tecnología, programa Doctorados industriales, y se procede a su convocatoria para el ejercicio 2026 (código de procedimiento IN606D).",
+      "description": "III. Otras disposiciones Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0761-240826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 18 de agosto de 2026 por la que se publica la convocatoria, mediante procedimiento de asignación de concierto social, de la ejecución del Programa de adopciones especiales (código de procedimiento BS214F).",
+      "description": "III. Otras disposiciones Consellería de Política Social e Igualdad",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0762-200826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 25 de agosto de 2026 por la que se modifica la Orden de 12 de marzo de 2026 por la que se establecen las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de subvenciones a entidades locales de Galicia, para el equipamiento y mejora de las instalaciones y locales utilizados para la realización de actividades culturales, y se procede a su convocatoria para el año 2026 (código de procedimiento CT211B).",
+      "description": "III. Otras disposiciones Consellería de Cultura, Lengua y Juventud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0766-260826-0003_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 24 de agosto de 2026, de la Dirección General de Formación y Cualificación para el Empleo, por la que se da publicidad a las ayudas concedidas al amparo de la Orden de 11 de marzo de 2026 por la que se establecen las bases reguladoras y la convocatoria pública para la concesión de subvenciones para la contratación de personal técnico para la realización de actividades de orientación laboral en el ejercicio 2026 (código de procedimiento TR331A).",
+      "description": "III. Otras disposiciones Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0767-240826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 27 de agosto de 2026 por la que se modifica la Orden de 11 de agosto de 2026 por la que se aprueban las bases generales reguladoras y se convoca proceso selectivo de acceso por promoción interna (código de procedimiento PR461F) y el proceso de provisión por movilidad (código de procedimiento PR461J) en los cuerpos de Policía Local de Galicia, escala ejecutiva, categoría de inspector.",
+      "description": "IV. Oposiciones y concursos Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0759-270826-0006_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 24 de agosto de 2026 por la que se resuelve la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería, convocado mediante la Orden de 8 de julio de 2026 (código del puesto CU.201.00.000.15770.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Cultura, Lengua y Juventud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0766-260826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 24 de agosto de 2026 por la que se resuelve la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería, convocado mediante la Orden de 8 de junio de 2026 (código del puesto CU.C99.50.301.27001.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Cultura, Lengua y Juventud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0766-260826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 25 de agosto de 2026 por el que se hace pública la convocatoria del proceso selectivo para la cobertura definitiva de dos puestos de auxiliar de laboratorio existentes en la plantilla de personal laboral, por el turno de acceso libre.",
+      "description": "IV. Oposiciones y concursos Instituto Tecnológico para el Control del Medio Marino de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG1651-260826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 21 de agosto de 2026 por la que se aprueba y se hace pública la lista provisional de personas admitidas y excluidas no proceso selectivo para cubrir dos plazas de la categoría profesional de técnico/a superior de actividades deportivas, por el turno de acceso libre.",
+      "description": "IV. Oposiciones y concursos Universidad de Santiago de Compostela",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG2018-240826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 21 de agosto de 2026 por la que se aprueba y hace pública la lista provisional de personas admitidas y excluidas al proceso selectivo para el acceso a la escala de ayudantes de archivos, bibliotecas y museos, especialidad biblioteca, subgrupo A2, por el turno de acceso libre.",
+      "description": "IV. Oposiciones y concursos Universidad de Santiago de Compostela",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG2018-240826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 11 de agosto de 2026, del Departamento Territorial de Pontevedra, por la que se conceden las autorizaciones administrativas previa y de construcción de una instalación eléctrica en el ayuntamiento de Vila de Cruces (expediente IN407A 2026/082-4).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0763-120826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 20 de agosto de 2026, del Departamento Territorial de Pontevedra, por el que se convoca a los interesados al acto de la redacción de las actas previas a la ocupación de los bienes y derechos afectados por la instalación eléctrica denominada LMTA TIB801, CTI en Pedregal, en el ayuntamiento de Caldas de Reis.",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0763-210826-0004_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 24 de agosto de 2026, del Departamento Territorial de Lugo, por el que se comunica la convocatoria para el pago de los justiprecios acordados por el Jurado de Expropiación de Galicia para los bienes y derechos afectados por una instalación eléctrica en el ayuntamiento de A Ribeira de Piquín (expediente IN407A 2022/131-2).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0763-240826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 21 de agosto de 2026, del Departamento Territorial de Pontevedra, por el que se notifica el acuerdo de inicio del expediente sancionador 20260170BA-PO, por infracción en materia sanitaria.",
+      "description": "a) Administración autonómica Consellería de Sanidad",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioC3K1-210826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 24 de agosto de 2026, del Departamento Territorial de A Coruña, por el que se notifican diversos expedientes sancionadores por infracciones de las personas trabajadoras o asimiladas, beneficiarias y solicitantes de prestaciones por desempleo.",
+      "description": "a) Administración autonómica Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0767-240826-0004_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 20 de agosto de 2026, del Departamento Territorial de Lugo, por el que se notifica la imposición de la décima multa coercitiva en el expediente sancionador MON-LU-0001/2023-CAF.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0426-210826-0005_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 21 de agosto de 2026, del Departamento Territorial de A Coruña, por el que se emplaza a la persona interesada para ser notificada por comparecencia en el expediente SAN-CO-0245/2026-MP.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0426-210826-0003_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 21 de agosto de 2026, del Departamento Territorial de Celeiro, por el que se notifica la resolución del expediente PSC-LU-0058/2026-PRE.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0427-240826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 21 de agosto de 2026, del Departamento Territorial de Celeiro, por el que se notifica el inicio del expediente PSC-LU-0073/2026-PRE.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0427-240826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 24 de agosto de 2026, del Departamento Territorial de A Coruña, por el que se notifica la resolución del expediente PSC-CO-0141/2026-V y ocho más.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0427-240826-0005_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 20 de agosto de 2026 por el que se notifica el acuerdo de incoación del expediente de reposición de la legalidad urbanística PO-0663-2025.",
+      "description": "a) Administración autonómica Agencia de Protección de la Legalidad Urbanística",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG1096-210826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 24 de agosto de 2026, del Servicio Provincial de A Coruña, por el que se notifica la hoja de aprecio fundada de la Administración al no haber podido efectuarse las correspondientes notificaciones en el expediente de expropiación forzosa para la ejecución de la obra Vía de alta capacidad Carballo-Berdoias (clave AC/06/140.01.75), en el ayuntamiento de Vimianzo.",
+      "description": "a) Administración autonómica Agencia Gallega de Infraestructuras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0181-240826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 20 de agosto de 2026, del Área Provincial de Lugo, por el que se emplaza a las personas interesadas para ser notificadas por comparecencia en el expediente 209885 y uno más.",
+      "description": "a) Administración autonómica Instituto Gallego de la Vivienda y Suelo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioC3Q2-210826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 21 de agosto de 2026, del Área Provincial de Lugo, por el que se emplaza a la persona interesada para ser notificada por comparecencia en el expediente LU04506-30.",
+      "description": "a) Administración autonómica Instituto Gallego de la Vivienda y Suelo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioC3Q2-210826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO referente a la convocatoria para proveer una plaza de auxiliar administrativo/a y encargado del Juzgado de Paz.",
+      "description": "b) Administración local Ayuntamiento de O Corgo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL414-120826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación de la comunicación y requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y de retirada de especies arbóreas en parcelas priorizadas (expediente 2026034853).",
+      "description": "b) Administración local Ayuntamiento de Ourense",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL354-100826-0007_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación infructuosa de comunicación y requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y de retirada de especies arbóreas en parcelas priorizadas (expediente 2026034900).",
+      "description": "b) Administración local Ayuntamiento de Ourense",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL354-120826-0002_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación de la comunicación y requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y de retirada de especies arbóreas en parcelas priorizadas (expediente 202503711).",
+      "description": "b) Administración local Ayuntamiento de Ourense",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL354-120826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 9 de diciembre de 2025 de notificación a los titulares desconocidos del requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y retirada de especies arbóreas.",
+      "description": "b) Administración local Ayuntamiento de Piñor",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL361-120826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de convocatoria del proceso de provisión, por movilidad, de dos puestos de policía, un puesto de oficial y un puesto de inspector/a principal vacantes en el cuerpo de la Policía local, por el que se publican sus bases reguladoras (oferta de empleo público de 2026).",
+      "description": "b) Administración local Ayuntamiento de Pontevedra",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL238-260826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de la convocatoria y las bases reguladoras de los procesos selectivos para el acceso, por promoción interna, a las categorías de oficial e inspector/a en el cuerpo de la Policía Local del Ayuntamiento de Pontevedra (oferta de empleo público del año 2026).",
+      "description": "b) Administración local Ayuntamiento de Pontevedra",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL238-270826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ACUERDO del Pleno del Ayuntamiento de Vilaboa por el que se aprueba inicialmente la modificación puntual número 1 del Plan general de ordenación municipal (MP1 PGOM).",
+      "description": "b) Administración local Ayuntamiento de Vilaboa",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioL258-280826-0001_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de protocolización de partija por mayoría de la Ley de derecho civil de Galicia.",
+      "description": "c) Otros anuncios Notaría de la Sra. María del Alba Sánchez-Andrade Fernández-Avello (A Coruña)",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260902/AnuncioG0932-280826-1_es.html",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
     {
       "title": "El Gobierno pide paciencia para la planta china de SAIC en Ferrol",
       "description": "El Ejecutivo se muestra «optimista», aunque admite que se trata de una operación «muy compleja»",
@@ -2355,1581 +2679,6 @@
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
-    },
-    {
-      "title": "RESOLUCIÓN de 25 de agosto de 2026 por la que se nombra a María Hernández García gerenta de esta universidad.",
-      "description": "b) Nombramientos Universidad de A Coruña",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG2017-250826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ORDEN de 11 de agosto de 2026 por la que se establecen las bases y se convocan las ayudas destinadas a la cofinanciación de los servicios de comedor escolar gestionados por las asociaciones de madres y padres del alumnado de los centros públicos no universitarios dependientes de esta consellería, para el curso académico 2025/26 (código de procedimiento ED601A).",
-      "description": "III. Otras disposiciones Consellería de Educación, Ciencia, Universidades y Formación Profesional",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0761-110826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "EXTRACTO de la Orden de 11 de agosto de 2026 por la que se establecen las bases y se convocan las ayudas destinadas a la cofinanciación de los servicios de comedor escolar gestionados por las asociaciones de madres y padres del alumnado de los centros públicos no universitarios dependientes de esta consellería, para el curso académico 2025/26 (código de procedimiento ED601A).",
-      "description": "III. Otras disposiciones Consellería de Educación, Ciencia, Universidades y Formación Profesional",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0761-110826-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 25 de agosto de 2026, por la que se da publicidad a la Resolución de 24 de agosto de 2026 por la que se encarga a Tecnologías y Servicios Agrarios, S.A., S.M.E., M.P. (Tragsatec) el servicio de apoyo en la gestión de ayudas de asignación tributaria del 0,7 del IRPF y de las ayudas y subvenciones gestionadas por la Dirección General de Inclusión Social 2026/2027.",
-      "description": "III. Otras disposiciones Consellería de Política Social e Igualdad",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0762-260826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ORDEN de 14 de agosto de 2026 por la que se establecen las bases que rigen los premios del programa Xuventude Crea y se procede a su convocatoria para el año 2026 (código de procedimiento BS310Q).",
-      "description": "III. Otras disposiciones Consellería de Cultura, Lengua y Juventud",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0766-190826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "EXTRACTO de la Orden de 14 de agosto de 2026 por la que se establecen las bases que rigen los premios del programa Xuventude Crea y se procede a su convocatoria para el año 2026 (código de procedimiento BS310Q).",
-      "description": "III. Otras disposiciones Consellería de Cultura, Lengua y Juventud",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0766-190826-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 5 de agosto de 2026, de la Secretaría General de Empleo y Relaciones Laborales, por la que se dispone el depósito e inscripción en el Registro y depósito de convenios colectivos, acuerdos colectivos de trabajo y planes de igualdad del Convenio colectivo gallego de centros especiales de empleo (82000775012003).",
-      "description": "III. Otras disposiciones Consellería de Empleo, Comercio y Emigración",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0767-060826-0004_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 10 de agosto de 2026 por la que se establecen las bases reguladoras para la concesión, en régimen de concurrencia no competitiva, de subvenciones para actuaciones de eficiencia energética en empresas turísticas, cofinanciadas por el Fondo Europeo de Desarrollo Regional en un 60 % del gasto elegible en el marco del Programa Galicia Feder 2021-2027, y se anuncia su convocatoria con carácter plurianual (2026-2027) (código de procedimiento TU986B).",
-      "description": "III. Otras disposiciones Agencia de Turismo de Galicia",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0256-180826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "EXTRACTO de la Resolución de 10 de agosto de 2026 por la que se establecen las bases reguladoras para la concesión, en régimen de concurrencia no competitiva, de subvenciones para actuaciones de eficiencia energética en empresas turísticas, cofinanciadas por el Fondo Europeo de Desarrollo Regional en un 60 % del gasto elegible en el marco del Programa Galicia Feder 2021-2027, y se anuncia su convocatoria con carácter plurianual (2026-2027) (código de procedimiento TU986B).",
-      "description": "III. Otras disposiciones Agencia de Turismo de Galicia",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0256-180826-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 30 de julio de 2026 por la que se aprueba la concesión de las becas destinadas a personas con discapacidad psíquica para la formación práctica en este organismo.",
-      "description": "III. Otras disposiciones Valedor del Pueblo",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG2022-300726-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 31 de julio de 2026 por la que se ordena la publicación de la modificación del Reglamento de transformación digital, administración electrónica y desarrollo de las tecnologías de la información y de la comunicación.",
-      "description": "III. Otras disposiciones Universidad de Santiago de Compostela",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG2018-310726-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 20 de agosto de 2026 por la que se modifica la Resolución de 10 de marzo de 2026 por la que se convoca el procedimiento de adjudicación de plazas en las escuelas infantiles 0-3 dependientes de la Agencia Gallega de Servicios Sociales para hijos e hijas del personal al servicio del sector público autonómico para el curso 2026/27 (código de procedimiento BS402B).",
-      "description": "III. Otras disposiciones Agencia Gallega de Servicios Sociales",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0379-210826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CORRECCIÓN DE ERRORES. Orden de 24 de agosto de 2026 por la que se anuncia la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en la Oficina Coordinadora de Ferrol de la Delegación Territorial de la Xunta de Galicia de Ferrol (código del puesto PX.C99.20.000.15350.001).",
-      "description": "IV. Oposiciones y concursos Consellería de Presidencia, Justicia y Deportes",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0759-280826-1_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CORRECCIÓN DE ERRORES. Resolución de 10 de agosto de 2026 por la que se nombra y se les adjudica destino definitivo como personal funcionario de carrera en el cuerpo facultativo superior de Administración especial de la Administración general de la Comunidad Autónoma de Galicia, subgrupo A1, escala de facultativos, especialidad de medicina, a las personas aspirantes que superaron los procesos selectivos convocados por las resoluciones de 22 de diciembre de 2022 (Diario Oficial de Galicia número 244, de 26 de diciembre, y Diario Oficial de Galicia número 245, de 27 de diciembre) y de 22 de enero de 2024 (Diario Oficial de Galicia, número 20, de 29 de enero), y se le adjudica destino definitivo al personal funcionario que superó el proceso selectivo convocado por la Orden de 4 de noviembre de 2019 (Diario Oficial de Galicia número 212, de 7 de noviembre).",
-      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0597-240826-0003_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CORRECCIÓN DE ERRORES. Resolución de 10 de agosto de 2026 por la que se nombran y se les adjudica destino definitivo como personal funcionario de carrera en el cuerpo facultativo de grado medio de Administración especial de la Administración general de la Comunidad Autónoma de Galicia, subgrupo A2, escala técnica de facultativos, especialidad de enfermería, a las personas aspirantes que superaron los procesos selectivos convocados por las resoluciones de 22 de diciembre de 2022 (Diario Oficial de Galicia número 244, de 26 de diciembre, y Diario Oficial de Galicia número 245, de 27 de diciembre) y de 22 de enero de 2024 (Diario Oficial de Galicia número 20, de 29 de enero), y se le adjudica destino definitivo al personal funcionario que superó el proceso selectivo convocado por la Orden de 31 de octubre de 2019 (Diario Oficial de Galicia número 211, de 6 de noviembre).",
-      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0597-240826-0004_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CORRECCIÓN DE ERRORES. Resolución de 10 de agosto de 2026 por la que se nombra personal funcionario de carrera en el cuerpo de ayudantes de carácter facultativo de Administración especial de la Administración general de la Comunidad Autónoma de Galicia, subgrupo C1, escala técnica de gobernantes/as, especialidad de gobernante/a, de las personas aspirantes que superaron el proceso selectivo convocado por la Resolución de 22 de diciembre de 2022 (Diario Oficial de Galicia número 244, de 26 de diciembre) y se les adjudica destino definitivo.",
-      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0597-240826-0005_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 24 de agosto de 2026 por la que se modifica la Resolución de 10 de agosto de 2026 por la que se nombra y se les adjudica destino definitivo como personal funcionario de carrera en el cuerpo facultativo superior de Administración especial de la Administración general de la Comunidad Autónoma de Galicia, subgrupo A1, escala de facultativos, especialidad de psicología, a las personas aspirantes que superaron los procesos selectivos convocados por las resoluciones de 22 de diciembre de 2022 (Diario Oficial de Galicia número 244, de 26 de diciembre, y Diario Oficial de Galicia número 245, de 27 de diciembre) y por la que se le adjudica destino definitivo al personal funcionario que superó alguno de los procesos selectivos convocados por la Orden de 4 de noviembre de 2019 (Diario Oficial de Galicia número 213, de 8 de noviembre) y por las resoluciones de 26 de abril de 2021 (Diario Oficial de Galicia número 81, de 30 de abril) y de 6 de noviembre de 2023 (Diario Oficial de Galicia número 216, de 14 de noviembre).",
-      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0597-240826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 24 de agosto de 2026 por la que se modifica la Resolución de 10 de agosto por la que se nombra y se les adjudica destino definitivo como personal funcionario de carrera en el cuerpo facultativo de grado medio de Administración especial de la Administración general de la Comunidad Autónoma de Galicia, subgrupo A2, escala técnica de facultativos, especialidad de terapia ocupacional, a las personas aspirantes que superaron los procesos selectivos convocados por las resoluciones de 22 de diciembre de 2022 (Diario Oficial de Galicia número 244, de 26 de diciembre, y Diario Oficial de Galicia número 245, de 27 de diciembre) y se le adjudica destino definitivo al personal funcionario que superó los procesos selectivos convocados por la Orden de 4 de noviembre de 2019 (Diario Oficial de Galicia número 213, de 8 de noviembre) y por la Resolución de 14 de noviembre de 2023 (Diario Oficial de Galicia número 216, de 14 de noviembre).",
-      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0597-240826-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 25 de agosto de 2026 por la que se convoca para la elección de destino definitivo a las personas aspirantes que superaron el proceso selectivo para el ingreso, por los turnos de acceso libre y de promoción interna, en el cuerpo superior de la Administración general de la Comunidad Autónoma de Galicia, subgrupo A1, escala superior de estadísticos, convocado por la Resolución de 5 de julio de 2023 (Diario Oficial de Galicia número 129, de 7 de julio).",
-      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0597-250826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 18 de agosto de 2026, de la Dirección General de Recursos Humanos, por la que se convoca un procedimiento específico para la cobertura temporal de seis plazas con características específicas de embriólogo/a, en el ámbito de las unidades de reproducción humana asistida del Servicio Gallego de Salud.",
-      "description": "IV. Oposiciones y concursos Servicio Gallego de Salud",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0003-200826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 17 de agosto de 2026 por la que se convoca para la elección de destino a las personas aspirantes que superaron el proceso selectivo para el acceso a la categoría profesional de técnico/a de investigación, área biología-salud (animalarios), convocado por la Resolución de 9 de mayo de 2025.",
-      "description": "IV. Oposiciones y concursos Universidad de Santiago de Compostela",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG2018-180826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ACUERDO de 7 de agosto de 2026, del Departamento Territorial de A Coruña, de redacción de las actas previas a la ocupación de los bienes y derechos afectados por una instalación eléctrica en el ayuntamiento de Ferrol (expediente IN407A 2022/388-1).",
-      "description": "a) Administración autonómica Consellería de Economía e Industria",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0763-100826-0008_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 6 de agosto de 2026, del Departamento Territorial de Pontevedra, de autorización administrativa previa, declaración, en concreto, de utilidad pública y la necesidad de la urgente ocupación que lleva implícita y de autorización administrativa de construcción de una instalación eléctrica en el ayuntamiento de Vigo (expediente IN407A 2023/086-4).",
-      "description": "a) Administración autonómica Consellería de Economía e Industria",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0763-100826-0006_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 6 de agosto de 2026, del Departamento Territorial de Pontevedra, de autorización administrativa previa, declaración, en concreto, de utilidad pública y la necesidad de la urgente ocupación que lleva implícita y de autorización administrativa de construcción de una instalación eléctrica en el ayuntamiento de Cangas (expediente IN407A 2023/021-4).",
-      "description": "a) Administración autonómica Consellería de Economía e Industria",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0763-100826-0005_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 7 de agosto de 2026, del Departamento Territorial de Pontevedra, por la que se conceden las autorizaciones administrativas previa y de construcción de una instalación eléctrica en el ayuntamiento de Baiona (expediente IN407A 2025/278-4).",
-      "description": "a) Administración autonómica Consellería de Economía e Industria",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0763-100826-0007_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RESOLUCIÓN de 26 de agosto de 2026, del Servicio Provincial de A Coruña, por la que se señala la fecha para levantar las actas previas a la ocupación y para formalizar las actas de ocupación de los bienes y derechos afectados por el proyecto de trazado de mejora de accesibilidad y conectividad de las paradas de autobús (clave AC/22/044.06).",
-      "description": "a) Administración autonómica Agencia Gallega de Infraestructuras",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0181-260826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de publicación de las bases que regirán la convocatoria para proveer varias plazas.",
-      "description": "b) Administración local Ayuntamiento de A Coruña",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL130-100826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de la modificación del anexo de relación de puestos de la convocatoria de provisión de puestos de trabajo por concurso ordinario, convocatoria 1/25.",
-      "description": "b) Administración local Ayuntamiento de A Coruña",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL130-100826-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de 17 de julio de 2026 de notificación a los titulares desconocidos del requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y de retirada de especies arbóreas.",
-      "description": "b) Administración local Ayuntamiento de A Estrada",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL217-050826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de modificación del temario de las bases para la convocatoria de una plaza de trabajador/a social.",
-      "description": "b) Administración local Ayuntamiento de Lalín",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL224-250826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de notificación de la comunicación y requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y retirada de especies arbóreas de parcelas priorizadas (expediente 2026019054).",
-      "description": "b) Administración local Ayuntamiento de Ourense",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL354-100826-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de notificación de la comunicación y requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y retirada de especies arbóreas de notificaciones a personas desconocidas (expediente 2026017593).",
-      "description": "b) Administración local Ayuntamiento de Ourense",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL354-100826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de notificaciones infructuosas de personas para la limpieza obligatoria de gestión de la biomasa (expediente de calidad ambiental número 2026020262).",
-      "description": "b) Administración local Ayuntamiento de Ourense",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL354-100826-0003_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de la convocatoria para cubrir las plazas vacantes incluidas en la oferta de empleo público para los años 2024, 2025 y 2026.",
-      "description": "b) Administración local Ayuntamiento de Pontevedra",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL238-250826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de aprobación definitiva del Plan especial de infraestructuras y dotaciones para la ampliación del local social del monte vecinal en mano común de Santa Cruz.",
-      "description": "b) Administración local Ayuntamiento de Ribadeo",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioL451-180826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de nombramiento de personal funcionario.",
-      "description": "b) Administración local Mancomunidad de Ayuntamientos de O Morrazo",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG1689-250826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de la convocatoria y las bases del proceso selectivo para la incorporación y contratación de un/una oficial de primera de servicios (expediente 14774/2026).",
-      "description": "c) Otros anuncios Entidade Pública Empresarial Augas de Ames EPEL",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0795-240826-0002_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ANUNCIO de la convocatoria y las bases del proceso selectivo para la incorporación y contratación de un/una técnico/a de gestión (expediente 14772/2026).",
-      "description": "c) Otros anuncios Entidade Pública Empresarial Augas de Ames EPEL",
-      "url": "https://www.xunta.gal/dog/Publicados/2026/20260831/AnuncioG0795-240826-0001_es.html",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "DOG · Xunta de Galicia",
-      "source_id": "dog",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Sumario",
-      "description": "Sumario del diario núm. 214, correspondiente al lunes 31 de agosto de 2026. - Referencia: BOE-S-2026-214 - KBytes: 327",
-      "url": "https://www.boe.es/boe/dias/2026/08/31/",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Acuerdo de 26 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Emilio Ramón Villalaín Ruiz.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CONSEJO GENERAL DEL PODER JUDICIAL - Situaciones - Referencia: BOE-A-2026-18307 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18307",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de mayo de 2026.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Destinos - Referencia: BOE-A-2026-18308 - KBytes: 201 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18308",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de agosto de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Destinos - Referencia: BOE-A-2026-18309 - KBytes: 199 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18309",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Dirección General de la Policía, por la que se nombran policías alumnos y alumnas a las personas aprobadas en la fase de oposición para ingreso en la Escala Básica, categoría de Policía, de la Policía Nacional, convocada por Resolución de 15 de noviembre de 2022.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DEL INTERIOR - Nombramientos - Referencia: BOE-A-2026-18310 - KBytes: 225 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18310",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 25 de mayo de 2026.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DEL INTERIOR - Destinos - Referencia: BOE-A-2026-18311 - KBytes: 289 - Páginas: 4",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18311",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Orden EFD/905/2026, de 31 de julio, por la que se dispone el cese y nombramiento de miembros del Consejo Escolar del Estado por el grupo de representantes de la Administración Educativa del Estado.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Ceses y nombramientos - Referencia: BOE-A-2026-18312 - KBytes: 189 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18312",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 22 de mayo de 2026.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Destinos - Referencia: BOE-A-2026-18313 - KBytes: 201 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18313",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 9 de julio de 2026.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Destinos - Referencia: BOE-A-2026-18314 - KBytes: 204 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18314",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 29 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que, en ejecución de sentencia, se modifica la de 10 de octubre de 2025, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en el Cuerpo General Administrativo de la Administración del Estado.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA - Nombramientos - Referencia: BOE-A-2026-18315 - KBytes: 202 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18315",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Orden JUI/906/2026, de 26 de agosto, por la que se nombra Director del Gabinete del Secretario de Estado de Juventud e Infancia a don Jorge Barragán Ulloa.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE JUVENTUD E INFANCIA - Nombramientos - Referencia: BOE-A-2026-18316 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18316",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 23 de julio de 2026, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombran Profesoras y Profesores Titulares de Universidad con plaza vinculada.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-18317 - KBytes: 199 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18317",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 6 de agosto de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Personal funcionario. Concursos - Referencia: BOE-A-2026-18318 - KBytes: 838 - Páginas: 37",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18318",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, de la Secretaría de Estado de Función Pública, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA - Procedimientos de libre designación - Referencia: BOE-A-2026-18319 - KBytes: 258 - Páginas: 4",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18319",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 25 de agosto de 2026, del Consejo de Seguridad Nuclear, por la que se modifica la de 25 de junio de 2026, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - CONSEJO DE SEGURIDAD NUCLEAR - Personal funcionario. Concursos - Referencia: BOE-A-2026-18320 - KBytes: 194 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18320",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Tres Cantos (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario - Referencia: BOE-A-2026-18321 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18321",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Albacete, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario - Referencia: BOE-A-2026-18322 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18322",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Diputación Provincial de León, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario - Referencia: BOE-A-2026-18323 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18323",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Oleiros (A Coruña), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario - Referencia: BOE-A-2026-18324 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18324",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Diputación Provincial de León, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario - Referencia: BOE-A-2026-18325 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18325",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Diputación Provincial de León, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario - Referencia: BOE-A-2026-18326 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18326",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Cambrils (Tarragona), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18327 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18327",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Benissa (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18328 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18328",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18329 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18329",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de agosto de 2026, del Ayuntamiento de Sa Pobla (Illes Balears), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18330 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18330",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de agosto de 2026, del Ayuntamiento de Valldemossa (Illes Balears), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18331 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18331",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Siero (Asturias), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18332 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18332",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Manlleu (Barcelona), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18333 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18333",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Rute (Córdoba), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18334 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18334",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Dénia (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18335 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18335",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Consejo Comarcal del Tarragonés (Tarragona), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18336 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18336",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Serra (Valencia/València), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18337 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18337",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Puertollano (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18338 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18338",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Ayuntamiento de Puertollano (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18339 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18339",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Diputación Provincial de Sevilla, referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18340 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18340",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Diputación Provincial de Sevilla, referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18341 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18341",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Diputación Provincial de Sevilla, referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18342 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18342",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Sant Feliu de Llobregat (Barcelona), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18343 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18343",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Híjar (Teruel), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18344 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18344",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Tarazona (Zaragoza), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18345 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18345",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Vilanova i la Geltrú (Barcelona), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18346 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18346",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Massanassa (Valencia/València), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18347 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18347",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Urretxu (Gipuzkoa), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18348 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18348",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Errenteria (Gipuzkoa), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18349 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18349",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Barberà del Vallès (Barcelona), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-18350 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18350",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 23 de julio de 2026, conjunta de la Universidad Complutense de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas vinculadas de cuerpos docentes universitarios.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Cuerpos docentes universitarios - Referencia: BOE-A-2026-18351 - KBytes: 308 - Páginas: 11",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18351",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 25 de agosto de 2026, de la Universidad de León, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Cuerpos docentes universitarios - Referencia: BOE-A-2026-18352 - KBytes: 353 - Páginas: 18",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18352",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de agosto de 2026, de la Universidad de León, por la que se modifica la composición del Tribunal calificador del proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Auxiliar, convocado por Resolución de 16 de febrero de 2026.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Personal técnico, de gestión y de administración y servicios - Referencia: BOE-A-2026-18353 - KBytes: 189 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18353",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Croacia y Roca Croatia, D.O.O., para la celebración de la Fiesta Nacional de España.",
-      "description": "III. Otras disposiciones - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Convenios - Referencia: BOE-A-2026-18354 - KBytes: 219 - Páginas: 5",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18354",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución 650/38370/2026, de 5 de agosto, de la Dirección de Asuntos Económicos de la Armada, por la que se constituyen las Mesas de Contratación Permanentes de la Dirección de Gestión Económica de la Jefatura de Apoyo Logístico, la Intendencia de Madrid, la Intendencia de Ferrol, la Intendencia de Cartagena, la Intendencia de San Fernando, la Intendencia de Rota y la Intendencia de Las Palmas.",
-      "description": "III. Otras disposiciones - MINISTERIO DE DEFENSA - Contratación administrativa - Referencia: BOE-A-2026-18355 - KBytes: 200 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18355",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 25 de agosto de 2026, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de cuatro series de sellos de correo denominadas «Museos.-2026», «Pioneras.-2026. Centenario del Lyceum Club Femenino», «España Es.-2026. Justicia 2030. Becas SERÉ» y «Humor gráfico.-2026. Idígoras y Pachi».",
-      "description": "III. Otras disposiciones - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Sellos de correos - Referencia: BOE-A-2026-18356 - KBytes: 202 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18356",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 24 de agosto de 2026, de la Secretaría de Estado de Memoria Democrática, por la que se publica el Convenio con la Universidad de Castilla-La Mancha, para la creación de la «Cátedra de Memoria Democrática».",
-      "description": "III. Otras disposiciones - MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA - Comunidad Autónoma de Castilla-La Mancha. Convenio - Referencia: BOE-A-2026-18357 - KBytes: 240 - Páginas: 9",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18357",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Organismo Autónomo Parques Nacionales, por la que se publica la Adenda de modificación del Convenio con la Junta de Castilla y León y el Ayuntamiento de El Espinar, para la creación de un centro de información del Parque Nacional de la Sierra de Guadarrama y su área de influencia socioeconómica, en la casa forestal de Los Cerrillos Redondos, en el marco del Plan de Recuperación, Transformación y Resiliencia.",
-      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Comunidad de Castilla y León. Convenio - Referencia: BOE-A-2026-18358 - KBytes: 239 - Páginas: 7",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18358",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 21 de agosto de 2026, del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., por la que se publica el Convenio con la Federación de Cines de España, para el apoyo técnico a la gestión de las subvenciones a salas de exhibición cinematográfica para fomentar el acceso al cine de las personas de 65 o más años durante el periodo 2026-2027.",
-      "description": "III. Otras disposiciones - MINISTERIO DE CULTURA - Convenios - Referencia: BOE-A-2026-18359 - KBytes: 255 - Páginas: 9",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18359",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 28 de agosto de 2026, de la Dirección General del Tesoro y Política Financiera, por la que se disponen determinadas emisiones de Bonos y Obligaciones del Estado en el mes de septiembre de 2026 y se convocan las correspondientes subastas.",
-      "description": "III. Otras disposiciones - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Deuda del Estado - Referencia: BOE-A-2026-18360 - KBytes: 333 - Páginas: 9",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18360",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 26 de agosto de 2026, de la Dirección General del Tesoro y Política Financiera, de convocatoria de subasta de liquidez del Tesoro Público: operaciones de compraventa doble con vencimiento diario.",
-      "description": "III. Otras disposiciones - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Operaciones de tesorería - Referencia: BOE-A-2026-18361 - KBytes: 192 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18361",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 29 de agosto de 2026, de la Secretaría de Estado de Derechos Sociales, por la que se corrigen errores en la de 23 de junio de 2026, por la que se publica el Acuerdo del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia, de 15 de junio de 2026, por el que se afirma un mapa global de los servicios y prestaciones de los sistemas públicos de servicios sociales en España, se identifica el listado del conjunto de servicios y prestaciones mínimo común y sus características básicas, y se establece el mecanismo de trabajo para el seguimiento, actualización y revisión de ambos, en el marco de los objetivos comunes de modernizar y reforzar la red pública de sistemas de servicios sociales.",
-      "description": "III. Otras disposiciones - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Servicios sociales - Referencia: BOE-A-2026-18362 - KBytes: 19049 - Páginas: 186",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18362",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de agosto de 2026, de la Presidenta del Consejo de Transparencia y Buen Gobierno, A.A.I., por la que se publica el resumen de la Memoria de cumplimiento de la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno, y de actividades durante el ejercicio 2025.",
-      "description": "III. Otras disposiciones - CONSEJO DE TRANSPARENCIA Y BUEN GOBIERNO - Consejo de Transparencia y Buen Gobierno - Referencia: BOE-A-2026-18363 - KBytes: 318 - Páginas: 24",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18363",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "GRANADA",
-      "description": "IV. Administración de Justicia - AUDIENCIAS PROVINCIALES - Referencia: BOE-B-2026-28153 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28153",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ARENYS MAR",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28154 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28154",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "AVILA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28155 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28155",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "COLLADO VILLALBA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28156 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28156",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CUENCA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28157 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28157",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LOJA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28158 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28158",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "PUERTOLLANO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28159 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28159",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RUBI",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28160 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28160",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SANT BOI DE LLOBREGAT",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28161 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28161",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SUECA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28162 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28162",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VALLS",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28163 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28163",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VILANOVA I LA GELTRU",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28164 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28164",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VILLARCAYO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28165 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28165",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ZAMORA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-28166 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28166",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BADAJOZ",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28167 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28167",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BARCELONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28168 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28168",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BILBAO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28169 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28169",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28170 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28170",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MANACOR",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28171 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28171",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MANACOR",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28172 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28172",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MOSTOLES",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28173 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28173",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "OVIEDO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28174 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28174",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SEVILLA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-28175 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28175",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "HUESCAR",
-      "description": "IV. Administración de Justicia - JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN - Referencia: BOE-B-2026-28176 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28176",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TERRASSA",
-      "description": "IV. Administración de Justicia - JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN - Referencia: BOE-B-2026-28177 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28177",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28178 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28178",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28179 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28179",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VALENCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-28180 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28180",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección General de Servicios. Objeto: Obras de terminación de la rehabilitación energética del edificio Anexo IV y mejora climatización del edificio Vicepresidencia mediante geotermia. Expediente: MPR20260006_1.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Referencia: BOE-B-2026-28181 - KBytes: 209 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28181",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección de la Agencia Estatal Boletín Oficial del Estado . Objeto: Servicio de asesoramiento integral, la gestión de la cartera y la protección registral de las marcas de la Agencia Estatal Boletín Oficial del Estado (AEBOE). Expediente: 202600000064.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Referencia: BOE-B-2026-28182 - KBytes: 209 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28182",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Adquisición de equipo termográfico TSCM. Expediente: 2026/EA15/00001432.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28183 - KBytes: 210 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28183",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Suministro de botiquines de vehículo/multiplaza y botiquines individuales de combate (solo continentes). Expediente: 2026/EA15/00002134.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28184 - KBytes: 218 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28184",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: Intendente de Ferrol. Objeto: Sostenimiento de sistemas, equipos e instalaciones de vacío de Buques del Arsenal de Ferrol. Expediente: 2026/AR42U/00000783E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28185 - KBytes: 214 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28185",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: Intendente de Ferrol. Objeto: Servicio abierto de reparación y mantenimiento de obra viva y obra muerta, mamparos estructurales, cubiertas y compartimentación no estanca. Expediente: 2026/AR42U/00001030E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28186 - KBytes: 216 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28186",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 23 de la Base Aérea de Albacete. Objeto: Servicio de explotación y gestión de lavadoras y secadoras automáticas en la Base Aérea de Albacete. Expediente: 2026/EA23/00000456E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28187 - KBytes: 208 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28187",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Suministro de granadas antibuceador. Expediente: 2026/AR40U/00001342E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28188 - KBytes: 213 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28188",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de una barredora de hangar para el Grupo de Material del Ala 78 de la Base Aérea de Armilla. Expediente: 2026/EA24/00001532E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28189 - KBytes: 210 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28189",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Plataformas tipo V_20FT. Expediente: 2026/ETSAE0906/00003653E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28190 - KBytes: 207 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28190",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Mantenimiento 2026-2028 plataforma explotación científica paz. Expediente: 582026008000.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28191 - KBytes: 211 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28191",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de cubiertas Lote 2. Expediente: 2026/ETSAE0906/00003678E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28192 - KBytes: 210 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28192",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Adquisición de blancos aéreos para ejercicios macom 2026-edg malog-inta pt7. Expediente: 582026030700.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28193 - KBytes: 212 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28193",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: Intendente de Ferrol. Objeto: Servicio, en función de las necesidades, de Sostenimiento de Equipos y Sistemas de iluminación y cuadros eléctricos de los buques apoyados por ARFER y aquellos en tránsito de otros Arsenales. Expediente: 2026/AR42U/00001710E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28194 - KBytes: 217 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28194",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de corrección de errores del anuncio de licitación: Sección de Asuntos Económicos del Parque y Centro de Mantenimiento de Sist. Antiaérea, Costa y Misiles. Objeto: reacondicionamiento y marinización del c uas auds blighter noc 5865-33-T13-2064. Expediente: 2026/ ETSAE0109/00000167E.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-28195 - KBytes: 198 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28195",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: Subdirección General de Gestión Económica y Patrimonial. Objeto: Servicio de mantenimiento de los edificios y locales de los Servicios Centrales del Ministerio del Interior . Expediente: 26P037.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DEL INTERIOR - Referencia: BOE-B-2026-28196 - KBytes: 224 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28196",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicio de limpieza del centro neuronal de estaciones en estación de Valdebebas. Expediente: 2.26/24108.0076.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-28197 - KBytes: 211 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28197",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Suministro y transporte de balasto para la renovación integral de infraestructura y vía entre Guillarei y Redondela y Redondela y Vigo- Guixar de las líneas Monforte de Lemos - bifurcación Chapela y bifurcación Chapela - Vigo-Guixar y renovación integral del tramo Redondela - bifurcación Arcade de la línea Redondela - Santiago. Dos lotes. Expediente: 4.26/21510.0018.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-28198 - KBytes: 219 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28198",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Suministro de balasto para las necesidades de obras y mantenimiento en la red ferroviaria de interés general (zona sur). 3 lotes. Expediente: 6.25/28510.0141.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-28199 - KBytes: 219 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28199",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección General del Servicio Público de Empleo Estatal. Objeto: Servicios de mantenimiento a todo riesgo de las unidades UPS´S de los Edificios A y B de los Servicios Centrales y del CPD de Valdemoro del Servicio Público de Empleo Estatal. Expediente: PA 12/26.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Referencia: BOE-B-2026-28200 - KBytes: 215 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28200",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección General de la Industria Alimentaria. Objeto: Realización del stand del Ministerio de Agricultura, Pesca y Alimentación en la feria Internacional de productos del mar congelados. CONXEMAR 2026. Expediente: 202605000181.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Referencia: BOE-B-2026-28201 - KBytes: 210 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28201",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Segura. Objeto: Contratación de suministro de repuestos para el mantenimiento preventivo y correctivo de los vehículos que integran la flota de la Confederación Hidrográfica del Segura, O.A. Años: 2026-2028. Expediente: 214.26.001.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28202 - KBytes: 221 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28202",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Dirección General del Agua. Objeto: Contratación de servicios de control y seguimiento de las obras del proyecto de terminación de las obras de la presa para el abastecimiento de la comarca de San Pedro Manrique.T.M. de Oncala (Soria). Expediente: 09.124-0004/0611.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28203 - KBytes: 214 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28203",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Cantábrico. Objeto: Suministro y colocación de suelo antideslizante en las instalaciones del laboratorio de la Confederación Hidrográfica del Cantábrico, O.A. en La Fresneda, T.M. Siero (Asturias). Expediente: N1.503.146/2111.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28204 - KBytes: 210 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28204",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Gerencia de Atención Sanitaria de Melilla - Instituto Nacional de Gestión Sanitaria. Objeto: Suministro de medicamentos principios activos: INTERFERON BETA 1-A, CANNABINOL-RONABINOL Y AVELUMAB, dispensados en el Hospital Universitario dependiente del INGESA para los pacientes de la Gerencia de Atención Sanitaria de Melilla. Expediente: P.A. 2026-046-GME.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE SANIDAD - Referencia: BOE-B-2026-28205 - KBytes: 224 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28205",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de formalización de contratos de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de mantenimiento integral del edificio e instalaciones, de los equipos elevadores y de los sistemas de protección contra incendios del Instituto de Tecnologías Físicas y de la Información Leonardo Torres Quevedo, de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT42/26.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Referencia: BOE-B-2026-28206 - KBytes: 224 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28206",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: TGSS-Dirección provincial de Lugo. Objeto: Servicios de vigilancia del edificio sede de la dirección provincial de la Tesorería General de la Seguridad social de Lugo y del resto de oficinas o dependencias administrativas de la TGSS distribuidas por Lugo capital durante el año 2027. Expediente: 2026270030.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Referencia: BOE-B-2026-28207 - KBytes: 202 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28207",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de análisis de ciberamenazas y gestión de riesgos del registro del CCTLD .ES. Expediente: 017/26-SI.",
-      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA - Referencia: BOE-B-2026-28208 - KBytes: 218 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28208",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de corrección de errores de: Autoridad Portuaria de Sevilla. Objeto: Concurso de selección de oferta para tramitar expediente de concesión administrativa con destino a la ocupación y explotación del dique seco, rampa de varada, tramo sur del Muelle de Armamento del Puerto de Sevilla y oficinas para el desarrollo de las actividades de construcción, mantenimiento y reciclaje de buques y embarcaciones.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-28209 - KBytes: 197 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28209",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria por la que se somete a Información Pública la relación de bienes y derechos afectados, y se fija fecha para el levantamiento de Actas Previas a la Ocupación de los bienes y derechos necesarios para la realización de las obras relativas al \"Proyecto de Modernización del regadío de la Comunidad de Regantes de la Acequia Mabad-Maja de Arnedo (La Rioja)\". Nº de Expediente SGRIR: 21.309.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Referencia: BOE-B-2026-28210 - KBytes: 468 - Páginas: 6",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28210",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Dependencia de Industria y Energía de la Subdelegación del Gobierno en Albacete, por el que se somete al trámite de Información Pública la Solicitud de Autorización Administrativa Previa y la Solicitud de Autorización Administrativa de Construcción de la planta de almacenamiento Frontones Fase II, de 20 MW de potencia instalada, y infraestructura de evacuación, para su hibridación con el parque eólico, fotovoltaico y de almacenamiento Frontones, compuesto por el parque eólico Frontones, de 50 MW de potencia instalada, la Planta Solar Fotovoltaica Frontones Híbrida, de 26,25 MW de potencia instalada, y la Planta de Almacenamiento Frontones, de 4 MW de potencia instalada, en la provincia de Albacete, conformando una instalación híbrida de 60 MW de potencia instalada.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA - Referencia: BOE-B-2026-28211 - KBytes: 219 - Páginas: 4",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28211",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio del Área Funcional de Industria y Energía de la Delegación del Gobierno en Madrid, por el que se somete a información pública la solicitud de Autorización Administrativa Previa, Autorización Administrativa de Construcción y Declaración, en concreto, de Utilidad Pública del proyecto \"Soterramiento de línea eléctrica aérea de 20 Kv en el Parque Nacional de la Sierra de Guadarrama en los términos municipales de Cercedilla, Navacerrada, Real Sitio de San Ildefonso y Rascafría\", en las provincias de Madrid y Segovia. Exp.: LAT 02/26.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA - Referencia: BOE-B-2026-28212 - KBytes: 430 - Páginas: 9",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28212",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Confederación Hidrográfica del Segura relativo a la Información Pública de modificación de características de la concesión de aguas subterráneas. T.M. Jumilla (Murcia) APM-0033/2025.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28213 - KBytes: 211 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28213",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A., de información pública de procedimiento de extinción del derecho al uso privativo de las aguas en el término municipal de Amorebieta-Etxano (Bizkaia). Expediente: A/48/01339.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28214 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28214",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Confederación Hidrográfica del Ebro de convocatoria para el levantamiento de las actas previas a la ocupación y si procediese, de ocupación definitiva de los bienes y/o derechos afectados por el procedimiento expropiatorio derivado de la ejecución de las obras correspondientes al \"Proyecto de terminación de las obras de la presa para el abastecimiento de la comarca de San Pedro Manrique (Soria/Oncala)\". Clave: 09.124-004/2111.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28215 - KBytes: 211 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28215",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio del Servicio Provincial de Costas en Lugo de información pública sobre expedientes de concesión administrativa de bienes de dominio público marítimo-terrestre, correspondientes con las fincas inscritas con los números 19998, 19999, 20001, 20002 y 20003 en el Registro de la Propiedad de Viveiro, situadas en lugar As Aceñas, en el término municipal de Viveiro (Lugo).",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28216 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28216",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A., de información pública de procedimiento de extinción del derecho al uso privativo de las aguas en el término municipal de Amorebieta-Etxano (Bizkaia). A/48/06446.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28217 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28217",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas en el término municipal de Pueyo (Navarra). Expediente 2025-A-88.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28218 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28218",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A. de información pública sobre procedimiento de extinción del derecho al uso privativo de las aguas en el término municipal de Lazkao (Gipuzkoa). Expediente A/20/01575.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28219 - KBytes: 204 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28219",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Demarcación de Costas en Cantabria sobre solicitud de prórroga de la concesión de dominio público marítimo-terrestre con destino a centro de surf en el paseo marítimo de Somo, en el término municipal de Ribamontán al Mar. Referencia: CNC02/10/39/0016-CNC13/01.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28220 - KBytes: 199 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28220",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de extinción del derecho de la concesión de aguas públicas con expediente 230/2026 en el término municipal de Cazalla de la Sierra.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28221 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28221",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de extinción del derecho de la concesión de aguas públicas con expediente 1704/2026 en el término municipal de Carolina (La).",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28222 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28222",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de extinción del derecho de la concesión de aguas públicas con expediente 1864/2026 en el término municipal de Torredelcampo.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28223 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28223",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de extinción del derecho de la concesión de aguas públicas con expediente 1923/2026 en el término municipal de Torredelcampo.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28224 - KBytes: 201 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28224",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comisaría de Aguas de Confederación Hidrográfica del Guadiana sobre solicitud de autorización para conservación y mantenimiento de cauce en el arroyo de La Esperilla. Término municipal de Santa Amalia (LICA 19/26 MSP).",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-28225 - KBytes: 198 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28225",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de la Delegación del Gobierno para el Plan Nacional sobre Drogas, por la que se anuncia la venta en Subasta Pública Electrónica 6/2026 de Joyería variada.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE SANIDAD - Referencia: BOE-B-2026-28226 - KBytes: 198 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28226",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 25 de agosto de 2026, de la Dirección General de Innovación y Promoción Alimentaria, por la que se da publicidad a la solicitud de registro de la denominación de origen protegida «Arroz de Aragón».",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - COMUNIDAD AUTÓNOMA DE ARAGÓN - Referencia: BOE-B-2026-28227 - KBytes: 205 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28227",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de la Alcaldía nº 2026_4988 de l’Ajuntament de Mont-roig del Camp por la que se aprueba la autorización a las entidades CaixaBank y BBVA para la colaboración en la gestión recaudatoria.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - ADMINISTRACIÓN LOCAL - Referencia: BOE-B-2026-28228 - KBytes: 198 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28228",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Universidad Carlos III de Madrid sobre la rectificación del original de Título Universitario.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - UNIVERSIDADES - Referencia: BOE-B-2026-28229 - KBytes: 196 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28229",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comunidad de Regantes de la Conca de Barberà sobre la información pública de las ordenanzas y reglamentos.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-28230 - KBytes: 197 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28230",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio de la Comunidad de Regantes Acequia el Caño-Molino de la Sierra-Basales-Alargue sobre convocatoria de Junta.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-28231 - KBytes: 197 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28231",
-      "time": "2026-08-30T22:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
     }
   ]
 }
