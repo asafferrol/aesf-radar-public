@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T00:18:43.360498+00:00",
-  "count": 237,
+  "generated_at": "2026-09-01T05:19:36.874582+00:00",
+  "count": 239,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,132 @@
     }
   },
   "items": [
+    {
+      "title": "Hartazgo por la demora de las obras en la calle Rubalcava de Ferrol: «Estamos hasta las narices»",
+      "description": "Vecinos del primer tramo acumulan nueve meses con el vial cerrado y reclaman que abra ya para los residentes; el Concello sostiene que se estrenará «en los próximos días»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/01/hartazgo-demora-rubalcava/0003_202609F1C1991.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Desbroce de maleza en el aparcamiento del Sánchez Aguilera en Ferrol",
+      "description": "El Concello ejecuta la limpieza de la parte trasera del edificio en ruinas sin mantenimiento alguno durante años",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/01/desbroce-maleza-parking-sanchez-aguilera/0003_202609F1C4991.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Formalizado el contrato para el nuevo mobiliario urbano y luces de la calle Real de Ferrol",
+      "description": "Una empresa vasca se encargará de instalar leds y de incorporar bancos y otros elementos como carteles de bienvenida al barrio o puntos de recogida de excrementos caninos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/01/formalizado-contrato-nuevo-mobiliario-urbano-luces-calle-real/0003_202609F1C4993.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De cobrar entrada a hacer «puenting» en la plaza de Armas: así eran las Festas do Verán de Ferrol",
+      "description": "Las celebraciones llegaron a cancelarse en una ocasión por falta de presupuesto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/cobrar-entrada-puenting-plaza-armas-festas-do-veran-ferrol/00031788104196313843992.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fiesta infantil en Esteiro",
+      "description": "Pese al mal tiempo, los pequeños disfrutaron de una tarde de juegos y atracciones",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/31/fiesta-infantil-esteiro/00031788195108592953147.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Programa de formación y empleo sobre promoción turística local de Ferrol",
+      "description": "La iniciativa tendrá una duración de doce meses y habilitará plazas para diez participantes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/01/programa-formacion-empleo-sobre-promocion-turistica-local/0003_202609F1C4992.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Actividades en Ferrol y Cariño para colaborar en la lucha contra el cáncer",
+      "description": "Se desarrollarán durante el fin de semana",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/01/actividades-ferrol-carino-colaborar-lucha-contra-cancer/0003_202609F1C5993.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Caranza celebra su Festa do Choco",
+      "description": "El alcalde visitó el barrio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/01/futbolista-alvaro-carreras-imagen-silbon-ferrol/0003_202609F1C8992.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Propietarios de La Palma estudian subastar un 25 % del castillo de Mugardos",
+      "description": "Esta fortaleza de la ría de Ferrol fue adquirida jace más veinte años por un grupo inversor con intención de transformarlo en un hotel de lujo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/08/31/propietarios-palma-estudian-subastar-25-castillo-mugardos/00031788202673661797109.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El comercio de Ferrol hace cuentas del verano: «Le vendemos más al turista nacional»",
+      "description": "Los establecimientos notaron el tirón turístico de este período estival, aunque con resultados dispares",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/31/comercio-ferrol-cuentas-verano-vendemos-turista-nacional/00031788193197655373367.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rey Varela preside la tradicional ofrenda al Marqués de Amboage",
+      "description": "En el acto se recondó la memoria de Ramón Plá y Monge",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/01/rey-varela-preside-tradicional-ofrenda-marques-amboage/0003_202609F1C2993.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Al Racing de Ferrol se le acaba el tiempo",
+      "description": "El club tiene de plazo hasta las 23.59 horas de hoy para reforzar el ataque",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/01/racing-acaba-tiempo/0003_202609F1P33994.htm",
+      "time": "2026-09-01T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Álvaro de Bazán lidera unidades de siete países en defensa antimisiles",
+      "description": "La fragata, con base en Ferrol, ejerció como buque de mando en unas maniobras en aguas del Pacífico",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/01/alvaro-bazan-lidera-unidades-siete-paises-defensa-antimisilesvaldovino-forma-agricultura-ecologica/0003_202609F1C5991.htm",
+      "time": "2026-09-01T02:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La segunda generación de F-110 serán fragatas más grandes, rápidas y armadas",
+      "description": "Navantia aspira a prolongar la carga de trabajo y el empleo en Ferrol con dos buques cuyos requisitos ya han sido planteados por la Armada española",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/01/segunda-generacion-f-110-seran-fragatas-grandes-rapidas-armadas/0003_202609G1P21991.htm",
+      "time": "2026-09-01T02:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Ferrol despide sus fiestas con los fuegos de San Ramón y la París de Noia",
       "description": "La pirotecnia y los drones iluminaron la ría ante miles de personas",
@@ -276,6 +402,15 @@
       "source": "DOG · Xunta de Galicia",
       "source_id": "dog",
       "type": "OFICIAL"
+    },
+    {
+      "title": "El futbolista del Real Madrid Álvaro Carreras presume de Ferrol en una campaña de Silbon",
+      "description": "El ferrolano es el protagonista de la última campaña de la marca de moda",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/31/futbolista-real-madrid-alvaro-carreras-presume-ferrol-campana-silbon/00031788194915738520902.htm",
+      "time": "2026-08-31T16:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
     },
     {
       "title": "Almendralejo, segunda parada en la gira del Racing Club Ferrol",
@@ -2037,123 +2172,6 @@
       "description": "Con solo 16 años, el ferrolano debutó como titular en el amistoso de los blancos frente al Río Breogán con el apoyo de toda su familia y amigos",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/30/ferrolano-pablo-mera-debuta-rompe-techo-primer-equipo-real-madrid/00031788079611889216727.htm",
       "time": "2026-08-30T10:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los precios de la vivienda en Ferrolterra, de vértigo: «Y se vende todo lo que hay»",
-      "description": "Pontedeume, Cabanas y Ares, el triángulo de oro por la cercanía de la ciudad de A Coruña y la escasa oferta",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/08/30/precios-vivienda-desbocan/0003_202608F30C2991.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Desierta la contratación de la caseta de socorrismo portátil de Doniños, en Ferrol",
-      "description": "El gobierno local deberá abrir una nueva licitación",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/desierta-contratacion-caseta-socorrismo-portatil-doninos/0003_202608F30C4993.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol se une a la convocatoria de la FEMP en apoyo a Ceuta",
-      "description": "La concentración será el día 2 de septiembre a las 20.00 horas en la plaza de Armas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/ferrol-une-convocatoria-femp-apoyo-ceuta/0003_202608F30C2994.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Once municipios del área de Ferrol se benefician de ayudas del Fondo de Compensación Ambiental",
-      "description": "Se trata de As Somozas, A Capela, Cariño, Cedeira, Mañón, Monfero, Narón, Ortigueira, As Pontes, San Sadurniño y Valdoviño",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/30/once-municipios-area-benefician-ayudas-fondo-compensacion-ambiental/0003_202608F30C2995.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón ofrece dos ediciones de un curso de operador de carretillas",
-      "description": "Tendrán una duración de 50 horas y en cada uno se ofrecerán diez plazas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/08/30/naron-ofrece-dos-ediciones-curso-operador-carretillas/0003_202608F30C5992.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ratas en San Pablo por las obras",
-      "description": "Vecinos del barrio denuncian la proliferación de roedores y reclaman medidas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/30/ratas-san-pablo-obras/0003_202608F30C1991.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Empieza un curso con «los mismos deberes» en materia ferroviaria en Ferrolterra",
-      "description": "El verano ha estado marcado por las constantes incidencias en las vías",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/30/empieza-curso-deberes-materia-ferroviaria/0003_202608F30C6991.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Lugnasad de Cedeira reunió a parejas de todo el país",
-      "description": "Fueron recibidas en la plaza da Laranxeira por el alcalde",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/08/30/san-sadurnino-presume-mejores-productos/0003_202608F30C8992.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Concentración de coches clásicos en el Cantón",
-      "description": "Luego hicieron un recorrido por la costa",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/29/concentracion-coches-clasicos-canton/00031788030337823823739.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El espectáculo de drones y los fuegos de San Ramón se podrán seguir en «streaming»",
-      "description": "Se retransmitirá en directo a través del canal oficial del Ayuntamiento de Ferrol en YouTube",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/espectaculo-drones-fuegos-san-ramon-podran-seguir-streaming/0003_202608F30C2993.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A Festa do Pan de Neda regresa o 6 de setembro con empanadas e doces",
-      "description": "O Concello presentou o pasado venres a programación desta edición",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/08/30/festa-do-pan-neda-regresa-6-setembro-empanadas-doces/0003_202608F30C6992.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "De cambiar rutinas a evitar dramas: las claves para preparar la vuelta al cole",
-      "description": "Dos profesionales de la educación reuelven las dudas más frecuentes",
-      "url": "https://www.lavozdegalicia.es/noticia/educacion/2026/08/29/cambiar-rutinas-evitar-dramas-claves-preparar-vuela-cole/00031787997167825508335.htm",
-      "time": "2026-08-30T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "San Sadurniño presume de sus mejores productos en su Feira Rural",
-      "description": "Numerosas personas se acercaron a A Cortiña pese a la jornada desapacible",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/08/29/san-sadurnino-presume-mejores-productos-feira-rural/00031788030038788152538.htm",
-      "time": "2026-08-30T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
