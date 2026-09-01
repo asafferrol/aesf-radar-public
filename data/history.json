@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 432,
+  "count": 436,
   "items": [
+    {
+      "title": "El Gobierno pide paciencia para la planta china de SAIC en Ferrol",
+      "description": "El Ejecutivo se muestra «optimista», aunque admite que se trata de una operación «muy compleja»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/01/gobierno-pide-paciencia-planta-china-saic-ferrol/00031788279487677605273.htm",
+      "time": "2026-09-01T16:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Hugo Rascado: «Pelearemos para que Ares siga la próxima temporada en la liga ACT»",
+      "description": "«Tenemos pocas referencias de los rivales del ?playoff? de permanencia», señala el patrón de la trainera del club aresano",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/09/02/pelearemos-ares-siga-proxima-temporada-liga-act/0003_202609F2P39991.htm",
+      "time": "2026-09-01T16:19:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Eto'o, un apellido ilustre para cerrar la delantera del Racing Club Ferrol",
+      "description": "Etienne, hijo del mítico delantero del Barcelona, recala en A Malata cedido por el Rayo Vallecano",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/01/etoo-apellido-ilustre-cerrar-detalentera-racing-club-ferrol/00031788249599278111730.htm",
+      "time": "2026-09-01T15:34:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una empresa debe indemnizar a una trabajadora por tardar en tramitar el protocolo antiacoso",
+      "description": "El TSXG tiene en cuenta el daño moral causado a la empleada",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/02/empresa-debe-indemnizar-trabajadora-tardar-tramitar-protocolo-antiacoso/0003_202609F2C4992.htm",
+      "time": "2026-09-01T15:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Iago Fuertes debuta a lo grande en un cuadro principal de P1: «Es algo único»",
       "description": "Con solo 16 años, el naronés se exhibió en el segundo torneo más importante del circuito internacional de pádel en una cita a la que no faltó Álvaro Carreras",
