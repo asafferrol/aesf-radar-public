@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T10:13:43.070980+00:00",
-  "count": 430,
+  "generated_at": "2026-09-01T14:55:22.950891+00:00",
+  "count": 432,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "Iago Fuertes debuta a lo grande en un cuadro principal de P1: «Es algo único»",
+      "description": "Con solo 16 años, el naronés se exhibió en el segundo torneo más importante del circuito internacional de pádel en una cita a la que no faltó Álvaro Carreras",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/01/iago-fuertes-debuta-grande-cuadro-principal-p1-unico/00031788270737508336821.htm",
+      "time": "2026-09-01T14:07:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Empujón a la red eléctrica en Ferrolterra que garantizará el suministro a la planta china de SAIC y a la de Indra en As Pontes",
+      "description": "El operador del sistema destinará 27,4 millones de euros a dos subestaciones en la antigua villa minera y en San Sadurniño, que atraerán nuevos proyectos industriales",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/01/gobierno-destinara-274-millones-euros-subestacion-as-pontes-atraera-nuevos-proyectos-industriales/00031788261997244538680.htm",
+      "time": "2026-09-01T13:59:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las perlas del fútbol europeo se dan cita en el Torneo Cidade de Narón",
+      "description": "Canteras como Dépor o Celta y equipos de Alemania o Italia toman parte en el evento que organiza O Freixo y cuenta con el respaldo de la Deputación de A Coruña",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/01/perlas-futbol-europeo-dan-cita-torneo-cidade-naron/00031788264406822671299.htm",
+      "time": "2026-09-01T12:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing ficha a David Osei, aunque jugará cedido en el UD Somozas",
+      "description": "El ghanés estuvo a prueba con el equipo verde toda la pretemporada",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/01/racing-ficha-davidosei-jugara-cedido-somozas/00031788257734916436478.htm",
+      "time": "2026-09-01T10:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Hartazgo por la demora de las obras en la calle Rubalcava de Ferrol: «Estamos hasta las narices»",
       "description": "Vecinos del primer tramo acumulan nueve meses con el vial cerrado y reclaman que abra ya para los residentes; el Concello sostiene que se estrenará «en los próximos días»",
@@ -3873,24 +3909,6 @@
       "description": "La defensa en bloque bajo del Racing de Ferrol propició la pérdida del balón y que el Arenas llegará arriba con peligro hasta empatar el choque",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/31/primer-punto-sabor-agridulce/0003_202608F31P23991.htm",
       "time": "2026-08-30T18:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Club de Remo de Ares tendrá que disputar el «playoff» de permanencia en la ACT",
-      "description": "Chapela desciende y competirá la próxima temporada en la Liga Galega",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/30/ares-tendra-disputar-playoff-permanencia-act/00031788090499536198268.htm",
-      "time": "2026-08-30T12:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Pablo Mera derriba la puerta del Real Madrid: «Cuando salió en el quinteto inicial reventé a llorar»",
-      "description": "Con solo 16 años, el ferrolano debutó como titular en el amistoso de los blancos frente al Río Breogán con el apoyo de toda su familia y amigos",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/30/ferrolano-pablo-mera-debuta-rompe-techo-primer-equipo-real-madrid/00031788079611889216727.htm",
-      "time": "2026-08-30T10:24:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
