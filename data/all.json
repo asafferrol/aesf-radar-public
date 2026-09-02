@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:53:56.827860+00:00",
-  "count": 445,
+  "generated_at": "2026-09-02T13:58:17.189079+00:00",
+  "count": 442,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -14,7 +14,7 @@
     },
     "boe": {
       "ok": true,
-      "count": 145,
+      "count": 147,
       "name": "BOE"
     },
     "youtube": {
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Álex Vázquez: «Espero que la afición disfrute con el Racing»",
+      "description": "El director de fútbol del equipo ferrolano asegura que hay una plantilla más versátil, con hambre y experiencia",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/02/alex-vazquez/00031788348818531394948.htm",
+      "time": "2026-09-02T12:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El castillo de La Palma de Mugardos, 24 años de un proyecto que no da frutos",
       "description": "Uno de los propietarios estudia sacar a subasta pública el 25 % de las acciones",
@@ -1766,6 +1775,15 @@
       "title": "FUNDACIÓN AMANCIO ORTEGA GAONA.",
       "description": "V. Anuncios. - C. Anuncios particulares - ANUNCIOS PARTICULARES - Referencia: BOE-B-2026-28421 - KBytes: 195 - Páginas: 1",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-28421",
+      "time": "2026-09-01T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto 718/2026, de 2 de septiembre, por el que se modifica el Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.",
+      "description": "III. Otras disposiciones - PRESIDENCIA DEL GOBIERNO - Situación de interés para la seguridad nacional - Referencia: BOE-A-2026-18508 - KBytes: 207 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18508",
       "time": "2026-09-01T22:00:00+00:00",
       "source": "BOE",
       "source_id": "boe",
@@ -3981,51 +3999,6 @@
       "description": "El naronés, que esta semana compite en el P1 de Madrid, viene de proclamarse campeón de España cadete tras estar al borde de la retirada en la final",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/31/iago-fuertes-ganador-prueba-obstaculos-sufrio-golpe-calor/00031788191006244907680.htm",
       "time": "2026-08-31T15:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Mirfak acaricia su décimo Trofeo Presidente Xunta de Galicia",
-      "description": "El velero ferrolano encara líder la recta final de la competición, con nueva regata el fin de semana en Baiona",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/31/mirfak-lidera-clasificacion-trofeo-presidente-xunta-galicia/00031788183164187896879.htm",
-      "time": "2026-08-31T13:40:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vuelve el pádel a As Somozas, con cuatro días de torneo y buen ambiente",
-      "description": "Con la totalidad de inscripciones disponibles cubiertas, se desarrollará la segunda edición del Torneo Complexo Multiusos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/08/31/vuelve-padel-as-somozas-cuatro-dias-torneo-buen-ambiente/00031788180401913825206.htm",
-      "time": "2026-08-31T13:05:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El ferrolano Bruno Martín destrona al campeón del mundo en Penencia",
-      "description": "La novena edición del campeonato de bodyboard Cidade de Ferrol exhibió el músculo local con gestas como la victoria sobre Armide Soliveres",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/31/ferrolano-bruno-martin-destrona-campeon-mundo-penencia/00031788178428847538415.htm",
-      "time": "2026-08-31T12:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Elas seguen na cancha», la propuesta 3x3 para redondear la Copa Galicia femenina",
-      "description": "La Federación Galega de Baloncesto organiza esta iniciativa gratuita, el 12 de septiembre, coincidiendo con la disputa del torneo en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/31/elas-seguen-na-cancha-propuesta-3x3-redondear-copa-galicia/00031788175752454687681.htm",
-      "time": "2026-08-31T11:40:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los veteranos del Racing Club Ferrol y su incesante lluvia de títulos",
-      "description": "Golearon al Carral (4-1) para sumar un nuevo trofeo a las vitrinas de A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/31/veteranos-racing-club-ferrol-incesante-lluvia-titulos/00031788173241759979615.htm",
-      "time": "2026-08-31T10:53:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
