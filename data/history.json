@@ -1,6 +1,6 @@
 {
   "hours": 48,
-  "count": 444,
+  "count": 445,
   "items": [
     {
       "title": "El castillo de La Palma de Mugardos, 24 años de un proyecto que no da frutos",
@@ -105,6 +105,15 @@
       "title": "Ferrol en Común denuncia los daños en viales por maderistas",
       "description": "Critica la « pasividade » del gobierno local y demanda una ordenanza municipal",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/02/ferrol-comun-denuncia-danos-viales-maderistas/0003_202609F2C3993.htm",
+      "time": "2026-09-02T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Procesan por desobediencia a un militar de Ferrol por negarse a llevar pan al campo de tiro de Parga",
+      "description": "El soldado alegaba que no podía regresar a su base a tiempo sin extender su jornada más de lo debido, pero el compañero que realizó la tarea sí lo hizo dentro de su horario",
+      "url": "https://www.lavozdegalicia.es/noticia/lugo/2026/08/31/procesan-desobediencia-militar-ferrol-negarse-llevar-pan-campo-tiro-parga/00031788183692748261880.htm",
       "time": "2026-09-02T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
