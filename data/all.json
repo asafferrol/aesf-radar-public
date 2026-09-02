@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T13:58:17.189079+00:00",
-  "count": 442,
+  "generated_at": "2026-09-02T17:43:04.734014+00:00",
+  "count": 441,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Ares se queda fuera de La Concha tras finalizar undécimo en la clasificatoria",
+      "description": "La trainera gallega completó la prueba en 20:40.96 y no logró una de las siete plazas en juego",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/02/ares-queda-fuera-concha-tras-finalizar-undecimo-clasificatoria/00031788368898389731145.htm",
+      "time": "2026-09-02T17:11:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "María Torrente: «Queremos que Ferrolterra vuelva a tener ese balonmano que había»",
+      "description": "El club naronés busca recuperar la cantera como base de su proyecto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/02/maria-torrentequeremos-ferrolterra-vuelva-tener-balonmano-habia/00031788368302778753336.htm",
+      "time": "2026-09-02T17:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Álex Vázquez: «Espero que la afición disfrute con el Racing»",
       "description": "El director de fútbol del equipo ferrolano asegura que hay una plantilla más versátil, con hambre y experiencia",
@@ -3975,33 +3993,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El futbolista del Real Madrid Álvaro Carreras presume de Ferrol en una campaña de Silbon",
-      "description": "El ferrolano es el protagonista de la última campaña de la marca de moda",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/31/futbolista-real-madrid-alvaro-carreras-presume-ferrol-campana-silbon/00031788194915738520902.htm",
-      "time": "2026-08-31T16:51:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Almendralejo, segunda parada en la gira del Racing Club Ferrol",
-      "description": "El CD Extremadura ya tiene a la venta las entradas para el partido del domingo (18.15 horas) ya están fijadas las horas de los dos siguientes partidos en casa",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/08/31/almendralejo-segunda-parada-gira-racing-club-ferrol/00031788192547507960389.htm",
-      "time": "2026-08-31T16:13:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Iago Fuertes, un ganador a prueba de obstáculos: «Sufrió un golpe de calor»",
-      "description": "El naronés, que esta semana compite en el P1 de Madrid, viene de proclamarse campeón de España cadete tras estar al borde de la retirada en la final",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/08/31/iago-fuertes-ganador-prueba-obstaculos-sufrio-golpe-calor/00031788191006244907680.htm",
-      "time": "2026-08-31T15:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
