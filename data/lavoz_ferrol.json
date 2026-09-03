@@ -1,5 +1,23 @@
 [
   {
+    "title": "Una motorista de 45 años resultó herida en un choque con un turismo en el centro de Ferrol",
+    "description": "La mujer fue trasladada a un centro hospitalario para ser atendida de sus lesiones",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/motorista-45-anos-resulto-herida-choque-turismo-centro-ferrol/00031788425513652632703.htm",
+    "time": "2026-09-03T09:06:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Investigan en Ferrol un incendio intencionado en una vivienda tras derramar la propietaria aceite por las escaleras",
+    "description": "Se declararon varios focos en el edificio afectado, situado en el barrio de San Pablo, causando daños materiales pero no personales",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/investigan-ferrol-incendio-intencionado-varios-focos-vivienda-tras-derramar-propietaria-aceite-escaleras/00031788423265930355196.htm",
+    "time": "2026-09-03T08:46:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Cien mil personas en las fiestas de Ferrol: « Acertamos na programación »",
     "description": "Asistencia «récord» en los once días del cartel más caro en la historia de la ciudad",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/cien-mil-personas-fiestas/0003_202609F3C1991.htm",
@@ -21,24 +39,6 @@
     "title": "Sin fecha para acabar la renovación exterior del centro cívico de Caranza en Ferrol",
     "description": "Suspendido el contrato a la espera de un modificado por el saneamiento",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/fecha-acabar-renovacion-exterior-centro-civico-caranza/0003_202609F3C2991.htm",
-    "time": "2026-09-03T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Concello de Ferrol destinará 90.000 euros a asfaltar Ejército Español",
-    "description": "Aprobado el proyecto para la renovación del pavimento",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/concello-destinara-90000-euros-asfaltar-ejercito-espanol/0003_202609F3C2993.htm",
-    "time": "2026-09-03T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Pontedeume cierra la compra de los almacenes del Parque Sarmiento para erigir el futuro auditorio",
-    "description": "El alcalde destaca que se trata de « un paso moi importante » para atender « unha demanda histórica »",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/03/pontedeume-cierra-compra-solar-futuro-auditorio/0003_202609F3C5993.htm",
     "time": "2026-09-03T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -126,6 +126,24 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "El Concello de Ferrol destinará 90.000 euros a asfaltar Ejército Español",
+    "description": "Aprobado el proyecto para la renovación del pavimento",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/concello-destinara-90000-euros-asfaltar-ejercito-espanol/0003_202609F3C2993.htm",
+    "time": "2026-09-03T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Pontedeume cierra la compra de los almacenes del Parque Sarmiento para erigir el futuro auditorio",
+    "description": "El alcalde destaca que se trata de « un paso moi importante » para atender « unha demanda histórica »",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/03/pontedeume-cierra-compra-solar-futuro-auditorio/0003_202609F3C5993.htm",
+    "time": "2026-09-03T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Cinco mil personas se movilizaron en Ferrol en «solidaridad y apoyo» con el pueblo ceutí",
     "description": "Las concentraciones se extendieron por varias localidades de la comarca",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/02/cinco-mil-personas-movilizaron-ferrol-defensa-pueblo-ceuti/00031788377318205509583.htm",
@@ -183,15 +201,6 @@
     "title": "Ortigueira compra un local para dar servicio a las parroquias de Luía y Luhama",
     "description": "El Concello ha formalizado la adquisición de un espacio de 730 metros cuadrados",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/02/ortigueira-compra-local-dar-servicio-parroquias-luia-luhama/0003_202609F2C6991.htm",
-    "time": "2026-09-02T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Ferrol en Común denuncia los daños en viales por maderistas",
-    "description": "Critica la « pasividade » del gobierno local y demanda una ordenanza municipal",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/02/ferrol-comun-denuncia-danos-viales-maderistas/0003_202609F2C3993.htm",
     "time": "2026-09-02T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -274,15 +283,6 @@
     "description": "En playas como A Frouxeira o la de Ber acaban esta semana",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/02/socorristas-alargan-vigilancia-mediados-septiembre/0003_202609F2C4995.htm",
     "time": "2026-09-01T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El futbolista del Real Madrid Álvaro Carreras presume de Ferrol en una campaña de Silbon",
-    "description": "El ferrolano es el protagonista de la última campaña de la marca de moda",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/08/31/futbolista-real-madrid-alvaro-carreras-presume-ferrol-campana-silbon/00031788194915738520902.htm",
-    "time": "2026-08-31T16:51:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
