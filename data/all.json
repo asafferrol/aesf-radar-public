@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:51:00.876528+00:00",
-  "count": 412,
+  "generated_at": "2026-09-03T17:18:57.082050+00:00",
+  "count": 409,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Turismo precinta el cámping A Lagoa de Valdoviño, propiedad del Concello y de gestión privada",
+      "description": "La Xunta explica el cierre por contar con más bungalós de los previstos en la autorización turística de apertura",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/03/turismo-precinta-camping-lagoa-valdovino-propiedad-concello-gestion-privada/00031788448150687781117.htm",
+      "time": "2026-09-03T15:43:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Más de mil jóvenes se citan en el Torneo Cidade de Narón",
+      "description": "La competición reunirá a equipos de España, Portugal, Alemania e Italia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/1000-jovenes-citan-torneo-cidade-naron/00031788449520740936681.htm",
+      "time": "2026-09-03T15:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Último test de O Parrulo Ferrol antes de empezar la Liga Prime Futsal",
+      "description": "Los de Gerard Casas se miden mañana al Noia Portus Apóstoli a las 20.00 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/ultimo-test-parrulo-ferrol-empezar-liga-prime-futsal/00031788449170759814110.htm",
+      "time": "2026-09-03T15:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La caída de un árbol durante una tala destroza la terraza de O Torreón de Fene: «Si hubiera sido el martes, con gente de sobremesa, morimos todos»",
       "description": "Los trabajos de corta de los eucaliptos del Parque Lineal do Río Cádavo, contratados por el Concello, comenzaron el lunes y el accidente se produjo el miércoles por la tarde",
@@ -3678,60 +3705,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Gobierno pide paciencia para la planta china de SAIC en Ferrol",
-      "description": "El Ejecutivo se muestra «optimista», aunque admite que se trata de una operación «muy compleja»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/01/gobierno-pide-paciencia-planta-china-saic-ferrol/00031788279487677605273.htm",
-      "time": "2026-09-01T16:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Hugo Rascado: «Pelearemos para que Ares siga la próxima temporada en la liga ACT»",
-      "description": "«Tenemos pocas referencias de los rivales del ?playoff? de permanencia», señala el patrón de la trainera del club aresano",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/09/02/pelearemos-ares-siga-proxima-temporada-liga-act/0003_202609F2P39991.htm",
-      "time": "2026-09-01T16:19:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Eto'o, un apellido ilustre para cerrar la delantera del Racing Club Ferrol",
-      "description": "Etienne, hijo del mítico delantero del Barcelona, recala en A Malata cedido por el Rayo Vallecano",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/01/etoo-apellido-ilustre-cerrar-detalentera-racing-club-ferrol/00031788249599278111730.htm",
-      "time": "2026-09-01T15:34:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una empresa debe indemnizar a una trabajadora por tardar en tramitar el protocolo antiacoso",
-      "description": "El TSXG tiene en cuenta el daño moral causado a la empleada",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/02/empresa-debe-indemnizar-trabajadora-tardar-tramitar-protocolo-antiacoso/0003_202609F2C4992.htm",
-      "time": "2026-09-01T15:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Iago Fuertes debuta a lo grande en un cuadro principal de P1: «Es algo único»",
-      "description": "Con solo 16 años, el naronés se exhibió en el segundo torneo más importante del circuito internacional de pádel en una cita a la que no faltó Álvaro Carreras",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/01/iago-fuertes-debuta-grande-cuadro-principal-p1-unico/00031788270737508336821.htm",
-      "time": "2026-09-01T14:07:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Empujón a la red eléctrica en Ferrolterra que garantizará el suministro a la planta china de SAIC y a la de Indra en As Pontes",
-      "description": "El operador del sistema destinará 27,4 millones de euros a dos subestaciones en la antigua villa minera y en San Sadurniño, que atraerán nuevos proyectos industriales",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/01/gobierno-destinara-274-millones-euros-subestacion-as-pontes-atraera-nuevos-proyectos-industriales/00031788261997244538680.htm",
-      "time": "2026-09-01T13:59:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
