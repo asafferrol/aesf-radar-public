@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 409,
+  "count": 410,
   "items": [
+    {
+      "title": "Arranca la instalación de la nueva cubierta de A Malata",
+      "description": "Las primeras cerchas ya están listas para ser instaladas en la grada de Preferencia",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/04/arranca-instalacion-nueva-cubierta/0003_202609F4P33991.htm",
+      "time": "2026-09-03T17:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Turismo precinta el cámping A Lagoa de Valdoviño, propiedad del Concello y de gestión privada",
       "description": "La Xunta explica el cierre por contar con más bungalós de los previstos en la autorización turística de apertura",
