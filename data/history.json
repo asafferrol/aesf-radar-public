@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 414,
+  "count": 412,
   "items": [
+    {
+      "title": "La caída de un árbol durante una tala destroza la terraza de O Torreón de Fene: «Si hubiera sido el martes, con gente de sobremesa, morimos todos»",
+      "description": "Los trabajos de corta de los eucaliptos del Parque Lineal do Río Cádavo, contratados por el Concello, comenzaron el lunes y el accidente se produjo el miércoles por la tarde",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/03/caida-arbol-durante-tala-destroza-terraza-torreon-fene-hubiera-martes-gente-sobremesa-morimos-/00031788429813157915187.htm",
+      "time": "2026-09-03T10:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una motorista de 45 años resultó herida en un choque con un turismo en el centro de Ferrol",
       "description": "La mujer fue trasladada a un centro hospitalario para ser atendida de sus lesiones",
@@ -3697,33 +3706,6 @@
       "description": "El operador del sistema destinará 27,4 millones de euros a dos subestaciones en la antigua villa minera y en San Sadurniño, que atraerán nuevos proyectos industriales",
       "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/01/gobierno-destinara-274-millones-euros-subestacion-as-pontes-atraera-nuevos-proyectos-industriales/00031788261997244538680.htm",
       "time": "2026-09-01T13:59:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las perlas del fútbol europeo se dan cita en el Torneo Cidade de Narón",
-      "description": "Canteras como Dépor o Celta y equipos de Alemania o Italia toman parte en el evento que organiza O Freixo y cuenta con el respaldo de la Deputación de A Coruña",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/01/perlas-futbol-europeo-dan-cita-torneo-cidade-naron/00031788264406822671299.htm",
-      "time": "2026-09-01T12:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Universidade da Coruña remodela su equipo con la economía como uno de sus grandes desafíos",
-      "description": "Cinco nuevos cargos se incorporan al equipo rectoral, que contará además con un nuevo Vicerrectorado de Estrategia Digital e Inteligencia Artificial",
-      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/09/01/roberto-cao-remodela-equipo-universidade-da-coruna-economia-grandes-desafios/00031788255549339795486.htm",
-      "time": "2026-09-01T10:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing ficha a David Osei, aunque jugará cedido en el UD Somozas",
-      "description": "El ghanés estuvo a prueba con el equipo verde toda la pretemporada",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/01/racing-ficha-davidosei-jugara-cedido-somozas/00031788257734916436478.htm",
-      "time": "2026-09-01T10:22:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
