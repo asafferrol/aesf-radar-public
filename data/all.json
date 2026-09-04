@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T08:58:57.541596+00:00",
-  "count": 392,
+  "generated_at": "2026-09-04T13:20:40.700896+00:00",
+  "count": 394,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Nuevo acto vandálico en A Frouxeira, en Valdoviño: revientan una arqueta y abren el agua de las duchas de la playa",
+      "description": "El Concello denuncia lo sucedido esta noche, «especialmente grave na situación de seca que se está a vivir»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/04/nuevo-acto-vandalico-frouxeira-valdovino-revientan-llaves-paso-agua-sale-control-duchas-playa/00031788521384275195861.htm",
+      "time": "2026-09-04T11:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El fútbol de Ferrolterra, al detalle",
+      "description": "La Guía de la Liga de La Voz se publicará mañana con 168 páginas de información",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/futbol-ferrolterra-detalle/0003_202609F4P48991.htm",
+      "time": "2026-09-04T09:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El sevillano Francisco Javier Expósito arbitrará el CD Extremadura - Racing Club Ferrol",
+      "description": "El sevillano, que cuenta con un antecedente el pasado curso en A Malata, vuelve al Francisco de la Hera ocho años después",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/04/sevillano-francisco-javier-exposito-arbitrara-cd-extremadura-racing-club-ferrol/00031788512921379145149.htm",
+      "time": "2026-09-04T09:12:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Crece la preocupación por el embalse de As Forcadas: «Nunca se ha visto tan bajo»",
       "description": "El Concello de Ferrol recomienda «extremar las medidas de ahorro» y el alcalde de Valdoviño propone limpiar el pantano y un plan para atajar las fugas de la red",
@@ -3540,15 +3567,6 @@
       "description": "El club naronés busca recuperar la cantera como base de su proyecto",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/02/maria-torrentequeremos-ferrolterra-vuelva-tener-balonmano-habia/00031788368302778753336.htm",
       "time": "2026-09-02T17:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Álex Vázquez: «Espero que la afición disfrute con el Racing»",
-      "description": "El director de fútbol del equipo ferrolano asegura que hay una plantilla más versátil, con hambre y experiencia",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/02/alex-vazquez/00031788348818531394948.htm",
-      "time": "2026-09-02T12:17:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
