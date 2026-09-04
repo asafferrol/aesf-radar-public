@@ -1,5 +1,41 @@
 [
   {
+    "title": "El Racing de Ferrol visitará al CD Lugo el sábado 26 de septiembre",
+    "description": "El partido se disputará a las 16.30 horas en el Anxo Carro",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/05/javi-vazquez-visitaran-cd-lugo-sabado-26-septiembre/0003_202609F5P36994.htm",
+    "time": "2026-09-04T15:27:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Gran Premio Deputación da Coruña, el mejor escaparate para el fútbol base",
+    "description": "Más de un millar de participantes de distintos países europeos exhiben su talento en el evento que organiza el Narón O Freixo en Río Seco",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/gran-premio-deputacion-da-coruna-mejor-escaparate-futbol-base/0003_202609F5P39991.htm",
+    "time": "2026-09-04T15:16:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Qué hacer este fin de semana en el área de Ferrol: de las Meninas de Canido a la Festa do Pan de Neda",
+    "description": "Septiembre arranca como se fue agosto, con una agenda llena de fiestas patronales, citas gastronómicas y festivales que harán que el ritmo no pare en las comarcas de Ferrolterra, Eume y Ortegal",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/fin-semana-zona-ferrol/00031788427187678758292.htm",
+    "time": "2026-09-04T14:34:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El CD Extremadura, el engañoso recién ascendido al que impulsa Courtois",
+    "description": "El portero y su grupo inversor desembarcaron en el club en mayo y el músculo del proyecto se deja sentir en una plantilla con nombres propios que se mide al Racing",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/04/extremadura-enganoso-recien-ascendido-impulsa-courtois/00031788531192418243611.htm",
+    "time": "2026-09-04T14:21:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Nuevo acto vandálico en A Frouxeira, en Valdoviño: revientan una arqueta y abren el agua de las duchas de la playa",
     "description": "El Concello denuncia lo sucedido esta noche, «especialmente grave na situación de seca que se está a vivir»",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/04/nuevo-acto-vandalico-frouxeira-valdovino-revientan-llaves-paso-agua-sale-control-duchas-playa/00031788521384275195861.htm",
@@ -27,9 +63,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "¿Qué se hace en los centros educativos a puerta cerrada? Así es el «making of» del nuevo curso",
-    "description": "En el CPR Loyola de Mugardos se centran en preparar materiales, reuniones del claustro y llamadas a las familias durante estas jornadas",
-    "url": "https://www.lavozdegalicia.es/noticia/educacion/2026/09/03/centros-educativos-puerta-cerrada-making-of-nuevo-curso/00031788449685320530578.htm",
+    "title": "Crece la preocupación por el embalse de As Forcadas: «Nunca se ha visto tan bajo»",
+    "description": "El Concello de Ferrol recomienda «extremar las medidas de ahorro» y el alcalde de Valdoviño propone limpiar el pantano y un plan para atajar las fugas de la red",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/preocupacion-embalse-as-forcadas-nunca-vio-bajo/0003_202609F4C1991.htm",
     "time": "2026-09-04T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -57,15 +93,6 @@
     "title": "Inyección de 2,5 millones de euros para equipar diferentes servicios del nuevo edificio asistencial del Marcide",
     "description": "La inversión permitirá permitirá dotar de tecnología médica y mobiliario a las nuevas Urgencias, las UCI de adultos y neonatos, Nefrología, Cardiología y zonas de hospitalización",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/inyeccion-25-millones-euros-equipar-diferentes-servicios-nuevo-edificio-asistencial-marcide/0003_202609F4C2991.htm",
-    "time": "2026-09-04T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Crece la preocupación por el embalse de As Forcadas: «Nunca se ha visto tan bajo»",
-    "description": "El Concello de Ferrol recomienda «extremar las medidas de ahorro» y el alcalde de Valdoviño propone limpiar el pantano y un plan para atajar las fugas de la red",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/preocupacion-embalse-as-forcadas-nunca-vio-bajo/0003_202609F4C1991.htm",
     "time": "2026-09-04T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -108,18 +135,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El milagro de las fiestas de Santa Icía, en Narón, o cómo salvar el patrón «en solo un mes y medio»",
-    "description": "Una comisión formada por tres personas logró en tiempo récord organizar los festejos y contratar a la orquesta Olympus",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/04/milagro-salvo-patron-solo-mes-mediofiestas-santa-icia/0003_202609F4C4993.htm",
+    "title": "¿Qué se hace en los centros educativos a puerta cerrada? Así es el «making of» del nuevo curso",
+    "description": "En el CPR Loyola de Mugardos se centran en preparar materiales, reuniones del claustro y llamadas a las familias durante estas jornadas",
+    "url": "https://www.lavozdegalicia.es/noticia/educacion/2026/09/03/centros-educativos-puerta-cerrada-making-of-nuevo-curso/00031788449685320530578.htm",
     "time": "2026-09-04T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Las Meninas de Canido arrancan con mercado creativo y varios conciertos",
-    "description": "El festival artístico se prolongará hasta el domingo",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/meninas-canido-arrancan-mercado-creativo-varios-conciertos/0003_202609F4C5995.htm",
+    "title": "El milagro de las fiestas de Santa Icía, en Narón, o cómo salvar el patrón «en solo un mes y medio»",
+    "description": "Una comisión formada por tres personas logró en tiempo récord organizar los festejos y contratar a la orquesta Olympus",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/04/milagro-salvo-patron-solo-mes-mediofiestas-santa-icia/0003_202609F4C4993.htm",
     "time": "2026-09-04T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -139,15 +166,6 @@
     "description": "Las primeras cerchas ya están listas para ser instaladas en la grada de Preferencia",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/04/arranca-instalacion-nueva-cubierta/0003_202609F4P33991.htm",
     "time": "2026-09-03T17:53:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Más de mil jóvenes se citan en el Torneo Cidade de Narón",
-    "description": "La competición reunirá a equipos de España, Portugal, Alemania e Italia",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/1000-jovenes-citan-torneo-cidade-naron/00031788449520740936681.htm",
-    "time": "2026-09-03T15:39:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -225,15 +243,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Álex Vázquez: «Espero que la afición disfrute con el Racing»",
-    "description": "El director de fútbol del equipo ferrolano asegura que hay una plantilla más versátil, con hambre y experiencia",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/02/alex-vazquez/00031788348818531394948.htm",
-    "time": "2026-09-02T12:17:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El castillo de La Palma de Mugardos, 24 años de un proyecto que no da frutos",
     "description": "Uno de los propietarios estudia sacar a subasta pública el 25 % de las acciones",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/09/01/castillo-palma-mugardos-24-anos-proyecto-da-frutos/00031788282283564666145.htm",
@@ -265,15 +274,6 @@
     "description": "La Diputación y la USC inician los trabajos de exhumación en el cementerio",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/02/buscan-serantes-restos-197-represaliados-franquismo/0003_202609F2C3991.htm",
     "time": "2026-09-02T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Racing de Ferrol ofrece una segunda oportunidad a Raúl Blanco",
-    "description": "El media punta ya vistió la camiseta del club en la campaña 2024-25 y, con la persiana del mercado bajada, cierra la plantilla como jugador 22",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/01/racing-ferrol-ofrece-segunda-oportunidad-raul-blanco/00031788255900168589311.htm",
-    "time": "2026-09-01T22:17:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

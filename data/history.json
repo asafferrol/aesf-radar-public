@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 394,
+  "count": 398,
   "items": [
+    {
+      "title": "El Racing de Ferrol visitará al CD Lugo el sábado 26 de septiembre",
+      "description": "El partido se disputará a las 16.30 horas en el Anxo Carro",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/05/javi-vazquez-visitaran-cd-lugo-sabado-26-septiembre/0003_202609F5P36994.htm",
+      "time": "2026-09-04T15:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Gran Premio Deputación da Coruña, el mejor escaparate para el fútbol base",
+      "description": "Más de un millar de participantes de distintos países europeos exhiben su talento en el evento que organiza el Narón O Freixo en Río Seco",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/gran-premio-deputacion-da-coruna-mejor-escaparate-futbol-base/0003_202609F5P39991.htm",
+      "time": "2026-09-04T15:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Qué hacer este fin de semana en el área de Ferrol: de las Meninas de Canido a la Festa do Pan de Neda",
+      "description": "Septiembre arranca como se fue agosto, con una agenda llena de fiestas patronales, citas gastronómicas y festivales que harán que el ritmo no pare en las comarcas de Ferrolterra, Eume y Ortegal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/fin-semana-zona-ferrol/00031788427187678758292.htm",
+      "time": "2026-09-04T14:34:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El CD Extremadura, el engañoso recién ascendido al que impulsa Courtois",
+      "description": "El portero y su grupo inversor desembarcaron en el club en mayo y el músculo del proyecto se deja sentir en una plantilla con nombres propios que se mide al Racing",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/04/extremadura-enganoso-recien-ascendido-impulsa-courtois/00031788531192418243611.htm",
+      "time": "2026-09-04T14:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Nuevo acto vandálico en A Frouxeira, en Valdoviño: revientan una arqueta y abren el agua de las duchas de la playa",
       "description": "El Concello denuncia lo sucedido esta noche, «especialmente grave na situación de seca que se está a vivir»",
