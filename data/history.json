@@ -3,6 +3,15 @@
   "count": 396,
   "items": [
     {
+      "title": "Novoa abrocha la victoria de O Parrulo en su derbi contra el Noia (3-2)",
+      "description": "El doblete del de Benavente encarriló un sufrido triunfo para los de A Malata en el último test de pretemporada antes de un nuevo inicio de la liga en la élite",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/04/parrulo-noia/00031788543502642991308.htm",
+      "time": "2026-09-04T19:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
       "title": "El Racing de Ferrol visitará al CD Lugo el sábado 26 de septiembre",
       "description": "El partido se disputará a las 16.30 horas en el Anxo Carro",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/05/javi-vazquez-visitaran-cd-lugo-sabado-26-septiembre/0003_202609F5P36994.htm",
@@ -3556,15 +3565,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Cinco mil personas se movilizaron en Ferrol en «solidaridad y apoyo» con el pueblo ceutí",
-      "description": "Las concentraciones se extendieron por varias localidades de la comarca",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/02/cinco-mil-personas-movilizaron-ferrol-defensa-pueblo-ceuti/00031788377318205509583.htm",
-      "time": "2026-09-02T19:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
