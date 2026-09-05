@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T15:35:23.859990+00:00",
-  "count": 547,
+  "generated_at": "2026-09-05T17:34:14.839664+00:00",
+  "count": 548,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 41,
+      "count": 42,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -26,10 +26,37 @@
   },
   "items": [
     {
+      "title": "Pinceladas de una Venecia onírica con la firma de Antonio Seijas en Platas",
+      "description": "El artista inauguró el pasado viernes su nueva muestra, en la que también exhibe otras obras de diferentes etapas, algunas inéditas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/pinceladas-venecia-onirica-firma-antonio-seijas-platas/00031788628291831260763.htm",
+      "time": "2026-09-05T17:17:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
       "title": "Dos personas heridas en tres accidentes registrados en Ferrol y Cabanas",
       "description": "En la calle Celso Emilio Ferreiro se produjo una colisión por alcance con un lesionado",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/dos-personas-heridas-tres-accidentes-registrados-ferrol-cabanas/00031788620036014349151.htm",
       "time": "2026-09-05T14:57:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ojeda, el mejor refrigerante para el Racing Club Ferrol",
+      "description": "Su calidad será crucial para enfriar el juego ante un CD Extremadura con facilidad para plantarse en el último tercio en un choque con el mercurio rozando los 40 grados",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/05/ojeda-mejor-refrigerante-racing-club-ferrol/00031788627553186156270.htm",
+      "time": "2026-09-05T12:59:28+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "David Novoa: «Este es O Parrulo que todos queremos ver, el que pone toda la intensidad sobre la pista»",
+      "description": "El jugador, autor de dos goles ante el Noia, destaca la capacidad de competir del equipo antes del inicio de la Liga",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/david-novoa-parrulo-queremos-ver-pone-intensidad-sobre-pista/00031788623310214866222.htm",
+      "time": "2026-09-05T12:59:28+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
@@ -236,6 +263,15 @@
       "title": "Fene acometerá en septiembre la poda de cerca de 200 árboles en dos avenidas",
       "description": "Será en la avenida Naturais de Fene y en la Marqués de Figueroa",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/05/fene-acometera-septiembre-poda-cerca-200-arboles-dos-avenidas/0003_202609F5C5993.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El lobo, sin tregua en Ferrolterra: más de 50 potros muertos en A Capelada y un poni en Valdoviño",
+      "description": "Los ganaderos advierten del impacto económico y medioambiental de la merma de la población equina, clave en la prevención de incendios",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/sostenibilidad/2026/09/05/ataques-lobo-tregua/0003_202609F5C1991.htm",
       "time": "2026-09-05T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4917,33 +4953,6 @@
       "description": "Las primeras cerchas ya están listas para ser instaladas en la grada de Preferencia",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/04/arranca-instalacion-nueva-cubierta/0003_202609F4P33991.htm",
       "time": "2026-09-03T17:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Turismo precinta el cámping A Lagoa de Valdoviño, propiedad del Concello y de gestión privada",
-      "description": "La Xunta explica el cierre por contar con más bungalós de los previstos en la autorización turística de apertura",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/03/turismo-precinta-camping-lagoa-valdovino-propiedad-concello-gestion-privada/00031788448150687781117.htm",
-      "time": "2026-09-03T15:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Más de mil jóvenes se citan en el Torneo Cidade de Narón",
-      "description": "La competición reunirá a equipos de España, Portugal, Alemania e Italia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/1000-jovenes-citan-torneo-cidade-naron/00031788449520740936681.htm",
-      "time": "2026-09-03T15:39:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Último test de O Parrulo Ferrol antes de empezar la Liga Prime Futsal",
-      "description": "Los de Gerard Casas se miden mañana al Noia Portus Apóstoli a las 20.00 horas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/ultimo-test-parrulo-ferrol-empezar-liga-prime-futsal/00031788449170759814110.htm",
-      "time": "2026-09-03T15:39:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
