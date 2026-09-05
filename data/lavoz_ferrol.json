@@ -1,9 +1,45 @@
 [
   {
-    "title": "De emigrante en patera a soldador en el sector naval: «Ferrol me dio la oportunidad de salir adelante»",
-    "description": "Moussa Samake se formó en soldadura y calderería para habilitación naval de la mano del CIFP Ferrolterra y la firma naronesa Gabadi, donde realizó la estancia práctica y ya le han ofrecido un contrato",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/emigrante-patera-soldador-gabadi-ferrol-me-dio-oportunidad-salir-adelante/0003_202609F5C3995.htm",
-    "time": "2026-09-05T03:00:00+00:00",
+    "title": "Así se perfila la planificación Racing-UD Somozas: «Hay que intentar no perjudicar a nadie»",
+    "description": "El técnico Javi Vázquez, que únicamente se lleva a David Osei como representante del filial, avanza que calibrará lo máximo posible en busca del equilibrio de ambos equipos",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/05/perfila-planificacion-racing-ud-somozas-intentar-perjudicar-/00031788606007170627561.htm",
+    "time": "2026-09-05T11:22:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El SH Diana, primero de los nueve cruceros que llegarán a Ferrol antes de final de año",
+    "description": "En octubre habrá una nueva doble escala de buques turísticos en la ciudad y recalará uno de gran porte, con casi 3.000 pasajeros en su interior",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/06/sh-diana-primero-nueve-cruceros-llegaran-ferrol-final-ano/0003_202609F6C4991.htm",
+    "time": "2026-09-05T11:03:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Javi Vázquez: «Tenemos que ser un equipo más dominador con balón»",
+    "description": "El técnico racinguista reconoce los errores de la segunda parte ante el Arenas y destaca la exigencia del conjunto extremeño",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/05/javi-vazquez-pide-racing-dominador-buscar-primera-victoria-extremadura/00031788604469540693864.htm",
+    "time": "2026-09-05T10:40:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Unai Ropero y Álvaro Juan, las dos ausencias del Racing Club Ferrol",
+    "description": "David Osei, que milita en la UD Somozas, es el único jugador del filial que viaja con el primer equipo",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/05/unai-ropero-alvaro-juan-dos-ausencias-racing-club-ferrol-almendralejo/00031788602260009552424.htm",
+    "time": "2026-09-05T10:36:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Arde una palmera en la finca de una vivienda familiar en Valdoviño",
+    "description": "El incendio se produjo de madrugada y solo afectó al árbol y a una pequeña zona de campo alrededor",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/05/arde-palmera-finca-vivienda-familiar-valdovino/00031788600080911855303.htm",
+    "time": "2026-09-05T09:37:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -27,27 +63,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Movimientos en busca de viabilidad para la empresa Guidoni Quartz de Narón",
-    "description": "Nombrado un experto en reestructuración de la deuda ante la posibilidad de una futura entrada de nuevo capital",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/05/movimientos-busca-viabilidad-empresa-guidoni-quartz-naron/0003_202609F5C2993.htm",
-    "time": "2026-09-05T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El CIS de Ferrol dará el pistoletazo de salida a la nueva aceleradora de proyectos energéticos el día 8",
-    "description": "El programa ofrecerá a las empresas seleccionadas un acompañamiento integral mediante diferentes itinerarios de incubación, aceleración o consolidación de sus proyectos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/cis-ferrol-dara-pistoletazo-salida-nueva-aceleradora-proyectos-energeticos-dia-8/0003_202609F5C3992.htm",
-    "time": "2026-09-05T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "La plaza Ferrándiz de Ferrol exhibe su reforma",
     "description": "Una inversión de 570.000 euros habilitó un parque y zonas de estancia en el espacio degradado del Cuadro de Esteiro",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/plaza-ferrandiz-estrena-reforma/0003_202609F5C2991.htm",
+    "time": "2026-09-05T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "De emigrante en patera a soldador en el sector naval: «Ferrol me dio la oportunidad de salir adelante»",
+    "description": "Moussa Samake se formó en soldadura y calderería para habilitación naval de la mano del CIFP Ferrolterra y la firma naronesa Gabadi, donde realizó la estancia práctica y ya le han ofrecido un contrato",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/emigrante-patera-soldador-gabadi-ferrol-me-dio-oportunidad-salir-adelante/0003_202609F5C3995.htm",
     "time": "2026-09-05T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -99,6 +126,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "El CIS de Ferrol dará el pistoletazo de salida a la nueva aceleradora de proyectos energéticos el día 8",
+    "description": "El programa ofrecerá a las empresas seleccionadas un acompañamiento integral mediante diferentes itinerarios de incubación, aceleración o consolidación de sus proyectos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/cis-ferrol-dara-pistoletazo-salida-nueva-aceleradora-proyectos-energeticos-dia-8/0003_202609F5C3992.htm",
+    "time": "2026-09-05T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Luz verde para sacar al fin del abandono las antiguas baterías militares de Campelo",
     "description": "El pleno de Valdoviño ha aprobado por unanimidad la intervención; la Deputación sufragará por completo las tareas de recuperación patrimonial",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/05/luz-verde-sacar-fin-abandono-antiguas-baterias-militares-campelo/0003_202609F5C4991.htm",
@@ -111,15 +147,6 @@
     "title": "El Concello alerta del impacto del cierre del cámping « na imaxe turística » de Valdoviño",
     "description": "El Concello ha solicitado los informes que sustentan la medida",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/05/concello-alerta-impacto-cierre-camping-span-langglna-imaxe-turisticaspan-valdovino/0003_202609F5C8991.htm",
-    "time": "2026-09-05T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La Xunta destinó hasta agosto dos millones para formar a desempleados en Ferrolterra",
-    "description": "La delegada territorial visitó el cenro Impulsa de Narón",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/xunta-destino-agosto-dos-millones-formar-desempleados/0003_202609F5C4993.htm",
     "time": "2026-09-05T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -216,24 +243,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El fútbol de Ferrolterra, al detalle",
-    "description": "La Guía de la Liga de La Voz se publicará mañana con 168 páginas de información",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/futbol-ferrolterra-detalle/0003_202609F4P48991.htm",
-    "time": "2026-09-04T09:17:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El sevillano Francisco Javier Expósito arbitrará el CD Extremadura - Racing Club Ferrol",
-    "description": "El sevillano, que cuenta con un antecedente el pasado curso en A Malata, vuelve al Francisco de la Hera ocho años después",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/04/sevillano-francisco-javier-exposito-arbitrara-cd-extremadura-racing-club-ferrol/00031788512921379145149.htm",
-    "time": "2026-09-04T09:12:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Crece la preocupación por el embalse de As Forcadas: «Nunca se ha visto tan bajo»",
     "description": "El Concello de Ferrol recomienda «extremar las medidas de ahorro» y el alcalde de Valdoviño propone limpiar el pantano y un plan para atajar las fugas de la red",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/preocupacion-embalse-as-forcadas-nunca-vio-bajo/0003_202609F4C1991.htm",
@@ -247,15 +256,6 @@
     "description": "Una comisión formada por tres personas logró en tiempo récord organizar los festejos y contratar a la orquesta Olympus",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/04/milagro-salvo-patron-solo-mes-mediofiestas-santa-icia/0003_202609F4C4993.htm",
     "time": "2026-09-04T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Arranca la instalación de la nueva cubierta de A Malata",
-    "description": "Las primeras cerchas ya están listas para ser instaladas en la grada de Preferencia",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/04/arranca-instalacion-nueva-cubierta/0003_202609F4P33991.htm",
-    "time": "2026-09-03T17:53:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
