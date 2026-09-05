@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 549,
+  "count": 551,
   "items": [
+    {
+      "title": "La Deputación da Coruña corona al Atlético San Pedro en Pontedeume",
+      "description": "La de Oleiros se impusieron, este sábado, al Xallas en la final de la Copa provincial femenina",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/05/deputacion-da-coruna-corona-atletico-san-pedro-pontedeume/00031788636541810205358.htm",
+      "time": "2026-09-05T19:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una riña entre un hombre desnudo y una mujer moviliza a la Policía Local en A Malata",
+      "description": "El hombre depuso su actitud tras la llegada de los agentes, que comprobaron que ninguno de los dos tenía antecedentes y descartaron que se tratase de un caso de violencia machista",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/joven-completamente-desnudo-protagoniza-rina-mujer-malata/00031788635314027371811.htm",
+      "time": "2026-09-05T19:12:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Pinceladas de una Venecia onírica con la firma de Antonio Seijas en Platas",
       "description": "El artista inauguró el pasado viernes su nueva muestra, en la que también exhibe otras obras de diferentes etapas, algunas inéditas",
