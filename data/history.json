@@ -1,6 +1,6 @@
 {
   "hours": 48,
-  "count": 548,
+  "count": 549,
   "items": [
     {
       "title": "Pinceladas de una Venecia onírica con la firma de Antonio Seijas en Platas",
@@ -34,6 +34,15 @@
       "description": "El jugador, autor de dos goles ante el Noia, destaca la capacidad de competir del equipo antes del inicio de la Liga",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/david-novoa-parrulo-queremos-ver-pone-intensidad-sobre-pista/00031788623310214866222.htm",
       "time": "2026-09-05T12:59:28+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La ajedrecista ferrolana Inés Prado, campeona de España de clubes de Primera",
+      "description": "Concurrió en Linares con el Solvay cántabro sellando una gran actuación a solo unos días de partir a la Olimpiada en Uzbekistán",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/05/ajedrecista-ferrolana-ines-prado-campeona-espana-clubes-primera/00031788633494941690456.htm",
+      "time": "2026-09-05T12:59:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
@@ -249,6 +258,15 @@
       "title": "El lobo, sin tregua en Ferrolterra: más de 50 potros muertos en A Capelada y un poni en Valdoviño",
       "description": "Los ganaderos advierten del impacto económico y medioambiental de la merma de la población equina, clave en la prevención de incendios",
       "url": "https://www.lavozdegalicia.es/noticia/somosagro/sostenibilidad/2026/09/05/ataques-lobo-tregua/0003_202609F5C1991.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Charla para hacer frente al síndrome del cuidador quemado",
+      "description": "La asociación Asotrame organiza la ponencia, que se podrá seguir en línea el próximo 8 de septiembre",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/asotrame-charla-frente-sindrome-cuidador-quemado/0003_202609F5C3993.htm",
       "time": "2026-09-05T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4924,15 +4942,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Arranca la instalación de la nueva cubierta de A Malata",
-      "description": "Las primeras cerchas ya están listas para ser instaladas en la grada de Preferencia",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/04/arranca-instalacion-nueva-cubierta/0003_202609F4P33991.htm",
-      "time": "2026-09-03T17:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
