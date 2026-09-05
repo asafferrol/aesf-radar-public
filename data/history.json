@@ -1,7 +1,169 @@
 {
   "hours": 48,
-  "count": 206,
+  "count": 210,
   "items": [
+    {
+      "title": "De emigrante en patera a soldador en el sector naval: «Ferrol me dio la oportunidad de salir adelante»",
+      "description": "Moussa Samake se formó en soldadura y calderería para habilitación naval de la mano del CIFP Ferrolterra y la firma naronesa Gabadi, donde realizó la estancia práctica y ya le han ofrecido un contrato",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/emigrante-patera-soldador-gabadi-ferrol-me-dio-oportunidad-salir-adelante/0003_202609F5C3995.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El lobo, sin tregua en Ferrolterra: más de 50 potros muertos en A Capelada y un poni en Valdoviño",
+      "description": "Los ganaderos advierten del impacto económico y medioambiental de la merma de la población equina, clave en la prevención de incendios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/ataques-lobo-tregua/0003_202609F5C1991.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Reabierta en Ferrol la primera manzana de la calle Rubalcava tras nueve meses de obras",
+      "description": "Los trabajos continúan en el tramo contiguo con el objetivo municipal de terminar la primera fase este año",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/reabierta-primera-manzana-rubalcava-reurbanizada-tras-nueve-meses-obras/0003_202609F5C2992.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Movimientos en busca de viabilidad para la empresa Guidoni Quartz de Narón",
+      "description": "Nombrado un experto en reestructuración de la deuda ante la posibilidad de una futura entrada de nuevo capital",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/05/movimientos-busca-viabilidad-empresa-guidoni-quartz-naron/0003_202609F5C2993.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El CIS de Ferrol dará el pistoletazo de salida a la nueva aceleradora de proyectos energéticos el día 8",
+      "description": "El programa ofrecerá a las empresas seleccionadas un acompañamiento integral mediante diferentes itinerarios de incubación, aceleración o consolidación de sus proyectos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/cis-ferrol-dara-pistoletazo-salida-nueva-aceleradora-proyectos-energeticos-dia-8/0003_202609F5C3992.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La plaza Ferrándiz de Ferrol exhibe su reforma",
+      "description": "Una inversión de 570.000 euros habilitó un parque y zonas de estancia en el espacio degradado del Cuadro de Esteiro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/plaza-ferrandiz-estrena-reforma/0003_202609F5C2991.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Camino Inglés cierra el segundo mejor agosto de toda su historia",
+      "description": "En septiembre la media ya supera los cien peregrinos diarios; mientras, el albergue de Ferrol suma tres semanas cerrado",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/camino-ingles-cierra-segundo-mejor-agosto-historia/00031788540977715808144.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Emotiva despedida a Jose Valencia por su jubilación: «He sido muy feliz»",
+      "description": "El decano de la prensa deportiva ferrolana recibió, este viernes, un entrañable homenaje del personal del Racing y de sus compañeros de profesión",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/04/emotiva-despedida-jose-valencia-jubilacion-feliz/00031788537368853884933.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Exponav alberga «Fútbol por la paz»",
+      "description": "La muestra exhibe un centenar de camisetas históricas de selecciones nacionales",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/exponav-alberga-futbol-paz/00031788520750627719137.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Os «Mércores de Cine» volven ao Pazo da Cultura de Narón",
+      "description": "O programa consiste en catro títulos galegos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/os-mercores-cine-volven-ao-pazo-da-cultura-naron/00031788540572962301233.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Exitosa cita científica en el Campus Industrial de Ferrol",
+      "description": "Finaliza el Encuentro Ibérico de Reología, sobre estudio de materiales",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/exitosa-cita-cientifica-campus-industrial-ferrol/00031788520602821640448.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Luz verde para sacar al fin del abandono las antiguas baterías militares de Campelo",
+      "description": "El pleno de Valdoviño ha aprobado por unanimidad la intervención; la Deputación sufragará por completo las tareas de recuperación patrimonial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/05/luz-verde-sacar-fin-abandono-antiguas-baterias-militares-campelo/0003_202609F5C4991.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Concello alerta del impacto del cierre del cámping « na imaxe turística » de Valdoviño",
+      "description": "El Concello ha solicitado los informes que sustentan la medida",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/05/concello-alerta-impacto-cierre-camping-span-langglna-imaxe-turisticaspan-valdovino/0003_202609F5C8991.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Xunta destinó hasta agosto dos millones para formar a desempleados en Ferrolterra",
+      "description": "La delegada territorial visitó el cenro Impulsa de Narón",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/xunta-destino-agosto-dos-millones-formar-desempleados/0003_202609F5C4993.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PP de Pontedeume presentó a su nuevo candidato, Ignacio Iglesias Villanueva",
+      "description": "El presidente provincial del partido, Diego Calvo, arropó al aspirante a la alcaldía eumesa",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/05/pp-presenta-candidato-iglesias-villanueva/0003_202609F5C8995.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El BNG pontés critica el alquiler de un inmueble municipal y el PSOE le acusa de « poñer trabas ás empresas »",
+      "description": "El gobierno local pide a los nacionalistas que «deixen de torpedear proxectos»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/05/bng-pontes-critica-alquiler-inmueble-municipal-psoe-acusa-span-langglponer-trabasspan/0003_202609F5C8993.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "San Sadurniño inviste 20.000 euros en obras no mantemento do colexio",
+      "description": "O Concello pintou aulas, colocou tarima, reparou a calefacción e limpou o exterior",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/05/span-langglsan-sadurnino-inviste-20000-euros-obras-colexiospan/0003_202609F5C8994.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fene acometerá en septiembre la poda de cerca de 200 árboles en dos avenidas",
+      "description": "Será en la avenida Naturais de Fene y en la Marqués de Figueroa",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/05/fene-acometera-septiembre-poda-cerca-200-arboles-dos-avenidas/0003_202609F5C5993.htm",
+      "time": "2026-09-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Novoa abrocha la victoria de O Parrulo en su derbi contra el Noia (3-2)",
       "description": "El doblete del de Benavente encarriló un sufrido triunfo para los de A Malata en el último test de pretemporada antes de un nuevo inicio de la liga en la élite",
@@ -1726,132 +1888,6 @@
       "description": "Se declararon varios focos en el edificio afectado, situado en el barrio de San Pablo, causando daños materiales pero no personales",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/investigan-ferrol-incendio-intencionado-varios-focos-vivienda-tras-derramar-propietaria-aceite-escaleras/00031788423265930355196.htm",
       "time": "2026-09-03T08:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Cien mil personas en las fiestas de Ferrol: « Acertamos na programación »",
-      "description": "Asistencia «récord» en los once días del cartel más caro en la historia de la ciudad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/cien-mil-personas-fiestas/0003_202609F3C1991.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "As Pontes prevé que el nudo eléctrico consolide la villa como gran centro industrial energético",
-      "description": "González Formoso: «Todo isto supón evolucionar cara un modelo de conversión en cidade »",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/as-pontes-preve-nudo-electrico-consolide-villa-gran-centro-industrial-energetico/0003_202609F3C6991.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Sin fecha para acabar la renovación exterior del centro cívico de Caranza en Ferrol",
-      "description": "Suspendido el contrato a la espera de un modificado por el saneamiento",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/fecha-acabar-renovacion-exterior-centro-civico-caranza/0003_202609F3C2991.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Concello de Ferrol destinará 90.000 euros a asfaltar Ejército Español",
-      "description": "Aprobado el proyecto para la renovación del pavimento",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/concello-destinara-90000-euros-asfaltar-ejercito-espanol/0003_202609F3C2993.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Pontedeume cierra la compra de los almacenes del Parque Sarmiento para erigir el futuro auditorio",
-      "description": "El alcalde destaca que se trata de « un paso moi importante » para atender « unha demanda histórica »",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/03/pontedeume-cierra-compra-solar-futuro-auditorio/0003_202609F3C5993.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El verano se despide en el banco de Loiba: «Este lugar es de una belleza imponente»",
-      "description": "Los turistas sucumben al paisaje, «espectacular y envolvente», y los pocos negocios de la zona corroboran que la temporada ha estado «muy animada»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/verano-despide-banco-loiba-lugar-belleza-imponente/0003_202609F3C5991.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Xunta exige a la Sareb que complete la adjudicación de siete viviendas en Narón",
-      "description": "El secretario general de Vivienda advierte de que el IGVS ha iniciado diligencias previas y abrirá un expediente sancionador si se incumple la normativa gallega",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/xunta-exige-sareb-complete-adjudicacion-siete-viviendas-naron/0003_202609F3C3993.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las Meninas de Canido, en Ferrol, llegan a la mayoría de edad con su edición más internacional",
-      "description": "Este miércoles se presentó el decimoctavo festival artístico",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/meninas-llegan-mayoria-edad-edicion-internacional/0003_202609F3C3992.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Blanca Escrigas expone acuarelas en el centro comercial Odeón",
-      "description": "La muestra estará hasta el 14 de septiembre",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/02/blanca-escrigas-expone-acuarelas-centro-comercial-odeon/00031788364820306723948.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arranca un nuevo curso en el Aula da Natureza-Punto de Atención á Infancia de Valdoviño",
-      "description": "Veinte niños accederán este año al servicio municipal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/02/arranca-nuevo-curso-aula-da-natureza-punto-atencion-a-infancia-valdovino/00031788364945485875470.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Coloquio sobre Bello Piñeiro en Ares",
-      "description": "Tuvo lugar en la Casa Rectoral",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/09/02/coloquio-sobre-bello-pineiro-ares/00031788365053545969165.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El campus de Ferrol, polo científico internacional del estudio de materiales",
-      "description": "Desde ayer y hasta mañana acoge el Encuentro Ibérico de Reología, con cerca de un centenar de especialistas de una docena de nacionalidades",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/03/campus-ferrol-polo-cientifico-internacional-estudio-materiales/0003_202609F3C4991.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arrancan las obras de la senda que unirá Ortigueira con el aparcamiento del Festival Celta",
-      "description": "La inversión es de 400.000 euros para medio kilómetro de ruta",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/03/arrancan-obras-senda-unira-ortigueira-aparcamiento-festival-celta/0003_202609F3C6993.htm",
-      "time": "2026-09-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Tercio Norte, en el ecuador de su lucha contra los incendios forestales",
-      "description": "La operación Centinela Gallego se cerrará a finales de este mes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/03/tercio-norte-ecuador-lucha-contra-incendios/0003_202609F3C4993.htm",
-      "time": "2026-09-03T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
