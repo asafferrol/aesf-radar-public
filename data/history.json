@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 546,
+  "count": 547,
   "items": [
+    {
+      "title": "Dos personas heridas en tres accidentes registrados en Ferrol y Cabanas",
+      "description": "En la calle Celso Emilio Ferreiro se produjo una colisión por alcance con un lesionado",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/05/dos-personas-heridas-tres-accidentes-registrados-ferrol-cabanas/00031788620036014349151.htm",
+      "time": "2026-09-05T14:57:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Así se perfila la planificación Racing-UD Somozas: «Hay que intentar no perjudicar a nadie»",
       "description": "El técnico Javi Vázquez, que únicamente se lleva a David Osei como representante del filial, avanza que calibrará lo máximo posible en busca del equilibrio de ambos equipos",
