@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T09:31:14.141231+00:00",
-  "count": 384,
+  "generated_at": "2026-09-06T13:04:23.626867+00:00",
+  "count": 386,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Un coche se sale de la vía en Fene, golpea y desplaza a otro aparcado, que a su vez impacta contra un tercero también estacionado",
+      "description": "El accidente ocurrió sobre las siete de la mañana en la avenida das Pías",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/06/coche-sale-via-fene-golpea-desplaza-aparcado-vez-impacta-contra-tercero-estacionado/00031788695381504451313.htm",
+      "time": "2026-09-06T12:04:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Herido un motorista tras una colisión con un coche en Cerdido",
+      "description": "El accidente se produjo poco antes de la una de la tarde en la carretera AC-862",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/09/06/herido-motorista-tras-colision-coche-cerdido/00031788693992275827955.htm",
+      "time": "2026-09-06T11:31:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo Ferrol pierde a Turbi durante cuatro semanas por un esguince",
+      "description": "El club, que arranca un nuevo curso en Primera la próxima semana, avanza también que el regreso de Malaguti está «cada vez más cerca»",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/06/parrulo-ferrol-pierde-turbi-durante-cuatro-semanas-esguince/00031788689286491982145.htm",
+      "time": "2026-09-06T10:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Sfhir en Las Meninas de Canido: «Es un oasis de arte y creatividad»",
       "description": "El muralista madrileño que logró el título de mejor del mundo por «La violonchelista de Fene» reivindicó en el pregón «todo el esfuerzo que hay detrás» del festival",
@@ -3468,15 +3495,6 @@
       "description": "El portero y su grupo inversor desembarcaron en el club en mayo y el músculo del proyecto se deja sentir en una plantilla con nombres propios que se mide al Racing",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/04/extremadura-enganoso-recien-ascendido-impulsa-courtois/00031788531192418243611.htm",
       "time": "2026-09-04T14:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nuevo acto vandálico en A Frouxeira, en Valdoviño: revientan una arqueta y abren el agua de las duchas de la playa",
-      "description": "El Concello denuncia lo sucedido esta noche, «especialmente grave na situación de seca que se está a vivir»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/04/nuevo-acto-vandalico-frouxeira-valdovino-revientan-llaves-paso-agua-sale-control-duchas-playa/00031788521384275195861.htm",
-      "time": "2026-09-04T11:53:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
