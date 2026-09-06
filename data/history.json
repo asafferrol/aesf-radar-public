@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 384,
+  "count": 385,
   "items": [
+    {
+      "title": "Muere una mujer de avanzada edad en la playa ferrolana de San Xurxo",
+      "description": "Los socorristas dieron aviso al 112 tras avistar el cuerpo flotando a unos 50 metros de la orilla",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/06/muere-mujer-avanzada-edad-playa-ferrolana-san-xurxo/00031788715340459459590.htm",
+      "time": "2026-09-06T17:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Neda sucumbe al mejor pan y la empanada más sabrosa: «Es parte de nuestra historia»",
       "description": "El pregonero de la Festa do Pan, Eduardo Dobarro, ensalzó el trabajo de generaciones de tahoneros",
