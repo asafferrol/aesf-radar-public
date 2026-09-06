@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T23:08:59.550790+00:00",
-  "count": 387,
+  "generated_at": "2026-09-06T05:20:17.789005+00:00",
+  "count": 386,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 44,
+      "count": 45,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,114 @@
     }
   },
   "items": [
+    {
+      "title": "Sfhir en Las Meninas de Canido: «Es un oasis de arte y creatividad»",
+      "description": "El muralista madrileño que logró el título de mejor del mundo por «La violonchelista de Fene» reivindicó en el pregón «todo el esfuerzo que hay detrás» del festival",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/06/sfhir-meninas-oasis-arte-creatividad/0003_202609F6C2991.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La primera fragata F-100 enfila el cuarto de siglo a pleno rendimiento",
+      "description": "La Álvaro de Bazán ha superado dos exigentes pruebas en Estados Unidos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/06/primera-fragata-f-100-enfila-cuarto-siglo-pleno-rendimiento/0003_202609F6C5991.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Intermares seguirá cooperando con el sector pesquero hasta el 2030",
+      "description": "El buque escuela tiene su base en la Estación Naval de A Graña, en Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/intermares-seguira-cooperando-sector-pesquero-2030/00031788600738064598400.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Turismo reprocha a Valdoviño « que non vixiase a concesión do cámping » para evitar el cierre",
+      "description": "La Xunta se brinda a colaborar con el Concello «na procura dunha solución que permita avanzar na regularización»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/06/turismo-reprocha-valdovino-span-langgl-non-vixiase-concesion-do-campingspan-evitar-cierre/0003_202609F6C8992.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Más de nueve mil vehículos circularon por Cedeira el 15 de agosto, récord del verano",
+      "description": "Las cámaras registraron casi 29.000 movimientos de coches el día del eclipse",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/06/nueve-mil-vehiculos-circularon-cedeira-15-agosto-record-estival/0003_202609F6C8991.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol se lanza a un esprint político de nueve meses",
+      "description": "Los partidos inician el curso electoral con desafíos distintos pero idéntica meta: triunfar en mayo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/06/esprint-politico-nueve-meses/0003_202609F6C1991.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Curando las heridas del tiempo en el castro de Esmelle",
+      "description": "Los trabajos continúan en Tralocastro con el fin de atenuar las huellas que el paso de los siglos ha dejado en el yacimiento",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/06/curando-heridas-tiempo-castro-esmelle/0003_202609F6C10991.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A Ludoteca de Narón abrirá o luns a matrícula para o novo curso",
+      "description": "A oferta está dirixida a nenas e nenos de 2 a 12 anos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/06/span-langgl-ludoteca-naron-abre-matricula-spanspan-langgl-novo-cursospan/0003_202609F6C9994.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los guardianes de la ría de Ferrol, a la espera de tiempos mejores",
+      "description": "Mientras el castillo de San Felipe sigue en obras, La Palma está cerrado",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/guardianes-ria-ferrol-espera-tiempos-mejores/00031788540141872834385.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rubén J. Calviño, profesor y autor de «Tu cerebro tiene truco»: «Estudiar releyendo y repitiendo la información es el peor sistema»",
+      "description": "El docente aboga por conocer las dinámicas del aprendizaje antes de empezar a estudiar",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/ruben-j-calvino-profesor-autor-tu-cerebro-trucoestudiar-releyendo-repitiendo-informacion-peor-sistema/00031788537738027896362.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un fin de semana con sabor a fiesta en Neda y Pontedeume",
+      "description": "Como preámbulo a la Festa do Pan, que se celebra este domingo, el Muíño do Carrizo abrió sus puertas al público este sábado, mientras la villa de los Andrade inició los festejos de As Peras con artesanía y música urbana",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/fin-semana-sabor-fiesta-neda-pontedeume/00031788628692545284117.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ante la realidad y el recuerdo",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/ante-realidad-recuerdo/00031788607825583683249.htm",
+      "time": "2026-09-06T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La Deputación da Coruña corona al Atlético San Pedro en Pontedeume",
       "description": "La de Oleiros se impusieron, este sábado, al Xallas en la final de la Copa provincial femenina",
@@ -3387,123 +3495,6 @@
       "description": "El sevillano, que cuenta con un antecedente el pasado curso en A Malata, vuelve al Francisco de la Hera ocho años después",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/04/sevillano-francisco-javier-exposito-arbitrara-cd-extremadura-racing-club-ferrol/00031788512921379145149.htm",
       "time": "2026-09-04T09:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Crece la preocupación por el embalse de As Forcadas: «Nunca se ha visto tan bajo»",
-      "description": "El Concello de Ferrol recomienda «extremar las medidas de ahorro» y el alcalde de Valdoviño propone limpiar el pantano y un plan para atajar las fugas de la red",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/preocupacion-embalse-as-forcadas-nunca-vio-bajo/0003_202609F4C1991.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol es la ciudad de Galicia con menor accesibilidad en las viviendas",
-      "description": "Solo un 15 % de los hogares están adaptados a las necesidades de los mayores",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/04/ferrol-ciudad-galicia-menor-accesibilidad-viviendas/0003_202609F4C3991.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El cribado de cáncer de pulmón derivó al servicio de Neumología al 12 % de los participantes",
-      "description": "Casi 500 personas del área sanitaria de Ferrol se sometieron a un TAC preventivo de baja dosis para detectar nódulos pulmonares",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/cribado-cancer-pulmon-derivo-neumologia-12-participantes/0003_202609F4C2994.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Inyección de 2,5 millones de euros para equipar diferentes servicios del nuevo edificio asistencial del Marcide",
-      "description": "La inversión permitirá permitirá dotar de tecnología médica y mobiliario a las nuevas Urgencias, las UCI de adultos y neonatos, Nefrología, Cardiología y zonas de hospitalización",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/inyeccion-25-millones-euros-equipar-diferentes-servicios-nuevo-edificio-asistencial-marcide/0003_202609F4C2991.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PSOE denuncia los «continuos retrasos» en las obras de Ferrol",
-      "description": "El concejal socialista Julián Reina reprocha a Rey Varela que exija transparencia en el Senado mientras « esconde a parálise municipal »",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/psoe-denuncia-continuos-retrasos-obras-municipales/0003_202609F4C3993.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "¿Qué se hace en los centros educativos a puerta cerrada? Así es el «making of» del nuevo curso",
-      "description": "En el CPR Loyola de Mugardos se centran en preparar materiales, reuniones del claustro y llamadas a las familias durante estas jornadas",
-      "url": "https://www.lavozdegalicia.es/noticia/educacion/2026/09/03/centros-educativos-puerta-cerrada-making-of-nuevo-curso/00031788449685320530578.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Los chavalitos migrantes que llegaron a la casa rectoral de Alfoz desde Canarias se están integrando bien»",
-      "description": "Este viernes se cumple un lustro del nombramiento de Fernando García Cadiñanos como obispo de la diócesis Mondoñedo-Ferrol",
-      "url": "https://www.lavozdegalicia.es/noticia/amarina/mondonedo/2026/09/04/dos-migrantes-llegaron-alfoz-canarias-integrando-bien/0003_202609X4C3991.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Cofradía de Dolores regresa a sus orígenes con una procesión por Ferrol Vello este sábado",
-      "description": "El desfile se ha organizado con motivo del 275 aniversario de la institución canónica de la antigua Congregación de los Siervos de María",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/04/cofradia-dolores-regresa-origenes-procesion-ferrol-vello/0003_202609F4C2992.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Urbes milenarias y pioneras de la arqueología en la VI Xornada Ex Oriente Lux del campus de Ferrol",
-      "description": "Los ponentes disertarán sobre Persépolis y Hatussa y reivindicarán el legado de Mercedes Mesquida, Gertrude Bell y Kathleen Kenyon",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/urbes-milenarias-pioneras-arqueologia-vi-xornada-ex-oriente-lux/0003_202609F4C2993.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Abre el plazo para inscribirse en los cursos de informática de Xuvia, en Narón",
-      "description": "Serán gratuitos y cada uno ofertará 12 plazas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/abre-plazo-inscribirse-cursos-informatica-xuvia/0003_202609F4C5997.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El milagro de las fiestas de Santa Icía, en Narón, o cómo salvar el patrón «en solo un mes y medio»",
-      "description": "Una comisión formada por tres personas logró en tiempo récord organizar los festejos y contratar a la orquesta Olympus",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/04/milagro-salvo-patron-solo-mes-mediofiestas-santa-icia/0003_202609F4C4993.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las Meninas de Canido arrancan con mercado creativo y varios conciertos",
-      "description": "El festival artístico se prolongará hasta el domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/meninas-canido-arrancan-mercado-creativo-varios-conciertos/0003_202609F4C5995.htm",
-      "time": "2026-09-04T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Turismo cierra el cámping A Lagoa, en Valdoviño, por tener «máis bungalós dos autorizados»",
-      "description": "Los gestores de las instalaciones, de titularidad municipal, aseguran que ahora les piden un informe de impacto ambiental",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/04/turismo-cierra-camping-lagoa-valdovino-tener-bungalos-autorizados/0003_202609F4C6992.htm",
-      "time": "2026-09-04T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
