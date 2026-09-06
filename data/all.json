@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T18:16:52.965072+00:00",
-  "count": 385,
+  "generated_at": "2026-09-06T20:29:38.382595+00:00",
+  "count": 387,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Javi Vázquez: «Estamos lejos de lo que yo sueño como entrenador, es una realidad»",
+      "description": "El técnico asume la decepción por el segundo tropiezo del curso, pero pide calma para cambiar la dinámica en el estreno en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/lejos-sueno-entrenador-realidad/0003_202609F7P24995.htm",
+      "time": "2026-09-06T19:50:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El «1x1» del Racing Club Ferrol en su derrota frente al CD Extremadura",
+      "description": "Los ferrolanos no encuentran su mejor versión y un error defensivo decide el encuentro",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/06/1x1-racing-club-ferrol-frente-cd-extremadura/00031788710624799761947.htm",
+      "time": "2026-09-06T18:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Segundo palo para el Racing Club Ferrol, que cae frente al Extremadura (1-0)",
+      "description": "Un balón colgado al área desde el saque de esquina, al igual que en Fadura, derivó en la diana de Escudero y en la primera derrota del curso",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/06/cd-extremadura-racing-club-ferrol/00031788708907438404692.htm",
+      "time": "2026-09-06T18:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Muere una mujer de avanzada edad en la playa ferrolana de San Xurxo",
       "description": "Los socorristas dieron aviso al 112 tras avistar el cuerpo flotando a unos 50 metros de la orilla",
@@ -3480,15 +3507,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Novoa abrocha la victoria de O Parrulo en su derbi contra el Noia (3-2)",
-      "description": "El doblete del de Benavente encarriló un sufrido triunfo para los de A Malata en el último test de pretemporada antes de un nuevo inicio de la liga en la élite",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/04/parrulo-noia/00031788543502642991308.htm",
-      "time": "2026-09-04T19:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
