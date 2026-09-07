@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T21:49:01.907557+00:00",
-  "count": 310,
+  "generated_at": "2026-09-07T23:49:19.766694+00:00",
+  "count": 311,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -8,9 +8,10 @@
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
-      "ok": true,
-      "count": 30,
-      "name": "DOG · Xunta de Galicia"
+      "ok": false,
+      "count": 0,
+      "name": "DOG · Xunta de Galicia",
+      "error": "<urlopen error timed out>"
     },
     "boe": {
       "ok": true,
@@ -25,6 +26,15 @@
     }
   },
   "items": [
+    {
+      "title": "Un incendio calcina un coche en la carretera de San Andrés de Teixido",
+      "description": "Voluntarios de Protección Civil de Cedeira extinguieron el fuego y evitaron que se propagara al monte",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/08/incendio-calcina-coche-carretera-san-andres-teixido/00031788819564077300235.htm",
+      "time": "2026-09-07T22:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Sesión de cine e charla sobre as táboas no Océano Surf Museo, en Valdoviño",
       "description": "A proxección do documental «Spaghetti Week» terá lugar este venres, 11 de setembro",
