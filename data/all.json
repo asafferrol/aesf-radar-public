@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T15:17:01.178094+00:00",
-  "count": 583,
+  "generated_at": "2026-09-08T18:46:42.258924+00:00",
+  "count": 582,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Aplazado el desahucio de un okupa en silla de ruedas y su pareja en Caranza",
+      "description": "El hombre sufre esclerosis múltiple y no cuenta con ayudas de la administración",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/aplazado-desahucio-okupa-silla-ruedas-pareja-caranza/0003_202609F9C3992.htm",
+      "time": "2026-09-08T15:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Mirfak reina en Baiona para seguir liderando a falta de solo una jornada",
+      "description": "La embarcación de la Comisión Naval de Regatas de Ferrol sigue al frente de la clasificación del Trofeo Presidente Xunta de Galicia",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/08/mirfak-reina-baiona-seguir-liderando-falta-solo-jornada/00031788880601991937832.htm",
+      "time": "2026-09-08T15:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Pujol, el único disponible pendiente de minutaje en el Racing Club Ferrol",
       "description": "El zaguero se mantiene, junto al portero César Fernández y los lesionados Ropero y Álvaro Juan, sin debutar en este inicio de curso",
@@ -5241,33 +5259,6 @@
       "description": "Los ferrolanos no encuentran su mejor versión y un error defensivo decide el encuentro",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/06/1x1-racing-club-ferrol-frente-cd-extremadura/00031788710624799761947.htm",
       "time": "2026-09-06T18:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Segundo palo para el Racing Club Ferrol, que cae frente al Extremadura (1-0)",
-      "description": "Un balón colgado al área desde el saque de esquina, al igual que en Fadura, derivó en la diana de Escudero y en la primera derrota del curso",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/06/cd-extremadura-racing-club-ferrol/00031788708907438404692.htm",
-      "time": "2026-09-06T18:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Muere una mujer de avanzada edad en la playa ferrolana de San Xurxo",
-      "description": "Los socorristas dieron aviso al 112 tras avistar el cuerpo flotando a unos 50 metros de la orilla",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/06/muere-mujer-avanzada-edad-playa-ferrolana-san-xurxo/00031788715340459459590.htm",
-      "time": "2026-09-06T17:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Neda sucumbe al mejor pan y la empanada más sabrosa: «Es parte de nuestra historia»",
-      "description": "El pregonero de la Festa do Pan, Eduardo Dobarro, ensalzó el trabajo de generaciones de tahoneros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/07/neda-sucumbe-mejor-pan-empanada-sabrosa/0003_202609F7C8992.htm",
-      "time": "2026-09-06T15:50:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
