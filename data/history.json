@@ -1,6 +1,6 @@
 {
   "hours": 48,
-  "count": 311,
+  "count": 341,
   "items": [
     {
       "title": "Un incendio calcina un coche en la carretera de San Andrés de Teixido",
@@ -10,6 +10,276 @@
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
+    },
+    {
+      "title": "ORDEN de 4 de septiembre de 2026 por la que se dictan normas que determinan los servicios mínimos durante la huelga convocada para el día 9 de setiembre de 2026 en el ámbito de la enseñanza concertada de Galicia.",
+      "description": "III. Otras disposiciones Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0761-040926-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 2 de septiembre de 2026, de la Secretaría General de la Emigración, por la que se hace pública la convocatoria del XIV Pleno del Consejo de Comunidades Gallegas.",
+      "description": "III. Otras disposiciones Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0767-020926-0005_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 4 de septiembre de 2026 por la que se da publicidad a los convenios suscritos en el segundo cuatrimestre del año 2026.",
+      "description": "III. Otras disposiciones Agencia de Protección de la Legalidad Urbanística",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG1096-040926-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 2 de septiembre de 2026 por la que se da publicidad a las subvenciones concedidas al amparo del Acuerdo del Consello de la Xunta de Galicia, de 3 de agosto de 2026, por el que se autoriza a esta agencia para la concesión de subvenciones a los consejos reguladores de las denominaciones de calidad para gastos de funcionamiento.",
+      "description": "III. Otras disposiciones Agencia Gallega de la Calidad Alimentaria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0528-030926-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 28 de agosto de 2026 por la que se aprueba la relación provisional de personas admitidas y excluidas en el concurso específico para la provisión de puestos de trabajo vacantes en la Agencia Tributaria de Galicia.",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0597-310826-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 1 de septiembre de 2026, del tribunal designado para calificar el proceso selectivo para el ingreso, por el turno de promoción interna, en el cuerpo de gestión de la Administración general de la Comunidad Autónoma de Galicia, subgrupo A2, convocado por la Resolución de 22 de octubre de 2025 (Diario Oficial de Galicia número 208, de 28 de octubre), por la que se hacen públicos la fecha, la hora y el lugar de realización del segundo ejercicio del proceso selectivo.",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0597-020926-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 31 de agosto de 2026, de la Gerencia del Área Sanitaria de A Coruña y Cee, por el que se da publicidad a la resolución de la misma fecha para la provisión, por el procedimiento de concurso de méritos, de un puesto de jefe/a de grupo de personal estatutario de servicios generales del Servicio de Atención Primaria de Culleredo.",
+      "description": "IV. Oposiciones y concursos Servicio Gallego de Salud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0003-010926-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 27 de agosto de 2026, del Departamento Territorial de Ourense, por el que se notifica la resolución dictada en el procedimiento de cancelación individual de la inscripción en el Registro de Parejas de Hecho de Galicia (expediente OU-2024/00115).",
+      "description": "a) Administración autonómica Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0759-310826-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 27 de agosto de 2026, del Departamento Territorial de Lugo, por el que se notifica a la persona solicitante el derecho de asistencia jurídica gratuita el requerimiento de documentación, acordado por la Comisión de Asistencia Jurídica Gratuita de Lugo en el expediente PR204A 2026/2904-2.",
+      "description": "a) Administración autonómica Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0759-310826-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ACUERDO de 18 de agosto de 2026, del Departamento Territorial de Lugo, por el que se somete a información pública la solicitud de autorización administrativa previa y de construcción y la declaración de utilidad pública, en concreto, de una instalación eléctrica en el ayuntamiento de Lugo (expediente IN407A 2026/66-ATE).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0763-180826-0004_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 17 de agosto de 2026, del Departamento Territorial de A Coruña, por la que se concede la autorización administrativa previa y de construcción de una instalación de distribución eléctrica en el ayuntamiento de O Porto do Son (expediente IN407A 2026/168-1).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0763-180826-0007_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 27 de agosto de 2026, del Departamento Territorial da Coruña, por la que se deniega la autorización administrativa previa y de construcción de una instalación de distribución eléctrica en el ayuntamiento de Cedeira (expediente IN407A 2024/021-1).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0763-270826-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 31 de agosto de 2026, del Departamento Territorial de Pontevedra, por el que se comunica la consignación de los depósitos de los justiprecios de los bienes y derechos afectados por la ejecución del proyecto Sustitución apoyo 9U5RTM4C//13-1 de la LMTA CBD803, LMTA cambio sección y nueva LMTS CBD803.",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0763-010926-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 28 de julio de 2026 por la que se anuncia el procedimiento por concurso público para la contratación de un alquiler de un inmueble en Xinzo de Limia, con destino a dependencias del Distrito Forestal XV y de la Oficina Rural.",
+      "description": "a) Administración autonómica Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0597-310726-0005_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 24 de agosto de 2026, del Jurado Provincial de Clasificación de Montes Vecinales en Mano Común de Ourense, por el que se publica la resolución relativa a la revisión del croquis del monte vecinal en mano común Serra de Quinxo, en el ayuntamiento de Entrimo.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0426-310826-0003_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 24 de agosto de 2026, del Jurado Provincial de Clasificación de Montes Vecinales en Mano Común de Ourense, por el que se publica la resolución relativa a la revisión de croquis del monte vecinal en mano común Regás, en el ayuntamiento de Cartelle.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0426-310826-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 24 de agosto de 2026, del Jurado Provincial de Clasificación de Montes Vecinales en Mano Común de Ourense, por el que se publica la resolución relativa a la revisión de croquis del monte vecinal en mano común Acevedo, en el ayuntamiento de Entrimo.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0426-310826-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 25 de agosto de 2026, de la Dirección General de Defensa del Monte, por el que se notifica la resolución correspondente al expediente INC-OU-0008/2026-REP.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0426-310826-0004_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 27 de agosto de 2026, del Departamento Territorial de Ourense, por el que se emplaza al interesado para ser notificado para comparecer en el expediente ECP-OU-2/2026-VG de la zona de concentración parcelaria de Rairiz de Veiga (Rairiz de Veiga-Ourense).",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0426-310826-0005_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 18 de agosto de 2026 por la que se autoriza la transmisión mortis causa, mediante pacto de mejora, de la concesión administrativa de la batea Gerpe V.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0427-190826-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 28 de agosto de 2026, del Departamento Territorial de A Coruña, por el que se notifica el inicio del expediente PSC-CO-0388/2026-V y dos más.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0427-280826-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 31 de agosto de 2026, del Departamento Territorial de A Coruña, por el que se notifica la resolución del expediente PSC-CO-0207/2026-PPM y cuatro más.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0427-310826-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 7 de agosto de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Centro, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de Rianxo (expediente DH.A15.102374).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioO143-100826-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 28 de agosto de 2026, del Servicio Provincial de A Coruña, por el que se notifica la hoja de aprecio al no poder efectuarse las correspondientes notificaciones en el expediente de expropiación forzosa para la ejecución de la obra Eje de movilidad sostenible en Santiago de Compostela. Tramo Milladoiro-Estación Intermodal, en el ayuntamiento de Santiago de Compostela (clave AC/22/085.06).",
+      "description": "a) Administración autonómica Agencia Gallega de Infraestructuras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0181-310826-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 28 de agosto de 2026, del Área Provincial de A Coruña, por el que se emplaza a las personas interesadas para ser notificadas por comparecencia en varios expedientes del Programa del bono de alquiler social.",
+      "description": "a) Administración autonómica Instituto Gallego de la Vivienda y Suelo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioC3Q2-310826-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 28 de agosto de 2026, del Área Provincial de A Coruña, por el que se emplaza a la persona interesada para ser notificada por comparecencia en un expediente del Programa de ayuda al alquiler de vivienda de la Comunidad Autónoma de Galicia.",
+      "description": "a) Administración autonómica Instituto Gallego de la Vivienda y Suelo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioC3Q2-310826-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ACUERDO de 16 de junio de 2026, de la Zona Centro, por el que se somete a información pública la tramitación de una concesión administrativa de ocupación de la instalación 12.50.OBR.001 (pasarela y pantalán), de titularidad de esta entidad, y del edificio 12.50.EDF.004 (edificio deportes náuticos 2), no titularidad de esta entidad, para el desarrollo de actividades de formación y almacenamiento de embarcaciones del club de remo, en el puerto de A Pobra do Caramiñal (clave 12-50-24-C-1).",
+      "description": "a) Administración autonómica Puertos de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioC141-170626-0003_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de convocatoria para la cobertura en propiedad de una plaza de personal laboral fijo de oficial/a de parques y jardines.",
+      "description": "b) Administración local Ayuntamiento de O Barco de Valdeorras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioL309-020926-0001_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación en el procedimiento infructuoso relativo a la gestión de la biomasa y retirada de especies arbóreas prohibidas.",
+      "description": "b) Administración local Ayuntamiento de Betanzos",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioL109-170826-0002_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de extinción de la cooperativa.",
+      "description": "c) Otros anuncios Monte Alba, S. Coop. Galega en liquidación",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20260908/AnuncioG0570-190826-1_es.html",
+      "time": "2026-09-07T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
     },
     {
       "title": "Sesión de cine e charla sobre as táboas no Océano Surf Museo, en Valdoviño",
