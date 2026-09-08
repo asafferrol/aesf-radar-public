@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 582,
+  "count": 579,
   "items": [
+    {
+      "title": "El Baxi Ferrol se pone a cien en su estreno ante el Maristas (101-45)",
+      "description": "Las de Fer Buendía, de Liga Challenge, testaron en A Malata que la intensidad sigue siendo santo y seña de las de Lino López, que se impusieron en el Torneo Cidade de Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/08/baxi-maristas/00031788890010456307733.htm",
+      "time": "2026-09-08T20:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Aplazado el desahucio de un okupa en silla de ruedas y su pareja en Caranza",
       "description": "El hombre sufre esclerosis múltiple y no cuenta con ayudas de la administración",
@@ -5203,42 +5212,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Deportivo y el FSV Mainz alemán reinan en Río Seco",
-      "description": "El Gran Premio Deputación da Coruña XI Torneo Internacional Cidade de Narón bajó el telón este domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/06/deportivo-fsv-mainz-aleman-coronan-rio-seco/00031788726320151665378.htm",
-      "time": "2026-09-06T20:30:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Estamos lejos de lo que yo sueño como entrenador, es una realidad»",
-      "description": "El técnico asume la decepción por el segundo tropiezo del curso, pero pide calma para cambiar la dinámica en el estreno en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/lejos-sueno-entrenador-realidad/0003_202609F7P24995.htm",
-      "time": "2026-09-06T19:50:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los universitarios de A Coruña, Santiago y Ferrol, ante alquileres máximos: «Antes pagaba 220 euros, ahora mas de 300»",
-      "description": "Los jóvenes se lanzan a la redes sociales para conseguir viviendas más rápido",
-      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/09/06/universitarios-santiago-ferrol-coruna-ante-alquileres-maximos-cuatro-anos-pagaba-220-euros-300/00031788687827883360297.htm",
-      "time": "2026-09-06T19:09:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» del Racing Club Ferrol en su derrota frente al CD Extremadura",
-      "description": "Los ferrolanos no encuentran su mejor versión y un error defensivo decide el encuentro",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/06/1x1-racing-club-ferrol-frente-cd-extremadura/00031788710624799761947.htm",
-      "time": "2026-09-06T18:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
