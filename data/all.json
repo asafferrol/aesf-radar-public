@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T11:33:11.253400+00:00",
-  "count": 582,
+  "generated_at": "2026-09-08T15:17:01.178094+00:00",
+  "count": 583,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Pujol, el único disponible pendiente de minutaje en el Racing Club Ferrol",
+      "description": "El zaguero se mantiene, junto al portero César Fernández y los lesionados Ropero y Álvaro Juan, sin debutar en este inicio de curso",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/08/pujol-unico-disponible-pendiente-minutaje-racing-club-ferrol/00031788871950590617111.htm",
+      "time": "2026-09-08T13:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Galicia cuenta ya en Ferrol con una de la primeras aceleradoras de proyectos renovables del país",
+      "description": "Xunta, Cluergal y Asime lanzan en el CIS una iniciativa para acompañar a nuevas empresas verdes y prestarles apoyo financiero y técnico",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/08/galicia-cuenta-ferrol-primeras-aceleradoras-proyectos-renovables-pais/00031788870467087803309.htm",
+      "time": "2026-09-08T12:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El estadio de A Malata inicia la cuenta atrás para un estreno liguero sin capota",
+      "description": "El Racing avanza que los abonados con su asiento en el sector N de Preferencia deberán trasladarse al K, en el mismo número de fila y butaca",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/08/estadio-malata-inicia-cuenta-atras-estreno-liguero-capota/00031788868653745281544.htm",
+      "time": "2026-09-08T12:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La carretera de Castilla inicia la cuenta atrás para su renovación total en Ferrol",
       "description": "Aprobada la licitación de la mejora integral del pavimento desde la plaza de España hasta el puente de las Cabras",
@@ -5241,24 +5268,6 @@
       "description": "El pregonero de la Festa do Pan, Eduardo Dobarro, ensalzó el trabajo de generaciones de tahoneros",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/07/neda-sucumbe-mejor-pan-empanada-sabrosa/0003_202609F7C8992.htm",
       "time": "2026-09-06T15:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Puertas abiertas a la ilusión en el Baxi Ferrol",
-      "description": "Un nutrido grupo de aficionados de todas las edades disfrutaron, este domingo, de un entrenamiento con muchas caras nuevas y sorpresas en el pabellón de A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/06/puertas-abiertas-ilusion-baxi-ferrol/00031788700937508851337.htm",
-      "time": "2026-09-06T14:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un coche se sale de la vía en Fene, golpea y desplaza a otro aparcado, que a su vez impacta contra un tercero también estacionado",
-      "description": "El accidente ocurrió sobre las siete de la mañana en la avenida das Pías",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/06/coche-sale-via-fene-golpea-desplaza-aparcado-vez-impacta-contra-tercero-estacionado/00031788695381504451313.htm",
-      "time": "2026-09-06T12:04:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
