@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:30:51.045418+00:00",
+  "generated_at": "2026-09-09T11:46:23.650274+00:00",
   "count": 506,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Dos vecinos de Neda detenidos por robos de herramientas, maquinaria de jardinería y cableado eléctrico",
+      "description": "La Guardia Civil de Fene localizó a los presuntos autores de estos delitos y la mayor parte de los objetos sustraídos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/09/dos-vecinos-neda-detenidos-robos-herramientas-maquinaria-jardineria-cableado-electrico/00031788942794997284269.htm",
+      "time": "2026-09-09T08:44:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El campo de Ferrolterra, al límite por la sequía: «Teño 61 anos e non recordo todos os prados secos»",
       "description": "Los ganaderos tiran de las reservas de silo y forraje, y en A Capelada llevan agua en depósitos para abrevar a las vacas",
@@ -137,6 +146,15 @@
       "title": "La Xunta sorteará esta semana 50 viviendas de promoción pública en A Coruña y 48 en Ferrol",
       "description": "Están destinadas a alquiler accesible, de las que el 40% serán para menores de 36 años",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/xunta-sorteara-semana-50-viviendas-promocion-publica-coruna-48-ferrol/0003_202609F9C5992.htm",
+      "time": "2026-09-09T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El campo de Ferrolterra, al límite por la sequía: «Teño 61 anos e non recordo todos os prados secos»",
+      "description": "Los ganaderos tiran de las reservas de silo y forraje, y en A Capelada llevan agua en depósitos para abrevar a las vacas",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/2026/09/09/campo-limite-sequia/0003_202609F9C1991.htm",
       "time": "2026-09-09T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4557,24 +4575,6 @@
       "description": "Este mismo lunes se formalizó el contrato del tramo afectado por la FE-15, que realizará la misma empresa que el restante de la envolvente",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/adjudicadas-obras-fase-2-cubierta-malata/00031788784192155928952.htm",
       "time": "2026-09-07T12:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Lucas Díaz, portero del Racing: «Un erro individual, no meu caso, condena»",
-      "description": "Asumió su falló en la salida en el saque de esquina y pone el foco en la doble jornada en casa para revertir el mal arranque",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/lucas-diaz-portero-racing-erro-individual-meu-condena/00031788780463764612278.htm",
-      "time": "2026-09-07T11:37:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "José Castiñeiras, el ferrolano que expulsó a Gento",
-      "description": "La trayectoria del colegiado demuestra que las polémicas con el silbato no son cosa de hoy: jugó en el gran Racing, expulsó a la estrella del Madrid en los 50 y se retiró en una final de Copa",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/ferrolano-expulso-gento/00031788776726280529946.htm",
-      "time": "2026-09-07T10:51:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
