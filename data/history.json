@@ -1,7 +1,52 @@
 {
   "hours": 48,
-  "count": 507,
+  "count": 510,
   "items": [
+    {
+      "title": "Un coche acaba empotrado delante de una vivienda en Fene, tras ser golpeado por otro",
+      "description": "La conductora del vehículo que acabó en la casa resultó herida",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/09/coche-acaba-empotrado-delante-vivienda-fene-tras-golpeado/00031788974835030106647.htm",
+      "time": "2026-09-09T17:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rubo, baja de seis a ocho semanas por una fractura de clavícula",
+      "description": "El jugador del Somozas estuvo en dinámica del primer equipo en pretemporada y fue convocado contra el Arenas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/rubo-baja-seis-ocho-semanas-fractura-clavicula/0003_202609F10P40993.htm",
+      "time": "2026-09-09T17:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Pontevedra visitará A Malata el próximo sábado 3 de octubre",
+      "description": "El partido se disputará a las 16.30 horas y será el segundo derbi gallego para los racinguistas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/pontevedra-visitara-malata-proximo-sabado-3-octubre/0003_202609F10P40992.htm",
+      "time": "2026-09-09T17:26:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La nueva cubierta del estadio de A Malata empieza a tomar forma",
+      "description": "Las obran empezarán por la grada de Preferencia, siguiendo por Tribuna y terminarán con los Fondos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/09/nueva-cubierta-estadio-malata-empieza-tomar-forma/00031788974285222791171.htm",
+      "time": "2026-09-09T17:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un mal arranque para el Racing que tiene un precedente esperanzador",
+      "description": "El equipo suma un empate y una derrota en las dos primeras jornadas, pero los precedentes demuestran que aún hay margen para reaccionar",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/mal-arranque-racing-precedente-esperanzador/0003_202609F10P40991.htm",
+      "time": "2026-09-09T17:23:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una «vuelta al cole» en Ferrol marcada por las obras, la huelga en la concertada y las quejas de las Anpas",
       "description": "El seguimiento del paro parcial fue desigual en la ciudad naval, con aulas en las que no faltó ningún profesor y otras en la que se ausentaron el 70 %",
@@ -4543,24 +4588,6 @@
       "description": "La otra persona que iba en el automóvil resultó herida en la salida de vía",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/07/da-positivo-alcohol-conductor-coche-impacto-contra-arbol-farola-destrozo-vehiculo-aparcado-pontedeume/00031788808426358734839.htm",
       "time": "2026-09-07T19:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Fabio y Bernal, dos gotas de agua en un Racing con ajustes pendientes",
-      "description": "El cuerpo técnico tiene la misión de testar si la convivencia de ambos pivotes, de corte muy similar, favorece los intereses de la propuesta",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/fabio-bernal-dos-gotas-agua-racing-ajustes-pendientes/00031788795319355232585.htm",
-      "time": "2026-09-07T15:59:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Adolfo Morales, nuevo comandante de la Fuerza de Protección de la Armada: «Un reto profesional extraordinario»",
-      "description": "Tras 35 años alejado de la ciudad en la que se crio, el general de brigada de Infantería de Marina regresa a Ferrol para asumir el mando de la Fupro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/08/relevo-cupula-fupro-reto-profesional-extraordinario/0003_202609F8C3991.htm",
-      "time": "2026-09-07T15:35:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"

@@ -1,5 +1,50 @@
 [
   {
+    "title": "Un coche acaba empotrado delante de una vivienda en Fene, tras ser golpeado por otro",
+    "description": "La conductora del vehículo que acabó en la casa resultó herida",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/09/coche-acaba-empotrado-delante-vivienda-fene-tras-golpeado/00031788974835030106647.htm",
+    "time": "2026-09-09T17:50:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Rubo, baja de seis a ocho semanas por una fractura de clavícula",
+    "description": "El jugador del Somozas estuvo en dinámica del primer equipo en pretemporada y fue convocado contra el Arenas",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/rubo-baja-seis-ocho-semanas-fractura-clavicula/0003_202609F10P40993.htm",
+    "time": "2026-09-09T17:29:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Pontevedra visitará A Malata el próximo sábado 3 de octubre",
+    "description": "El partido se disputará a las 16.30 horas y será el segundo derbi gallego para los racinguistas",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/pontevedra-visitara-malata-proximo-sabado-3-octubre/0003_202609F10P40992.htm",
+    "time": "2026-09-09T17:26:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La nueva cubierta del estadio de A Malata empieza a tomar forma",
+    "description": "Las obran empezarán por la grada de Preferencia, siguiendo por Tribuna y terminarán con los Fondos",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/09/nueva-cubierta-estadio-malata-empieza-tomar-forma/00031788974285222791171.htm",
+    "time": "2026-09-09T17:25:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un mal arranque para el Racing que tiene un precedente esperanzador",
+    "description": "El equipo suma un empate y una derrota en las dos primeras jornadas, pero los precedentes demuestran que aún hay margen para reaccionar",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/mal-arranque-racing-precedente-esperanzador/0003_202609F10P40991.htm",
+    "time": "2026-09-09T17:23:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Una «vuelta al cole» en Ferrol marcada por las obras, la huelga en la concertada y las quejas de las Anpas",
     "description": "El seguimiento del paro parcial fue desigual en la ciudad naval, con aulas en las que no faltó ningún profesor y otras en la que se ausentaron el 70 %",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/vuelta-cole-marcada-obras-huelga-concertada-quejas-anpas/00031788963531778234231.htm",
@@ -22,15 +67,6 @@
     "description": "La Guardia Civil de Fene localizó a los presuntos autores de estos delitos y la mayor parte de los objetos sustraídos",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/09/dos-vecinos-neda-detenidos-robos-herramientas-maquinaria-jardineria-cableado-electrico/00031788942794997284269.htm",
     "time": "2026-09-09T08:44:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Juntas en la oposición y en su primer destino como maestras: «No nos lo podíamos creer»",
-    "description": "Nerea, Carmen, Paula y Sonia prepararon las pruebas codo con codo en la academia Equipo Laura, aprobaron a la vez y hoy comienzan a dar clase en el Atios de Valdoviño, su primer destino provisional",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/09/juntas-oposicion-primer-destino-maestras-podiamos-creer/0003_202609F9C3991.htm",
-    "time": "2026-09-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -90,6 +126,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Juntas en la oposición y en su primer destino como maestras: «No nos lo podíamos creer»",
+    "description": "Nerea, Carmen, Paula y Sonia prepararon las pruebas codo con codo en la academia Equipo Laura, aprobaron a la vez y hoy comienzan a dar clase en el Atios de Valdoviño, su primer destino provisional",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/09/juntas-oposicion-primer-destino-maestras-podiamos-creer/0003_202609F9C3991.htm",
+    "time": "2026-09-09T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "El campo de Ferrolterra, al límite por la sequía: «Teño 61 anos e non recordo todos os prados secos»",
     "description": "Los ganaderos tiran de las reservas de silo y forraje, y en A Capelada llevan agua en depósitos para abrevar a las vacas",
     "url": "https://www.lavozdegalicia.es/noticia/somosagro/2026/09/09/campo-limite-sequia/0003_202609F9C1991.htm",
@@ -102,15 +147,6 @@
     "title": "Teatro, humor, magia y ópera en el programa cultural de Ferrol para el último cuatrimestre",
     "description": "Depedro, Rhodes y la gira de Navidad de Carlos Núñez son tres de los platos fuertes de un cartel que incluirá también zarzuela y un «thriller» teatral",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/teatro-humor-magia-opera-programa-cultural-ferrol-ultimo-cuatrimestre/0003_202609F9C5991.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La Xunta sorteará esta semana 50 viviendas de promoción pública en A Coruña y 48 en Ferrol",
-    "description": "Están destinadas a alquiler accesible, de las que el 40% serán para menores de 36 años",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/xunta-sorteara-semana-50-viviendas-promocion-publica-coruna-48-ferrol/0003_202609F9C5992.htm",
     "time": "2026-09-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -180,15 +216,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El estadio de A Malata inicia la cuenta atrás para un estreno liguero sin capota",
-    "description": "El Racing avanza que los abonados con su asiento en el sector N de Preferencia deberán trasladarse al K, en el mismo número de fila y butaca",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/08/estadio-malata-inicia-cuenta-atras-estreno-liguero-capota/00031788868653745281544.htm",
-    "time": "2026-09-08T12:06:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Música, cucaña y parrochitas fritas, así despide Ferrol Vello el verano",
     "description": "El alcalde, José Manuel Rey Varela, leerá el pregón que iniciará tres días de celebraciones",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/08/musica-cucana-parrochitas-fritas-despide-barrio-pesquero-verano/0003_202609F8C5991.htm",
@@ -218,7 +245,7 @@
   {
     "title": "Neda acolle este venres o proxecto de títeres Barriga verde no Camiño",
     "description": "Haberá pasarrúas e obradoiros de construción de monicreques, entre outras propostas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/11/span-langglneda-acolle-venres-proxecto-titeres-barriga-verde-caminospan/0003_202609F8C5992.htm",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/08/span-langglneda-acolle-venres-proxecto-titeres-barriga-verde-caminospan/0003_202609F8C5992.htm",
     "time": "2026-09-08T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -261,37 +288,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Fabio y Bernal, dos gotas de agua en un Racing con ajustes pendientes",
-    "description": "El cuerpo técnico tiene la misión de testar si la convivencia de ambos pivotes, de corte muy similar, favorece los intereses de la propuesta",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/fabio-bernal-dos-gotas-agua-racing-ajustes-pendientes/00031788795319355232585.htm",
-    "time": "2026-09-07T15:59:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Adolfo Morales, nuevo comandante de la Fuerza de Protección de la Armada: «Un reto profesional extraordinario»",
     "description": "Tras 35 años alejado de la ciudad en la que se crio, el general de brigada de Infantería de Marina regresa a Ferrol para asumir el mando de la Fupro",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/08/relevo-cupula-fupro-reto-profesional-extraordinario/0003_202609F8C3991.htm",
     "time": "2026-09-07T15:35:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Adjudicadas las obras de la fase 2 de la cubierta de A Malata",
-    "description": "Este mismo lunes se formalizó el contrato del tramo afectado por la FE-15, que realizará la misma empresa que el restante de la envolvente",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/adjudicadas-obras-fase-2-cubierta-malata/00031788784192155928952.htm",
-    "time": "2026-09-07T12:33:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "José Castiñeiras, el ferrolano que expulsó a Gento",
-    "description": "La trayectoria del colegiado demuestra que las polémicas con el silbato no son cosa de hoy: jugó en el gran Racing, expulsó a la estrella del Madrid en los 50 y se retiró en una final de Copa",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/ferrolano-expulso-gento/00031788776726280529946.htm",
-    "time": "2026-09-07T10:51:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
