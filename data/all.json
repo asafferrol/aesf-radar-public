@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T18:43:39.174256+00:00",
-  "count": 510,
+  "generated_at": "2026-09-09T21:13:42.942328+00:00",
+  "count": 508,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -8,10 +8,9 @@
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
-      "ok": false,
-      "count": 0,
-      "name": "DOG · Xunta de Galicia",
-      "error": "<urlopen error timed out>"
+      "ok": true,
+      "count": 30,
+      "name": "DOG · Xunta de Galicia"
     },
     "boe": {
       "ok": true,
@@ -4597,24 +4596,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Sesión de cine e charla sobre as táboas no Océano Surf Museo, en Valdoviño",
-      "description": "A proxección do documental «Spaghetti Week» terá lugar este venres, 11 de setembro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/08/span-langglsesion-cine-charla-sobre-as-taboas-oceano-surf-museospan/0003_202609F8C5994.htm",
-      "time": "2026-09-07T20:07:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Da positivo en alcohol el conductor de un coche que impactó contra un tronco y una farola y destrozó un vehículo aparcado, en Pontedeume",
-      "description": "La otra persona que iba en el automóvil resultó herida en la salida de vía",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/07/da-positivo-alcohol-conductor-coche-impacto-contra-arbol-farola-destrozo-vehiculo-aparcado-pontedeume/00031788808426358734839.htm",
-      "time": "2026-09-07T19:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
