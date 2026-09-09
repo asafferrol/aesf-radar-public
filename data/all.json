@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:46:23.650274+00:00",
-  "count": 506,
+  "generated_at": "2026-09-09T15:20:12.169953+00:00",
+  "count": 507,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Una «vuelta al cole» en Ferrol marcada por las obras, la huelga en la concertada y las quejas de las Anpas",
+      "description": "El seguimiento del paro parcial fue desigual en la ciudad naval, con aulas en las que no faltó ningún profesor y otras en la que se ausentaron el 70 %",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/vuelta-cole-marcada-obras-huelga-concertada-quejas-anpas/00031788963531778234231.htm",
+      "time": "2026-09-09T14:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Hallados restos de tres víctimas del franquismo en la fosa del cementerio de Serantes en Ferrol",
+      "description": "La excavación para recuperar los cuerpos de los represaliados revela enterramientos verticales y signos de violencia «extrema»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/hallados-restos-tres-victimas-franquismo-fosa-cementerio-serantes-ferrol/00031788953345138383300.htm",
+      "time": "2026-09-09T11:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Dos vecinos de Neda detenidos por robos de herramientas, maquinaria de jardinería y cableado eléctrico",
       "description": "La Guardia Civil de Fene localizó a los presuntos autores de estos delitos y la mayor parte de los objetos sustraídos",
@@ -2054,6 +2072,15 @@
       "title": "Neda, de verbena con Costa Dorada y Trébol en las fiestas de Santa María",
       "description": "El jueves, Día do Neno , repartirán liscos y chorizos gratis en el Campo da Feira de Albarón",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/08/neda-verbena-costa-dorada-trebol-fiestas-santa-maria/0003_202609F8C4991.htm",
+      "time": "2026-09-08T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Neda acolle este venres o proxecto de títeres Barriga verde no Camiño",
+      "description": "Haberá pasarrúas e obradoiros de construción de monicreques, entre outras propostas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/11/span-langglneda-acolle-venres-proxecto-titeres-barriga-verde-caminospan/0003_202609F8C5992.htm",
       "time": "2026-09-08T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4557,24 +4584,6 @@
       "description": "Tras 35 años alejado de la ciudad en la que se crio, el general de brigada de Infantería de Marina regresa a Ferrol para asumir el mando de la Fupro",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/08/relevo-cupula-fupro-reto-profesional-extraordinario/0003_202609F8C3991.htm",
       "time": "2026-09-07T15:35:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol calienta motores frente al Maristas en A Malata",
-      "description": "Las de Lino López disputarán su primer partido, este martes, en el marco del Torneo Cidade de Ferrol",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/07/baxi-ferrol-calienta-motores-frente-maristas-malata/00031788787499189163494.htm",
-      "time": "2026-09-07T13:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Adjudicadas las obras de la fase 2 de la cubierta de A Malata",
-      "description": "Este mismo lunes se formalizó el contrato del tramo afectado por la FE-15, que realizará la misma empresa que el restante de la envolvente",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/07/adjudicadas-obras-fase-2-cubierta-malata/00031788784192155928952.htm",
-      "time": "2026-09-07T12:33:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"

@@ -1,36 +1,27 @@
 [
   {
+    "title": "Una «vuelta al cole» en Ferrol marcada por las obras, la huelga en la concertada y las quejas de las Anpas",
+    "description": "El seguimiento del paro parcial fue desigual en la ciudad naval, con aulas en las que no faltó ningún profesor y otras en la que se ausentaron el 70 %",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/vuelta-cole-marcada-obras-huelga-concertada-quejas-anpas/00031788963531778234231.htm",
+    "time": "2026-09-09T14:46:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Hallados restos de tres víctimas del franquismo en la fosa del cementerio de Serantes en Ferrol",
+    "description": "La excavación para recuperar los cuerpos de los represaliados revela enterramientos verticales y signos de violencia «extrema»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/hallados-restos-tres-victimas-franquismo-fosa-cementerio-serantes-ferrol/00031788953345138383300.htm",
+    "time": "2026-09-09T11:45:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Dos vecinos de Neda detenidos por robos de herramientas, maquinaria de jardinería y cableado eléctrico",
     "description": "La Guardia Civil de Fene localizó a los presuntos autores de estos delitos y la mayor parte de los objetos sustraídos",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/09/dos-vecinos-neda-detenidos-robos-herramientas-maquinaria-jardineria-cableado-electrico/00031788942794997284269.htm",
     "time": "2026-09-09T08:44:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El campo de Ferrolterra, al límite por la sequía: «Teño 61 anos e non recordo todos os prados secos»",
-    "description": "Los ganaderos tiran de las reservas de silo y forraje, y en A Capelada llevan agua en depósitos para abrevar a las vacas",
-    "url": "https://www.lavozdegalicia.es/noticia/somosagro/2026/09/09/campo-limite-sequia/0003_202609F9C1991.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La Xunta reivindica en Ferrol las oportunidades de la transición ecológica para crear empleo",
-    "description": "El conselleiro de Emprego participó en la presentación de una jornada promovida por AJE Galicia y celebrada en Exponav",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/xunta-reivindica-oportunidades-transicion-ecologica-crear-empleo/0003_202609F9C4994.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La Cámara convoca ayudas para que las pymes de Ferrolterra se blinden ante ataques digitales",
-    "description": "La cuantía máxima de la subvención asciende a más de 2.500 euros",
-    "url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/09/09/camara-convoca-ayudas-pymes-blinden-ante-ataques-digitales/0003_202609F9C2993.htm",
-    "time": "2026-09-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -99,6 +90,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "El campo de Ferrolterra, al límite por la sequía: «Teño 61 anos e non recordo todos os prados secos»",
+    "description": "Los ganaderos tiran de las reservas de silo y forraje, y en A Capelada llevan agua en depósitos para abrevar a las vacas",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/2026/09/09/campo-limite-sequia/0003_202609F9C1991.htm",
+    "time": "2026-09-09T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Teatro, humor, magia y ópera en el programa cultural de Ferrol para el último cuatrimestre",
     "description": "Depedro, Rhodes y la gira de Navidad de Carlos Núñez son tres de los platos fuertes de un cartel que incluirá también zarzuela y un «thriller» teatral",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/teatro-humor-magia-opera-programa-cultural-ferrol-ultimo-cuatrimestre/0003_202609F9C5991.htm",
@@ -117,18 +117,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Latinoamérica, nuevo teatro de operaciones para la fragata Álvaro de Bazán",
-    "description": "La unidad, con base en Ferrol, arrancará mañana su participación en el ejercicio Unitas en Perú tras finalizar otro liderado por Ecuador",
-    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/09/latinoamerica-nuevo-teatro-operaciones-fragata-alvaro-bazan/0003_202609F9C2991.htm",
+    "title": "Comienza el derribo más complejo de la muralla del Arsenal de Ferrol",
+    "description": "La demolición del muro entre la puerta de la Enfermería y la del Parque se acomete al borde de un vial militar interior que debe permanecer operativo",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/comienza-derribo-complejo-muralla-arsenal/0003_202609F9C4991.htm",
     "time": "2026-09-09T02:55:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Comienza el derribo más complejo de la muralla del Arsenal de Ferrol",
-    "description": "La demolición del muro entre la puerta de la Enfermería y la del Parque se acomete al borde de un vial militar interior que debe permanecer operativo",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/comienza-derribo-complejo-muralla-arsenal/0003_202609F9C4991.htm",
+    "title": "Latinoamérica, nuevo teatro de operaciones para la fragata Álvaro de Bazán",
+    "description": "La unidad, con base en Ferrol, arrancará mañana su participación en el ejercicio Unitas en Perú tras finalizar otro liderado por Ecuador",
+    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/09/latinoamerica-nuevo-teatro-operaciones-fragata-alvaro-bazan/0003_202609F9C2991.htm",
     "time": "2026-09-09T02:55:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -218,7 +218,7 @@
   {
     "title": "Neda acolle este venres o proxecto de títeres Barriga verde no Camiño",
     "description": "Haberá pasarrúas e obradoiros de construción de monicreques, entre outras propostas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/08/span-langglneda-acolle-venres-proxecto-titeres-barriga-verde-caminospan/0003_202609F8C5992.htm",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/11/span-langglneda-acolle-venres-proxecto-titeres-barriga-verde-caminospan/0003_202609F8C5992.htm",
     "time": "2026-09-08T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
