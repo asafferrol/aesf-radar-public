@@ -1,5 +1,68 @@
 [
   {
+    "title": "Una ambulancia del 061 acude al auxilio de un ciclista herido en las Fragas do Eume",
+    "description": "La caída se produjo en el camino de acceso al monasterio de Caaveiro",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/ambulancia-o61-acude-axulio-ciclista-herido-fragas-do-eume/00031789060109336771393.htm",
+    "time": "2026-09-10T17:23:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Rubén Ruipérez, un árbitro de buen recuerdo para los ferrolanos",
+    "description": "El colegiado estará al frente en el encuentro entre el Racing de Ferrol y el Real Unión de este domingo",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/ruben-ruiperez-arbitro-buen-recuerdo-ferrolanos/00031789059337525751394.htm",
+    "time": "2026-09-10T16:59:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Blanco y Eto'o miran al Racing con ambición: «La ilusión es máxima»",
+    "description": "Los últimos refuerzos del club verde confían en hacerse fuertes en A Malata",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/blanco-eto-miran-racing-ambicion-ilusion-maxima/00031789058714148650859.htm",
+    "time": "2026-09-10T16:49:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "O Parrulo refuerza su acuerdo sanitario con el Hospital Ribera Juan Cardona",
+    "description": "El centro sanitario amplía su cobertura para atender las necesidades médicas del primer equipo",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/parrulo-refuerza-acuerdo-sanitario-hospital-ribera-juan-cardona/00031789053678254797568.htm",
+    "time": "2026-09-10T15:56:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "«O inferno de Punta Arnela» se viste de gala con la nueva camiseta del Baxi Ferrol",
+    "description": "Las llamas del pabellón se convierten en el elemento protagonista de una equipación que busca reforzar la identidad del conjunto ferrolano",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/infierno-punta-arnela-viste-gala-nueva-camiseta-baxi/00031789053282703843151.htm",
+    "time": "2026-09-10T15:56:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Catorce concellos de Ferrolterra, Eume y Ortegal, en prealerta por sequía",
+    "description": "La Xunta decreta este nivel ante la escasez de agua, lo que implica la prohibición del baldeo de calles, el llenado de piscinas o el riego de jardines, y puede implicar algún corte puntual del suministro",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/catorce-concellos-ferrolterra-eume-ortegal-prealerta-sequia/00031789053985902280983.htm",
+    "time": "2026-09-10T15:32:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un motorista herido tras una colisión con un coche en Castro, en Narón",
+    "description": "El accidente se produjo en el kilómetro 2 de la carretera AC-566",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/10/motorista-herido-tras-colision-coche-castro-naron/00031789050532434356315.htm",
+    "time": "2026-09-10T14:58:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Calcinada una furgoneta en un camino apartado en As Pontes, de madrugada",
     "description": "Actuaron los bomberos del parque provincial y también los del servicio forestal; todo apunta a que el fuego fue intencionado",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/10/calcinada-furgoneta-camino-apartado-as-pontes-madrugada/00031789028247369689346.htm",
@@ -36,24 +99,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Cluergal reúnirá mañana en Ferrol al sector gallego del hidrógeno verde",
-    "description": "La elección de la ciudad como sede responde al componente industrial y marino de esta edición",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/cluergal-reunira-manana-cis-cabana-sector-gallego-hidrogeno-verde/0003_202609F10C4993.htm",
-    "time": "2026-09-10T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Invasión de velutina Ferrolterra, Eume y Ortegal: este año se han eliminado más del doble de nidos que el anterior",
-    "description": "Las 2.412 colonias eliminadas por Seaga se suman a las que han sido destruidas por los servicios de bomberos y los apicultores",
-    "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2026/09/10/record-nidos-velutina-retirados-seaga-doble-2025-ferrolterra/0003_202609F10C5991.htm",
-    "time": "2026-09-10T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Ferrol en Común denuncia el «colapso» del área municipal de Estatística de Ferrol",
     "description": "Reprocha que no se pueda solicitar cita previa y reclama una mejora tecnológica y más personal",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/ferrol-comun-denuncia-colapso-area-municipal-estatistica/0003_202609F10C2992.htm",
@@ -81,27 +126,18 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Invasión de velutina en Ferrolterra, Eume y Ortegal: este año se han eliminado más del doble de nidos que el anterior",
+    "description": "Las 2.412 colonias eliminadas por Seaga se suman a las que han sido destruidas por los servicios de bomberos y los apicultores",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2026/09/10/record-nidos-velutina-retirados-seaga-doble-2025-ferrolterra/0003_202609F10C5991.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Propietarios de las Fragas do Eume volverán a manifestarse el domingo en la ponte de Pedra",
     "description": "Reclaman compensaciones justas y diálogo por parte de la Xunta",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/10/propietarios-fragas-do-eume-volveran-manifestarse-domingo-ponte-pedra/0003_202609F10C5995.htm",
-    "time": "2026-09-10T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "As Pontes le da vida a sus mayores",
-    "description": "La interacción social, uno de los objetivos del programa Activamemente",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/as-pontes-da-vida-mayores/0003_202609F10C6992.htm",
-    "time": "2026-09-10T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Concello de Ferrol aprueba su primer Plan de Riesgos Laborales",
-    "description": "La concejala de Recursos Humanos, Susana Sanjurjo, explica que se trata deu una medida pone el foco «na protección das persoas traballadoras»",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/concello-ferrol-aprueba-primer-plan-riesgos-laborales/0003_202609F10C3996.htm",
     "time": "2026-09-10T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -117,19 +153,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Rubo, baja de seis a ocho semanas por una fractura de clavícula",
-    "description": "El jugador del Somozas estuvo en dinámica del primer equipo en pretemporada y fue convocado contra el Arenas",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/rubo-baja-seis-ocho-semanas-fractura-clavicula/0003_202609F10P40993.htm",
-    "time": "2026-09-09T17:29:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Pontevedra visitará A Malata el próximo sábado 3 de octubre",
-    "description": "El partido se disputará a las 16.30 horas y será el segundo derbi gallego para los racinguistas",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/pontevedra-visitara-malata-proximo-sabado-3-octubre/0003_202609F10P40992.htm",
-    "time": "2026-09-09T17:26:00+00:00",
+    "title": "Cluergal reúnirá el viernes en Ferrol al sector gallego del hidrógeno verde",
+    "description": "La elección de la ciudad como sede responde al componente industrial y marino de esta edición",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/cluergal-reunira-manana-cis-cabana-sector-gallego-hidrogeno-verde/0003_202609F10C4993.htm",
+    "time": "2026-09-10T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -225,15 +252,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Latinoamérica, nuevo teatro de operaciones para la fragata Álvaro de Bazán",
-    "description": "La unidad, con base en Ferrol, arrancará mañana su participación en el ejercicio Unitas en Perú tras finalizar otro liderado por Ecuador",
-    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/09/latinoamerica-nuevo-teatro-operaciones-fragata-alvaro-bazan/0003_202609F9C2991.htm",
-    "time": "2026-09-09T02:55:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Comienza el derribo más complejo de la muralla del Arsenal de Ferrol",
     "description": "La demolición del muro entre la puerta de la Enfermería y la del Parque se acomete al borde de un vial militar interior que debe permanecer operativo",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/comienza-derribo-complejo-muralla-arsenal/0003_202609F9C4991.htm",
@@ -247,24 +265,6 @@
     "description": "El hombre sufre esclerosis múltiple y no cuenta con ayudas de la administración",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/aplazado-desahucio-okupa-silla-ruedas-pareja-caranza/0003_202609F9C3992.htm",
     "time": "2026-09-08T15:29:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Mirfak reina en Baiona para seguir liderando a falta de solo una jornada",
-    "description": "La embarcación de la Comisión Naval de Regatas de Ferrol sigue al frente de la clasificación del Trofeo Presidente Xunta de Galicia",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/08/mirfak-reina-baiona-seguir-liderando-falta-solo-jornada/00031788880601991937832.htm",
-    "time": "2026-09-08T15:24:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Pujol, el único disponible pendiente de minutaje en el Racing Club Ferrol",
-    "description": "El zaguero se mantiene, junto al portero César Fernández y los lesionados Ropero y Álvaro Juan, sin debutar en este inicio de curso",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/08/pujol-unico-disponible-pendiente-minutaje-racing-club-ferrol/00031788871950590617111.htm",
-    "time": "2026-09-08T13:09:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

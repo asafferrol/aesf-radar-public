@@ -1,7 +1,70 @@
 {
   "hours": 48,
-  "count": 443,
+  "count": 448,
   "items": [
+    {
+      "title": "Una ambulancia del 061 acude al auxilio de un ciclista herido en las Fragas do Eume",
+      "description": "La caída se produjo en el camino de acceso al monasterio de Caaveiro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/ambulancia-o61-acude-axulio-ciclista-herido-fragas-do-eume/00031789060109336771393.htm",
+      "time": "2026-09-10T17:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rubén Ruipérez, un árbitro de buen recuerdo para los ferrolanos",
+      "description": "El colegiado estará al frente en el encuentro entre el Racing de Ferrol y el Real Unión de este domingo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/ruben-ruiperez-arbitro-buen-recuerdo-ferrolanos/00031789059337525751394.htm",
+      "time": "2026-09-10T16:59:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Blanco y Eto'o miran al Racing con ambición: «La ilusión es máxima»",
+      "description": "Los últimos refuerzos del club verde confían en hacerse fuertes en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/blanco-eto-miran-racing-ambicion-ilusion-maxima/00031789058714148650859.htm",
+      "time": "2026-09-10T16:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo refuerza su acuerdo sanitario con el Hospital Ribera Juan Cardona",
+      "description": "El centro sanitario amplía su cobertura para atender las necesidades médicas del primer equipo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/parrulo-refuerza-acuerdo-sanitario-hospital-ribera-juan-cardona/00031789053678254797568.htm",
+      "time": "2026-09-10T15:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "«O inferno de Punta Arnela» se viste de gala con la nueva camiseta del Baxi Ferrol",
+      "description": "Las llamas del pabellón se convierten en el elemento protagonista de una equipación que busca reforzar la identidad del conjunto ferrolano",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/infierno-punta-arnela-viste-gala-nueva-camiseta-baxi/00031789053282703843151.htm",
+      "time": "2026-09-10T15:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Catorce concellos de Ferrolterra, Eume y Ortegal, en prealerta por sequía",
+      "description": "La Xunta decreta este nivel ante la escasez de agua, lo que implica la prohibición del baldeo de calles, el llenado de piscinas o el riego de jardines, y puede implicar algún corte puntual del suministro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/catorce-concellos-ferrolterra-eume-ortegal-prealerta-sequia/00031789053985902280983.htm",
+      "time": "2026-09-10T15:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un motorista herido tras una colisión con un coche en Castro, en Narón",
+      "description": "El accidente se produjo en el kilómetro 2 de la carretera AC-566",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/10/motorista-herido-tras-colision-coche-castro-naron/00031789050532434356315.htm",
+      "time": "2026-09-10T14:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Calcinada una furgoneta en un camino apartado en As Pontes, de madrugada",
       "description": "Actuaron los bomberos del parque provincial y también los del servicio forestal; todo apunta a que el fuego fue intencionado",
@@ -3967,24 +4030,6 @@
       "description": "Las de Fer Buendía, de Liga Challenge, testaron en A Malata que la intensidad sigue siendo santo y seña de las de Lino López, que se impusieron en el Torneo Cidade de Ferrol",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/08/baxi-maristas/00031788890010456307733.htm",
       "time": "2026-09-08T20:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Aplazado el desahucio de un okupa en silla de ruedas y su pareja en Caranza",
-      "description": "El hombre sufre esclerosis múltiple y no cuenta con ayudas de la administración",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/aplazado-desahucio-okupa-silla-ruedas-pareja-caranza/0003_202609F9C3992.htm",
-      "time": "2026-09-08T15:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Mirfak reina en Baiona para seguir liderando a falta de solo una jornada",
-      "description": "La embarcación de la Comisión Naval de Regatas de Ferrol sigue al frente de la clasificación del Trofeo Presidente Xunta de Galicia",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/08/mirfak-reina-baiona-seguir-liderando-falta-solo-jornada/00031788880601991937832.htm",
-      "time": "2026-09-08T15:24:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
