@@ -1,9 +1,117 @@
 [
   {
-    "title": "Un coche acaba empotrado delante de una vivienda en Fene, tras ser golpeado por otro",
-    "description": "La conductora del vehículo que acabó en la casa resultó herida",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/09/coche-acaba-empotrado-delante-vivienda-fene-tras-golpeado/00031788974835030106647.htm",
-    "time": "2026-09-09T17:50:00+00:00",
+    "title": "Un año sin el aparcamiento prometido en Ferrol para A Graña",
+    "description": "El estacionamiento disuasorio no logró habilitarse este verano y continúa sin fecha",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/ano-aparcamiento-grana/0003_202609F10C1991.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Arrancan las obras de aglomerado de la deteriorada avenida da Residencia",
+    "description": "El vial, con intenso tráfico, es eje de comunicación para el Arquitecto Marcide y el hospital Naval",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/arrancan-obras-aglomerado-deteriorada-avenida-da-residencia/0003_202609F10C4991.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La nueva edición del Plan de Barrios mejorará treinta puntos rurales y urbanos de Ferrol",
+    "description": "Las intervenciones comenzarán el lunes en Prioriño",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/nueva-edicion-plan-barrios-mejorara-treinta-puntos-rurales-urbanos-ferrol/0003_202609F10C4992.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Cluergal reúnirá mañana en Ferrol al sector gallego del hidrógeno verde",
+    "description": "La elección de la ciudad como sede responde al componente industrial y marino de esta edición",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/cluergal-reunira-manana-cis-cabana-sector-gallego-hidrogeno-verde/0003_202609F10C4993.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El PSOE tacha de «cutre» el modelo de ciudad del gobierno local por la obra de la carretera de Castilla",
+    "description": "El concejal socialista Julián Reina afea que se presente como proyecto de regeneración urbana el simple asfaltado del vial",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/psoe-tacha-cutre-modelo-ciudad-pp-carretera-castilla/0003_202609F10C2993.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Invasión de velutina Ferrolterra, Eume y Ortegal: este año se han eliminado más del doble de nidos que el anterior",
+    "description": "Las 2.412 colonias eliminadas por Seaga se suman a las que han sido destruidas por los servicios de bomberos y los apicultores",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/2026/09/10/record-nidos-velutina-retirados-seaga-doble-2025-ferrolterra/0003_202609F10C5991.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Ferrol en Común denuncia el «colapso» del área municipal de Estatística de Ferrol",
+    "description": "Reprocha que no se pueda solicitar cita previa y reclama una mejora tecnológica y más personal",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/ferrol-comun-denuncia-colapso-area-municipal-estatistica/0003_202609F10C2992.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Más fiesta en Pontedeume, con San Nicolás de Tolentino",
+    "description": "El martes, la lluvia aguó un poco la cucaña, pero «los históricos» no se lo quisieron perder",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/fiesta-pontedeume-san-nicolas-tolentino/0003_202609F10C8994.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "María Nieto presenta la novela Hijos de Lilith",
+    "description": "Está ambientada en Fene",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/maria-nieto-presenta-novela-hijos-lilith/00031788980772811751411.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Propietarios de las Fragas do Eume volverán a manifestarse el domingo en la ponte de Pedra",
+    "description": "Reclaman compensaciones justas y diálogo por parte de la Xunta",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/10/propietarios-fragas-do-eume-volveran-manifestarse-domingo-ponte-pedra/0003_202609F10C5995.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "As Pontes le da vida a sus mayores",
+    "description": "La interacción social, uno de los objetivos del programa Activamemente",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/as-pontes-da-vida-mayores/0003_202609F10C6992.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Concello de Ferrol aprueba su primer Plan de Riesgos Laborales",
+    "description": "La concejala de Recursos Humanos, Susana Sanjurjo, explica que se trata deu una medida pone el foco «na protección das persoas traballadoras»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/concello-ferrol-aprueba-primer-plan-riesgos-laborales/0003_202609F10C3996.htm",
+    "time": "2026-09-10T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Lino López: «Tener tres equipos gallegos en la Liga Endesa es histórico»",
+    "description": "El técnico ferrolano afronta la Copa Galicia en casa como primera prueba de un curso con ocho caras nuevas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/lino-lopez-tener-tres-equipos-gallegos-liga-endesa-historico/00031788968875530927676.htm",
+    "time": "2026-09-10T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -72,18 +180,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Urgen una gerencia gallega para gestionar el servicio ferroviario de cercanías Ferrol-Ortigueira",
-    "description": "La plataforma en defensa de la línea que llega hasta Ribadeo critica a Renfe por « priorizar as necesidades de Asturias »",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/urgen-gerencia-gallega-servicio-ferroviario-cercanias-ferrol-ortigueira/0003_202609F9C6991.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El cuarto Foro dos Vivos indagará en los caminos de San Andrés, los días 12 y 13 en O Porto do Cabo",
-    "description": "El sábado habrá varias charlas, degustación de caldo y música, y el domingo, una ruta hasta Teixido",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/cuarto-foro-dos-vivos-indagara-caminos-san-andres-fin-semana-porto-do-cabo/0003_202609F9C6993.htm",
+    "title": "Juntas en la oposición y en su primer destino como maestras: «No nos lo podíamos creer»",
+    "description": "Nerea, Carmen, Paula y Sonia prepararon las pruebas codo con codo en la academia Equipo Laura, aprobaron a la vez y hoy comienzan a dar clase en el Atios de Valdoviño, su primer destino provisional",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/09/juntas-oposicion-primer-destino-maestras-podiamos-creer/0003_202609F9C3991.htm",
     "time": "2026-09-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -99,18 +198,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Actividades de la Escola de Benestar de Narón",
-    "description": "Arranca el plazo de inscripción para las Aulas de Benestar y el programa Saúde Activa",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/08/actividades-escola-benestar-naron/00031788869011863351878.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La vuelta al cole de la asociación Cohempo, de As Pontes",
-    "description": "Activa una campaña para fomentar las compras locales relacionadas con el regreso a las aulas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/08/vuelta-cole-asociacion-cohempo-as-pontes/00031788869250219352555.htm",
+    "title": "Urgen una gerencia gallega para gestionar el servicio ferroviario de cercanías Ferrol-Ortigueira",
+    "description": "La plataforma en defensa de la línea que llega hasta Ribadeo critica a Renfe por « priorizar as necesidades de Asturias »",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/urgen-gerencia-gallega-servicio-ferroviario-cercanias-ferrol-ortigueira/0003_202609F9C6991.htm",
     "time": "2026-09-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -126,37 +216,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Juntas en la oposición y en su primer destino como maestras: «No nos lo podíamos creer»",
-    "description": "Nerea, Carmen, Paula y Sonia prepararon las pruebas codo con codo en la academia Equipo Laura, aprobaron a la vez y hoy comienzan a dar clase en el Atios de Valdoviño, su primer destino provisional",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/09/juntas-oposicion-primer-destino-maestras-podiamos-creer/0003_202609F9C3991.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El campo de Ferrolterra, al límite por la sequía: «Teño 61 anos e non recordo todos os prados secos»",
     "description": "Los ganaderos tiran de las reservas de silo y forraje, y en A Capelada llevan agua en depósitos para abrevar a las vacas",
     "url": "https://www.lavozdegalicia.es/noticia/somosagro/2026/09/09/campo-limite-sequia/0003_202609F9C1991.htm",
     "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Teatro, humor, magia y ópera en el programa cultural de Ferrol para el último cuatrimestre",
-    "description": "Depedro, Rhodes y la gira de Navidad de Carlos Núñez son tres de los platos fuertes de un cartel que incluirá también zarzuela y un «thriller» teatral",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/teatro-humor-magia-opera-programa-cultural-ferrol-ultimo-cuatrimestre/0003_202609F9C5991.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Comienza el derribo más complejo de la muralla del Arsenal de Ferrol",
-    "description": "La demolición del muro entre la puerta de la Enfermería y la del Parque se acomete al borde de un vial militar interior que debe permanecer operativo",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/comienza-derribo-complejo-muralla-arsenal/0003_202609F9C4991.htm",
-    "time": "2026-09-09T02:55:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -171,10 +234,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El Baxi Ferrol se pone a cien en su estreno ante el Maristas (101-45)",
-    "description": "Las de Fer Buendía, de Liga Challenge, testaron en A Malata que la intensidad sigue siendo santo y seña de las de Lino López, que se impusieron en el Torneo Cidade de Ferrol",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/08/baxi-maristas/00031788890010456307733.htm",
-    "time": "2026-09-08T20:17:00+00:00",
+    "title": "Comienza el derribo más complejo de la muralla del Arsenal de Ferrol",
+    "description": "La demolición del muro entre la puerta de la Enfermería y la del Parque se acomete al borde de un vial militar interior que debe permanecer operativo",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/comienza-derribo-complejo-muralla-arsenal/0003_202609F9C4991.htm",
+    "time": "2026-09-09T02:55:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -211,15 +274,6 @@
     "description": "Xunta, Cluergal y Asime lanzan en el CIS una iniciativa para acompañar a nuevas empresas verdes y prestarles apoyo financiero y técnico",
     "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/08/galicia-cuenta-ferrol-primeras-aceleradoras-proyectos-renovables-pais/00031788870467087803309.htm",
     "time": "2026-09-08T12:37:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Música, cucaña y parrochitas fritas, así despide Ferrol Vello el verano",
-    "description": "El alcalde, José Manuel Rey Varela, leerá el pregón que iniciará tres días de celebraciones",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/08/musica-cucana-parrochitas-fritas-despide-barrio-pesquero-verano/0003_202609F8C5991.htm",
-    "time": "2026-09-08T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -279,63 +333,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Da positivo en alcohol el conductor de un coche que impactó contra un tronco y una farola y destrozó un vehículo aparcado, en Pontedeume",
-    "description": "La otra persona que iba en el automóvil resultó herida en la salida de vía",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/07/da-positivo-alcohol-conductor-coche-impacto-contra-arbol-farola-destrozo-vehiculo-aparcado-pontedeume/00031788808426358734839.htm",
-    "time": "2026-09-07T19:45:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Adolfo Morales, nuevo comandante de la Fuerza de Protección de la Armada: «Un reto profesional extraordinario»",
-    "description": "Tras 35 años alejado de la ciudad en la que se crio, el general de brigada de Infantería de Marina regresa a Ferrol para asumir el mando de la Fupro",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/08/relevo-cupula-fupro-reto-profesional-extraordinario/0003_202609F8C3991.htm",
-    "time": "2026-09-07T15:35:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Las Meninas de Canido 2026: arte y baloncesto femenino",
-    "description": "El fundador del festival de Canido, Eduardo Hermida, abogó en la clausura por un giro, con más peso para el deporte",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/07/meninas-arte-baloncesto-femenino/0003_202609F7C3991.htm",
-    "time": "2026-09-07T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Dos meses sin noticias del joven madrileño que desapareció en Bares: «No vamos a dejar de buscarlo»",
-    "description": "La familia pide «que se mantenga la alerta» para tratar de localizarlo",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/07/dos-meses-noticias-joven-madrileno-desaparecio-bares/0003_202609F7C6991.htm",
-    "time": "2026-09-07T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Muere una mujer de 72 años en la playa ferrolana de San Xurxo",
-    "description": "Los socorristas dieron aviso al 112 tras avistar el cuerpo flotando a unos 50 metros de la orilla",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/06/muere-mujer-avanzada-edad-playa-ferrolana-san-xurxo/00031788715340459459590.htm",
-    "time": "2026-09-06T17:33:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Ante la realidad y el recuerdo",
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/05/ante-realidad-recuerdo/00031788607825583683249.htm",
-    "time": "2026-09-06T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Rubén J. Calviño, profesor y autor de «Tu cerebro tiene truco»: «Estudiar releyendo y repitiendo la información es el peor sistema»",
-    "description": "El docente aboga por conocer las dinámicas del aprendizaje antes de empezar a estudiar",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/ruben-j-calvino-profesor-autor-tu-cerebro-trucoestudiar-releyendo-repitiendo-informacion-peor-sistema/00031788537738027896362.htm",
     "time": "2026-09-06T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
