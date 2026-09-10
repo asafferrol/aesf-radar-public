@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T17:52:16.791150+00:00",
-  "count": 448,
+  "generated_at": "2026-09-10T20:08:25.773913+00:00",
+  "count": 449,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Un coche queda calcinado en San Sadurniño tras arder mientras tiraba de un remolque con un caballo dentro",
+      "description": "El incidente se produjo en el lugar de Moimentos y ni el conductor ni el animal sufrieron daños",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/coche-queda-calcinado-san-sadurnino-tras-arder-remolcaba-caballo/00031789067497105393983.htm",
+      "time": "2026-09-10T19:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una ambulancia del 061 acude al auxilio de un ciclista herido en las Fragas do Eume",
       "description": "La caída se produjo en el camino de acceso al monasterio de Caaveiro",
