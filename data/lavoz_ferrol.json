@@ -1,5 +1,32 @@
 [
   {
+    "title": "Nuevas incidencias en el bus de Ferrol a A Coruña con una avería que apeó a pasajeros en un túnel de la AP-9",
+    "description": "Los usuarios denuncian que numerosos viajeros quedan tirados en las paradas por la carencia de una adecuada planificación",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/12/incidencias-servicio-bus-averia-apeo-pasajeros-tunel-ap-9/0003_202609F12C3992.htm",
+    "time": "2026-09-11T14:58:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Alquileres desde 130 euros en los nuevos pisos de la Xunta en Ferrol",
+    "description": "Sorteadas 48 viviendas públicas de O Bertón, el 40 % para menores de 36 años",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/12/alquileres-130-euros-nuevos-pisos-berton/0003_202609F12C3991.htm",
+    "time": "2026-09-11T14:36:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "En directo: primera semifinal de la Copa Galicia, Maristas-Ensino",
+    "description": "Las de Suso Garrido, claras candidatas al título, se ven las caras en A Malata con el combinado de Fer Buendía, que viene de sellar un histórico ascenso a Challenge (18.00 horas)",
+    "url": "https://www.lavozdegalicia.es/video/deportes/2026/09/11/directo-primera-semifinal-copa-galicia-ensino-maristas/00311789134563236127868.htm",
+    "time": "2026-09-11T13:58:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Ramsés Gil elogia al Racing y a A Malata: «Vamos a un escenario fantástico»",
     "description": "El técnico del Real Unión, que lleva ocho goles a favor en solo dos partidos, advierte que competirá «de poder a poder»",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/11/ramses-gil-elogia-racing-malata-vamos-escenario-fantastico/00031789133300343334622.htm",
@@ -36,15 +63,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La campaña de socorrismo en las playas de Ferrol finaliza mañana",
-    "description": "El servicio de vigilancia en los arenales realizó hasta finales de agosto medio centenar de intervenciones",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/11/campana-socorrismo-playas-ferrolanas-finaliza-manana/0003_202609F11C2992.htm",
-    "time": "2026-09-11T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Propietarios de las Fragas do Eume: «Están vulnerando nuestros derechos»",
     "description": "Exigen a la Xunta que respete la ley y le afean el silencio ante sus demandas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/11/propietarios-fragas-do-eume-vulnerando-derechos/0003_202609F11C5991.htm",
@@ -63,16 +81,7 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El PSOE exige al gobierno local de Ferrol que aclare si optó a las ayudas de la Agenda 2030",
-    "description": "El concejal socialista Rafael Fernández Beceiro señala que la convocatoria permitía solicitar al Estado una aportación de hasta 250.000 euros",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/11/psoe-exige-gobierno-local-aclare-opto-ayudas-agenda-2030/0003_202609F11C2993.htm",
-    "time": "2026-09-11T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Nacho pone a prueba su vocación por el mar a bordo del «Hijos de Demetrio»",
+    "title": "Nacho pone a prueba su vocación por el mar a bordo del Hijos de Demetrio",
     "description": "Gracias a un proyecto del GALP Golfo Ártabro, este joven de Pontedeume pudo compartir una jornada de trabajo junto a Óscar, patrón de una embarcación pesquera de artes menores",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/nacho-pone-prueba-vocacion-junto-bordo-hijos-demetrio/00031789061376712342388.htm",
     "time": "2026-09-11T03:00:00+00:00",
@@ -144,6 +153,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "El PSOE exige al gobierno local de Ferrol que aclare si optó a las ayudas de la Agenda 2030",
+    "description": "El concejal socialista Rafael Fernández Beceiro señala que la convocatoria permitía solicitar al Estado una aportación de hasta 250.000 euros",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/11/psoe-exige-gobierno-local-aclare-opto-ayudas-agenda-2030/0003_202609F11C2993.htm",
+    "time": "2026-09-11T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Una Copa Galicia con huella en la élite",
     "description": "Ferrol acoge a los tres conjuntos de Liga Endesa, el Ensino, el Celta y el Uni, más el Maristas, ascendido a Challenge, plantillas con talento de casa",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/10/copa-galicia-huella-elite/00031789069357209111296.htm",
@@ -193,15 +211,6 @@
     "description": "El incidente se produjo en el lugar de Moimentos y ni el conductor ni el animal sufrieron daños",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/coche-queda-calcinado-san-sadurnino-tras-arder-remolcaba-caballo/00031789067497105393983.htm",
     "time": "2026-09-10T19:25:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Blanco y Eto'o miran al Racing con ambición: «La ilusión es máxima»",
-    "description": "Los últimos refuerzos del club verde confían en hacerse fuertes en A Malata",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/blanco-eto-miran-racing-ambicion-ilusion-maxima/00031789058714148650859.htm",
-    "time": "2026-09-10T16:49:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
