@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 430,
+  "count": 428,
   "items": [
+    {
+      "title": "Un sonriente José María Aznar pasea por Ferrol junto a su mujer Ana Botella",
+      "description": "El expresidente del Gobierno recorrió este viernes el barrio de A Magdalena, acompañado por la exalcaldesa de Madrid",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/11/sonriente-jose-maria-aznar-pasea-ferrol-junto-mujer-ana-botella/00031789153772478885226.htm",
+      "time": "2026-09-11T19:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Qué hacer este fin de semana en Ferrol y Narón: antigüedades, marisco y rock",
+      "description": "A Gándara acoge uno de los eventos con más éxito de público en la zona con la Feira de Antigüidades, Coleccionismo e Vintage; y el Cantón despedirá el verano en una fiesta organizada por los hosteleros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/12/fanaticos-antiguedades-vintage-vuelven-juntarse-naron/0003_202609F12C9_COPY993.htm",
+      "time": "2026-09-11T18:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "En directo: segunda semifinal de la Copa Galicia, Baxi Ferrol-Celta",
+      "description": "Las anfitrionas y vigentes campeonas se miden en A Malata (20.30 horas) al recién ascendido cuadro olívico, que llega con ganas de dar la sorpresa y medirse al Ensino en la final",
+      "url": "https://www.lavozdegalicia.es/video/deportes/2026/09/11/directo-segunda-semifinal-copa-galicia-baxi-ferrol-celta/00311789135467216714256.htm",
+      "time": "2026-09-11T15:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Nuevas incidencias en el bus de Ferrol a A Coruña con una avería que apeó a pasajeros en un túnel de la AP-9",
       "description": "Los usuarios denuncian que numerosos viajeros quedan tirados en las paradas por la carencia de una adecuada planificación",
@@ -3826,51 +3853,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Un coche acaba empotrado delante de una vivienda en Fene, tras ser golpeado por otro",
-      "description": "La conductora del vehículo que acabó en la casa resultó herida",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/09/coche-acaba-empotrado-delante-vivienda-fene-tras-golpeado/00031788974835030106647.htm",
-      "time": "2026-09-09T17:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Rubo, baja de seis a ocho semanas por una fractura de clavícula",
-      "description": "El jugador del Somozas estuvo en dinámica del primer equipo en pretemporada y fue convocado contra el Arenas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/rubo-baja-seis-ocho-semanas-fractura-clavicula/0003_202609F10P40993.htm",
-      "time": "2026-09-09T17:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Pontevedra visitará A Malata el próximo sábado 3 de octubre",
-      "description": "El partido se disputará a las 16.30 horas y será el segundo derbi gallego para los racinguistas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/pontevedra-visitara-malata-proximo-sabado-3-octubre/0003_202609F10P40992.htm",
-      "time": "2026-09-09T17:26:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La nueva cubierta del estadio de A Malata empieza a tomar forma",
-      "description": "Las obran empezarán por la grada de Preferencia, siguiendo por Tribuna y terminarán con los Fondos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/09/nueva-cubierta-estadio-malata-empieza-tomar-forma/00031788974285222791171.htm",
-      "time": "2026-09-09T17:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un mal arranque para el Racing que tiene un precedente esperanzador",
-      "description": "El equipo suma un empate y una derrota en las dos primeras jornadas, pero los precedentes demuestran que aún hay margen para reaccionar",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/mal-arranque-racing-precedente-esperanzador/0003_202609F10P40991.htm",
-      "time": "2026-09-09T17:23:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
