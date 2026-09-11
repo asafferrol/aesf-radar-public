@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 426,
+  "count": 428,
   "items": [
+    {
+      "title": "Ramsés Gil elogia al Racing y a A Malata: «Vamos a un escenario fantástico»",
+      "description": "El técnico del Real Unión, que lleva ocho goles a favor en solo dos partidos, advierte que competirá «de poder a poder»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/11/ramses-gil-elogia-racing-malata-vamos-escenario-fantastico/00031789133300343334622.htm",
+      "time": "2026-09-11T13:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La afición encara una nueva era: «Nuestra idea es que haya unión y que se transmita al racinguismo»",
+      "description": "Uxía Prieto y Raquel Pena, su segunda de a bordo, comandan una nueva etapa al frente de la Federación de Peñas cargadas de «ideas e ilusión»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/11/ficion-encara-nueva-era-idea-haya-union-transmita-racinguismo/00031789129486270516652.htm",
+      "time": "2026-09-11T12:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Dos ataques de lobo en once días en una granja de Ferrol: « Quítache as ganas de ter unha explotación »",
       "description": "Xosé Lois Brage perdió cuatro ovejas y un perro en una comarca en la que la temporada pasada sumó 250 avisos en un año por daños a ganado y mascotas",
@@ -150,6 +168,15 @@
       "title": "Cristina Piñeiro, de superviviente a altavoz para dar visibilidad a las enfermedades oncohematológicas",
       "description": "La presidenta de Asotrame abrirá una jornada dedicada a la la enfermedad Injerto contra Receptor en el CHUAC el próximo día 21",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/cristina-pineiro-superviviente-altavoz-dar-visibilidad-enfermedades-oncohematologicas/00031789062173496303896.htm",
+      "time": "2026-09-11T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una Copa Galicia con huella en la élite",
+      "description": "Ferrol acoge a los tres conjuntos de Liga Endesa, el Ensino, el Celta y el Uni, más el Maristas, ascendido a Challenge, plantillas con talento de casa",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/10/copa-galicia-huella-elite/00031789069357209111296.htm",
       "time": "2026-09-11T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -3823,15 +3850,6 @@
       "description": "El seguimiento del paro parcial fue desigual en la ciudad naval, con aulas en las que no faltó ningún profesor y otras en la que se ausentaron el 70 %",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/09/vuelta-cole-marcada-obras-huelga-concertada-quejas-anpas/00031788963531778234231.htm",
       "time": "2026-09-09T14:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Hallados restos de tres víctimas del franquismo en la fosa del cementerio de Serantes en Ferrol",
-      "description": "La excavación para recuperar los cuerpos de los represaliados revela enterramientos verticales y signos de violencia «extrema»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/09/hallados-restos-tres-victimas-franquismo-fosa-cementerio-serantes-ferrol/00031788953345138383300.htm",
-      "time": "2026-09-09T11:45:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
