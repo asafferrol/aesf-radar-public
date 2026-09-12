@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 556,
+  "count": 558,
   "items": [
+    {
+      "title": "Así es la lista de imprescindibles para el estreno del Racing en casa",
+      "description": "La taquilla de Preferencia abrirá desde las 10.30 horas para resolver incidencias",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/12/lista-imprescindibles-estreno-racing-casa/00031789247195819180991.htm",
+      "time": "2026-09-12T21:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las diez mejores imágenes del Ensino-Baxi Ferrol",
+      "description": "Las lucenses alzaron la Copa Galicia tras superar a las ferrolanas en A Malata en un auténtico festival de triples",
+      "url": "https://www.lavozdegalicia.es/album/deportes/2026/09/12/diez-mejores-imagenes-ensino-baxi-ferrol/01101789245073165453765.htm",
+      "time": "2026-09-12T20:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El Ensino arrebata al Baxi el cetro de mando gallego a ritmo de triple (91-79)",
       "description": "Las de Suso Garrido, imparables desde el tiro exterior, encarrilaron su triunfo en la Copa Galicia en un flojo tercer cuarto de las ferrolanas",
