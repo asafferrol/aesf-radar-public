@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:50:06.907515+00:00",
+  "generated_at": "2026-09-12T19:40:55.396310+00:00",
   "count": 556,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "El Ensino arrebata al Baxi el cetro de mando gallego a ritmo de triple (91-79)",
+      "description": "Las de Suso Garrido, imparables desde el tiro exterior, encarrilaron su triunfo en la Copa Galicia en un flojo tercer cuarto de las ferrolanas",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/12/ensino-baxi/00031789225254177418763.htm",
+      "time": "2026-09-12T18:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un coche en sentido contrario causa un caos de tráfico en una rotonda de Ferrol",
       "description": "Ocurrió en la glorieta de Basanta, que comunica con la entrada a la autopista, el vehículo chocó con otros y provocó al menos un herido",
@@ -5019,15 +5028,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Un coche queda calcinado en San Sadurniño tras arder mientras tiraba de un remolque con un caballo dentro",
-      "description": "El incidente se produjo en el lugar de Moimentos y ni el conductor ni el animal sufrieron daños",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/coche-queda-calcinado-san-sadurnino-tras-arder-remolcaba-caballo/00031789067497105393983.htm",
-      "time": "2026-09-10T19:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
