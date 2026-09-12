@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:24:02.635444+00:00",
-  "count": 561,
+  "generated_at": "2026-09-12T15:40:23.741426+00:00",
+  "count": 560,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "A Malata, borrón y cuenta nueva para el Racing Club Ferrol",
+      "description": "Los de Javi Vázquez, que se estrenan como locales con su cuenta de victorias inédita, afrontan el reto de imponerse a un Real Unión que suma ocho goles en dos jornadas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/12/malata-borron-cuenta-nueva-racing-club-ferrol/00031789221987063668648.htm",
+      "time": "2026-09-12T14:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "O Parrulo Ferrol, a «regalarles» a los suyos un estreno Prime en A Malata",
       "description": "Los de Gerard Casas abren fuego este domingo frente al Quesos El Hidalgo Manzanares en una Liga de nuevo formato",
@@ -5052,24 +5061,6 @@
       "description": "Las llamas del pabellón se convierten en el elemento protagonista de una equipación que busca reforzar la identidad del conjunto ferrolano",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/infierno-punta-arnela-viste-gala-nueva-camiseta-baxi/00031789053282703843151.htm",
       "time": "2026-09-10T15:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Catorce concellos de Ferrolterra, Eume y Ortegal, en prealerta por sequía",
-      "description": "La Xunta decreta este nivel ante la escasez de agua, lo que implica la prohibición del baldeo de calles, el llenado de piscinas o el riego de jardines, y puede implicar algún corte puntual del suministro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/catorce-concellos-ferrolterra-eume-ortegal-prealerta-sequia/00031789053985902280983.htm",
-      "time": "2026-09-10T15:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un motorista herido tras una colisión con un coche en Castro, en Narón",
-      "description": "El accidente se produjo en el kilómetro 2 de la carretera AC-566",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/10/motorista-herido-tras-colision-coche-castro-naron/00031789050532434356315.htm",
-      "time": "2026-09-10T14:58:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
