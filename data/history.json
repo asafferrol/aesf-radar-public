@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 558,
+  "count": 561,
   "items": [
+    {
+      "title": "O Parrulo Ferrol, a «regalarles» a los suyos un estreno Prime en A Malata",
+      "description": "Los de Gerard Casas abren fuego este domingo frente al Quesos El Hidalgo Manzanares en una Liga de nuevo formato",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/12/parrulo-ferrol-regalarles-suyos-estreno-prime-malata/00031789213709170340421.htm",
+      "time": "2026-09-12T11:52:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Si estamos todo el día anclados en el año pasado, al final va a pasar lo mismo»",
+      "description": "El técnico del Racing reclama «limpiarse» de lo ocurrido en cursos anteriores y pide confianza",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/12/javi-vazquez-dia-anclados-ano-pasado-final-va-pasar-/00031789208566099597783.htm",
+      "time": "2026-09-12T10:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Álvaro Juan, única ausencia para el estreno del Racing Club Ferrol en casa",
+      "description": "El lateral talaverano, que fue intervenido de una rodilla esta pretemporada, continúa con su proceso de recuperación",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/12/alvaro-juan-unica-ausencia-estreno-racing-club-ferrol-casa/00031789204614301761692.htm",
+      "time": "2026-09-12T10:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Lino, entrenador del Baxi Ferrol: «Hacíamos cambios para probar cosas»",
       "description": "Más allá del premio de levantar su novena Copa Galicia en casa frente al Ensino (19.00), el técnico busca hacer de la pretemporada su laboratorio más efectivo",
@@ -3189,6 +3216,15 @@
       "type": "NOTICIAS"
     },
     {
+      "title": "Una boda en Ferrol reúne a José María Aznar, Ana Botella, Esperanza Aguirre y otros políticos del PP",
+      "description": "La concatedral de San Julián acogió el enlace de la hija de Javier Fernández-Lasquetty, exconsejero de Sanidad en Madrid",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/11/sonriente-jose-maria-aznar-pasea-ferrol-junto-mujer-ana-botella/00031789153772478885226.htm",
+      "time": "2026-09-11T19:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
       "title": "Qué hacer este fin de semana en Ferrol y Narón: antigüedades, marisco y rock",
       "description": "A Gándara acoge uno de los eventos con más éxito de público en la zona con la Feira de Antigüidades, Coleccionismo e Vintage; y el Cantón despedirá el verano en una fiesta organizada por los hosteleros",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/12/fanaticos-antiguedades-vintage-vuelven-juntarse-naron/0003_202609F12C9_COPY993.htm",
@@ -5011,15 +5047,6 @@
       "description": "El accidente se produjo en el kilómetro 2 de la carretera AC-566",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/10/motorista-herido-tras-colision-coche-castro-naron/00031789050532434356315.htm",
       "time": "2026-09-10T14:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Calcinada una furgoneta en un camino apartado en As Pontes, de madrugada",
-      "description": "Actuaron los bomberos del parque provincial y también los del servicio forestal; todo apunta a que el fuego fue intencionado",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/10/calcinada-furgoneta-camino-apartado-as-pontes-madrugada/00031789028247369689346.htm",
-      "time": "2026-09-10T08:49:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
