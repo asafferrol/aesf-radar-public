@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:40:23.741426+00:00",
-  "count": 560,
+  "generated_at": "2026-09-12T17:50:06.907515+00:00",
+  "count": 556,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Un coche en sentido contrario causa un caos de tráfico en una rotonda de Ferrol",
+      "description": "Ocurrió en la glorieta de Basanta, que comunica con la entrada a la autopista, el vehículo chocó con otros y provocó al menos un herido",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/12/coche-sentido-contrario-causa-caos-trafico-rotonda-ferrol/00031789227868469921952.htm",
+      "time": "2026-09-12T15:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "A Malata, borrón y cuenta nueva para el Racing Club Ferrol",
       "description": "Los de Javi Vázquez, que se estrenan como locales con su cuenta de victorias inédita, afrontan el reto de imponerse a un Real Unión que suma ocho goles en dos jornadas",
@@ -5016,51 +5025,6 @@
       "description": "El incidente se produjo en el lugar de Moimentos y ni el conductor ni el animal sufrieron daños",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/coche-queda-calcinado-san-sadurnino-tras-arder-remolcaba-caballo/00031789067497105393983.htm",
       "time": "2026-09-10T19:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una ambulancia del 061 acude al auxilio de un ciclista herido en las Fragas do Eume",
-      "description": "La caída se produjo en el camino de acceso al monasterio de Caaveiro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/ambulancia-o61-acude-axulio-ciclista-herido-fragas-do-eume/00031789060109336771393.htm",
-      "time": "2026-09-10T17:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Rubén Ruipérez, un árbitro de buen recuerdo para los ferrolanos",
-      "description": "El colegiado estará al frente en el encuentro entre el Racing de Ferrol y el Real Unión de este domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/ruben-ruiperez-arbitro-buen-recuerdo-ferrolanos/00031789059337525751394.htm",
-      "time": "2026-09-10T16:59:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Blanco y Eto'o miran al Racing con ambición: «La ilusión es máxima»",
-      "description": "Los últimos refuerzos del club verde confían en hacerse fuertes en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/10/blanco-eto-miran-racing-ambicion-ilusion-maxima/00031789058714148650859.htm",
-      "time": "2026-09-10T16:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Parrulo refuerza su acuerdo sanitario con el Hospital Ribera Juan Cardona",
-      "description": "El centro sanitario amplía su cobertura para atender las necesidades médicas del primer equipo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/10/parrulo-refuerza-acuerdo-sanitario-hospital-ribera-juan-cardona/00031789053678254797568.htm",
-      "time": "2026-09-10T15:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«O inferno de Punta Arnela» se viste de gala con la nueva camiseta del Baxi Ferrol",
-      "description": "Las llamas del pabellón se convierten en el elemento protagonista de una equipación que busca reforzar la identidad del conjunto ferrolano",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/10/infierno-punta-arnela-viste-gala-nueva-camiseta-baxi/00031789053282703843151.htm",
-      "time": "2026-09-10T15:56:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
