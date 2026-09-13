@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 382,
+  "count": 385,
   "items": [
+    {
+      "title": "Herido un motorista en Narón tras la colisión con un coche delante de una iglesia",
+      "description": "El accidente ocurrió en la parroquia de Sedes y acudió la Guardia Civil de Tráfico",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/13/herido-motorista-naron-tras-colision-coche-delante-iglesia/00031789296979012853149.htm",
+      "time": "2026-09-13T11:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Muere un hombre en Baiona al caerse desde un quinto piso cuando intentaba entrar por una ventana",
+      "description": "Tenía 47 años y era natural de Valdoviño",
+      "url": "https://www.lavozdegalicia.es/noticia/vigo/baiona/2026/09/13/muere-hombre-baiona-caerse-quinto-piso-intentaba-entrar-ventana/00031789286128747745206.htm",
+      "time": "2026-09-13T08:05:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Obras en la autopista sin luz al final del túnel entre Ferrol y A Coruña: «Llevan más de un año y pagamos lo mismo de peaje»",
       "description": "Usuarios de la AP-9 critican la ralentización de los trayectos y la duración de los trabajos para modernizar los pasos subterráneos de la autopista, sin compensaciones en los peajes",
@@ -96,6 +114,15 @@
       "title": "Jesús Salgado, experto en psicología del trabajo: «La mejor línea de un currículo es la que explica cuáles han sido tus logros»",
       "description": "El prestigioso investigador de la Universidade de Santiago ofreció la lección inaugural del curso 2026-2027, en la que habló de las nuevas tecnologías, las redes, la IA y las relaciones laborales: él cree que el factor humano seguirá siendo determinante",
       "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/09/13/mejor-linea-curriculo-explica-tus-logros/0003_202609S13C4991.htm",
+      "time": "2026-09-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las manzanas de Ortegal: mucho más que sidra asturiana",
+      "description": "La venta de pomas de mesa y la transformación en zumos y mermelada, dos alternativas con mayor valor añadido para los productores",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/agricultura/2026/09/13/manzanas-ortegal-sidra-asturiana/0003_202609F13C9991.htm",
       "time": "2026-09-13T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
