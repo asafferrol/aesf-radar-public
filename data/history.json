@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 385,
+  "count": 382,
   "items": [
+    {
+      "title": "Adiós a Leonardo Dopico, luchador de la ría de Ferrol, amigo de Carrillo y Pillado: «Su palabra sagrada era compañero»",
+      "description": "Militante comunista y de CCOO en la clandestinidad, fue detenido y torturado durante el franquismo, lo dejó todo por la libertad de su país; su hijo Rafael recuerda que «en Francia ganaba 14.000 pesetas al mes pero quiso venirse a Astano para ganar 4.000»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/13/adios-leonardo-dopico-historico-luchador-ria-ferrol-gran-amigo-carrillado-pillado-palabra-sagrada-era-companero/00031789298016605816600.htm",
+      "time": "2026-09-13T12:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La pizarra sonríe al Racing Club Ferrol, que supera al Real Unión en A Malata (3-2)",
+      "description": "Los de Javi Vázquez giraron el calcetín del balón parado para abrir la lata en su estreno en casa y sellar una primera victoria, que empañó el caos final con dos goles en contra",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/13/racin-g-real-union/00031789291131586359755.htm",
+      "time": "2026-09-13T11:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Herido un motorista en Narón tras la colisión con un coche delante de una iglesia",
       "description": "El accidente ocurrió en la parroquia de Sedes y acudió la Guardia Civil de Tráfico",
@@ -3418,51 +3436,6 @@
       "description": "Las anfitrionas y vigentes campeonas se miden en A Malata (20.30 horas) al recién ascendido cuadro olívico, que llega con ganas de dar la sorpresa y medirse al Ensino en la final",
       "url": "https://www.lavozdegalicia.es/video/deportes/2026/09/11/directo-segunda-semifinal-copa-galicia-baxi-ferrol-celta/00311789135467216714256.htm",
       "time": "2026-09-11T15:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nuevas incidencias en el bus de Ferrol a A Coruña con una avería que apeó a pasajeros en un túnel de la AP-9",
-      "description": "Los usuarios denuncian que numerosos viajeros quedan tirados en las paradas por la carencia de una adecuada planificación",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/12/incidencias-servicio-bus-averia-apeo-pasajeros-tunel-ap-9/0003_202609F12C3992.htm",
-      "time": "2026-09-11T14:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Alquileres desde 130 euros en los nuevos pisos de la Xunta en Ferrol",
-      "description": "Sorteadas 48 viviendas públicas de O Bertón, el 40 % para menores de 36 años",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/12/alquileres-130-euros-nuevos-pisos-berton/0003_202609F12C3991.htm",
-      "time": "2026-09-11T14:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En directo: primera semifinal de la Copa Galicia, Maristas-Ensino",
-      "description": "Las de Suso Garrido, claras candidatas al título, se ven las caras en A Malata con el combinado de Fer Buendía, que viene de sellar un histórico ascenso a Challenge (18.00 horas)",
-      "url": "https://www.lavozdegalicia.es/video/deportes/2026/09/11/directo-primera-semifinal-copa-galicia-ensino-maristas/00311789134563236127868.htm",
-      "time": "2026-09-11T13:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ramsés Gil elogia al Racing y a A Malata: «Vamos a un escenario fantástico»",
-      "description": "El técnico del Real Unión, que lleva ocho goles a favor en solo dos partidos, advierte que competirá «de poder a poder»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/11/ramses-gil-elogia-racing-malata-vamos-escenario-fantastico/00031789133300343334622.htm",
-      "time": "2026-09-11T13:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La afición encara una nueva era: «Nuestra idea es que haya unión y que se transmita al racinguismo»",
-      "description": "Uxía Prieto y Raquel Pena, su segunda de a bordo, comandan una nueva etapa al frente de la Federación de Peñas cargadas de «ideas e ilusión»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/11/ficion-encara-nueva-era-idea-haya-union-transmita-racinguismo/00031789129486270516652.htm",
-      "time": "2026-09-11T12:46:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
