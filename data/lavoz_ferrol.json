@@ -1,5 +1,14 @@
 [
   {
+    "title": "Las diez mejores imágenes de la victoria del Racing Club Ferrol en A Malata",
+    "description": "Los de Javi Vázquez brindaron un primer partido en casa cargado de emociones",
+    "url": "https://www.lavozdegalicia.es/album/oparacing/2026/09/13/diez-mejores-imagenes-victoria-racing-club-ferrol-malata/01101789330079868679415.htm",
+    "time": "2026-09-13T20:12:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Raúl Alcaina: «No he dejado de creer y al final he tenido la oportunidad de meter gol»",
     "description": "El delantero, titular en A Malata, anotó el segundo tanto del Racing",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/13/raul-alcaina-dejado-creer-final-tenido-oportunidad-meter-gol/00031789316303404857943.htm",
@@ -63,8 +72,8 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La pizarra sonríe al Racing Club Ferrol, que supera al Real Unión en A Malata (3-2)",
-    "description": "Los de Javi Vázquez giraron el calcetín del balón parado para abrir la lata en su estreno en casa y sellar una primera victoria, que empañó el caos final con dos goles en contra",
+    "title": "El Racing Club Ferrol supera al Real Unión y se desbloquea en A Malata (3-2)",
+    "description": "Alcaina abrió la lata a balón parado en un estreno en casa en el que los de Javi Vázquez, que llegaron a ir ganando de tres, acusaron cierto exceso de euforia final",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/13/racin-g-real-union/00031789291131586359755.htm",
     "time": "2026-09-13T11:53:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -171,15 +180,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Las diez mejores imágenes del Ensino-Baxi Ferrol",
-    "description": "Las lucenses alzaron la Copa Galicia tras superar a las ferrolanas en A Malata en un auténtico festival de triples",
-    "url": "https://www.lavozdegalicia.es/album/deportes/2026/09/12/diez-mejores-imagenes-ensino-baxi-ferrol/01101789245073165453765.htm",
-    "time": "2026-09-12T20:32:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El Ensino arrebata al Baxi el cetro de mando gallego a ritmo de triple (91-79)",
     "description": "Las de Suso Garrido, imparables desde el tiro exterior, encarrilaron su triunfo en la Copa Galicia en un flojo tercer cuarto de las ferrolanas",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/12/ensino-baxi/00031789225254177418763.htm",
@@ -279,46 +279,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Nuevo asalto musical en Valdoviño con Pantinhaus y Dalle que Dalle",
-    "description": "El objetivo es sorprender al público con su espectáculo, sin avisar del lugar ni la hora",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/11/nuevo-asalto-musical-valdovino-pantinhaus-dalle-dalle/0003_202609F11C5994.htm",
-    "time": "2026-09-11T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Global Ports busca negocios locales para su futura terminal de cruceros en Ferrol",
     "description": "La firma solicita la presentación de propuestas de trabajo «innovadoras»",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/11/global-ports-busca-negocios-locales-futura-terminal-cruceros/0003_202609F11C3991.htm",
     "time": "2026-09-11T02:50:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Pablo Rañales se adentra en el terror psicológico",
-    "description": "El día 10 presentará en la Alianza Aresana su libro Espigas Queimadas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/08/pablo-ranales-adentra-terror-psicologico/00031788868860571430331.htm",
-    "time": "2026-09-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Neda, de verbena con Costa Dorada y Trébol en las fiestas de Santa María",
-    "description": "El jueves, Día do Neno , repartirán liscos y chorizos gratis en el Campo da Feira de Albarón",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/08/neda-verbena-costa-dorada-trebol-fiestas-santa-maria/0003_202609F8C4991.htm",
-    "time": "2026-09-08T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Neda acolle este venres o proxecto de títeres Barriga verde no Camiño",
-    "description": "Haberá pasarrúas e obradoiros de construción de monicreques, entre outras propostas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/08/span-langglneda-acolle-venres-proxecto-titeres-barriga-verde-caminospan/0003_202609F8C5992.htm",
-    "time": "2026-09-08T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -337,15 +301,6 @@
     "description": "El concierto se celebrará el 17 de abril en el primer espectáculo cultural anunciado por el Concello para el 2027",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/08/cafe-quijano-actuara-auditorio-ferrol-proxima-primavera/0003_202609F8C2991.htm",
     "time": "2026-09-08T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Sesión de cine e charla sobre as táboas no Océano Surf Museo, en Valdoviño",
-    "description": "A proxección do documental «Spaghetti Week» terá lugar este venres, 11 de setembro",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/08/span-langglsesion-cine-charla-sobre-as-taboas-oceano-surf-museospan/0003_202609F8C5994.htm",
-    "time": "2026-09-07T20:07:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -382,15 +337,6 @@
     "description": "Los ponentes disertarán sobre Persépolis y Hatussa y reivindicarán el legado de Mercedes Mesquida, Gertrude Bell y Kathleen Kenyon",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/04/urbes-milenarias-pioneras-arqueologia-vi-xornada-ex-oriente-lux/0003_202609F4C2993.htm",
     "time": "2026-09-04T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Olimpíadas Rurais de Couzadoiro, o 12 de setembro",
-    "description": "O día 9 remata o prazo para reservar praza no xantar",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/08/27/span-langglcouzadoiro-vai-volver-olimpicospan/0003_202608F27C6993.htm",
-    "time": "2026-08-27T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

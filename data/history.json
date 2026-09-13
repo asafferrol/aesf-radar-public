@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 385,
+  "count": 383,
   "items": [
+    {
+      "title": "Las diez mejores imágenes de la victoria del Racing Club Ferrol en A Malata",
+      "description": "Los de Javi Vázquez brindaron un primer partido en casa cargado de emociones",
+      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/09/13/diez-mejores-imagenes-victoria-racing-club-ferrol-malata/01101789330079868679415.htm",
+      "time": "2026-09-13T20:12:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Raúl Alcaina: «No he dejado de creer y al final he tenido la oportunidad de meter gol»",
       "description": "El delantero, titular en A Malata, anotó el segundo tanto del Racing",
@@ -3439,33 +3448,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Baxi, que apeó al Celta sobre la bocina, se suma a la fiesta del Ensino (57-59)",
-      "description": "Las de Lino López, que fueron por detrás hasta bien entrado el tercer cuarto, se recobraron a tiempo para reeditar final la Copa Galicia del pasado año",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/11/baxi-celta/00031789140996962374594.htm",
-      "time": "2026-09-11T20:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un sonriente José María Aznar pasea por Ferrol junto a su mujer Ana Botella",
-      "description": "El expresidente del Gobierno recorrió este viernes el barrio de A Magdalena, acompañado por la exalcaldesa de Madrid",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/11/sonriente-jose-maria-aznar-pasea-ferrol-junto-mujer-ana-botella/00031789153772478885226.htm",
-      "time": "2026-09-11T19:22:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una boda en Ferrol reúne a José María Aznar, Ana Botella, Esperanza Aguirre y otros políticos del PP",
-      "description": "La concatedral de San Julián acogió el enlace de la hija de Javier Fernández-Lasquetty, exconsejero de Sanidad en Madrid",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/11/sonriente-jose-maria-aznar-pasea-ferrol-junto-mujer-ana-botella/00031789153772478885226.htm",
-      "time": "2026-09-11T19:22:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
