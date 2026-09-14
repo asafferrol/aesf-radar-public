@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:37:27.952237+00:00",
-  "count": 282,
+  "generated_at": "2026-09-14T20:32:00.009404+00:00",
+  "count": 283,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "El Aldebarán Intasa, anfitrión en el Torneo Concello de San Sadurniño",
+      "description": "El Municipal acoge el sábado esta cita de pretemporada en la que participan Grupo Herce Soria, Voleibol Leganés y Textil Santanderina",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/14/aldebaran-intasa-anfitrion-torneo-concello-san-sadurnino/00031789408216935262734.htm",
+      "time": "2026-09-14T17:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Así avanza la colocación de la estructura de la cubierta en A Malata",
+      "description": "El número de vigas ha ido aumentando en los últimos días en el sector de Preferencia",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/14/avanza-colocacion-estructura-cubierta-malata/00031789404289488949181.htm",
+      "time": "2026-09-14T17:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Herido un motorista tras ser alcanzado por un coche en Fene",
+      "description": "La propia conductora del turismo avisó al 112 del accidente",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/14/herido-motorista-tras-alcanzado-coche-fene/00031789404305934634536.htm",
+      "time": "2026-09-14T16:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El modo videojuego de Migue Leal para estrenarse como goleador con el Racing",
       "description": "Anotó su primer gol con el club ferrolano en una acción de la que pocos disfrutaron en directo por el caos de la caída de Etienne Eto'o",
@@ -2541,24 +2568,6 @@
       "description": "La taquilla de Preferencia abrirá desde las 10.30 horas para resolver incidencias",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/12/lista-imprescindibles-estreno-racing-casa/00031789247195819180991.htm",
       "time": "2026-09-12T21:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las diez mejores imágenes del Ensino-Baxi Ferrol",
-      "description": "Las lucenses alzaron la Copa Galicia tras superar a las ferrolanas en A Malata en un auténtico festival de triples",
-      "url": "https://www.lavozdegalicia.es/album/deportes/2026/09/12/diez-mejores-imagenes-ensino-baxi-ferrol/01101789245073165453765.htm",
-      "time": "2026-09-12T20:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Ensino arrebata al Baxi el cetro de mando gallego a ritmo de triple (91-79)",
-      "description": "Las de Suso Garrido, imparables desde el tiro exterior, encarrilaron su triunfo en la Copa Galicia en un flojo tercer cuarto de las ferrolanas",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/12/ensino-baxi/00031789225254177418763.htm",
-      "time": "2026-09-12T18:40:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
