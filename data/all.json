@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T05:16:02.856317+00:00",
-  "count": 72,
+  "generated_at": "2026-09-14T10:45:40.071195+00:00",
+  "count": 71,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -13,9 +13,10 @@
       "name": "DOG · Xunta de Galicia"
     },
     "boe": {
-      "ok": true,
-      "count": 334,
-      "name": "BOE"
+      "ok": false,
+      "count": 0,
+      "name": "BOE",
+      "error": "<urlopen error timed out>"
     },
     "youtube": {
       "ok": true,
@@ -25,6 +26,24 @@
     }
   },
   "items": [
+    {
+      "title": "Un pesquero a la deriva con diez tripulantes es remolcado por Salvamento hasta Cariño",
+      "description": "La Salvamar Shaula se encargó de este operativo, después de que el barco sufriese el bloqueo del timón y la hélice",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/14/pesquero-deriva-diez-tripulantes-remolcado-salvamento-carino/00031789377279289567932.htm",
+      "time": "2026-09-14T09:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Tres heridos con dolor en el pecho al salirse un coche de la carretera en Cedeira",
+      "description": "Hasta el lugar se desplazaron urgencias sanitarias y Guardia Civil de Tráfico",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/14/tres-heridos-dolor-pecho-salirse-coche-carretera-cedeira/00031789375522286642604.htm",
+      "time": "2026-09-14T09:02:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La residencia de mayores de O Bertón en Ferrol prepara su estreno",
       "description": "El centro público recibirá a finales de este mes a sus primeros usuarios",
@@ -642,33 +661,6 @@
       "description": "Los de Gerard Casas abren fuego este domingo frente al Quesos El Hidalgo Manzanares en una Liga de nuevo formato",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/12/parrulo-ferrol-regalarles-suyos-estreno-prime-malata/00031789213709170340421.htm",
       "time": "2026-09-12T11:52:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Si estamos todo el día anclados en el año pasado, al final va a pasar lo mismo»",
-      "description": "El técnico del Racing reclama «limpiarse» de lo ocurrido en cursos anteriores y pide confianza",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/12/javi-vazquez-dia-anclados-ano-pasado-final-va-pasar-/00031789208566099597783.htm",
-      "time": "2026-09-12T10:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Álvaro Juan, única ausencia para el estreno del Racing Club Ferrol en casa",
-      "description": "El lateral talaverano, que fue intervenido de una rodilla esta pretemporada, continúa con su proceso de recuperación",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/12/alvaro-juan-unica-ausencia-estreno-racing-club-ferrol-casa/00031789204614301761692.htm",
-      "time": "2026-09-12T10:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Lino, entrenador del Baxi Ferrol: «Hacíamos cambios para probar cosas»",
-      "description": "Más allá del premio de levantar su novena Copa Galicia en casa frente al Ensino (19.00), el técnico busca hacer de la pretemporada su laboratorio más efectivo",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/12/lino-entrenador-baxi-ferrolhaciamos-cambios-probar-/00031789195770169493272.htm",
-      "time": "2026-09-12T07:07:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
