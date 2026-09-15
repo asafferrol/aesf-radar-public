@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T12:07:05.793970+00:00",
-  "count": 502,
+  "generated_at": "2026-09-15T16:53:36.279203+00:00",
+  "count": 500,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "Novoa toma ventaja en el Premio Hyundai de la temporada",
+      "description": "El vigente campeón lidera la primera votación tras el estreno liguero ante el Manzanares",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/15/novoa-toma-ventaja-premio-hyundai-temporada/00031789490005405265174.htm",
+      "time": "2026-09-15T16:36:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Marco Veiga: «Llevo todo el año compitiendo con dolor, pero no quería renunciar»",
+      "description": "El ciclista naronés confía en llegar al Mundial en las mejores condiciones",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/15/marco-veigallevo-ano-compitiendo-dolor-queria-renunciar/00031789489544947908703.htm",
+      "time": "2026-09-15T16:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Alerta de incendio en una tienda de ropa en Odeón, Narón",
+      "description": "Un mal contacto en la pantalla de una terminal de ventas originó el incidente, los bomberos del SPEIS se desplegaron en el centro comercial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/15/alerta-incendio-tienda-ropa-odeon-naron/00031789485078419753108.htm",
+      "time": "2026-09-15T15:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La República Dominicana convoca a Pujol, que se perderá dos encuentros",
+      "description": "El defensa del Racing de Ferrol se perderá los partidos ante Lugo y Pontevedra",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/15/republica-dominicana-convoca-pujol-perdera-dos-encuentros/00031789484717501802581.htm",
+      "time": "2026-09-15T15:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El 75 % de los goles encajados por el Racing de Ferrol han llegado en el descuento",
+      "description": "Los verdes buscan corregir la falta de concentración en los tramos finales de los partidos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/15/75-goles-encajados-racing-ferrol-llegado-descuento/00031789484305771390506.htm",
+      "time": "2026-09-15T15:04:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una furgoneta de reparto se hunde en aguas del Xuvia, en Neda: «No tenía el freno puesto»",
       "description": "El vehículo se dedicaba al reparto de la prensa, los dueños lo dejaron junto a la ribera, rompió la barandilla metálica y cayó a la ría",
@@ -4476,69 +4521,6 @@
       "description": "Los de Javi Vázquez brindaron un primer partido en casa cargado de emociones",
       "url": "https://www.lavozdegalicia.es/album/oparacing/2026/09/13/diez-mejores-imagenes-victoria-racing-club-ferrol-malata/01101789330079868679415.htm",
       "time": "2026-09-13T20:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Raúl Alcaina: «No he dejado de creer y al final he tenido la oportunidad de meter gol»",
-      "description": "El delantero, titular en A Malata, anotó el segundo tanto del Racing",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/13/raul-alcaina-dejado-creer-final-tenido-oportunidad-meter-gol/00031789316303404857943.htm",
-      "time": "2026-09-13T16:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Evacuado un herido de 23 años en el monasterio de Caaveiro",
-      "description": "El joven sufrió un esguince y fue ayudado por otros visitantes en el traslado a una ambulancia, también se acercaron efectivos del GES do Eume que lamentan la falta de cobertura desde el centro de interpretación hasta el cenobio",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/13/evacuado-herido-23-anos-monasterio-caaveiro/00031789314428515668690.htm",
-      "time": "2026-09-13T16:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Marián Ferreiro pide la unidad de Terra Galega «para que medre Narón»",
-      "description": "La actual alcaldesa volverá a ser la candidata para 2027 y admite que «esta é a lexislatura máis difícil que lembro»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/14/marian-ferreiro-pide-unidad-tega-medre-naron/0003_202609F14C2_COPY993.htm",
-      "time": "2026-09-13T15:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» del Racing Club Ferrol en su victoria frente al Real Unión",
-      "description": "Los ferrolanos demostraron una mejor versión y se hicieron fuertes en su estreno en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/13/1x1-racing-club-ferrol-victoria-frente-real-union/00031789313330386652940.htm",
-      "time": "2026-09-13T15:02:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Estreno desenfrenado de O Parrulo Ferrol frente al Manzanares (6-4)",
-      "description": "Los de Gerard Casas, más comedidos en la primera mitad, se destaparon en la segunda de un debut con dos expulsiones y un final agitado",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/13/parrulo-manzanares/00031789310085095592275.htm",
-      "time": "2026-09-13T15:02:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Ha sido la hostia, un partido que nunca olvidaré»",
-      "description": "El técnico racinguista destaca la reacción del equipo tras un inicio sin victorias y el apoyo de A Malata en el primer triunfo del curso",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/13/javi-vazquez-hostia-partido-nunca-olvidare/00031789310684934304155.htm",
-      "time": "2026-09-13T14:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Adiós a Leonardo Dopico, luchador de la ría de Ferrol, amigo de Carrillo y Pillado: «Su palabra sagrada era compañero»",
-      "description": "Militante comunista y de CCOO en la clandestinidad, fue detenido y torturado durante el franquismo, lo dejó todo por la libertad de su país; su hijo Rafael recuerda que «en Francia ganaba 14.000 pesetas al mes pero quiso venirse a Astano para ganar 4.000»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/13/adios-leonardo-dopico-historico-luchador-ria-ferrol-gran-amigo-carrillado-pillado-palabra-sagrada-era-companero/00031789298016605816600.htm",
-      "time": "2026-09-13T12:27:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
