@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T06:39:15.604306+00:00",
-  "count": 503,
+  "generated_at": "2026-09-15T12:07:05.793970+00:00",
+  "count": 502,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Una furgoneta de reparto se hunde en aguas del Xuvia, en Neda: «No tenía el freno puesto»",
+      "description": "El vehículo se dedicaba al reparto de la prensa, los dueños lo dejaron junto a la ribera, rompió la barandilla metálica y cayó a la ría",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/15/furgoneta-reparto-hunde-aguas-xuvia-neda-tenia-freno-puesto/00031789468809805787649.htm",
+      "time": "2026-09-15T11:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Stili: «Empezamos con buenas sensaciones a nivel de fútbol, pero nos está faltando la eficacia»",
+      "description": "Tras sumar un único punto de seis en liza, el preparador de la UD Somozas confía en el proceso de adaptación de los sub-23 en un arranque con equipos muy replegados",
+      "url": "https://www.lavozdegalicia.es/noticia/futbolgallego/2026/09/15/stili-entrenador-somozasempezamos-buenas-sensaciones-nivel-futbol-faltando-eficacia/00031789457992586850706.htm",
+      "time": "2026-09-15T08:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La judicialización del agua en Narón",
       "description": "Un informe de intervención indica que la factura subirá al menos un 40 % con el nuevo sistema, el Contencioso-Administrativo rechaza las medidas cautelares contra el Concello",
@@ -4521,33 +4539,6 @@
       "description": "Militante comunista y de CCOO en la clandestinidad, fue detenido y torturado durante el franquismo, lo dejó todo por la libertad de su país; su hijo Rafael recuerda que «en Francia ganaba 14.000 pesetas al mes pero quiso venirse a Astano para ganar 4.000»",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/13/adios-leonardo-dopico-historico-luchador-ria-ferrol-gran-amigo-carrillado-pillado-palabra-sagrada-era-companero/00031789298016605816600.htm",
       "time": "2026-09-13T12:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La pizarra sonríe al Racing Club Ferrol, que supera al Real Unión en A Malata (3-2)",
-      "description": "Los de Javi Vázquez giraron el calcetín del balón parado para abrir la lata en su estreno en casa y sellar una primera victoria, que empañó el caos final con dos goles en contra",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/13/racin-g-real-union/00031789291131586359755.htm",
-      "time": "2026-09-13T11:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Herido un motorista en Narón tras la colisión con un coche delante de una iglesia",
-      "description": "El accidente ocurrió en la parroquia de Sedes y acudió la Guardia Civil de Tráfico",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/13/herido-motorista-naron-tras-colision-coche-delante-iglesia/00031789296979012853149.htm",
-      "time": "2026-09-13T11:03:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Muere un hombre en Baiona al caerse desde un quinto piso cuando intentaba entrar por una ventana",
-      "description": "Tenía 47 años y era natural de Valdoviño",
-      "url": "https://www.lavozdegalicia.es/noticia/vigo/baiona/2026/09/13/muere-hombre-baiona-caerse-quinto-piso-intentaba-entrar-ventana/00031789286128747745206.htm",
-      "time": "2026-09-13T08:05:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
