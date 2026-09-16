@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T10:05:01.340430+00:00",
-  "count": 464,
+  "generated_at": "2026-09-16T14:53:03.369504+00:00",
+  "count": 465,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "De padres a hijos: Jaype Joyeros vuelve al centro de Ferrol",
+      "description": "Nuevo establecimiento en la calle Lugo, donde comenzó la saga familiar",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/jaype-joyeros-convierte-saga-familiar-amplia-actividad/00031789568316888135871.htm",
+      "time": "2026-09-16T14:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La nueva terminal de cruceros del puerto de Ferrol estará operativa en la primavera de 2027",
+      "description": "La Autoridad Portuaria y Global Ports Holding presentan en Seatrade Cruise Med de Las Palmas el proyecto conjunto que impulsará el tráfico de pasajeros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/16/nueva-terminal-cruceros-puerto-ferrol-estara-operativa-primavera-2027/00031789568351936798884.htm",
+      "time": "2026-09-16T14:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un comienzo de curso con más estudiantes, nuevos títulos y el reto del transporte en el campus de Ferrol",
       "description": "«Vivo en Neda, pero para llegar a tiempo a clase en Esteiro a las 8.30 tengo que coger el bus a las 7.20», lamenta una alumna de Xestión Industrial da Moda",
@@ -4188,15 +4206,6 @@
       "description": "Anotó su primer gol con el club ferrolano en una acción de la que pocos disfrutaron en directo por el caos de la caída de Etienne Eto'o",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/14/modo-videojuego-migue-leal-estrenarse-goleador-racing/00031789398633045755237.htm",
       "time": "2026-09-14T15:19:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Julio Martínez: «Si mi familia supiera lo que me gasté en O Parrulo, me echarían de casa»",
-      "description": "El fundador de club ferrolano, que el pasado junio dio el relevo a una directiva entrante, analiza el casi medio siglo que comandó la institución",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/14/julio-martinez-familia-supiera-me-gaste-parrulo-me-echarian-casa/00031789394763436621106.htm",
-      "time": "2026-09-14T14:14:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
