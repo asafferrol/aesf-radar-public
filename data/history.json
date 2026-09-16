@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 465,
+  "count": 466,
   "items": [
+    {
+      "title": "Cantera, fútbol femenino y tres días de competición en Neda",
+      "description": "El Juanito González acogerá el torneo del Rápido de Neda y cerrará el domingo con el II Triangular de fútbol femenino",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/cantera-futbol-femenino-tres-dias-competicion-neda/00031789576797750103156.htm",
+      "time": "2026-09-16T16:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Blanca Hermida: «La natación ha sido mi tabla de salvación»",
+      "description": "La ferrolana sigue compitiendo al máximo nivel casi cuatro décadas después de empezar en el deporte",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/blanca-hermida-natacion-tabla-salvacion/00031789576609477367627.htm",
+      "time": "2026-09-16T16:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El exracinguista Álvaro Peña, duda para partido del sábado en A Malata",
+      "description": "El centrocampista arrastra una fractura en una costilla que le mantiene de baja desde hace cinco semanas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/16/exracinguista-alvaro-pena-duda-sabado/00031789575780026377125.htm",
+      "time": "2026-09-16T16:30:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Buján y su reencuentro con Imanol de la Sota: «Es muy buen amigo mío»",
+      "description": "El extremo se medirá a su antiguo club este sábado a las 16.30 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/16/bujan-reencuentro-imanol-sota-buen-amigo-/00031789575508932407819.htm",
+      "time": "2026-09-16T16:30:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "De padres a hijos: Jaype Joyeros vuelve al centro de Ferrol",
       "description": "Nuevo establecimiento en la calle Lugo, donde comenzó la saga familiar",
@@ -15,6 +51,15 @@
       "title": "La nueva terminal de cruceros del puerto de Ferrol estará operativa en la primavera de 2027",
       "description": "La Autoridad Portuaria y Global Ports Holding presentan en Seatrade Cruise Med de Las Palmas el proyecto conjunto que impulsará el tráfico de pasajeros",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/16/nueva-terminal-cruceros-puerto-ferrol-estara-operativa-primavera-2027/00031789568351936798884.htm",
+      "time": "2026-09-16T14:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La nueva terminal de cruceros del puerto de Ferrol estará operativa en la primavera de 2027",
+      "description": "La Autoridad Portuaria y Global Ports Holding presentan en Seatrade Cruise Med de Las Palmas el proyecto conjunto que impulsará el tráfico de pasajeros",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/puertos/2026/09/16/nueva-terminal-cruceros-puerto-ferrol-estara-operativa-primavera-2027/00031789568351936798884.htm",
       "time": "2026-09-16T14:27:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4150,42 +4195,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Aldebarán Intasa, anfitrión en el Torneo Concello de San Sadurniño",
-      "description": "El Municipal acoge el sábado esta cita de pretemporada en la que participan Grupo Herce Soria, Voleibol Leganés y Textil Santanderina",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/14/aldebaran-intasa-anfitrion-torneo-concello-san-sadurnino/00031789408216935262734.htm",
-      "time": "2026-09-14T17:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Así avanza la colocación de la estructura de la cubierta en A Malata",
-      "description": "El número de vigas ha ido aumentando en los últimos días en el sector de Preferencia",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/14/avanza-colocacion-estructura-cubierta-malata/00031789404289488949181.htm",
-      "time": "2026-09-14T17:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Herido un motorista tras ser alcanzado por un coche en Fene",
-      "description": "La propia conductora del turismo avisó al 112 del accidente",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/14/herido-motorista-tras-alcanzado-coche-fene/00031789404305934634536.htm",
-      "time": "2026-09-14T16:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El modo videojuego de Migue Leal para estrenarse como goleador con el Racing",
-      "description": "Anotó su primer gol con el club ferrolano en una acción de la que pocos disfrutaron en directo por el caos de la caída de Etienne Eto'o",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/14/modo-videojuego-migue-leal-estrenarse-goleador-racing/00031789398633045755237.htm",
-      "time": "2026-09-14T15:19:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
