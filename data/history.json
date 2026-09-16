@@ -1,7 +1,160 @@
 {
   "hours": 48,
-  "count": 293,
+  "count": 305,
   "items": [
+    {
+      "title": "Un comienzo de curso con más estudiantes, nuevos títulos y el reto del transporte en el campus de Ferrol",
+      "description": "«Vivo en Neda, pero para llegar a tiempo a clase en Esteiro a las 8.30 tengo que coger el bus a las 7.20», lamenta una alumna de Xestión Industrial da Moda",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/16/savia-nueva-campus-crece-nuevas-titulaciones/0003_202609F16C1993.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Caminos escolares seguros en la Semana da Mobilidade de Ferrol",
+      "description": "Alumnos del Isaac Peral y del Montojo recorrerán un tramo a pie hasta sus centros dentro de las actividades del programa municipal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/caminos-escolares-seguros-semana-da-mobilidade/0003_202609F16C3995.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PSOE denuncia una ejecución de menos del 6 % de la inversión municipal en Ferrol",
+      "description": "El portavoz socialista, Ángel Mato, critica que a mitad del ejercicio se habían gastado menos de cuatro millones de euros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/psoe-denuncia-ejecucion-6-inversion-municipal/0003_202609F16C3992.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El BNG reclama a la Xunta la supresión de las torretas eléctricas de Caranza",
+      "description": "El diputado Mon Fernández presentará una iniciativa este viernes para urgir la tramitación del soterramiento de la línea de alta tensión",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/bng-reclama-xunta-supresion-torretas-electricas-caranza/0003_202609F16C3993.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Narón se suma al llamamiento de la Mancomunidade para un consumo responsable de agua",
+      "description": "Destaca que en el encuentro se abordó la reparación de las fugas en el puente de As Pías y acordaron mantener una reunión con la Xunta para el seguimiento de la prealerta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/16/naron-suma-llamamiento-mancomunidade-consumo-responsable-agua/0003_202609F16C4992.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rey Varela, alcalde de Ferrol: «Sería un fracaso no aprobar el proyecto del Sánchez Aguilera este mandato»",
+      "description": "El regidor afirma que el trámite se conseguirá cerrar en los próximos meses y confirma el fin de las catas en la parcela para hallar la muralla antigua de la ciudad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/rey-varela-seria-fracaso-aprobar-proyecto-sanchez-aguilera/0003_202609F16C3991.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Sorteo de regalos en el Día de la Bici de Narón de este domingo",
+      "description": "Las inscripciones para participar en la cita pueden realizarse el mismo día en el paseo de Xuvia, de 10.00 a 10.45 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/16/sorteo-regalos-dia-bici-naron-domingo/0003_202609F16C6992.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Experiencia inmersiva musical en la plaza de Armas de Ferrol",
+      "description": "Instalada la unidad móvil de la Fundación \"la Caixa\" que propone una visita virtual para disfrutar de la música clásica hasta el 27 de octubre",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/experiencia-inmersiva-musical-armas/0003_202609F16C3994.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fin de semana festivo en A Parrocheira de Ferrol Vello",
+      "description": "El barrio mantuvo su tradicional celebración, con actuaciones, cucaña y la procesión marítima del Socorro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/15/fin-semana-festivo-parrocheira-ferrol-vello/00031789498317167950581.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Más de 150 personas en el Foro dos Vivos de Porto do Cabo",
+      "description": "La cita se celebró el pasado fin de semana con conferencias, música, gastronomía y talleres",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/15/150-personas-foro-dos-vivos-porto-do-cabo/00031789498161693794873.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El banco de Meirás, un mirador para «pescar estrellas»",
+      "description": "El privilegiado balcón natural al Atlántico gana adeptos entre quienes buscan la calma y observar el firmamento",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/15/banco-meiras-mirador-pescar-estrellas/00031789497928315338522.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Foro Cidadán polo Ferrocarril denuncia «desatención» por parte de Renfe y la Xunta",
+      "description": "Muestra su solidaridad con los perjudicados por incidencias en los autobuses públicos en la zona",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/foro-cidadan-polo-ferrocarril-denuncia-desatencion-parte-renfe-xunta/0003_202609F16C5991.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Concello das Pontes aproba a urbanización da rúa Lope de Vega",
+      "description": "O pleno do Concello das Pontes aprobou este martes a participación do municipio no POS+ Adicional da Deputación da Coruña",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/concello-das-pontes-aproba-urbanizacion-da-rua-lope-vega/0003_202609F16C6993.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos parroquias de Ortigueira recuperan la señal de TDT 15 años después",
+      "description": "El consistorio ha celebrado la puesta en marcha de esas instalaciones",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/dos-parroquias-ortigueira-recuperan-senal-tdt-15-anos-despues/0003_202609F16C5993.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los pacientes de Parkinson Ferrol, sin fisioterapia por el derrumbe de un techo",
+      "description": "La entidad denuncia su situación tras el incidente ocurrido el 30 de agosto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/16/furgoneta-reparto-hunde-aguas-xuvia-neda-tenia-freno-puesto-pacientes-parkinson-ferrol-fisioterapia-derrumbe-techo/0003_202609F16C5994.htm",
+      "time": "2026-09-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Puerto y Global Ports presentan la nueva terminal en la mayor feria de cruceros de Europa",
+      "description": "El presidente, José Antonio Álvarez, y el director regional de GPH, Francesc Grau, intervienen en el evento",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/16/puerto-global-ports-presentan-nueva-terminal-mayor-feria-cruceros-europa/0003_202609F16C6991.htm",
+      "time": "2026-09-16T02:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Condenado un aspirante a marinero que acosó a seis compañeras en Ferrol",
+      "description": "El denunciado estaba en transición de género de mujer a hombre, pidió compartir cuarto con chicas, hizo comentarios sobre sus cuerpos y les generó ansiedad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/16/condenado-aspirante-marinero-acoso-sexual-seis-companeras-ferrol/0003_202609F16C4_COPY993.htm",
+      "time": "2026-09-16T02:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "RESOLUCIÓN de 8 de septiembre de 2026 por la que se da publicidad del agotamiento del crédito de la Orden de 20 de abril de 2026 por la que se establecen las bases reguladoras para la concesión de ayudas, en régimen de concurrencia no competitiva, para la adquisición de vehículos adaptados que faciliten la prestación de servicios a personas dependientes o a personas con discapacidad por parte de entidades de iniciativa social de la Comunidad Autónoma de Galicia, y se convocan para el ejercicio 2026 (código de procedimiento IF403A).",
       "description": "III. Otras disposiciones Consellería de Presidencia, Justicia y Deportes",
@@ -393,6 +546,15 @@
       "title": "La República Dominicana convoca a Pujol, que se perderá dos encuentros",
       "description": "El defensa del Racing de Ferrol se perderá los partidos ante Lugo y Pontevedra",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/15/republica-dominicana-convoca-pujol-perdera-dos-encuentros/00031789484717501802581.htm",
+      "time": "2026-09-15T15:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La República Dominicana convoca a Pujol, que se perderá dos encuentros",
+      "description": "El defensa del Racing de Ferrol se perderá los partidos ante Lugo y Pontevedra",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/07/24/republica-dominicana-convoca-pujol-perdera-dos-encuentros/00031789484717501802581.htm",
       "time": "2026-09-15T15:10:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -2581,60 +2743,6 @@
       "description": "Hasta el lugar se desplazaron urgencias sanitarias y Guardia Civil de Tráfico",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/14/tres-heridos-dolor-pecho-salirse-coche-carretera-cedeira/00031789375522286642604.htm",
       "time": "2026-09-14T09:02:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La residencia de mayores de O Bertón en Ferrol prepara su estreno",
-      "description": "El centro público recibirá a finales de este mes a sus primeros usuarios",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/14/residencia-prepara-estreno/0003_202609F14C1991.htm",
-      "time": "2026-09-14T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los propietarios de las Fragas do Eume se movilizan en compañía de Besteiro",
-      "description": "Reclaman compensaciones por las limitaciones de uso y un mayor diálogo por parte de la Xunta",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/14/propietarios-fragas-movilizan-compania-besteiro/0003_202609F14C2_COPY991.htm",
-      "time": "2026-09-14T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón se pirra por lo más «vintage»: desde camisetas roqueras a soldaditos de plomo",
-      "description": "Nuevo éxito de la Feira de Antigüidades, con una oferta de todo tipo para los más curiosos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/14/naron-pirra-vintage/0003_202609F14C3_COPY994.htm",
-      "time": "2026-09-14T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El poderoso encanto del queso de Sillobre: «Tan fresco que como moito ten 12 horas de idade»",
-      "description": "Los queseros Eloy y Alejandra organizan una feria con la Sociedade Agarimo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/14/poderoso-encanto-queso-sillobre-fresco-moito-ten-12-horas-idade/0003_202609F14C3_COPY993.htm",
-      "time": "2026-09-14T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un viaje a la Edad del Hierro a través de seis castros: de Sarridal a Baroña",
-      "description": "A Coruña es la segunda provincia de Galicia con más poblados catalogados, solo por detrás de Lugo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/11/viaje-edad-hierro-traves-seis-castros-sarridal-barona/00031789129465235770865.htm",
-      "time": "2026-09-14T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Afal sensibiliza contra el alzhéimer en Ferrolterra",
-      "description": "El colectivo organiza un programa con charlas y divulgación científica",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/14/afal-sensibiliza-contra-alzheimer/0003_202609F14C8993.htm",
-      "time": "2026-09-14T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
