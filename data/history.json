@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 481,
+  "count": 478,
   "items": [
+    {
+      "title": "Rueda confía en que la planta de SAIC en Ferrol se apruebe este año",
+      "description": "El presidente gallego recordó que el trámite principal debe efectuarlo el Consejo de Ministros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/rueda-confia-planta-saic-ferrol-apruebe-ano/00031789654061733862293.htm",
+      "time": "2026-09-17T14:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El árbitro madrileño Luis Enrique Morona visita por primera vez A Malata",
+      "description": "El colegiado, que dirimirá el encuentro entre el Racing y el Barakaldo, no cuenta con antecedentes previos con el club ferrolano",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/17/arbitro-mardileno-luis-enrique-morona-visita-primera-vez-malata/00031789652224573495715.htm",
+      "time": "2026-09-17T13:41:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Álvaro Peña: «Si me hubiese tocado quedarme, lo habría dado todo por el Racing»",
+      "description": "El mediocentro vasco, que salió el pasado mercado invernal al Barakaldo, repasa lo vivido en un club que, defiende, «en unos años estará más arriba» y con el que su actual equipo se verá el sábado las caras en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/17/alvaro-pena-me-hubiese-tocado-quedarme-habria-dado-racing/00031789632726503445804.htm",
+      "time": "2026-09-17T12:28:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Los abonados del Racing de Ferrol afectados por las obras en A Malata mantendrán su reubicación",
       "description": "El club y la Policía Local aplicarán el mismo operativo de tráfico, cortes y apertura de tornos que en el último encuentro",
@@ -4276,60 +4303,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Novoa toma ventaja en el Premio Hyundai de la temporada",
-      "description": "El vigente campeón lidera la primera votación tras el estreno liguero ante el Manzanares",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/15/novoa-toma-ventaja-premio-hyundai-temporada/00031789490005405265174.htm",
-      "time": "2026-09-15T16:36:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Marco Veiga: «Llevo todo el año compitiendo con dolor, pero no quería renunciar»",
-      "description": "El ciclista naronés confía en llegar al Mundial en las mejores condiciones",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/15/marco-veigallevo-ano-compitiendo-dolor-queria-renunciar/00031789489544947908703.htm",
-      "time": "2026-09-15T16:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Alerta de incendio en una tienda de ropa en Odeón, Narón",
-      "description": "Un mal contacto en la pantalla de una terminal de ventas originó el incidente, los bomberos del SPEIS se desplegaron en el centro comercial",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/15/alerta-incendio-tienda-ropa-odeon-naron/00031789485078419753108.htm",
-      "time": "2026-09-15T15:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La República Dominicana convoca a Pujol, que se perderá dos encuentros",
-      "description": "El defensa del Racing de Ferrol se perderá los partidos ante Lugo y Pontevedra",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/15/republica-dominicana-convoca-pujol-perdera-dos-encuentros/00031789484717501802581.htm",
-      "time": "2026-09-15T15:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La República Dominicana convoca a Pujol, que se perderá dos encuentros",
-      "description": "El defensa del Racing de Ferrol se perderá los partidos ante Lugo y Pontevedra",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/07/24/republica-dominicana-convoca-pujol-perdera-dos-encuentros/00031789484717501802581.htm",
-      "time": "2026-09-15T15:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El 75 % de los goles encajados por el Racing de Ferrol han llegado en el descuento",
-      "description": "Los verdes buscan corregir la falta de concentración en los tramos finales de los partidos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/15/75-goles-encajados-racing-ferrol-llegado-descuento/00031789484305771390506.htm",
-      "time": "2026-09-15T15:04:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
