@@ -1,5 +1,59 @@
 [
   {
+    "title": "Triple podio en la Supercopa de España para AD Judo Ferrolterra",
+    "description": "Los hermanos Tenreiro y Pablo López lograron medalla en la cita celebrada en Ourense",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/17/triple-podio-supercopa-espana-ad-judo-ferrolterra/00031789671188601268967.htm",
+    "time": "2026-09-17T18:54:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Malasombra Producións representará la multipremiada obra «Bernarda», el día 19 en Ortigueira",
+    "description": "La pieza, reconocida en los Premios María Casares, La Mostra de Teatro Galego de Cariño o los Premios MAX, se representará a las 20.30 horas en el Teatro de Beneficencia",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/17/malasombra-producions-representara-multipremiada-obra-bernarda-dia-19-ortigueira/00031789669487993370767.htm",
+    "time": "2026-09-17T18:31:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Desalojado un edificio de Cabanas con 18 pisos tras una llamada alertando de un posible escape de gas",
+    "description": "Los Bomberos del Eume y el GES de Mugardos han revisado el inmueble, sin gas ciudad, y no han localizado ninguna fuga",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/09/17/desalojado-edificio-cabanas-tras-llamada-alertando-posible-escape-gas/00031789668717400624997.htm",
+    "time": "2026-09-17T18:23:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El naronés Álvaro Fernández revalida corona estatal de automodelismo de radiocontrol",
+    "description": "El joven de 22 sumó en Vigo su tercer triunfo competitivo de la temporada en categoría 1/8 pista gas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/narones-alvaro-fernandez-revalida-corona-estatal-automodelismo-radiocontrol/00031789669124191330987.htm",
+    "time": "2026-09-17T18:23:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "O Parrulo Ferrol, un paso más hacia un fútbol de salón con alma de superviviente",
+    "description": "Los de Casas reciben este viernes al Catgas Energia Santa Coloma con ánimo de seguir haciendo de A Malata su gran puntal hacia la permanencia",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/17/parrulo-ferrol-paso-futbol-salon-alma-superviviente/00031789667462851528557.htm",
+    "time": "2026-09-17T17:53:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Aparecen pintadas con alusiones al demonio en una iglesia de Ferrol",
+    "description": "Los vecinos fueron a presentar una denuncia en la Policía Nacional; en las paredes del templo de Santa Mariña do Vilar se pueden ver referencias a «Satán» y velas «como procedentes de un rito satánico»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/17/aparecen-pintadas-alusiones-demonio-iglesia-ferrol/00031789663592605592427.htm",
+    "time": "2026-09-17T17:09:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Rueda confía en que la planta de SAIC en Ferrol se apruebe este año",
     "description": "El presidente gallego recordó que el trámite principal debe efectuarlo el Consejo de Ministros",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/rueda-confia-planta-saic-ferrol-apruebe-ano/00031789654061733862293.htm",
@@ -45,15 +99,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Inyección millonaria en Narón para mejorar treinta calles y reparar el centro de mayores",
-    "description": "El pleno acordó solicitar más de 1,6 millones a la Diputación y destinarlos a ocho actuaciones en el municipio",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/inyeccion-millonaria-naron-reparar-treinta-calles-reparar-centro-mayores/00031789557698463859674.htm",
-    "time": "2026-09-17T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Convocan una concentración en Ferrol para protestar por las múltiples incidencias en el servicio de bus",
     "description": "La plataforma por un transporte digno convoca la movilización, que se desarrollará este viernes a las 18.00 horas frente al edificio de la Xunta",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/convocan-concentracion-protestar-multiples-incidencias-servicio-bus/0003_202609F17C4993.htm",
@@ -66,15 +111,6 @@
     "title": "La firma Syvalue formará a jóvenes para la informatización de las fragatas",
     "description": "Creará con la UDC una cátedra en Ferrol con ese objetivo, la empresa se encarga de esa especialidad en las F-110 de Navantia y su CEO visitó ayer la zona",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/17/firma-syvalue-formara-jovenes-informatizacion-fragatas/0003_202609F17C3_COPY994.htm",
-    "time": "2026-09-17T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Cal y arena en la calle Rubalcava de Ferrol",
-    "description": "Los vecinos valoran el objetivo de las obras de reurbanización y la nueva estética del vial pero critican la falta de remates y muestran incertidumbre por la afección de los trabajos a 300 plazas de garaje",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/17/cal-arena-calle-rubalcava/0003_202609F17C1991.htm",
     "time": "2026-09-17T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -126,18 +162,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Aldea aberta , el proyecto arquitectónico ganador para la casa de mayores de As Pontes: «É algo distinto»",
-    "description": "Hugo Araújo Lázare es el autor del diseño elegido, entre las 49 propuestas recibidas, con hogares autónomos para los usuarios",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/span-langglaldea-abertaspan-proyecto-arquitectonico-ganador-casa-mayores-as-pontes/0003_202609F17C5991.htm",
+    "title": "Cal y arena en la calle Rubalcava de Ferrol",
+    "description": "Los vecinos valoran el objetivo de las obras de reurbanización y la nueva estética del vial pero critican la falta de remates y muestran incertidumbre por la afección de los trabajos a 300 plazas de garaje",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/17/cal-arena-calle-rubalcava/0003_202609F17C1991.htm",
     "time": "2026-09-17T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Sanidade anuncia la puesta en marcha en octubre del servicio de hospitalización a domicilio en Ortigueira, Cariño y Cedeira",
-    "description": "Así lo avanzó tras reunirse con el alcalde del concello de Ortigueira, Valentín Calvín",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/17/sanidade-anuncia-puesta-marcha-octubre-servicio-hospitalizacion-domicilio-ortigueira-carino-cedeira/0003_202609F17C6993.htm",
+    "title": "Aldea aberta , el proyecto arquitectónico ganador para la casa de mayores de As Pontes: «É algo distinto»",
+    "description": "Hugo Araújo Lázare es el autor del diseño elegido, entre las 49 propuestas recibidas, con hogares autónomos para los usuarios",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/span-langglaldea-abertaspan-proyecto-arquitectonico-ganador-casa-mayores-as-pontes/0003_202609F17C5991.htm",
     "time": "2026-09-17T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -162,6 +198,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Sanidade anuncia la puesta en marcha en octubre del servicio de hospitalización a domicilio en Ortigueira, Cariño y Cedeira",
+    "description": "Así lo avanzó tras reunirse con el alcalde del concello de Ortigueira, Valentín Calvín",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/17/sanidade-anuncia-puesta-marcha-octubre-servicio-hospitalizacion-domicilio-ortigueira-carino-cedeira/0003_202609F17C6993.htm",
+    "time": "2026-09-17T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Sumar elige a su candidato a la alcaldía de Ferrol pero se mantiene en la coalición de izquierdas",
     "description": "Antón García Tenreiro será el cabeza de lista de la organización mientras no se cierre el acuerdo para la candidatura de la confluencia Ferrol en Común",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/17/sumar-elige-candidato-alcaldia-mantiene-coalicion-izquierdas/0003_202609F17C4992.htm",
@@ -175,24 +220,6 @@
     "description": "El gerente y el director científico participan en este encuentro, con otros 114 geoparques de unos 30 países",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/xeoparque-do-cabo-ortegal-presente-cita-internacional-finlandia/0003_202609F17C5993.htm",
     "time": "2026-09-17T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Cantera, fútbol femenino y tres días de competición en Neda",
-    "description": "El Juanito González acogerá el torneo del Rápido de Neda y cerrará el domingo con el II Triangular de fútbol femenino",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/cantera-futbol-femenino-tres-dias-competicion-neda/00031789576797750103156.htm",
-    "time": "2026-09-16T16:45:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Blanca Hermida: «La natación ha sido mi tabla de salvación»",
-    "description": "La ferrolana sigue compitiendo al máximo nivel casi cuatro décadas después de empezar en el deporte",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/blanca-hermida-natacion-tabla-salvacion/00031789576609477367627.htm",
-    "time": "2026-09-16T16:39:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -225,15 +252,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El banco de Meirás, un mirador para «pescar estrellas»",
-    "description": "El privilegiado balcón natural al Atlántico gana adeptos entre quienes buscan la calma y observar el firmamento",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/15/banco-meiras-mirador-pescar-estrellas/00031789497928315338522.htm",
-    "time": "2026-09-16T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Rey Varela, alcalde de Ferrol: «Sería un fracaso no aprobar el proyecto del Sánchez Aguilera este mandato»",
     "description": "El regidor afirma que el trámite se conseguirá cerrar en los próximos meses y confirma el fin de las catas en la parcela para hallar la muralla antigua de la ciudad",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/16/rey-varela-seria-fracaso-aprobar-proyecto-sanchez-aguilera/0003_202609F16C3991.htm",
@@ -247,15 +265,6 @@
     "description": "El denunciado estaba en transición de género de mujer a hombre, pidió compartir cuarto con chicas, hizo comentarios sobre sus cuerpos y les generó ansiedad",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/16/condenado-aspirante-marinero-acoso-sexual-seis-companeras-ferrol/0003_202609F16C4_COPY993.htm",
     "time": "2026-09-16T02:46:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Marco Veiga: «Llevo todo el año compitiendo con dolor, pero no quería renunciar»",
-    "description": "El ciclista naronés confía en llegar al Mundial en las mejores condiciones",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/15/marco-veigallevo-ano-compitiendo-dolor-queria-renunciar/00031789489544947908703.htm",
-    "time": "2026-09-15T16:29:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

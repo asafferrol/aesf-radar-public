@@ -1,7 +1,61 @@
 {
   "hours": 48,
-  "count": 478,
+  "count": 484,
   "items": [
+    {
+      "title": "Triple podio en la Supercopa de España para AD Judo Ferrolterra",
+      "description": "Los hermanos Tenreiro y Pablo López lograron medalla en la cita celebrada en Ourense",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/17/triple-podio-supercopa-espana-ad-judo-ferrolterra/00031789671188601268967.htm",
+      "time": "2026-09-17T18:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Malasombra Producións representará la multipremiada obra «Bernarda», el día 19 en Ortigueira",
+      "description": "La pieza, reconocida en los Premios María Casares, La Mostra de Teatro Galego de Cariño o los Premios MAX, se representará a las 20.30 horas en el Teatro de Beneficencia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/17/malasombra-producions-representara-multipremiada-obra-bernarda-dia-19-ortigueira/00031789669487993370767.htm",
+      "time": "2026-09-17T18:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Desalojado un edificio de Cabanas con 18 pisos tras una llamada alertando de un posible escape de gas",
+      "description": "Los Bomberos del Eume y el GES de Mugardos han revisado el inmueble, sin gas ciudad, y no han localizado ninguna fuga",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/09/17/desalojado-edificio-cabanas-tras-llamada-alertando-posible-escape-gas/00031789668717400624997.htm",
+      "time": "2026-09-17T18:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El naronés Álvaro Fernández revalida corona estatal de automodelismo de radiocontrol",
+      "description": "El joven de 22 sumó en Vigo su tercer triunfo competitivo de la temporada en categoría 1/8 pista gas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/narones-alvaro-fernandez-revalida-corona-estatal-automodelismo-radiocontrol/00031789669124191330987.htm",
+      "time": "2026-09-17T18:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo Ferrol, un paso más hacia un fútbol de salón con alma de superviviente",
+      "description": "Los de Casas reciben este viernes al Catgas Energia Santa Coloma con ánimo de seguir haciendo de A Malata su gran puntal hacia la permanencia",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/17/parrulo-ferrol-paso-futbol-salon-alma-superviviente/00031789667462851528557.htm",
+      "time": "2026-09-17T17:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Aparecen pintadas con alusiones al demonio en una iglesia de Ferrol",
+      "description": "Los vecinos fueron a presentar una denuncia en la Policía Nacional; en las paredes del templo de Santa Mariña do Vilar se pueden ver referencias a «Satán» y velas «como procedentes de un rito satánico»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/17/aparecen-pintadas-alusiones-demonio-iglesia-ferrol/00031789663592605592427.htm",
+      "time": "2026-09-17T17:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Rueda confía en que la planta de SAIC en Ferrol se apruebe este año",
       "description": "El presidente gallego recordó que el trámite principal debe efectuarlo el Consejo de Ministros",
