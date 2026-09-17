@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-17T06:45:46.688426+00:00",
-  "count": 479,
+  "generated_at": "2026-09-17T12:10:34.683264+00:00",
+  "count": 481,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 43,
+      "count": 44,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Los abonados del Racing de Ferrol afectados por las obras en A Malata mantendrán su reubicación",
+      "description": "El club y la Policía Local aplicarán el mismo operativo de tráfico, cortes y apertura de tornos que en el último encuentro",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/17/abonados-racing-ferrol-afectados-obras-malata-mantendran-reubicacion/00031789636725612386440.htm",
+      "time": "2026-09-17T09:29:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Cal y arena en la calle Rubalcava de Ferrol",
       "description": "Los vecinos valoran el objetivo de las obras de reurbanización y la nueva estética del vial pero critican la falta de remates y muestran incertidumbre por la afección de los trabajos a 300 plazas de garaje",
@@ -164,6 +173,33 @@
       "title": "El Xeoparque do Cabo Ortegal, presente en una conferencia internacional que se celebra en Finlandia",
       "description": "El gerente y el director científico participan en este encuentro, con otros 114 geoparques de unos 30 países",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/xeoparque-do-cabo-ortegal-presente-cita-internacional-finlandia/0003_202609F17C5993.htm",
+      "time": "2026-09-17T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Convocan una concentración en Ferrol para protestar por las múltiples incidencias en el servicio de bus",
+      "description": "La plataforma por un transporte digno convoca la movilización, que se desarrollará este viernes a las 18.00 horas frente al edificio de la Xunta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/convocan-concentracion-protestar-multiples-incidencias-servicio-bus/0003_202609F17C4993.htm",
+      "time": "2026-09-17T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La firma Syvalue formará a jóvenes para la informatización de las fragatas",
+      "description": "Creará con la UDC una cátedra en Ferrol con ese objetivo, la empresa se encarga de esa especialidad en las F-110 de Navantia y su CEO visitó ayer la zona",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/17/firma-syvalue-formara-jovenes-informatizacion-fragatas/0003_202609F17C3_COPY994.htm",
+      "time": "2026-09-17T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Mugardos estrena una ruta de turismo marinero",
+      "description": "La iniciativa permite acercar a los visitantes al trabajo diario de las mariscadoras",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/17/mugardos-estrena-ruta-turismo-marinero/0003_202609F17C8992.htm",
       "time": "2026-09-17T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4314,24 +4350,6 @@
       "description": "Los verdes buscan corregir la falta de concentración en los tramos finales de los partidos",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/15/75-goles-encajados-racing-ferrol-llegado-descuento/00031789484305771390506.htm",
       "time": "2026-09-15T15:04:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una furgoneta de reparto se hunde en aguas del Xuvia, en Neda: «No tenía el freno puesto»",
-      "description": "El vehículo se dedicaba al reparto de la prensa, los dueños lo dejaron junto a la ribera, rompió la barandilla metálica y cayó a la ría",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/15/furgoneta-reparto-hunde-aguas-xuvia-neda-tenia-freno-puesto/00031789468809805787649.htm",
-      "time": "2026-09-15T11:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Stili: «Empezamos con buenas sensaciones a nivel de fútbol, pero nos está faltando la eficacia»",
-      "description": "Tras sumar un único punto de seis en liza, el preparador de la UD Somozas confía en el proceso de adaptación de los sub-23 en un arranque con equipos muy replegados",
-      "url": "https://www.lavozdegalicia.es/noticia/futbolgallego/2026/09/15/stili-entrenador-somozasempezamos-buenas-sensaciones-nivel-futbol-faltando-eficacia/00031789457992586850706.htm",
-      "time": "2026-09-15T08:03:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
