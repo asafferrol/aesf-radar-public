@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 456,
+  "count": 458,
   "items": [
+    {
+      "title": "Camus y Álvaro Peña, novedades del Barakaldo para su visita a Ferrol",
+      "description": "El lateral y el mediocampista, que pidió salir del cuadro naval el pasado invierno, son las dos nuevas bazas de De la Sota",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/18/camus-alvaro-pena-novedades-barakaldo-visita-ferrol/00031789737306562617820.htm",
+      "time": "2026-09-18T13:26:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Por primera vez vi a un equipo que se acerca a lo que yo quiero»",
+      "description": "El técnico pide estabilidad al Racing tras conseguir su primera victoria",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/18/javi-vazquez-primera-vez-vi-equipo-acerca-quiero/00031789723503331934901.htm",
+      "time": "2026-09-18T10:34:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Unionistas visitará A Malata en una nueva sesión de mediodía para el Racing Club Ferrol",
       "description": "El duelo, fijado para las 13.00 horas del 17 de octubre, será el sexto sábado de fútbol para los de Javi Vázquez",
