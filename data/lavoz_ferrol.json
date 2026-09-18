@@ -1,6 +1,15 @@
 [
   {
-    "title": "Acto de fe de O Parrulo, que sella un agónico empate con Santa Coloma (5-5)",
+    "title": "Un motorista acaba con una pierna rota tras una colisión con un coche en Cabanas",
+    "description": "Ambos vehículos chocaron de frente, fueron avisados GES de Mugardos, 061 y Guardia Civil de Tráfico",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/09/18/motorista-acaba-pierna-rota-tras-colision-coche-cabanas/00031789763563782778425.htm",
+    "time": "2026-09-18T20:41:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "O Parrulo acude a tiempo a su rescate frente al Santa Coloma (5-5)",
     "description": "Tras encajar cuatro goles en contra en cuatro minutos en el inicio de la segunda parte, los de Casas se volcaron hasta el pitido final para rascar un punto de supervivientes",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/18/parrulo-catgas-energia-santa-coloma/00031789750184963491112.htm",
     "time": "2026-09-18T19:16:00+00:00",
@@ -108,15 +117,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Las Fragas do Eume, «una maravilla» con un vial destrozado y mala conexión móvil",
-    "description": "Los visitantes, fascinados por el parque natural, perciben abandono y carencias en un entorno único",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/fragas-do-eume-paraiso-vial-destrozado-mala-conexion-movil/0003_202609F18C3991.htm",
-    "time": "2026-09-18T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Indra prevé tener en funcionamiento su planta de As Pontes «a corto plazo»",
     "description": "Iniciará en breve las obras de la nave donde producirá vehículos militares",
     "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/18/indra-preve-tener-marcha-planta-as-pontes-primer-semestre-2027/0003_202609G18P21995.htm",
@@ -171,6 +171,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Las Fragas do Eume, «una maravilla» con un vial destrozado y mala conexión móvil",
+    "description": "Los visitantes, fascinados por el parque natural, perciben abandono y carencias en un entorno único",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/fragas-do-eume-paraiso-vial-destrozado-mala-conexion-movil/0003_202609F18C3991.htm",
+    "time": "2026-09-18T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Medio centenar de propietarios menores de 36 años de la comarca reciben ayudas para comprar casa",
     "description": "La Xunta reparte 430.000 euros para la adquisición de vivienda en concellos de menos de 10.000 habitantes",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/medio-centenar-propietarios-menores-36-anos-reciben-ayudas-comprar-casa/00031789663389076436496.htm",
@@ -211,15 +220,6 @@
     "description": "La pieza, reconocida en los Premios María Casares, La Mostra de Teatro Galego de Cariño o los Premios MAX, se representará a las 20.30 horas en el Teatro de Beneficencia",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/17/malasombra-producions-representara-multipremiada-obra-bernarda-dia-19-ortigueira/00031789669487993370767.htm",
     "time": "2026-09-17T18:31:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Desalojado un edificio de Cabanas con 18 pisos tras una llamada alertando de un posible escape de gas",
-    "description": "Los Bomberos del Eume y el GES de Mugardos han revisado el inmueble, sin gas ciudad, y no han localizado ninguna fuga",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/09/17/desalojado-edificio-cabanas-tras-llamada-alertando-posible-escape-gas/00031789668717400624997.htm",
-    "time": "2026-09-17T18:23:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
