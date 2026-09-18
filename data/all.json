@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T17:32:12.531102+00:00",
-  "count": 456,
+  "generated_at": "2026-09-18T19:55:31.531103+00:00",
+  "count": 458,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Acto de fe de O Parrulo, que sella un agónico empate con Santa Coloma (5-5)",
+      "description": "Tras encajar cuatro goles en contra en cuatro minutos en el inicio de la segunda parte, los de Casas se volcaron hasta el pitido final para rascar un punto de supervivientes",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/18/parrulo-catgas-energia-santa-coloma/00031789750184963491112.htm",
+      "time": "2026-09-18T19:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "«En bus llegaba tarde a trabajar a A Coruña, así que ahora voy en mi coche desde Ferrol»",
+      "description": "Decenas de ciudadanos reclaman en la ciudad ferrolana el refuerzo del transporte público",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/bus-llegaba-tarde-trabajar-coruna-coche/00031789755611794426760.htm",
+      "time": "2026-09-18T18:38:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Paso firme de la ajedrecista Inés Prado en la Olimpiada de Samarkanda",
       "description": "Tras sumar una victoria y un empate a la causa de la selección española, la ferrolana disfruta de este viernes como día de descanso",
