@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T18:39:54.816678+00:00",
-  "count": 415,
+  "generated_at": "2026-09-19T21:00:18.229804+00:00",
+  "count": 417,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Las 10 mejores imágenes del Racing-Barakaldo",
+      "description": "La euforia momentánea del gol anulado, los paraguas a pleno sol o el regreso de Álvaro Peña fueron algunos de los momentos destacados en A Malata",
+      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/09/19/10-mejores-imagenes-racing-barakaldo/01101789848500830656929.htm",
+      "time": "2026-09-19T20:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Portugalete, la última bala del Club de Remo de Ares",
+      "description": "La contrarreloj que decidirá los dos billetes para la élite arraca mañana, domingo, a las 12.00 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/19/portugalete-ultima-bala-club-remo-ares/00031789845551669882483.htm",
+      "time": "2026-09-19T19:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Por encima del resultado, la clave fue ser estables y mantener la calma»",
+      "description": "El técnico racinguista elogió el compromiso defensivo del equipo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/compromiso-defensivo-otorga-triunfo-racing-ferrol/00031789843402031403490.htm",
+      "time": "2026-09-19T18:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Álvaro Ramón, un muro en defensa y con vía libre hacia el área rival",
       "description": "El lateral fue uno de los grandes protagonistas del triunfo ante el Barakaldo",
@@ -3750,15 +3777,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Triple podio en la Supercopa de España para AD Judo Ferrolterra",
-      "description": "Los hermanos Tenreiro y Pablo López lograron medalla en la cita celebrada en Ourense",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/17/triple-podio-supercopa-espana-ad-judo-ferrolterra/00031789671188601268967.htm",
-      "time": "2026-09-17T18:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
