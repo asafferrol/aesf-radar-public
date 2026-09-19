@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 417,
+  "count": 415,
   "items": [
+    {
+      "title": "Álvaro Ramón, un muro en defensa y con vía libre hacia el área rival",
+      "description": "El lateral fue uno de los grandes protagonistas del triunfo ante el Barakaldo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/alvaro-ramon-muro-defensa-via-libre-area-rival/00031789842482529612616.htm",
+      "time": "2026-09-19T18:30:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El «1x1» del Racing Club Ferrol contra el Barakaldo",
+      "description": "El tanto de Miguel Leal le da los tres puntos a los ferrolanos en la jornada 4",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/1x1-racing-club-ferrol-contra-barakaldo/00031789815158217685977.htm",
+      "time": "2026-09-19T16:28:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing gana al Barakaldo y hace de A Malata su trampolín para el impulso (1-0)",
+      "description": "Los de Javi Vázquez se repusieron de un gol anulado a Alcaina y Migue Leal hizo valer el dominio local para que los suyos encadenasen su segunda victoria consecutiva del curso",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/racing-barakaldo/00031789821247099282649.htm",
+      "time": "2026-09-19T16:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Malaguti: «Estoy muy contento de estar de vuelta, poder ayudar al equipo es importante para mí»",
       "description": "El pívot de O Parrulo reapareció con gol después de varios meses de baja",
@@ -3706,51 +3733,6 @@
       "description": "Los hermanos Tenreiro y Pablo López lograron medalla en la cita celebrada en Ourense",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/17/triple-podio-supercopa-espana-ad-judo-ferrolterra/00031789671188601268967.htm",
       "time": "2026-09-17T18:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Malasombra Producións representará la multipremiada obra «Bernarda», el día 19 en Ortigueira",
-      "description": "La pieza, reconocida en los Premios María Casares, La Mostra de Teatro Galego de Cariño o los Premios MAX, se representará a las 20.30 horas en el Teatro de Beneficencia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/17/malasombra-producions-representara-multipremiada-obra-bernarda-dia-19-ortigueira/00031789669487993370767.htm",
-      "time": "2026-09-17T18:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Desalojado un edificio de Cabanas con 18 pisos tras una llamada alertando de un posible escape de gas",
-      "description": "Los Bomberos del Eume y el GES de Mugardos han revisado el inmueble, sin gas ciudad, y no han localizado ninguna fuga",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/09/17/desalojado-edificio-cabanas-tras-llamada-alertando-posible-escape-gas/00031789668717400624997.htm",
-      "time": "2026-09-17T18:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El naronés Álvaro Fernández revalida corona estatal de automodelismo de radiocontrol",
-      "description": "El joven de 22 sumó en Vigo su tercer triunfo competitivo de la temporada en categoría 1/8 pista gas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/narones-alvaro-fernandez-revalida-corona-estatal-automodelismo-radiocontrol/00031789669124191330987.htm",
-      "time": "2026-09-17T18:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Parrulo Ferrol, un paso más hacia un fútbol de salón con alma de superviviente",
-      "description": "Los de Casas reciben este viernes al Catgas Energia Santa Coloma con ánimo de seguir haciendo de A Malata su gran puntal hacia la permanencia",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/17/parrulo-ferrol-paso-futbol-salon-alma-superviviente/00031789667462851528557.htm",
-      "time": "2026-09-17T17:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Aparecen pintadas con alusiones al demonio en una iglesia de Ferrol",
-      "description": "Los vecinos fueron a presentar una denuncia en la Policía Nacional; en las paredes del templo de Santa Mariña do Vilar se pueden ver referencias a «Satán» y velas «como procedentes de un rito satánico»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/17/aparecen-pintadas-alusiones-demonio-iglesia-ferrol/00031789663592605592427.htm",
-      "time": "2026-09-17T17:09:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
