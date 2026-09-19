@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T09:00:13.922037+00:00",
-  "count": 420,
+  "generated_at": "2026-09-19T13:02:50.419354+00:00",
+  "count": 419,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Malaguti: «Estoy muy contento de estar de vuelta, poder ayudar al equipo es importante para mí»",
+      "description": "El pívot de O Parrulo reapareció con gol después de varios meses de baja",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/19/malagutistrong-contento-estar-vuelta-poder-ayudar-equipo-importante-mistrong/00031789813233414879690.htm",
+      "time": "2026-09-19T10:26:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Los chiringuitos de la comarca de Ferrol estiran el verano: «Con este calor, decidimos seguir abiertos y alargar la temporada»",
       "description": "Aunque muchos de los negocios que operan de forma estacional ya bajaron la persiana, otros han optado por continuar operativos para aprovechar el tirón del buen tiempo: «Este mes estamos traballando de luxo»",
@@ -3783,24 +3792,6 @@
       "description": "El colegiado, que dirimirá el encuentro entre el Racing y el Barakaldo, no cuenta con antecedentes previos con el club ferrolano",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/17/arbitro-mardileno-luis-enrique-morona-visita-primera-vez-malata/00031789652224573495715.htm",
       "time": "2026-09-17T13:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Álvaro Peña: «Si me hubiese tocado quedarme, lo habría dado todo por el Racing»",
-      "description": "El mediocentro vasco, que salió el pasado mercado invernal al Barakaldo, repasa lo vivido en un club que, defiende, «en unos años estará más arriba» y con el que su actual equipo se verá el sábado las caras en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/17/alvaro-pena-me-hubiese-tocado-quedarme-habria-dado-racing/00031789632726503445804.htm",
-      "time": "2026-09-17T12:28:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los abonados del Racing de Ferrol afectados por las obras en A Malata mantendrán su reubicación",
-      "description": "El club y la Policía Local aplicarán el mismo operativo de tráfico, cortes y apertura de tornos que en el último encuentro",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/17/abonados-racing-ferrol-afectados-obras-malata-mantendran-reubicacion/00031789636725612386440.htm",
-      "time": "2026-09-17T09:29:01+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
