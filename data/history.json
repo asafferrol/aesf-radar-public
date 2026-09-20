@@ -1,6 +1,6 @@
 {
   "hours": 48,
-  "count": 237,
+  "count": 236,
   "items": [
     {
       "title": "Asier libra a la UD Somozas de un nuevo tropiezo con el Pontevedra B (1-1)",
@@ -2125,15 +2125,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Un motorista acaba con una pierna rota tras una colisión con un coche en Cabanas",
-      "description": "Ambos vehículos chocaron de frente, fueron avisados GES de Mugardos, 061 y Guardia Civil de Tráfico",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/09/18/motorista-acaba-pierna-rota-tras-colision-coche-cabanas/00031789763563782778425.htm",
-      "time": "2026-09-18T20:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
