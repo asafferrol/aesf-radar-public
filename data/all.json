@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:50:46.913656+00:00",
+  "generated_at": "2026-09-20T13:45:10.417153+00:00",
   "count": 239,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Narón despide el verano a lo grande, a todo pedal por el paseo de Xuvia",
+      "description": "Unas 1.200 personas se subieron a la bicicleta para gozar del deporte en familia, a pleno sol y en un magnífico ambiente",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/21/naron-despidio-verano-pedal/0003_202609F21C3991.htm",
+      "time": "2026-09-20T12:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Incautado un cuchillo con el que tres jóvenes amenazaron supuestamente a los porteros de un local de Ferrol",
+      "description": "El incidente se produjo sobre las cinco de la madrugada en el entorno de la estación",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/20/incautado-cuchillo-tres-jovenes-amenazaron-supuestamente-porteros-local-ferrol/00031789898266377692675.htm",
+      "time": "2026-09-20T10:02:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Mil aparcamientos antes de la llegada de la ORE a Ferrol",
       "description": "El alcalde supedita la ordenanza que preveía rebajar las multas y crear plazas para residentes a la puesta en servicio del millar de nuevos estacionamientos comprometidos para este mandato",
@@ -2154,24 +2172,6 @@
       "description": "El rol del atacante vallisoletano, que encadena pleno de titularidades y suma dos dianas, apunta a crucial para un Racing en crecimiento ofensivo en la visita del Barakaldo",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/18/arroyo-desembocadura-gol-racing-club-ferrol/00031789740348231108273.htm",
       "time": "2026-09-18T14:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Camus y Álvaro Peña, novedades del Barakaldo para su visita a Ferrol",
-      "description": "El lateral y el mediocampista, que pidió salir del cuadro naval el pasado invierno, son las dos nuevas bazas de De la Sota",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/18/camus-alvaro-pena-novedades-barakaldo-visita-ferrol/00031789737306562617820.htm",
-      "time": "2026-09-18T13:26:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Por primera vez vi a un equipo que se acerca a lo que yo quiero»",
-      "description": "El técnico pide estabilidad al Racing tras conseguir su primera victoria",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/18/javi-vazquez-primera-vez-vi-equipo-acerca-quiero/00031789723503331934901.htm",
-      "time": "2026-09-18T10:34:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
