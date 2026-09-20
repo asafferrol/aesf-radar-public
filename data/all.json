@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-19T22:52:36.950380+00:00",
-  "count": 245,
+  "generated_at": "2026-09-20T05:15:18.434682+00:00",
+  "count": 239,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 45,
+      "count": 46,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,96 @@
     }
   },
   "items": [
+    {
+      "title": "Mil aparcamientos antes de la llegada de la ORE a Ferrol",
+      "description": "El alcalde supedita la ordenanza que preveía rebajar las multas y crear plazas para residentes a la puesta en servicio del millar de nuevos estacionamientos comprometidos para este mandato",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/20/mil-aparcamientos-ore/0003_202609F20C1991.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cofer albergó en A Malata un curso práctico para la extinción de incendios",
+      "description": "Asistieron autónomos, trabajadores y empresarios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/cofer-albergo-malata-curso-practico-extincion-incendios/0003_202609F20C4994.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Nueva protesta el martes del personal civil de Defensa en el Arsenal de Ferrol",
+      "description": "Reclaman el cobro de un complemento de 300 euros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/nueva-protesta-martes-personal-civil-defensa-arsenal-ferrol/0003_202609F20C4992.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Concello y Diputación pagarán 561.000 euros por el edificio anexo al consistorio de Pontedeume",
+      "description": "La compra permitirá ampliar y modernizar las dependencias municipales",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/20/concello-diputacion-pagaran-561000-euros-edificio-anexo-consistorio-eumes/0003_202609F20C2995.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las demandas del GES de Mugardos: «Pedimos unas instalaciones dignas y que nos reconozcan la categoría»",
+      "description": "Los doce trabajadores del grupo llevan trece años en una vivienda unifamiliar con el baño en la misma estancia de la cocina, humedades, grietas e incluso ratas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/09/20/ges-mugardos-pedimos-instalaciones-dignas/0003_202609F20C2991.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A la caza de la gasolinera menos cara",
+      "description": "La estación de servicio del hipermercado Alcampo en Ferrol se consolida como uno de los «templos» preferidos por los conductores que buscan el ahorro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/caza-gasolinera-cara/0003_202609F20C4991.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Leonor Juiz: «La pregunta no es si mi empresa va a ser atacada, es cuándo»",
+      "description": "Ingeniera informática, organiza en la Cámara una jornada de ciberseguridad para pymes",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/09/20/pregunta-empresa-va-atacada-formacion/0003_202609F20C12991.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Marián Ferreiro: « O Día da Bicicleta é xa unha tradición que une deporte, familia e mobilidade»",
+      "description": "A alcaldesa de Narón espera que a cidade reúna a centos de participantes na xornada de hoxe",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/20/span-langgl-dia-da-bicicleta-e-xa-unha-tradicion-une-deporte-familia-mobilidadespan/0003_202609F20C8991.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cristóbal Rivas Díaz, párroco que se traslada a As Pontes: « Sentinme moi acollido en Mañón »",
+      "description": "Leva nove anos nas parroquias do concello mañonés, O Vicedo e unha de Ourol, e este domingo despídeno os veciños cun xantar en Viveiro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/09/20/span-langglsentinme-moi-acollido-manonspan/0003_202609F20C9991.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las reivindicaciones de los propietarios de las Fragas llegan al Parlamento gallego",
+      "description": "El PSOE defendió una proposición no de ley para que la Xunta compense a los afectados por el parque natural",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/reivindicaciones-propietarios-fragas-llegan-parlamento-gallego/0003_202609F20C10991.htm",
+      "time": "2026-09-20T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Las 10 mejores imágenes del Racing-Barakaldo",
       "description": "La euforia momentánea del gol anulado, los paraguas a pleno sol o el regreso de Álvaro Peña fueron algunos de los momentos destacados en A Malata",
@@ -218,6 +308,15 @@
       "title": "El gobierno local de Narón volverá a llevar al pleno de septiembre el contrato del agua",
       "description": "BNG y PSOE aseguran que Terra Galega toma esta medida para agilizar el proceso, ante la judicialización del expediente",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/19/gobierno-local-naron-volvera-llevar-pleno-septiembre-contrato-agua/0003_202609F19C5993.htm",
+      "time": "2026-09-19T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Sofía y Ginés, estudiantes andaluces que se forman en el área sanitaria de Ferrol: «Aquí la docencia es muy personalizada»",
+      "description": "Más de 200 alumnos de universidad y FP han desembarcado este mes en los hospitales y centros de salud de la demarcación para hacer sus prácticas y rotatorios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/20/area-sanitaria-ferrol-forma-200-alumnos-universidad-fp/0003_202609F20C5993.htm",
       "time": "2026-09-19T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -2073,159 +2172,6 @@
       "description": "El duelo, fijado para las 13.00 horas del 17 de octubre, será el sexto sábado de fútbol para los de Javi Vázquez",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/18/unionistas-visitara-malata-nueva-sesion-mediodia-racing-club-ferrol/00031789719310680207769.htm",
       "time": "2026-09-18T08:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Indra prevé tener en funcionamiento su planta de As Pontes «a corto plazo»",
-      "description": "Iniciará en breve las obras de la nave donde producirá vehículos militares",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/18/indra-preve-tener-marcha-planta-as-pontes-primer-semestre-2027/0003_202609G18P21995.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El recibo de la recogida de basura de Ferrol, en revisión",
-      "description": "El Concello encarga una memoria sobre el coste de la recogida y tratamiento de residuos, para una modificación de las tasas que el gobierno local asegura que no implicará subidas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/18/recibo-basura-revision/0003_202609F18C1991.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El misterio del robo en un bar de Caranza: un acusado murió y del otro «no hay huellas en el local»",
-      "description": "El juicio se celebró ayer en Ferrol, al procesado que queda vivo la acusación pública le solicita dos años y medio de prisión",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/18/misterio-robo-bar-caranza-acusado-murio-huellas-local/0003_202609F18C2_COPY995.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un ferrolano sufre un ictus tras montar una tienda de lencería y le deniegan que sea un accidente de trabajo",
-      "description": "Tuvo un ingreso hospitalario en el Marcide, a donde acudió al día siguiente de un viaje de trabajo por Jaén",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/sufre-ictus-tras-montar-tienda-lenceria-deniegan-accidente-trabajo/0003_202609F18C2_COPY991.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dos hombres le rompen a otro tres dientes en un gimnasio de Narón y reciben dos meses de multa",
-      "description": "Los agresores dieron patadas y puñetazos a la víctima",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/18/dos-hombres-rompen-tres-dientes-gimnasio-reciben-dos-meses-multa/0003_202609F18C2_COPY993.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las Fragas do Eume, «una maravilla» con un vial destrozado y mala conexión móvil",
-      "description": "Los visitantes, fascinados por el parque natural, perciben abandono y carencias en un entorno único",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/fragas-do-eume-paraiso-vial-destrozado-mala-conexion-movil/0003_202609F18C3991.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La residencia de mayores de Mañón se construirá en una finca de 5.800 metros cuadrados",
-      "description": "El Concello lleva casi una década demandando este servicio",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/09/18/residencia-mayores-manon-erigira-finca-5800-metros-cuadrados/0003_202609F18C5991.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El curso universitario arranca con Voces de Ferrol",
-      "description": "El programa de Isidoro Valerio contó con la vicerrectora del Campus, Ana Ares; el director del Campus Industrial, Marcos Míguez; y estudiantes, entre otros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/18/curso-universitario-arranca-voces-ferrol/0003_202609F18C2_COPY992.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Symphony», toda una experiencia de realidad virtual",
-      "description": "Está abierta al público hasta el 27 de octubre, con entrada gratuita y aforo limitado",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/17/symphony-experiencia-realidad-virtual/00031789665203731297219.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Día de Habaneras",
-      "description": "El Teatro Jofre acoge este viernes a las 19.30 horas el encuentro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/dia-habaneras/00031789666155736727218.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Zarzuela el sábado",
-      "description": "El Jofre será escenario lírico este sábado, 19 de septiembre, con Doña Francisquita",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/zarzuela-sabado/00031789666475667930971.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Día de la Bici de Narón, doce kilómetros para disfrutar",
-      "description": "El uso de casco es obligatorio para la participación en la prueba y está prohibido utilizar patinetes eléctricos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/18/dia-bici-naron-doce-kilometros-disfrutar/0003_202609F18C4992.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Cámara organiza una nueva Feria de Empleo para personas sin trabajo de más de 45 años",
-      "description": "Tendrá lugar en Palexco el próximo día 24",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/camara-organiza-nueva-feria-empleo-personas-trabajo-45-anos/0003_202609F18C4991.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Medio centenar de propietarios menores de 36 años de la comarca reciben ayudas para comprar casa",
-      "description": "La Xunta reparte 430.000 euros para la adquisición de vivienda en concellos de menos de 10.000 habitantes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/17/medio-centenar-propietarios-menores-36-anos-reciben-ayudas-comprar-casa/00031789663389076436496.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "San Sadurniño ten aberta a preinscrición nas escolas deportivas e culturais",
-      "description": "A matrícula deberase formalizar a partir do 1 de outubro, unha vez que se confirme que a actividade vai adiante",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/18/span-langglsan-sadurnino-abre-inscricion-nas-escolas-deporte-culturaspan/0003_202609F18C5994.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "As Pontes estrena un nuevo parque canino, en Canle IV",
-      "description": "El Concello ha invertido unos veinte mil euros en estas instalaciones",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/18/as-pontes-estrena-nuevo-parque-canino-canle-iv/0003_202609F18C5992.htm",
-      "time": "2026-09-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Augas montará tres estaciones de bombeo para dar servicio a unas 300 viviendas de Senra y Cuíña, en Ortigueira",
-      "description": "El alcalde destaca el impacto de esta actuación para los vecinos y el entorno",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/18/augas-montara-tres-estaciones-bombeo-senra-cuina/0003_202609F18C5993.htm",
-      "time": "2026-09-18T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
