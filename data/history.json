@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 235,
+  "count": 237,
   "items": [
+    {
+      "title": "Asier libra a la UD Somozas de un nuevo tropiezo con el Pontevedra B (1-1)",
+      "description": "Su gol en el 90 selló un empate que coloca a los de Stili, todavía sin victorias, con dos puntos de nueve posibles",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/20/asier-libra-somozas-nuevo-tropiezo-pontevedra-b-1-1/00031789928824042476462.htm",
+      "time": "2026-09-20T18:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "«Voltar é cousa de todos», la peña racinguista D'Tapas se movilizará a Lugo",
+      "description": "La agrupación con sede en Canido abre plazo para reservar una plaza de autobús por 10 euros",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/voltar-e-cousa-pena-racinguista-dtapas-movilizara-lugo/00031789926324399798403.htm",
+      "time": "2026-09-20T17:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Jesús Bernal y su metamorfosis en mediapunta en el Racing",
+      "description": "El adelantamiento posicional del de Muniesa es ya una constante en los tramos finales de partido por su «compromiso táctico»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/jesus-bernal-metamorfosis-mediapunta-racing/00031789924997078878195.htm",
+      "time": "2026-09-20T17:30:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Mismos once y muchas posibilidades para jugar en un Racing camaleónico",
+      "description": "Ojeda fue el exponente de una alineación repetida, pero con matices clave en el club ferrolano",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/once-posibilidades-jugar-racing-camaleonico/00031789922683582965320.htm",
+      "time": "2026-09-20T16:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Ares certifica el descenso en Portugalete y Galicia se queda huérfana en la ACT",
       "description": "La Santa Olalla de Lubre no pudo pasar del tercer puesto y pierde la condición de equipo de la Liga Eusko Label",
@@ -2095,24 +2131,6 @@
       "description": "Ambos vehículos chocaron de frente, fueron avisados GES de Mugardos, 061 y Guardia Civil de Tráfico",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/09/18/motorista-acaba-pierna-rota-tras-colision-coche-cabanas/00031789763563782778425.htm",
       "time": "2026-09-18T20:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Acto de fe de O Parrulo, que sella un agónico empate con Santa Coloma (5-5)",
-      "description": "Tras encajar cuatro goles en contra en cuatro minutos en el inicio de la segunda parte, los de Casas se volcaron hasta el pitido final para rascar un punto de supervivientes",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/18/parrulo-catgas-energia-santa-coloma/00031789750184963491112.htm",
-      "time": "2026-09-18T19:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«En bus llegaba tarde a trabajar a A Coruña, así que ahora voy en mi coche desde Ferrol»",
-      "description": "Decenas de ciudadanos reclaman en la ciudad ferrolana el refuerzo del transporte público",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/bus-llegaba-tarde-trabajar-coruna-coche/00031789755611794426760.htm",
-      "time": "2026-09-18T18:38:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
