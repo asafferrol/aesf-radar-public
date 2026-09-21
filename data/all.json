@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T13:53:21.258582+00:00",
-  "count": 337,
+  "generated_at": "2026-09-21T18:58:10.685982+00:00",
+  "count": 335,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Ger Nóvoa, xogador do Racing: «Non comecei ir ao fútbol ata que fun grandiño, era de ter mamitis»",
+      "description": "O central confía en que, tras dous anos de quedar ás portas do deporte profesional, o ferrolán sexa o proxecto axeitado para celebrar un ascenso",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/21/ger-novoa-xogador-do-racingnon-comecei-ir-ao-futbol-ata-fun-grandino-era-ter-mamitis/00031790015785853650322.htm",
+      "time": "2026-09-21T18:42:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Compran un Porsche por 105.000 euros y a los tres años tienen que hacer un arreglo de 35.000",
+      "description": "La pareja de Narón que lo adquirió demandó al concesionario, pero la Audiencia dice que ya no estaba en garantía: el coche se compró en 2020 cuando entonces las garantías eran de dos años y la avería fue en 2023",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/compran-porsche-105000-euros-tres-anos-arreglo-35000/0003_202609F22C2_COPY992.htm",
+      "time": "2026-09-21T16:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Suenan tambores de derbi con la venta de billetes para el CD Lugo-Racing",
       "description": "El combinado lucense facilita 382 entradas en el sector visitante a 15 euros con la posibilidad de ampliar la venta a otras zonas a precio no bonificado",
@@ -3018,42 +3036,6 @@
       "description": "La contrarreloj que decidirá los dos billetes para la élite arraca mañana, domingo, a las 12.00 horas",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/19/portugalete-ultima-bala-club-remo-ares/00031789845551669882483.htm",
       "time": "2026-09-19T19:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Por encima del resultado, la clave fue ser estables y mantener la calma»",
-      "description": "El técnico racinguista elogió el compromiso defensivo del equipo",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/compromiso-defensivo-otorga-triunfo-racing-ferrol/00031789843402031403490.htm",
-      "time": "2026-09-19T18:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Álvaro Ramón, un muro en defensa y con vía libre hacia el área rival",
-      "description": "El lateral fue uno de los grandes protagonistas del triunfo ante el Barakaldo",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/alvaro-ramon-muro-defensa-via-libre-area-rival/00031789842482529612616.htm",
-      "time": "2026-09-19T18:30:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» del Racing Club Ferrol contra el Barakaldo",
-      "description": "El tanto de Miguel Leal le da los tres puntos a los ferrolanos en la jornada 4",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/1x1-racing-club-ferrol-contra-barakaldo/00031789815158217685977.htm",
-      "time": "2026-09-19T16:28:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing gana al Barakaldo y hace de A Malata su trampolín para el impulso (1-0)",
-      "description": "Los de Javi Vázquez se repusieron de un gol anulado a Alcaina y Migue Leal hizo valer el dominio local para que los suyos encadenasen su segunda victoria consecutiva del curso",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/racing-barakaldo/00031789821247099282649.htm",
-      "time": "2026-09-19T16:23:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
