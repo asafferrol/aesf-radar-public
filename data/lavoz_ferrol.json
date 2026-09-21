@@ -1,5 +1,50 @@
 [
   {
+    "title": "Suenan tambores de derbi con la venta de billetes para el CD Lugo-Racing",
+    "description": "El combinado lucense facilita 382 entradas en el sector visitante a 15 euros con la posibilidad de ampliar la venta a otras zonas a precio no bonificado",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/21/suenan-tambores-derbi-venta-billetes-cd-lugo-racing/00031789993530260900486.htm",
+    "time": "2026-09-21T13:20:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La transformación del pabellón de A Malata, un paso más cerca",
+    "description": "Aprobado el proyecto básico y de ejecución de la renovación del pabellón, la adaptación del campo de rugbi y la mejora de las pistas de tenis y pádel con un presupuesto de más de 4,8 millones de euros",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/21/transformacion-pabellon-malata-paso-cerca/00031789987907965804178.htm",
+    "time": "2026-09-21T11:18:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un hombre de 61 años se cae sobre una desbrozadora en San Sadurniño: «Fue un desmayo»",
+    "description": "Su propio hijo se encargó de avisar al servicio de emergencias del 112 para pedir ayuda, una ambulancia trasladó a la persona al CHUF donde fue atendido del desvanecimiento",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/21/hombre-cae-sobre-desbrozadora-san-sadurnino/00031789986764399530907.htm",
+    "time": "2026-09-21T10:45:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Excarcelan a un hombre atrapado en un coche volcado en Ferrol",
+    "description": "El accidente ocurrió en la mañana de este lunes en la carretera que lleva al Club de Campo; se acercaron Policía Local, Bomberos y 061",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/21/excarcelan-hombre-atrapado-coche-volcado-ferrol/00031789984366888972613.htm",
+    "time": "2026-09-21T10:08:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La tríada de Ferrolterra se cuelga el oro mundial de balonmano en silla de ruedas",
+    "description": "Lorena Bermúdez, José Manuel Barroso y Juan López levantaron el título de campeones del mundo con la selección española al superar a Japón en Granollers",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/21/triada-ferrolterra-cuelga-oro-mundial-balonmano-silla-ruedas/00031789974927052443554.htm",
+    "time": "2026-09-21T07:50:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Zárate, de cine a biblioteca municipal de Mugardos",
     "description": "El Consello da Xunta dio luz verde a la rehabilitación del edificio histórico",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/09/21/zarate-cine-biblioteca-municipal/0003_202609F21C1991.htm",
@@ -18,36 +63,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El Outono Gastronómico alarga el momento dulce del turismo rural tras un verano pletórico",
-    "description": "Una veintena de casas turísticas coruñesas participan en el programa que busca dinamizar la actividad hasta final de año",
-    "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/09/21/outono-gastronomico-alarga-momento-dulce-turismo-rural-tras-verano-pletorico/0003_202609S21C5992.htm",
-    "time": "2026-09-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "María Vázquez, maestra represaliada en 1936, ya da nombre a la agrupación socialista de Pontedeume",
     "description": "Aurora Marco, biógrafa de esta pionera de la política y del feminismo, elogia la iniciativa del PSOE eumés, dirigido por primera vez por una mujer, la concejala Alejandra Bellón",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/21/psoe-eumes-honra-maria-vazquez-maestra-represaliada/0003_202609F21C6991.htm",
-    "time": "2026-09-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Despedida al párroco de Mañón y O Vicedo",
-    "description": "Unos 200 comensales agasajaron a Cristóbal Rivas, que se va destinado a As Pontes",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/despedida-parroco-manon-vicedo/00031789928328105830881.htm",
-    "time": "2026-09-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un verano en otoño",
-    "description": "Los ferrolanos reciben la estación que precede al invierno dándose un chapuzón en la playa",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/verano-otono/00031789927818284277112.htm",
     "time": "2026-09-21T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -63,9 +81,27 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Un verano en otoño",
+    "description": "Los ferrolanos reciben la estación que precede al invierno dándose un chapuzón en la playa",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/verano-otono/00031789927818284277112.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Desde Ferrol",
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/21/ferrol/0003_202609F21C8992.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Outono Gastronómico alarga el momento dulce del turismo rural tras un verano pletórico",
+    "description": "Una veintena de casas turísticas coruñesas participan en el programa que busca dinamizar la actividad hasta final de año",
+    "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/09/21/outono-gastronomico-alarga-momento-dulce-turismo-rural-tras-verano-pletorico/0003_202609S21C5992.htm",
     "time": "2026-09-21T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -76,15 +112,6 @@
     "description": "Su gol en el 90 selló un empate que coloca a los de Stili, todavía sin victorias, con dos puntos de nueve posibles",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/20/asier-libra-somozas-nuevo-tropiezo-pontevedra-b-1-1/00031789928824042476462.htm",
     "time": "2026-09-20T18:36:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "«Voltar é cousa de todos», la peña racinguista D'Tapas se movilizará a Lugo",
-    "description": "La agrupación con sede en Canido abre plazo para reservar una plaza de autobús por 10 euros",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/voltar-e-cousa-pena-racinguista-dtapas-movilizara-lugo/00031789926324399798403.htm",
-    "time": "2026-09-20T17:51:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -189,24 +216,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Álvaro Ramón, un muro en defensa y con vía libre hacia el área rival",
-    "description": "El lateral fue uno de los grandes protagonistas del triunfo ante el Barakaldo",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/alvaro-ramon-muro-defensa-via-libre-area-rival/00031789842482529612616.htm",
-    "time": "2026-09-19T18:30:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Malaguti: «Estoy muy contento de estar de vuelta, poder ayudar al equipo es importante para mí»",
-    "description": "El pívot de O Parrulo reapareció con gol después de varios meses de baja",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/19/malagutistrong-contento-estar-vuelta-poder-ayudar-equipo-importante-mistrong/00031789813233414879690.htm",
-    "time": "2026-09-19T10:26:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Los chiringuitos de la comarca de Ferrol estiran el verano: «Con este calor, decidimos seguir abiertos y alargar la temporada»",
     "description": "Aunque muchos de los negocios que operan de forma estacional ya bajaron la persiana, otros han optado por continuar operativos para aprovechar el tirón del buen tiempo: «Este mes estamos traballando de luxo»",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/chiringuitos-estiran-verano-calor-decidimos-seguir-abiertos-alargar-temporada/00031789746677151430399.htm",
@@ -282,15 +291,6 @@
     "title": "Indra prevé tener en funcionamiento su planta de As Pontes «a corto plazo»",
     "description": "Iniciará en breve las obras de la nave donde producirá vehículos militares",
     "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/18/indra-preve-tener-marcha-planta-as-pontes-primer-semestre-2027/0003_202609G18P21995.htm",
-    "time": "2026-09-18T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un ferrolano sufre un ictus tras montar una tienda de lencería y le deniegan que sea un accidente de trabajo",
-    "description": "Tuvo un ingreso hospitalario en el Marcide, a donde acudió al día siguiente de un viaje de trabajo por Jaén",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/sufre-ictus-tras-montar-tienda-lenceria-deniegan-accidente-trabajo/0003_202609F18C2_COPY991.htm",
     "time": "2026-09-18T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",

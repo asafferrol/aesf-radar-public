@@ -1,7 +1,52 @@
 {
   "hours": 48,
-  "count": 333,
+  "count": 337,
   "items": [
+    {
+      "title": "Suenan tambores de derbi con la venta de billetes para el CD Lugo-Racing",
+      "description": "El combinado lucense facilita 382 entradas en el sector visitante a 15 euros con la posibilidad de ampliar la venta a otras zonas a precio no bonificado",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/21/suenan-tambores-derbi-venta-billetes-cd-lugo-racing/00031789993530260900486.htm",
+      "time": "2026-09-21T13:20:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La transformación del pabellón de A Malata, un paso más cerca",
+      "description": "Aprobado el proyecto básico y de ejecución de la renovación del pabellón, la adaptación del campo de rugbi y la mejora de las pistas de tenis y pádel con un presupuesto de más de 4,8 millones de euros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/21/transformacion-pabellon-malata-paso-cerca/00031789987907965804178.htm",
+      "time": "2026-09-21T11:18:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un hombre de 61 años se cae sobre una desbrozadora en San Sadurniño: «Fue un desmayo»",
+      "description": "Su propio hijo se encargó de avisar al servicio de emergencias del 112 para pedir ayuda, una ambulancia trasladó a la persona al CHUF donde fue atendido del desvanecimiento",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/21/hombre-cae-sobre-desbrozadora-san-sadurnino/00031789986764399530907.htm",
+      "time": "2026-09-21T10:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Excarcelan a un hombre atrapado en un coche volcado en Ferrol",
+      "description": "El accidente ocurrió en la mañana de este lunes en la carretera que lleva al Club de Campo; se acercaron Policía Local, Bomberos y 061",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/21/excarcelan-hombre-atrapado-coche-volcado-ferrol/00031789984366888972613.htm",
+      "time": "2026-09-21T10:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La tríada de Ferrolterra se cuelga el oro mundial de balonmano en silla de ruedas",
+      "description": "Lorena Bermúdez, José Manuel Barroso y Juan López levantaron el título de campeones del mundo con la selección española al superar a Japón en Granollers",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/21/triada-ferrolterra-cuelga-oro-mundial-balonmano-silla-ruedas/00031789974927052443554.htm",
+      "time": "2026-09-21T07:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Zárate, de cine a biblioteca municipal de Mugardos",
       "description": "El Consello da Xunta dio luz verde a la rehabilitación del edificio histórico",
@@ -2986,15 +3031,6 @@
       "description": "Los de Javi Vázquez se repusieron de un gol anulado a Alcaina y Migue Leal hizo valer el dominio local para que los suyos encadenasen su segunda victoria consecutiva del curso",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/19/racing-barakaldo/00031789821247099282649.htm",
       "time": "2026-09-19T16:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Malaguti: «Estoy muy contento de estar de vuelta, poder ayudar al equipo es importante para mí»",
-      "description": "El pívot de O Parrulo reapareció con gol después de varios meses de baja",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/19/malagutistrong-contento-estar-vuelta-poder-ayudar-equipo-importante-mistrong/00031789813233414879690.htm",
-      "time": "2026-09-19T10:26:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
