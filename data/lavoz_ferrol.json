@@ -1,5 +1,77 @@
 [
   {
+    "title": "Zárate, de cine a biblioteca municipal de Mugardos",
+    "description": "El Consello da Xunta dio luz verde a la rehabilitación del edificio histórico",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/09/21/zarate-cine-biblioteca-municipal/0003_202609F21C1991.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El negocio del agua amenaza las traídas de 280.000 vecinos de la provincia de A Coruña sin red municipal",
+    "description": "«As empresas andan atrás dos manantiais que nos sacan a nós», denuncian las comunidades sobre la llegada de las concesionarias municipales y la pérdida económica y de derechos que les acarrean",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/09/21/negocio-agua-amenaza-traidas-280000-vecinos-red-municipal/0003_202609H21C3992.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Outono Gastronómico alarga el momento dulce del turismo rural tras un verano pletórico",
+    "description": "Una veintena de casas turísticas coruñesas participan en el programa que busca dinamizar la actividad hasta final de año",
+    "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/09/21/outono-gastronomico-alarga-momento-dulce-turismo-rural-tras-verano-pletorico/0003_202609S21C5992.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "María Vázquez, maestra represaliada en 1936, ya da nombre a la agrupación socialista de Pontedeume",
+    "description": "Aurora Marco, biógrafa de esta pionera de la política y del feminismo, elogia la iniciativa del PSOE eumés, dirigido por primera vez por una mujer, la concejala Alejandra Bellón",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/21/psoe-eumes-honra-maria-vazquez-maestra-represaliada/0003_202609F21C6991.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Despedida al párroco de Mañón y O Vicedo",
+    "description": "Unos 200 comensales agasajaron a Cristóbal Rivas, que se va destinado a As Pontes",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/despedida-parroco-manon-vicedo/00031789928328105830881.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un verano en otoño",
+    "description": "Los ferrolanos reciben la estación que precede al invierno dándose un chapuzón en la playa",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/verano-otono/00031789927818284277112.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "De malla en O Pote",
+    "description": "Los vecinos de Maniños recrearon la tradicional tarea agrícola de separar el grano de la paja y la cascarilla",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/malla-pote/00031789927954280768206.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Desde Ferrol",
+    "description": "",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/21/ferrol/0003_202609F21C8992.htm",
+    "time": "2026-09-21T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Asier libra a la UD Somozas de un nuevo tropiezo con el Pontevedra B (1-1)",
     "description": "Su gol en el 90 selló un empate que coloca a los de Stili, todavía sin victorias, con dos puntos de nueve posibles",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/20/asier-libra-somozas-nuevo-tropiezo-pontevedra-b-1-1/00031789928824042476462.htm",
@@ -72,27 +144,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Concello y Diputación pagarán 561.000 euros por el edificio anexo al consistorio de Pontedeume",
-    "description": "La compra permitirá ampliar y modernizar las dependencias municipales",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/09/20/concello-diputacion-pagaran-561000-euros-edificio-anexo-consistorio-eumes/0003_202609F20C2995.htm",
-    "time": "2026-09-20T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Las demandas del GES de Mugardos: «Pedimos unas instalaciones dignas y que nos reconozcan la categoría»",
     "description": "Los doce trabajadores del grupo llevan trece años en una vivienda unifamiliar con el baño en la misma estancia de la cocina, humedades, grietas e incluso ratas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/09/20/ges-mugardos-pedimos-instalaciones-dignas/0003_202609F20C2991.htm",
-    "time": "2026-09-20T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "A la caza de la gasolinera menos cara",
-    "description": "La estación de servicio del hipermercado Alcampo en Ferrol se consolida como uno de los «templos» preferidos por los conductores que buscan el ahorro",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/caza-gasolinera-cara/0003_202609F20C4991.htm",
     "time": "2026-09-20T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -117,15 +171,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Marián Ferreiro: « O Día da Bicicleta é xa unha tradición que une deporte, familia e mobilidade»",
-    "description": "A alcaldesa de Narón espera que a cidade reúna a centos de participantes na xornada de hoxe",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/20/span-langgl-dia-da-bicicleta-e-xa-unha-tradicion-une-deporte-familia-mobilidadespan/0003_202609F20C8991.htm",
-    "time": "2026-09-20T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Cristóbal Rivas Díaz, párroco que se traslada a As Pontes: « Sentinme moi acollido en Mañón »",
     "description": "Leva nove anos nas parroquias do concello mañonés, O Vicedo e unha de Ourol, e este domingo despídeno os veciños cun xantar en Viveiro",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/09/20/span-langglsentinme-moi-acollido-manonspan/0003_202609F20C9991.htm",
@@ -135,9 +180,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Las reivindicaciones de los propietarios de las Fragas llegan al Parlamento gallego",
-    "description": "El PSOE defendió una proposición no de ley para que la Xunta compense a los afectados por el parque natural",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/reivindicaciones-propietarios-fragas-llegan-parlamento-gallego/0003_202609F20C10991.htm",
+    "title": "A la caza de la gasolinera menos cara",
+    "description": "La estación de servicio del hipermercado Alcampo en Ferrol se consolida como uno de los «templos» preferidos por los conductores que buscan el ahorro",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/20/caza-gasolinera-cara/0003_202609F20C4991.htm",
     "time": "2026-09-20T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -162,45 +207,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Deniegan la incapacidad absoluta a un albañil de Ferrol que sufrió un infarto y tiene necrosis",
-    "description": "La justicia considera que su situación no se ha agravado, así que permanecerá con la permanente total",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/19/deniegan-incapacidad-absoluta-albanil-ferrol-sufrio-infarto-necrosis/0003_202609F19C5992.htm",
-    "time": "2026-09-19T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Los chiringuitos de la comarca de Ferrol estiran el verano: «Con este calor, decidimos seguir abiertos y alargar la temporada»",
     "description": "Aunque muchos de los negocios que operan de forma estacional ya bajaron la persiana, otros han optado por continuar operativos para aprovechar el tirón del buen tiempo: «Este mes estamos traballando de luxo»",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/chiringuitos-estiran-verano-calor-decidimos-seguir-abiertos-alargar-temporada/00031789746677151430399.htm",
-    "time": "2026-09-19T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un árbol mural lleno de vida en la residencia Mi Casa",
-    "description": "La pintora Carmen Martín crea esta obra tan especial con los residentes como protagonistas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/19/arbol-mural-lleno-vida-residencia-casa/0003_202609F19C12992.htm",
-    "time": "2026-09-19T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Domingos de teatro en Caranza",
-    "description": "El programa regresa mañana con Teatro AC Corzos Reunidos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/domingos-teatro-caranza/00031789766892384691607.htm",
-    "time": "2026-09-19T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Arrancó el Fene Rock",
-    "description": "El festival trajo ayer a Hamlet y sigue hoy con El Drogas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/18/arranco-fene-rock/00031789766974952352286.htm",
     "time": "2026-09-19T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -382,15 +391,6 @@
     "description": "El actor Pepón Nieto completa la propuesta para el último cuatrimestre del año, que incluye varios estrenos",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/08/18/aitana-sanchez-gijon-maria-galiana-cabezas-cartel-programa-cultural-naron/0003_202608F18C4991.htm",
     "time": "2026-08-18T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "«El mundo en tus manos»",
-    "description": "",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/08/10/mundo-tus-manos/0003_202608F10C6991.htm",
-    "time": "2026-08-10T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
