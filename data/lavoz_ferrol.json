@@ -1,9 +1,18 @@
 [
   {
-    "title": "Los centinelas del monte de Ferrolterra, en guardia día y noche por temor al fuego: «Hai moito en xogo»",
-    "description": "Los productores forestales alargan la campaña de vigilancia por la sequía y las altas temperaturas",
-    "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/09/22/guardia-monte-noche-dia/0003_202609F22C1991.htm",
-    "time": "2026-09-22T03:00:00+00:00",
+    "title": "Pintadas de odio contra la sede de Cruz Roja en Ferrol: «Mafia de la invasión»",
+    "description": "La fachada de la entidad ha amanecido este martes con mensajes xenófobos vinculados a la crisis de Ceuta. El ataque ha sido condenado por todos los grupos políticos con representación en el Concello",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/mensajes-odio-pintura-roja-sede-cruz-roja-ferrol-mafia-invasion/00031790066702409573942.htm",
+    "time": "2026-09-22T09:25:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Una persona herida por una colisión entre dos coches en la AP-9",
+    "description": "Ocurrió pasadas las nueve de la mañana a la altura de Fene",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/persona-herida-colision-dos-coches-ap-9/00031790067646279606794.htm",
+    "time": "2026-09-22T09:06:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -12,15 +21,6 @@
     "title": "Endesa inicia la repotenciación del parque eólico Coriscada, en el Ortegal",
     "description": "Prevé la sustitución de 40 aerogeneradores con una inversión de 36 millones",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/endesa-inicia-repotenciacion-parque-eolico-coriscada-ortegal/0003_202609F22C4991.htm",
-    "time": "2026-09-22T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Mejora de la Casa da Muller con una inversión de 460.000 euros para reforzar la atención",
-    "description": "",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/22/mejora-casa-da-muller-inversion-460000-euros-reforzar-atencion/0003_202609F22C4994.htm",
     "time": "2026-09-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -36,9 +36,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Un salvavidas de salud mental en las aulas universitarias: «Si la ansiedad no te deja vivir, pide ayuda»",
-    "description": "El miedo a la precariedad y las relaciones tóxicas acaparan la mayor parte de las consulta en el servicio de atención psicológica de la UDC, con sede en el campus de Ferrol",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/salvavidas-salud-mental-aulas-tienes-ansiedad-pide-ayuda/0003_202609F22C3992.htm",
+    "title": "Los centinelas del monte de Ferrolterra, en guardia día y noche por temor al fuego: «Hai moito en xogo»",
+    "description": "Los productores forestales alargan la campaña de vigilancia por la sequía y las altas temperaturas",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/09/22/guardia-monte-noche-dia/0003_202609F22C1991.htm",
     "time": "2026-09-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -90,18 +90,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El Concello avanza en la contratación de la calle Exército Español",
-    "description": "Las obras de aglomerado contarán con un presupuesto de casi 90.000 euros",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/22/concello-avanza-contratacion-calle-exercito-espanol/0003_202609F22C4992.htm",
+    "title": "Un salvavidas de salud mental en las aulas universitarias: «Si la ansiedad no te deja vivir, pide ayuda»",
+    "description": "El miedo a la precariedad y las relaciones tóxicas acaparan la mayor parte de las consulta en el servicio de atención psicológica de la UDC, con sede en el campus de Ferrol",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/salvavidas-salud-mental-aulas-tienes-ansiedad-pide-ayuda/0003_202609F22C3992.htm",
     "time": "2026-09-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Aprobación del plan para la construcción de la pista cubierta de Mandiá",
-    "description": "La parcela fue cedida por la asociación de vecinos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/aprobacion-plan-construccion-pista-cubierta-mandia/0003_202609F22C4993.htm",
+    "title": "Mejora de la Casa da Muller con una inversión de 460.000 euros para reforzar la atención",
+    "description": "",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/22/mejora-casa-da-muller-inversion-460000-euros-reforzar-atencion/0003_202609F22C4994.htm",
     "time": "2026-09-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -117,9 +117,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La vuelta al básquet de élite tras ser madre: «Hay desconocimiento»",
+    "title": "La vuelta al básquet de élite tras ser madre: «Hay mucho desconocimiento»",
     "description": "Gala Mestres, profesional del Baxi Ferrol, explica su día a día para regresar a la pista: «La gente te dice: '¡Estás muy bien!' Estoy bien por fuera, pero para volver a competir me falta»",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/21/vuelta-basquet-elite-tras-madre-desconocimiento/00031790006842014519474.htm",
+    "time": "2026-09-22T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Aprobación del plan para la construcción de la pista cubierta de Mandiá",
+    "description": "La parcela fue cedida por la asociación de vecinos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/aprobacion-plan-construccion-pista-cubierta-mandia/0003_202609F22C4993.htm",
     "time": "2026-09-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -210,15 +219,6 @@
     "title": "Desde Ferrol",
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/21/ferrol/0003_202609F21C8992.htm",
-    "time": "2026-09-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Zárate, de cine a biblioteca municipal de Mugardos",
-    "description": "El Consello da Xunta dio luz verde a la rehabilitación del edificio histórico",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/09/21/zarate-cine-biblioteca-municipal/0003_202609F21C1991.htm",
     "time": "2026-09-21T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",

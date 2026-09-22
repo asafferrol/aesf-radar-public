@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T06:05:07.241169+00:00",
-  "count": 630,
+  "generated_at": "2026-09-22T11:28:24.367504+00:00",
+  "count": 631,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Pintadas de odio contra la sede de Cruz Roja en Ferrol: «Mafia de la invasión»",
+      "description": "La fachada de la entidad ha amanecido este martes con mensajes xenófobos vinculados a la crisis de Ceuta. El ataque ha sido condenado por todos los grupos políticos con representación en el Concello",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/mensajes-odio-pintura-roja-sede-cruz-roja-ferrol-mafia-invasion/00031790066702409573942.htm",
+      "time": "2026-09-22T09:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una persona herida por una colisión entre dos coches en la AP-9",
+      "description": "Ocurrió pasadas las nueve de la mañana a la altura de Fene",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/persona-herida-colision-dos-coches-ap-9/00031790067646279606794.htm",
+      "time": "2026-09-22T09:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Los centinelas del monte de Ferrolterra, en guardia día y noche por temor al fuego: «Hai moito en xogo»",
       "description": "Los productores forestales alargan la campaña de vigilancia por la sequía y las altas temperaturas",
@@ -5682,15 +5700,6 @@
       "description": "Unas 1.200 personas se subieron a la bicicleta para gozar del deporte en familia, a pleno sol y en un magnífico ambiente",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/21/naron-despidio-verano-pedal/0003_202609F21C3991.htm",
       "time": "2026-09-20T12:48:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Incautado un cuchillo con el que tres jóvenes amenazaron supuestamente a los porteros de un local de Ferrol",
-      "description": "El incidente se produjo sobre las cinco de la madrugada en el entorno de la estación",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/20/incautado-cuchillo-tres-jovenes-amenazaron-supuestamente-porteros-local-ferrol/00031789898266377692675.htm",
-      "time": "2026-09-20T10:02:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
