@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T15:36:35.582104+00:00",
-  "count": 632,
+  "generated_at": "2026-09-22T19:06:45.102669+00:00",
+  "count": 630,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Declaran de alto riesgo el derbi entre el Racing y el Pontevedra",
+      "description": "El partido, que se disputará en A Malata el 3 de octubre, llevará aparejado un dispositivo especial de seguridad",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/22/declaran-alto-riesgo-derbi-racing-pontevedra/00031790099520210731817.htm",
+      "time": "2026-09-22T17:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing, a saltar la barrera psicológica de los tres triunfos consecutivos",
+      "description": "Los últimos nueve puntos seguidos se remontan a las tres primeras jornadas de la pasada campaña y fue precisamente el Lugo el que cortó la buena racha",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/22/racing-ante-reto-enlazar-tres-victorias-ano-despues/00031790093808382202791.htm",
+      "time": "2026-09-22T16:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La ferrolana Inés Prado desafía a los elementos en la Olimpiada de Ajedrez: «Pensaron que tenía apendicitis»",
       "description": "La representante de la selección española, ya de alta médica, sufrió una intoxicación alimentaria que le impidió participar en la sexta ronda",
@@ -5676,42 +5694,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Asier libra a la UD Somozas de un nuevo tropiezo con el Pontevedra B (1-1)",
-      "description": "Su gol en el 90 selló un empate que coloca a los de Stili, todavía sin victorias, con dos puntos de nueve posibles",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/20/asier-libra-somozas-nuevo-tropiezo-pontevedra-b-1-1/00031789928824042476462.htm",
-      "time": "2026-09-20T18:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Voltar é cousa de todos», la peña racinguista D'Tapas se movilizará a Lugo",
-      "description": "La agrupación con sede en Canido abre plazo para reservar una plaza de autobús por 10 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/voltar-e-cousa-pena-racinguista-dtapas-movilizara-lugo/00031789926324399798403.htm",
-      "time": "2026-09-20T17:51:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Jesús Bernal y su metamorfosis en mediapunta en el Racing",
-      "description": "El adelantamiento posicional del de Muniesa es ya una constante en los tramos finales de partido por su «compromiso táctico»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/jesus-bernal-metamorfosis-mediapunta-racing/00031789924997078878195.htm",
-      "time": "2026-09-20T17:30:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mismos once y muchas posibilidades para jugar en un Racing camaleónico",
-      "description": "Ojeda fue el exponente de una alineación repetida, pero con matices clave en el club ferrolano",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/once-posibilidades-jugar-racing-camaleonico/00031789922683582965320.htm",
-      "time": "2026-09-20T16:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
