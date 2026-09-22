@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T11:28:24.367504+00:00",
-  "count": 631,
+  "generated_at": "2026-09-22T15:36:35.582104+00:00",
+  "count": 632,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "La ferrolana Inés Prado desafía a los elementos en la Olimpiada de Ajedrez: «Pensaron que tenía apendicitis»",
+      "description": "La representante de la selección española, ya de alta médica, sufrió una intoxicación alimentaria que le impidió participar en la sexta ronda",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/22/ferrolana-ines-prado-desafia-elementos-olimpiada-ajedrezpensaron-tenia-apendicitis/00031790086537481616370.htm",
+      "time": "2026-09-22T14:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La palista ferrolana Marta Canosa conquista el oro en el Mundial sub-21",
+      "description": "La selección española de kayak polo se llevó el título en Alemania con pleno de victorias",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/22/palista-ferrolana-marta-canosa-conquista-oro-mundial-sub-21/00031790084565418576998.htm",
+      "time": "2026-09-22T13:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Vuelven las 21 Leguas de Narón, con cifras récord y un toque global",
+      "description": "Más de 1.100 participantes, incluyendo portugueses y suizos, tratarán de desbancar al cariñés José Santiago en la prueba",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/22/vuelven-21-leguas-naron-cifras-record-toque-global/00031790082011721229956.htm",
+      "time": "2026-09-22T13:07:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Pintadas de odio contra la sede de Cruz Roja en Ferrol: «Mafia de la invasión»",
       "description": "La fachada de la entidad ha amanecido este martes con mensajes xenófobos vinculados a la crisis de Ceuta. El ataque ha sido condenado por todos los grupos políticos con representación en el Concello",
@@ -5682,24 +5709,6 @@
       "description": "Ojeda fue el exponente de una alineación repetida, pero con matices clave en el club ferrolano",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/20/once-posibilidades-jugar-racing-camaleonico/00031789922683582965320.htm",
       "time": "2026-09-20T16:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ares certifica el descenso en Portugalete y Galicia se queda huérfana en la ACT",
-      "description": "La Santa Olalla de Lubre no pudo pasar del tercer puesto y pierde la condición de equipo de la Liga Eusko Label",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/20/ares-certifica-descenso-portugalete-galicia-queda-huerfana-act/00031789917109773255392.htm",
-      "time": "2026-09-20T15:19:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón despide el verano a lo grande, a todo pedal por el paseo de Xuvia",
-      "description": "Unas 1.200 personas se subieron a la bicicleta para gozar del deporte en familia, a pleno sol y en un magnífico ambiente",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/21/naron-despidio-verano-pedal/0003_202609F21C3991.htm",
-      "time": "2026-09-20T12:48:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
