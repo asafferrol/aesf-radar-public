@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:26:15.787057+00:00",
-  "count": 532,
+  "generated_at": "2026-09-23T18:30:38.947916+00:00",
+  "count": 536,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "Ferrol se abre al baloncesto internacional en silla de ruedas",
+      "description": "El pabellón del Ensanche reunirá los días 3 y 4 de octubre a cuatro equipos de España y Portugal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/23/ferrol-abre-baloncesto-internacional-silla-ruedas/00031790180452198698461.htm",
+      "time": "2026-09-23T16:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol vuelve a Europa con un nuevo reto frente al Stara Zagora",
+      "description": "Las ferrolanas se verán las caras con las búlgaras mañana, jueves, a las 17.00 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/baxi-ferrol-vuelve-europa-nuevo-reto-frente-stara-zagora/00031790180212843377739.htm",
+      "time": "2026-09-23T16:20:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rufo Lucero pide mantener la identidad ante el conjunto verde",
+      "description": "El lateral del Lugo destaca la fortaleza del equipo antes de recibir a un Racing que llega en crecimiento",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/23/rufo-lucero-pide-mantener-identidad-ante-conjunto-verde/00031790179990014905580.htm",
+      "time": "2026-09-23T16:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Edgar Pujol ya está con la República Dominicana",
+      "description": "El central racinguista se perderá los próximos dos encuentros del conjunto verde",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/23/edgar-pujol-republica-dominicana/00031790179650757249812.htm",
+      "time": "2026-09-23T16:12:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Lucas Díaz: «É un derbi especial, pero temos as mesmas ganas de gañar que sempre»",
+      "description": "O Racing de Ferrol visitará o Ángel Carro o sábado ás 16.30 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/23/lucas-diaz-e-derbi-especial-temos-as-mesmas-ganas-ganar-sempre/00031790179092596224216.htm",
+      "time": "2026-09-23T16:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Incendio en un silo lleno de colchones en el polígono de Os Airíos, en As Pontes",
       "description": "Bomberos del Eume y del parque de Vilalba, y el GES de Mugardos trabajan en la extinción",
@@ -4800,15 +4845,6 @@
       "description": "O central confía en que, tras dous anos de quedar ás portas do deporte profesional, o ferrolán sexa o proxecto axeitado para celebrar un ascenso",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/21/ger-novoa-xogador-do-racingnon-comecei-ir-ao-futbol-ata-fun-grandino-era-ter-mamitis/00031790015785853650322.htm",
       "time": "2026-09-21T18:42:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Compran un Porsche por 105.000 euros y a los tres años tienen que hacer un arreglo de 35.000",
-      "description": "La pareja de Narón que lo adquirió demandó al concesionario, pero la Audiencia dice que ya no estaba en garantía: el coche se compró en 2020 cuando entonces las garantías eran de dos años y la avería fue en 2023",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/compran-porsche-105000-euros-tres-anos-arreglo-35000/0003_202609F22C2_COPY992.htm",
-      "time": "2026-09-21T16:49:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
