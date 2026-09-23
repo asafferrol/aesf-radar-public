@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:40:24.877511+00:00",
+  "generated_at": "2026-09-23T14:26:15.787057+00:00",
   "count": 532,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "Incendio en un silo lleno de colchones en el polígono de Os Airíos, en As Pontes",
+      "description": "Bomberos del Eume y del parque de Vilalba, y el GES de Mugardos trabajan en la extinción",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/23/incendio-silo-lleno-colchones-poligono-os-airios-as-pontes/00031790167137741444917.htm",
+      "time": "2026-09-23T12:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Más megavatios para adjudicar en As Pontes: el Gobierno liberará la capacidad de la subestación de la central",
+      "description": "El Ministerio de Transición Ecológica sopesa conceder ese enchufe para proyectos de energías renovables y almacenamiento",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/23/megavatios-adjudicar-as-pontes-gobierno-liberara-capacidad-subestacion-central/00031790157401529674488.htm",
+      "time": "2026-09-23T11:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un árbol se tronza en Ferrol y causa el desplome de una rama de gran porte en el Cantón",
+      "description": "La caída de parte de un tilo se produjo anoche junto a uno de los bancos de la alameda",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/23/desplome-arbol-canton-ferrol/00031790157444845236380.htm",
+      "time": "2026-09-23T11:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fallece José Luis Armada, artífice de la segregación de Cariño y primer alcalde del concello surgido en 1988",
+      "description": "Presidía la asociación de vecinos que impulsó la independencia, fue regidor en dos etapas, de 1988 a 1995 y de 2003 a 2011, y diputado provincial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/carino/2026/09/23/carino-despide-jose-luis-armada-artifice-segregacion-primer-alcalde-concello-nacio-1988/00031790160762115932841.htm",
+      "time": "2026-09-23T11:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Convocada una concentración de protesta tras el ataque xenófobo a Cruz Roja: «Por un Ferrol libre de odio»",
       "description": "Tendrá lugar este viernes, a las 19.30 horas, frente a la sede de la organización humanitaria, en el cruce de la calle de A Coruña con Dolores",
@@ -4773,42 +4809,6 @@
       "description": "La pareja de Narón que lo adquirió demandó al concesionario, pero la Audiencia dice que ya no estaba en garantía: el coche se compró en 2020 cuando entonces las garantías eran de dos años y la avería fue en 2023",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/compran-porsche-105000-euros-tres-anos-arreglo-35000/0003_202609F22C2_COPY992.htm",
       "time": "2026-09-21T16:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Suenan tambores de derbi con la venta de billetes para el CD Lugo-Racing",
-      "description": "El combinado lucense facilita 382 entradas en el sector visitante a 15 euros con la posibilidad de ampliar la venta a otras zonas a precio no bonificado",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/21/suenan-tambores-derbi-venta-billetes-cd-lugo-racing/00031789993530260900486.htm",
-      "time": "2026-09-21T13:20:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La transformación del pabellón de A Malata, un paso más cerca",
-      "description": "Aprobado el proyecto básico y de ejecución de la renovación del pabellón, la adaptación del campo de rugbi y la mejora de las pistas de tenis y pádel con un presupuesto de más de 4,8 millones de euros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/21/transformacion-pabellon-malata-paso-cerca/00031789987907965804178.htm",
-      "time": "2026-09-21T11:18:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un hombre de 61 años se cae sobre una desbrozadora en San Sadurniño: «Fue un desmayo»",
-      "description": "Su propio hijo se encargó de avisar al servicio de emergencias del 112 para pedir ayuda, una ambulancia trasladó a la persona al CHUF donde fue atendido del desvanecimiento",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/21/hombre-cae-sobre-desbrozadora-san-sadurnino/00031789986764399530907.htm",
-      "time": "2026-09-21T10:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Excarcelan a un hombre atrapado en un coche volcado en Ferrol",
-      "description": "El accidente ocurrió en la mañana de este lunes en la carretera que lleva al Club de Campo; se acercaron Policía Local, Bomberos y 061",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/21/excarcelan-hombre-atrapado-coche-volcado-ferrol/00031789984366888972613.htm",
-      "time": "2026-09-21T10:08:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
