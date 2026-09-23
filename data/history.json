@@ -1,6 +1,6 @@
 {
   "hours": 48,
-  "count": 536,
+  "count": 535,
   "items": [
     {
       "title": "Ferrol se abre al baloncesto internacional en silla de ruedas",
@@ -4816,15 +4816,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Ger Nóvoa, xogador do Racing: «Non comecei ir ao fútbol ata que fun grandiño, era de ter mamitis»",
-      "description": "O central confía en que, tras dous anos de quedar ás portas do deporte profesional, o ferrolán sexa o proxecto axeitado para celebrar un ascenso",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/21/ger-novoa-xogador-do-racingnon-comecei-ir-ao-futbol-ata-fun-grandino-era-ter-mamitis/00031790015785853650322.htm",
-      "time": "2026-09-21T18:42:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
