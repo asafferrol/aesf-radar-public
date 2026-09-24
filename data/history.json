@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 486,
+  "count": 485,
   "items": [
+    {
+      "title": "Tríada inamovible, un inédito y tres por debajo de la treintena en el Racing Club Ferrol",
+      "description": "Lucas, Bernal y Monju lo jugaron todo en un equipo en el que Sekou, Saúl y Castro se sitúan con menos de media hora de rodaje y Pujol sigue sin debutar",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/24/triada-inamovible-inedito-tres-debajo-treintena-racing-club-ferrol/00031790255651773159100.htm",
+      "time": "2026-09-24T13:19:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La estación de buses de Ferrol amanece cerrada y con los viajeros entrando por el andén",
+      "description": "La verja de las escaleras se encontraba bajada completamente, impidiendo el acceso por el interior",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/estacion-buses-ferrol-amanece-cerrada-viajeros-entrando-anden/00031790239623289725735.htm",
+      "time": "2026-09-24T09:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una mujer de 92 años pasó 24 horas tendida en el suelo de su casa, en Pontedeume, incapaz de incorporarse",
       "description": "Los vecinos, alarmados al ver que no levantaba las persianas, llamaron a la Policía Local, que entró por el balcón para auxiliarla",
@@ -4345,33 +4363,6 @@
       "description": "La representante de la selección española, ya de alta médica, sufrió una intoxicación alimentaria que le impidió participar en la sexta ronda",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/22/ferrolana-ines-prado-desafia-elementos-olimpiada-ajedrezpensaron-tenia-apendicitis/00031790086537481616370.htm",
       "time": "2026-09-22T14:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La palista ferrolana Marta Canosa conquista el oro en el Mundial sub-21",
-      "description": "La selección española de kayak polo se llevó el título en Alemania con pleno de victorias",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/22/palista-ferrolana-marta-canosa-conquista-oro-mundial-sub-21/00031790084565418576998.htm",
-      "time": "2026-09-22T13:48:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vuelven las 21 Leguas de Narón, con cifras récord y un toque global",
-      "description": "Más de 1.100 participantes, incluyendo portugueses y suizos, tratarán de desbancar al cariñés José Santiago en la prueba",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/22/vuelven-21-leguas-naron-cifras-record-toque-global/00031790082011721229956.htm",
-      "time": "2026-09-22T13:07:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Pintadas de odio contra la sede de Cruz Roja en Ferrol: «Mafia de la invasión»",
-      "description": "La fachada de la entidad ha amanecido este martes con mensajes xenófobos vinculados a la crisis de Ceuta. El ataque ha sido condenado por todos los grupos políticos con representación en el Concello",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/mensajes-odio-pintura-roja-sede-cruz-roja-ferrol-mafia-invasion/00031790066702409573942.htm",
-      "time": "2026-09-22T09:25:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
