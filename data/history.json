@@ -1,7 +1,142 @@
 {
   "hours": 48,
-  "count": 281,
+  "count": 280,
   "items": [
+    {
+      "title": "Hola fibra, adiós azúcares: así son ahora los menús escolares en los diez colegios públicos de Ferrol",
+      "description": "Al menos cuatro veces al mes incluyen pasta y arroz integrales y las frituras se han reducido a una vez por semana como máximo. Los precios se mantienen: 5,46 por la comida y 2,42 por el desayuno",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/fibra-poca-fritura-nuevos-menus-escolares-ferrol/0003_202609F24C1993.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol monitoriza las instalaciones de As Forcadas",
+      "description": "Nuevo contrato para regularizar el mantenimiento y seguridad de la presa, que el Concello niega que guarde relación directa con la situación de sequía",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/ferrol-monitoriza-as-forcadas/0003_202609F24C3992.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Licitadas en Ferrol las obras de la calle Exército Español",
+      "description": "El Concello contrata el aglomerado del vial situado en Caranza por casi 90.000 euros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/licitadas-obras-calle-exercito-espanol/0003_202609F24C3994.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El pleno debate la situación del transporte por autobús en Ferrol",
+      "description": "La oposición presentará una moción conjunta a la sesión de este jueves",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/pleno-debate-situacion-transporte/0003_202609F24C3993.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los socorristas de Ferrol saldaron la temporada con 46 rescates y 651 asistencias sanitarias",
+      "description": "Las picaduras de escarapotes fueron una de las principales causas de asistencia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/socorristas-saldaron-temporada-46-rescates-651-asistencias/0003_202609F24C2993.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Barallobre promociona su marisco en Sevilla: « A gastronomía é unha vía para dar a coñecer o territorio »",
+      "description": "La cofradía participó junto a la Xunta en la feria Auténtica Premium Food",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/span-langgl-gastronomia-e-unha-via-dar-conecer-territoriospanmonfero-recupera-antigua-casa-rectoral-490000-euros-fondos-transicion-justaneda-formara-mayores-prevencion-riesgos-hogarcedeira-convoca-quinta-edicion-certamen-fusa-guillen/0003_202609F24C6992.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Quejas por el servicio médico de Navantia tras la jubilación de dos trabajadoras",
+      "description": "La empresa explica que la atención continúa, pero que se están buscando relevos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/quejas-servicio-medico-navantia-tras-jubilacion-dos-trabajadoras/0003_202609F24C4992.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Exposición de pintura en la sala Curuxeiras",
+      "description": "Chechela expone 57 obras pictóricas, entre las que abundan los paisajes marinos y las vías de tren",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/exposicion-pintura-sala-curuxeiras/00031790182636945503366.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Festival Entes Animados se despide este fin de semana",
+      "description": "Un espectáculo de títeres pondrá el broche de oro en distintos concellos, como Narón o Valdoviño",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/festival-entes-animados-despide-fin-semana/00031790182050880736264.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Teatro en Caranza con los Domingos a Escena",
+      "description": "La compañía segoviana El Telón Negro representará «El legado»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/teatro-caranza-domingos-escena/00031790182398121542212.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El campus de Ferrol se prepara para una G-Night con tecnología y ciencia para todos los públicos",
+      "description": "El CITENI acogerá diez talleres que combinarán demostraciones, experimentos y retos",
+      "url": "https://www.lavozdegalicia.es/noticia/ciencia/2026/09/24/campus-prepara-g-night-tecnologia-ciencia-publicos/0003_202609F24C2992.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Monfero recupera la antigua casa rectoral por 490.000 euros de fondos de Transición Justa",
+      "description": "El delegado del Gobierno en Galicia, Pedro Blanco, inauguró ayer el renovado edificio, junto al alcalde en funciones, Alberto Cortizas, y la agente territorial en Galicia para los convenios de Transición Justa, Nuria Álvarez",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/monfero/2026/09/24/monfero-recupera-antigua-casa-rectoral-490000-euros-fondos-transicion-justa/0003_202609F24C6_COPY994.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Neda formará a sus mayores en prevención de riesgos en el hogar",
+      "description": "Abierto el plazo para inscribirse",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/23/neda-formara-mayores-prevencion-riesgos-hogar/00031790180087799403923.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cedeira convoca la quinta edición del certamen Fusa Guillén",
+      "description": "El plazo para presentar obras a este concurso de teatro aficionado será del 9 al 30 de octubre",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/24/cedeira-convoca-quinta-edicion-certamen-fusa-guillen/0003_202609F24C6994.htm",
+      "time": "2026-09-24T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Intermares ofrece formación en Mauritania y Senegal",
+      "description": "El buque, con base en Ferrol, colaborará con el sector pesquero y en el ámbito militar",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/24/intermares-ofrece-formacion-mauritania-senegal/0003_202609F24C4991.htm",
+      "time": "2026-09-24T02:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "RESOLUCIÓN de 2 de septiembre de 2026 que pone fin al procedimiento de subvenciones tramitado en virtud de la Orden de 3 de junio de 2026 por la que se establecen las bases reguladoras y se convocan subvenciones, en régimen de concurrencia competitiva, destinadas a ayuntamientos de Galicia para la adquisición de vehículos, sus adaptaciones y maquinaria vinculada a actuaciones de prevención de incendios forestales, cofinanciadas en un 60 % por la Unión Europea en el marco del programa Galicia Feder 2021-2027 (código de procedimiento PR486F) (Diario Oficial de Galicia número 110, de 15 de junio).",
       "description": "III. Otras disposiciones Consellería de Presidencia, Justicia y Deportes",
@@ -2383,150 +2518,6 @@
       "description": "Ocurrió pasadas las nueve de la mañana a la altura de Fene",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/persona-herida-colision-dos-coches-ap-9/00031790067646279606794.htm",
       "time": "2026-09-22T09:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los centinelas del monte de Ferrolterra, en guardia día y noche por temor al fuego: «Hai moito en xogo»",
-      "description": "Los productores forestales alargan la campaña de vigilancia por la sequía y las altas temperaturas",
-      "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/09/22/guardia-monte-noche-dia/0003_202609F22C1991.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Endesa inicia la repotenciación del parque eólico Coriscada, en el Ortegal",
-      "description": "Prevé la sustitución de 40 aerogeneradores con una inversión de 36 millones",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/endesa-inicia-repotenciacion-parque-eolico-coriscada-ortegal/0003_202609F22C4991.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mejora de la Casa da Muller con una inversión de 460.000 euros para reforzar la atención",
-      "description": "",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/22/mejora-casa-da-muller-inversion-460000-euros-reforzar-atencion/0003_202609F22C4994.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un joven de Ferrol sufre ocho estafas bancarias en un día: le llevaron 5.500 euros de la cuenta donde tenía la beca",
-      "description": "La Audiencia Provincial condena al banco a devolverle todo el dinero",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/condenan-banco-devolver-5500-euros-joven/0003_202609F22C2_COPY994.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un salvavidas de salud mental en las aulas universitarias: «Si la ansiedad no te deja vivir, pide ayuda»",
-      "description": "El miedo a la precariedad y las relaciones tóxicas acaparan la mayor parte de las consulta en el servicio de atención psicológica de la UDC, con sede en el campus de Ferrol",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/salvavidas-salud-mental-aulas-tienes-ansiedad-pide-ayuda/0003_202609F22C3992.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Piden más funcionarios para la Sección Civil del Tribunal de Instancia de Ferrol",
-      "description": "El sindicato STAJ (mayoritario en estos juzgados) también alerta de que no se están nombrando a los interinos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/22/piden-funcionarios-seccion-civil-juzgados/0003_202609F22C2_COPY993.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Exponav abre muestra sobre los trescientos años de construcción naval en la ría de Ferrol",
-      "description": "Arrancará el 6 de octubre con motivo del tricentenario del Departamento Marítimo del Norte",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/22/exponav-abre-muestra-sobre-trescientos-anos-construccion-naval-ria/0003_202609F22C5992.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Coke Couto confirma su talento con «Solo un momento»",
-      "description": "El cantautor ferrolano presenta una nueva canción inspirada en sus vivencias en Madrid",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/21/coke-couto-confirma-talento-solo-momento/00031790008431364162337.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Gracias Fojeteiros",
-      "description": "El motoclub participó activamente en el control y protección de los participantes en el Día de la Bici de Narón",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/21/gracias-fojeteiros/00031790008711872623702.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En Vespa por Portugal",
-      "description": "Integrantes del club Rías Altas de Ferrol participaron en un encuentro con colegas lusos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/21/vespa-portugal/00031790008911220191531.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Concello avanza en la contratación de la calle Exército Español",
-      "description": "Las obras de aglomerado contarán con un presupuesto de casi 90.000 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/22/concello-avanza-contratacion-calle-exercito-espanol/0003_202609F22C4992.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Aprobación del plan para la construcción de la pista cubierta de Mandiá",
-      "description": "La parcela fue cedida por la asociación de vecinos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/aprobacion-plan-construccion-pista-cubierta-mandia/0003_202609F22C4993.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PSOE defiende las demandas del GES de Mugardos y denuncia que el PP « quere desfacerse del »",
-      "description": "El portavoz del grupo municipal critica a «nefasta xestión» del gobierno local",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/mugardos/2026/09/22/psoe-defiende-demandas-ges-mugardos-denuncia-pp-span-langglquere-desfacerse-span/0003_202609F22C6993.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La vuelta al básquet de élite tras ser madre: «Hay desconocimiento»",
-      "description": "Gala Mestres, profesional del Baxi Ferrol, explica su día a día para regresar a la pista: «La gente te dice: '¡Estás muy bien!' Estoy bien por fuera, pero para volver a competir me falta»",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/21/vuelta-basquet-elite-tras-madre-desconocimiento/00031790006842014519474.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ortigueira pretende recuperar el mercado marinero en apoyo del marisqueo",
-      "description": "El Concello busca la ayuda de la Xunta para impulsar el sector pesquero",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/22/ortigueira-retomara-mercado-marinero-apoyo-marisqueo/0003_202609F22C6991.htm",
-      "time": "2026-09-22T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La fragata Méndez Núñez, un radar flotante para el blindaje aeroespacial",
-      "description": "El buque se coordina con el Ejército del Aire y del Espacio y el de Tierra",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/fragata-mendez-nunez-radar-flotante-blindaje-aereoespacial/0003_202609F22C5991.htm",
-      "time": "2026-09-22T02:55:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
