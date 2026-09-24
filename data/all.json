@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T18:25:48.800988+00:00",
-  "count": 486,
+  "generated_at": "2026-09-24T21:39:56.291830+00:00",
+  "count": 488,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "El ferrolano Chiqui Barros toma las riendas del Tarragona Bàsquet",
+      "description": "El combinado, que milita en Liga Femenina 2, apuesta por la experiencia del técnico para consolidarse en la categoría",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/24/ferrolanochiqui-barros-toma-riendas-tarragona-basquet/00031790274963396334634.htm",
+      "time": "2026-09-24T18:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Lino López, técnico del Baxi Ferrol: «Fuimos capaces de darle la vuelta»",
+      "description": "El preparador ferrolano, que admite el bajón del segundo cuarto, no se confía y espera que A Malata impulse para vivir Europa por tercer año",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/24/lino-lopez-tecnico-baxifuimos-capaces-darle-vuelta/00031790273868217452134.htm",
+      "time": "2026-09-24T18:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La maderera Intasa avanza en su descarbonización con una nueva planta de biomasa",
       "description": "La Xunta dio luz verde este jueves al trámite medioambiental",
