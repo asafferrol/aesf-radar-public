@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 485,
+  "count": 486,
   "items": [
+    {
+      "title": "La maderera Intasa avanza en su descarbonización con una nueva planta de biomasa",
+      "description": "La Xunta dio luz verde este jueves al trámite medioambiental",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/25/maderera-intasa-avanza-descarbonizacion-nueva-planta-biomasa/0003_202609G25P25991.htm",
+      "time": "2026-09-24T16:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol conquista Bulgaria para abrirse camino en Europa (61-76)",
+      "description": "Las de Lino López, que se recobraron tras el descanso de un mal segundo cuarto, contarán con ventaja en A Malata para la vuelta de la Eurocup Women",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/24/baxi-ferrol-beroe/00031790261950477827445.htm",
+      "time": "2026-09-24T16:44:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La ministra de Defensa, Margarita Robles, visitará este viernes el Tercio Norte de Ferrol",
+      "description": "El acto, que no está abierto a los medios de comunicación, será a la una de la tarde",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/ministra-defensa-margarita-robles-visitara-manana-tercio-norte-ferrol/00031790266503138231570.htm",
+      "time": "2026-09-24T16:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Intentan matar 16 árboles en Ferrol mediante agujeros con taladro e introduciendo un químico en el tronco",
+      "description": "Los vecinos lo consideran un «arboricidio» y el Concello investiga el origen de los daños y su alcance",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/inyectan-producto-quimicopracticandoagujeros-taladro-16-arboles-ferrol/00031790260031419548599.htm",
+      "time": "2026-09-24T15:20:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Tríada inamovible, un inédito y tres por debajo de la treintena en el Racing Club Ferrol",
       "description": "Lucas, Bernal y Monju lo jugaron todo en un equipo en el que Sekou, Saúl y Castro se sitúan con menos de media hora de rodaje y Pujol sigue sin debutar",
@@ -4339,33 +4375,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Declaran de alto riesgo el derbi entre el Racing y el Pontevedra",
-      "description": "El partido, que se disputará en A Malata el 3 de octubre, llevará aparejado un dispositivo especial de seguridad",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/22/declaran-alto-riesgo-derbi-racing-pontevedra/00031790099520210731817.htm",
-      "time": "2026-09-22T17:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing, a saltar la barrera psicológica de los tres triunfos consecutivos",
-      "description": "Los últimos nueve puntos seguidos se remontan a las tres primeras jornadas de la pasada campaña y fue precisamente el Lugo el que cortó la buena racha",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/22/racing-ante-reto-enlazar-tres-victorias-ano-despues/00031790093808382202791.htm",
-      "time": "2026-09-22T16:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La ferrolana Inés Prado desafía a los elementos en la Olimpiada de Ajedrez: «Pensaron que tenía apendicitis»",
-      "description": "La representante de la selección española, ya de alta médica, sufrió una intoxicación alimentaria que le impidió participar en la sexta ronda",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/22/ferrolana-ines-prado-desafia-elementos-olimpiada-ajedrezpensaron-tenia-apendicitis/00031790086537481616370.htm",
-      "time": "2026-09-22T14:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
