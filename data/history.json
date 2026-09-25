@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 525,
+  "count": 526,
   "items": [
+    {
+      "title": "Ferrol se moviliza contra los ataques xenófobos a la sede de Cruz Roja",
+      "description": "Cientos de personas acudieron a la concentración en protesta por las pintadas en las instalaciones de la organización, que ya han sido denunciadas y de las que «se fará un seguimento»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/25/ferrol-moviliza-contra-ataquesxenofobos-sede-cruz-roja/00031790365583458557295.htm",
+      "time": "2026-09-25T19:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La Diputación de A Coruña y las Madres de Plaza de Mayo, unidas por la memoria y la defensa de la democracia",
       "description": "Ambas entidades colaborarán en pro de los derechos humanos, según el protocolo suscrito en Buenos Aires",
