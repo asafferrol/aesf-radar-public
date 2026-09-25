@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:59:58.572339+00:00",
+  "generated_at": "2026-09-25T04:42:53.372733+00:00",
   "count": 337,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,114 @@
     }
   },
   "items": [
+    {
+      "title": "En el «desierto» de la estación de autobuses de Ferrol: «No conozco muchas que estén como esta»",
+      "description": "Las instalaciones amanecieron el jueves cerradas y los usuarios tuvieron que entrar por el andén",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/desierto-estacion/0003_202609F25C1991.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Redistribución del espacio de tres terrazas de la calle Real de Ferrol",
+      "description": "Los locales de hostelería tendrán ocho mesas y se garantizará un corredor de tres metros, tras delimitar el espacio que pueden ocupar",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/25/redistribucion-espacio-tres-terrazas-calle-real/0003_202609F25C2991.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Luz verde a la Conta Xeral del 2025 y a los festivos locales para el 2026 en Ferrol: Chamorro y San Xiao",
+      "description": "Ferrol en Común y BNG preferían el Martes de Carnaval, pero no prosperó su propuesta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/luz-verde-conta-xeral-2025-festivos-locales-2026-ferrol-chamorro-san-xiao/00031790277809351602107.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Cooperativa de Vilaboa alcanzó los 581.000 euros de beneficio en 2025",
+      "description": "La sección de crédito es el motor de la sociedad, que tiene diez trabajadores",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/25/cooperativa-vilaboa-alcanzo-581000-euros-beneficio-2025/0003_202609F25C6991.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Concello de Ferrol ofrece 110 plazas para viajar gratis a las fiestas de Lugo y Mondoñedo",
+      "description": "Las plazas se asignarán, por orden de inscripción, este lunes en la agencia Viaxes Paco",
+      "url": "https://www.lavozdegalicia.es/noticia/lugo/lugo/2026/09/25/concello-ofrece-110-plazas-viajar-gratis-fiestas-lugo-mondonedo/0003_202609F25C2992.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Septiembre y turismo",
+      "description": "Ferrol sigue recibiendo numerosos visitantes, pese a que ya ha comenzado el otoño",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/septiembre-turismo/00031790264759049144104.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El blues de Dani Wilde llega a Ferrol",
+      "description": "La cantante, guitarrista y compositora británica actuará el 3 de octubre en el Jofre",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/blues-dani-wilde/00031790264441100119986.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol rinde homenaje este fin de semana a Álvaro Lamas",
+      "description": "El Auditorio llevará el nombre de este músico, fallecido en enero, y sus compañeros de fatigas lo homenajearán con un festival el sábado en el Cantón",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/ferrol-rinde-homenaje-fin-semana-alvaro-lamas/00031790264096233737578.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Endesa estrena en Mañón la tercera temporada de su «videopodcast»",
+      "description": "«Conexión a Tierra» aborda la repotenciación del parque de A Coriscada",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/09/25/endesa-estrena-manon-tercera-temporada-videopodcast/0003_202609F25C5991.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La conselleira do Mar y la cofradía de pescadores analizan el sector en la ría de Ferrol",
+      "description": "Reafirmó la disposición de la Xunta para mantener una interlocución directa y permanente",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/conselleira-do-mar-cofradia-pescadores-analizan-sector-ria-ferrol/0003_202609F25C3994.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PP de Narón advierte de que la gestión del agua exigiría una estructura de casi 530.000 euros anuales",
+      "description": "Responde así a las declaraciones del BNG sobre este futuro servicio y desmienten que exista ningún tipo de acuerdo con Terra Galega",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/25/pp-naron-advierte-gestion-agua-exigiria-estructura-530000-euros/0003_202609F25C6994.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Asime exhibe el músculo de la eólica marina de Ferrolterra en Hamburgo",
+      "description": "Exige al Gobierno acelerar la subasta eólica y priorizar la capacidad local",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/25/asime-exhibe-musculo-eolica-marina-ferrolterra-hamburgo/0003_202609F25C3991.htm",
+      "time": "2026-09-25T02:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "ORDEN de 17 de septiembre de 2026 por la que se dispone el nombramiento de vocales del Consejo Rector de la Agencia Pública Autonómica para el Control del Medio Marino de Galicia (Agencia Intecmar).",
       "description": "b) Nombramientos Consellería del Mar",
@@ -476,10 +584,28 @@
       "type": "NOTICIAS"
     },
     {
+      "title": "Vuelta al cole en Ferrol, vuelta al caos para aparcar en Esteiro: «En septiembre es una locura»",
+      "description": "El comienzo de las clases en las facultades y centros educativos de la zona, sumado a las obras para abrir Ferrol al mar, han agravado de nuevo los problemas de los conductores a la hora de dar con una plaza libre",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/vuelta-cole-ferrol-vuelta-caos-aparcar-esteiro-septiembre-locura/00031790263582319767560.htm",
+      "time": "2026-09-24T15:34:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
       "title": "Intentan matar 16 árboles en Ferrol mediante agujeros con taladro e introduciendo un químico en el tronco",
       "description": "Los vecinos lo consideran un «arboricidio» y el Concello investiga el origen de los daños y su alcance",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/inyectan-producto-quimicopracticandoagujeros-taladro-16-arboles-ferrol/00031790260031419548599.htm",
       "time": "2026-09-24T15:20:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Deputación da Coruña y las asociaciones de emigrantes en Argentina rechazan limitar la ley de nietos",
+      "description": "González Formoso y Fernández Ageitos reivindican en Buenos Aires la preservación de los derechos adquiridos por la diáspora",
+      "url": "https://www.lavozdegalicia.es/noticia/barbanza/2026/09/24/deputacion-da-coruna-asociaciones-emigrantes-argentina-rechazan-limitar-ley-nietos/00031790257489291403746.htm",
+      "time": "2026-09-24T13:51:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
@@ -2928,132 +3054,6 @@
       "description": "Tendrá lugar este viernes, a las 19.30 horas, frente a la sede de la organización humanitaria, en el cruce de la calle de A Coruña con Dolores",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/convocada-concentracion-protesta-tras-ataque-xenofobo-cruz-roja-ferrol-libre-odio/00031790150986004912559.htm",
       "time": "2026-09-23T08:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El embalse de As Forcadas, en la uci",
-      "description": "El nivel de agua cae por debajo del 40 %, la mitad que hace un año y sin previsión de lluvia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/embalse-as-forcadas-uci/0003_202609F23C1991.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las carreteras alta y baja del Puerto, conectadas por unas escaleras",
-      "description": "El ente ultima la obra para enlazar la Casa do Mar y el aparcamiento",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/carreteras-alta-baja-puerto-conectadas-escaleras/0003_202609F23C5991.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un operario de la basura queda cojo al ser golpeado por el camión del servicio: «Sigo medicado»",
-      "description": "La Fiscalía pide un año y nueve meses de prisión para el que fue concejal del área en San Sadurniño y para un técnico, las defensas indican que prevención está en manos de una empresa",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/23/operario-basura-queda-cojo-golpeado-camion-servicio-me-echo-encima/0003_202609F23C2_COPY993.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Agrede a un vecino tras pillarlo sacando fotos a las cámaras de vigilancia de su domicilio en la ría de Ferrol",
-      "description": "El atacante fue condenado por lesiones leves, pero absuelto de daños y amenazas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/agrede-vecino-tras-pillarlo-sacando-fotos-camaras-vigilancia-domicilio/0003_202609F23C2_COPY994.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Formación para «vender» As Pontes como destino turístico",
-      "description": "Se diseñarán actividades ligadas a la industria del carbón",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/formacion-vender-as-pontes-destino-turistico/0003_202609F23C4993.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Andrea Vieites, experta en recursos humanos: «Envía el currículo aunque no cumplas todos los requisitos, sé valiente y prueba»",
-      "description": "Tras graduarse en el campus de Ferrol, dio el salto a Madrid para integrarse en el gigante de los servicios profesionales Deloitte. Hoy regresa a su antigua facultad para hablar del mercado laboral a los alumnos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/23/envia-curriculo-cumplas-requisitos-se-valiente-prueba/0003_202609F23C3991.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El BNG defenderá la integración de Asfedro dentro del Sergas",
-      "description": "El diputado Mon Fernández defenderá este jueves una proposición no de ley",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/bng-defendera-integracion-asfedro-dentro-sergas/0003_202609F23C4991.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Festival Internacional de Entes Animados llega el domingo a Valdoviño",
-      "description": "Habrá un espectáculo de títeres en la Porta do Sol",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/23/festival-entes-animados-llega-domingo-valdovino/0003_202609F23C5994.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La zarzuela conquista el Jofre y tendrá continuidad",
-      "description": "La representación de «Doña Francisquita» llenó el teatro ferrolano",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/zarzuela-conquista-jofre-tendra-continuidad/00031790092209704882775.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Sesión vermú en el Fene Rock",
-      "description": "El festival del paseo de San Valentín empieza a consolidarse como una de las principales citas musicales de la comarca",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/sesion-vermu-fene-rock/00031790092744393337523.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Participar en el Día de la Bici de La Voz tiene premio",
-      "description": "El sorteo de regalos entre los participantes es el colofón a la jornada festiva y deportiva: lo fue en Narón hace unos días y lo será en Valdoviño, el próximo domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/22/participar-dia-bici-voz-premio/00031790092464418517397.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El servicio de limpieza de Ferrol suma 53 nuevos vehículos y maquinaria",
-      "description": "La plaza de Armas sirvió ayer de escenario para la presentación de la nueva flota de bicicletas, carritos, furgones, furgonetas y otros elementos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/23/servicio-limpieza-ferrol-suma-53-nuevos-vehiculos-maquinaria/0003_202609F23C3993.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Valdoviño se sube al Día de la Bici",
-      "description": "El domingo tendrá lugar una nueva edición de la ya tradicional cita",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/23/valdovino-sube-dia-bici/0003_202609F23C6991.htm",
-      "time": "2026-09-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Regresa la lucha de los civiles de Defensa por los 300 euros",
-      "description": "Personal del Ministerio se concentró ayer en Ferrol",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/regresa-lucha-civiles-defensa-300-euros/0003_202609F23C2_COPY995.htm",
-      "time": "2026-09-23T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
