@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:48:46.999732+00:00",
+  "generated_at": "2026-09-25T14:46:23.610713+00:00",
   "count": 524,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Guillermo Conejero arbitrará el derbi entre el CD Lugo y el Racing",
+      "description": "El colegiado acumula cinco antecedentes con ambos equipos y una única victoria lucense frente al Real Unión",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/25/guillermo-conejero-arbitrara-derbi-cd-lugo-racing/00031790342984837944584.htm",
+      "time": "2026-09-25T13:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Con el apoyo de nuestra afición, jugaremos el derbi casi como locales»",
+      "description": "El técnico reclama mantener en Lugo la dinámica de las últimas jornadas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/25/javi-vazquez-apoyo-aficion-jugaremos-derbi-locales/00031790328533326722904.htm",
+      "time": "2026-09-25T10:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La humanidad se impone a la política en Ferrol: el PSOE renuncia a un voto para que un concejal del PP no tenga que seguir el pleno desde el hospital",
+      "description": "El edil socialista Julián Reina se abstuvo en todos los puntos, lo que permitió que el popular Arán López, que acaba de convertirse en padre, se desconectase de la sesión y que el gobierno se impusiese en las votaciones",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/gesto-humanidad-politica-ferrol-psoe-renuncia-voto-concejal-pp-tenga-seguir-pleno-hospital/00031790327024542931705.htm",
+      "time": "2026-09-25T09:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "En el «desierto» de la estación de autobuses de Ferrol: «No conozco muchas que estén como esta»",
       "description": "Las instalaciones amanecieron el jueves cerradas y los usuarios tuvieron que entrar por el andén",
@@ -119,6 +146,15 @@
       "title": "El PP de Narón advierte de que la gestión del agua exigiría una estructura de casi 530.000 euros anuales",
       "description": "Responde así a las declaraciones del BNG sobre este futuro servicio y desmienten que exista ningún tipo de acuerdo con Terra Galega",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/25/pp-naron-advierte-gestion-agua-exigiria-estructura-530000-euros/0003_202609F25C6994.htm",
+      "time": "2026-09-25T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "En el «desierto» de la estación de autobuses de Ferrol: «No conozco muchas que estén como esta»",
+      "description": "Las instalaciones amanecieron el jueves cerradas y los usuarios tuvieron que entrar por el andén",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/desierto-estacion-autobuses-ferrol-conozco-esten-/0003_202609F25C1991.htm",
       "time": "2026-09-25T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4701,42 +4737,6 @@
       "description": "O Racing de Ferrol visitará o Ángel Carro o sábado ás 16.30 horas",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/23/lucas-diaz-e-derbi-especial-temos-as-mesmas-ganas-ganar-sempre/00031790179092596224216.htm",
       "time": "2026-09-23T16:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Incendio en un silo lleno de colchones en el polígono de Os Airíos, en As Pontes",
-      "description": "Bomberos del Eume y del parque de Vilalba, y el GES de Mugardos trabajan en la extinción",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/23/incendio-silo-lleno-colchones-poligono-os-airios-as-pontes/00031790167137741444917.htm",
-      "time": "2026-09-23T12:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Más megavatios para adjudicar en As Pontes: el Gobierno liberará la capacidad de la subestación de la central",
-      "description": "El Ministerio de Transición Ecológica sopesa conceder ese enchufe para proyectos de energías renovables y almacenamiento",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/23/megavatios-adjudicar-as-pontes-gobierno-liberara-capacidad-subestacion-central/00031790157401529674488.htm",
-      "time": "2026-09-23T11:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un árbol se tronza en Ferrol y causa el desplome de una rama de gran porte en el Cantón",
-      "description": "La caída de parte de un tilo se produjo anoche junto a uno de los bancos de la alameda",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/23/desplome-arbol-canton-ferrol/00031790157444845236380.htm",
-      "time": "2026-09-23T11:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Fallece José Luis Armada, artífice de la segregación de Cariño y primer alcalde del concello surgido en 1988",
-      "description": "Presidía la asociación de vecinos que impulsó la independencia, fue regidor en dos etapas, de 1988 a 1995 y de 2003 a 2011, y diputado provincial",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/carino/2026/09/23/carino-despide-jose-luis-armada-artifice-segregacion-primer-alcalde-concello-nacio-1988/00031790160762115932841.htm",
-      "time": "2026-09-23T11:13:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
