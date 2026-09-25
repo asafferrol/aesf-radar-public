@@ -1,7 +1,61 @@
 {
   "hours": 48,
-  "count": 524,
+  "count": 525,
   "items": [
+    {
+      "title": "La Diputación de A Coruña y las Madres de Plaza de Mayo, unidas por la memoria y la defensa de la democracia",
+      "description": "Ambas entidades colaborarán en pro de los derechos humanos, según el protocolo suscrito en Buenos Aires",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/diputacion-madres-plaza-mayo-unidos-memoria-defensa-democracia/0003_202609F26C9991.htm",
+      "time": "2026-09-25T16:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Narón acoge la prueba de los 101 kilómetros al límite",
+      "description": "La quinta edición de la prueba reúne a 1.150 participantes, que afrontarán un exigente recorrido por Narón y comarca",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/25/naron-acoge-prueba-101-kilometros-limite/00031790352083733566739.htm",
+      "time": "2026-09-25T16:05:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un derbi de aspirantes en el prólogo para el CD Lugo y el Racing",
+      "description": "Los de Borja Fernández, que siguen invictos, reciben a un combinado ferrolano con la cuenta pendiente de ganar a domicilio y que encadena dos triunfos",
+      "url": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/09/25/derbi-aspirantes-prologo-cd-lugo-racing/00031790350790178451266.htm",
+      "time": "2026-09-25T16:02:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo Ferrol, a exportar sus buenas sensaciones lejos de A Malata",
+      "description": "El conjunto de Gerard Casas, que se mantiene invicto, visita al Wanapix",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/25/parrulo-ferrol-exportar-buenas-sensaciones-lejos-malata/00031790349476513131504.htm",
+      "time": "2026-09-25T15:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La ministra de Defensa visita la cuna de la Infantería de Marina en Ferrol",
+      "description": "Margarita Robles presenció una demostración de los equipos cinológicos, un simulador de tiro y una exposición de material de unidades del Tercio Norte",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/ministra-defensa-visita-cuna-infanteria-marina-ferrol/00031790348362618367648.htm",
+      "time": "2026-09-25T15:20:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Borja Fernández antes del derbi contra el Racing: «Estamos haciendo las cosas muy bien»",
+      "description": "El técnico del CD Lugo ensalza el trabajo de su plantilla tras competir con éxito ante rivales de entidad y aboga por convertir el choque de este sábado en una fiesta del fútbol gallego",
+      "url": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/09/25/borja-fernandez-derbi-contra-racing-haciendo-bien/00031790342991835230537.htm",
+      "time": "2026-09-25T13:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Guillermo Conejero arbitrará el derbi entre el CD Lugo y el Racing",
       "description": "El colegiado acumula cinco antecedentes con ambos equipos y una única victoria lucense frente al Real Unión",
@@ -4672,51 +4726,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Ferrol se abre al baloncesto internacional en silla de ruedas",
-      "description": "El pabellón del Ensanche reunirá los días 3 y 4 de octubre a cuatro equipos de España y Portugal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/23/ferrol-abre-baloncesto-internacional-silla-ruedas/00031790180452198698461.htm",
-      "time": "2026-09-23T16:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol vuelve a Europa con un nuevo reto frente al Stara Zagora",
-      "description": "Las ferrolanas se verán las caras con las búlgaras mañana, jueves, a las 17.00 horas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/23/baxi-ferrol-vuelve-europa-nuevo-reto-frente-stara-zagora/00031790180212843377739.htm",
-      "time": "2026-09-23T16:20:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Rufo Lucero pide mantener la identidad ante el conjunto verde",
-      "description": "El lateral del Lugo destaca la fortaleza del equipo antes de recibir a un Racing que llega en crecimiento",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/23/rufo-lucero-pide-mantener-identidad-ante-conjunto-verde/00031790179990014905580.htm",
-      "time": "2026-09-23T16:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Edgar Pujol ya está con la República Dominicana",
-      "description": "El central racinguista se perderá los próximos dos encuentros del conjunto verde",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/23/edgar-pujol-republica-dominicana/00031790179650757249812.htm",
-      "time": "2026-09-23T16:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Lucas Díaz: «É un derbi especial, pero temos as mesmas ganas de gañar que sempre»",
-      "description": "O Racing de Ferrol visitará o Ángel Carro o sábado ás 16.30 horas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/23/lucas-diaz-e-derbi-especial-temos-as-mesmas-ganas-ganar-sempre/00031790179092596224216.htm",
-      "time": "2026-09-23T16:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
