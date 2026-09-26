@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T17:44:01.245082+00:00",
-  "count": 662,
+  "generated_at": "2026-09-26T20:09:30.703537+00:00",
+  "count": 665,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "Borja Fernández tras ganar el derbi al Racing: «A segunda parte foi un exercicio brutal de resistencia»",
+      "description": "El técnico no quiere euforias pese al liderato provisional de su equipo",
+      "url": "https://www.lavozdegalicia.es/noticia/lugo/lugo/2026/09/27/borja-fernandez-segunda-parte-foi-exercicio-brutal-resistencia/0003_202609L27P51991.htm",
+      "time": "2026-09-26T19:38:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Estoy más orgulloso que en las dos victorias previas»",
+      "description": "El preparador del Racing, que admite que faltó el gol para rascar algo del derbi con el Lugo, satisfecho con la mejoría en el juego",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/26/javi-vazquez-orgulloso-dos-victorias-previas/00031790450317733708287.htm",
+      "time": "2026-09-26T19:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Lugo resiste y se apunta el derbi contra un Racing sin puntería (1-0)",
+      "description": "Un gol de Gallar, validado por el FVS tras dos minutos de revisión, da el triunfo a los albivermellos en un derbi que los ferrolanos dominaron durante buena parte de la segunda mitad. Marc Martínez y la falta de acierto visitante sostienen a los de Borja Fernández",
+      "url": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/09/26/lugo-resiste-apunta-derbi-contra-racing-punteria/00031790441492999699399.htm",
+      "time": "2026-09-26T18:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo se estrena a domicilio con una victoria de carácter en Zaragoza",
+      "description": "Los ferrolanos siguen invictos después de las tres primeras jornadas de liga",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/parrulo-estrena-domicilio-victoria-caracter-zaragoza/00031790446315142654584.htm",
+      "time": "2026-09-26T18:19:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ismael Vázquez: «Entrené como un cabrón, todo el año preparándolo»",
+      "description": "La prueba reunió a 1.150 participantes en una quinta edición de récord",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/ismael-vazquez-entrene-cabron-ano-preparandolo/00031790444540600610704.htm",
+      "time": "2026-09-26T17:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El «1x1» del Racing Club Ferrol en la derrota contra el CD Lugo",
       "description": "Dani Ojeda, que ejerce de cerebro del equipo; Lucas Díaz, con un paradón, y Álvaro Ramón fueron de lo más destacado de un equipo gafado de cara al gol",
@@ -5964,24 +6009,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El ferrolano Chiqui Barros toma las riendas del Tarragona Bàsquet",
-      "description": "El combinado, que milita en Liga Femenina 2, apuesta por la experiencia del técnico para consolidarse en la categoría",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/24/ferrolanochiqui-barros-toma-riendas-tarragona-basquet/00031790274963396334634.htm",
-      "time": "2026-09-24T18:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Lino López, técnico del Baxi Ferrol: «Fuimos capaces de darle la vuelta»",
-      "description": "El preparador ferrolano, que admite el bajón del segundo cuarto, no se confía y espera que A Malata impulse para vivir Europa por tercer año",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/24/lino-lopez-tecnico-baxifuimos-capaces-darle-vuelta/00031790273868217452134.htm",
-      "time": "2026-09-24T18:22:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
