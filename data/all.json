@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T09:56:39.646630+00:00",
-  "count": 664,
+  "generated_at": "2026-09-26T14:07:37.736952+00:00",
+  "count": 665,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "En directo: CD Lugo-Racing Club Ferrol",
+      "description": "Los de Borja Fernández, que mantienen la condición de invictos, calibrar fuerzas con otro de los candidatos a asaltar la parte alta en un tempranero derbi gallego en Primera Federación",
+      "url": "https://www.lavozdegalicia.es/retransmision/cdlugo/2026/09/26/directo-cd-lugo-racing-club-ferrol/01071790427360599847618.htm",
+      "time": "2026-09-26T13:43:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Auditorio de Ferrol ya lleva el nombre de Álvaro Lamas, el genio de la «steel guitar»",
+      "description": "Tras el acto instituacional celebrado ayer en Caranza, el Cantón acoge esta tarde un concierto-tributo con la participación de numerosos músicos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/auditorio-ferrol-rebautizado-nombre-alvaro-lamas-homenaje-genio-steel-guitar/00031790425690317704161.htm",
+      "time": "2026-09-26T13:01:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El desafío de 101 kilómetros de Narón, en imágenes",
+      "description": "Marchadores y ciclistas se afanan este sábado en completar el exigente recorrido de la quinta edición de las 21 Leguas",
+      "url": "https://www.lavozdegalicia.es/album/ferrol/naron/2026/09/26/desafio-101-kilometros-naron-imagenes/01101790423338867639390.htm",
+      "time": "2026-09-26T11:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El proyecto de SAIC en Ferrol aún debe salvar trámites en tres Administraciones",
       "description": "El Gobierno central, la Xunta y el Puerto tienen en marcha las distintas autorizaciones para la planta de vehículos eléctricos del gigante asiático",
@@ -5979,24 +6006,6 @@
       "description": "Los vecinos lo consideran un «arboricidio» y el Concello investiga el origen de los daños y su alcance",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/inyectan-producto-quimicopracticandoagujeros-taladro-16-arboles-ferrol/00031790260031419548599.htm",
       "time": "2026-09-24T15:20:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Deputación da Coruña y las asociaciones de emigrantes en Argentina rechazan limitar la ley de nietos",
-      "description": "González Formoso y Fernández Ageitos reivindican en Buenos Aires la preservación de los derechos adquiridos por la diáspora",
-      "url": "https://www.lavozdegalicia.es/noticia/barbanza/2026/09/24/deputacion-da-coruna-asociaciones-emigrantes-argentina-rechazan-limitar-ley-nietos/00031790257489291403746.htm",
-      "time": "2026-09-24T13:51:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Tríada inamovible, un inédito y tres por debajo de la treintena en el Racing Club Ferrol",
-      "description": "Lucas, Bernal y Monju lo jugaron todo en un equipo en el que Sekou, Saúl y Castro se sitúan con menos de media hora de rodaje y Pujol sigue sin debutar",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/24/triada-inamovible-inedito-tres-debajo-treintena-racing-club-ferrol/00031790255651773159100.htm",
-      "time": "2026-09-24T13:19:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"

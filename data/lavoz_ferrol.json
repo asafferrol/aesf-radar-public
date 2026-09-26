@@ -1,5 +1,32 @@
 [
   {
+    "title": "En directo: CD Lugo-Racing Club Ferrol",
+    "description": "Los de Borja Fernández, que mantienen la condición de invictos, calibrar fuerzas con otro de los candidatos a asaltar la parte alta en un tempranero derbi gallego en Primera Federación",
+    "url": "https://www.lavozdegalicia.es/retransmision/cdlugo/2026/09/26/directo-cd-lugo-racing-club-ferrol/01071790427360599847618.htm",
+    "time": "2026-09-26T13:43:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Auditorio de Ferrol ya lleva el nombre de Álvaro Lamas, el genio de la «steel guitar»",
+    "description": "Tras el acto instituacional celebrado ayer en Caranza, el Cantón acoge esta tarde un concierto-tributo con la participación de numerosos músicos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/auditorio-ferrol-rebautizado-nombre-alvaro-lamas-homenaje-genio-steel-guitar/00031790425690317704161.htm",
+    "time": "2026-09-26T13:01:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El desafío de 101 kilómetros de Narón, en imágenes",
+    "description": "Marchadores y ciclistas se afanan este sábado en completar el exigente recorrido de la quinta edición de las 21 Leguas",
+    "url": "https://www.lavozdegalicia.es/album/ferrol/naron/2026/09/26/desafio-101-kilometros-naron-imagenes/01101790423338867639390.htm",
+    "time": "2026-09-26T11:50:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "El proyecto de SAIC en Ferrol aún debe salvar trámites en tres Administraciones",
     "description": "El Gobierno central, la Xunta y el Puerto tienen en marcha las distintas autorizaciones para la planta de vehículos eléctricos del gigante asiático",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/26/proyecto-saic-ferrol-debe-salvar-tramites-tres-administraciones/0003_202609G26P23991.htm",
@@ -108,15 +135,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Formadores de policías prepararán en As Pontes a gente de toda Europa en defensa personal",
-    "description": "La cita será este sábado, con organización de la Escuela HFK que dirige Jose Rodríguez",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/26/formadores-policias-prepararan-as-pontes-franceses-italianos/0003_202609F26C8_COPY994.htm",
-    "time": "2026-09-26T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "La Xunta dedica 117.000 euros a ayudas en las Fragas do Eume para rehabilitar patrimonio",
     "description": "Repartió estos fondos entre 11 subvenciones, tres para concellos, siete para particulares y una para un colectivo",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/xunta-dedica-117000-euros-ayudas-fragas-do-eume-rehabilitar-patrimonio/0003_202609F26C9992.htm",
@@ -126,18 +144,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Cedeira destina 339.000 euros de remanentes a comprar la rectoral de San Román y hacer un puente",
-    "description": "En el pleno se aprobaron dos modificaciones de crédito por un total de 571.156 euros",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/26/cedeira-destina-339000-euros-remanentes-comprar-rectoral-san-roman-puente/0003_202609F26C9993.htm",
+    "title": "Formadores de policías prepararán en As Pontes a gente de toda Europa en defensa personal",
+    "description": "La cita será este sábado, con organización de la Escuela HFK que dirige Jose Rodríguez",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/26/formadores-policias-prepararan-as-pontes-franceses-italianos/0003_202609F26C8_COPY994.htm",
     "time": "2026-09-26T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "El BNG pide consenso para los proyectos del nudo de la central de As Pontes",
-    "description": "La portavoz municipal del BNG solicitó la convocatoria urgente de una comisión en el Concello para consensuar «unha posición conxunta de resposta ás propostas a enviar ao MITECO»",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/bng-pide-consenso-proyectos-nudo-central-as-pontes/0003_202609F26C4993.htm",
+    "title": "Cedeira destina 339.000 euros de remanentes a comprar la rectoral de San Román y hacer un puente",
+    "description": "En el pleno se aprobaron dos modificaciones de crédito por un total de 571.156 euros",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/26/cedeira-destina-339000-euros-remanentes-comprar-rectoral-san-roman-puente/0003_202609F26C9993.htm",
     "time": "2026-09-26T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -189,15 +207,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Narón acoge la prueba de los 101 kilómetros al límite",
-    "description": "La quinta edición de la prueba reúne a 1.150 participantes, que afrontarán un exigente recorrido por Narón y comarca",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/25/naron-acoge-prueba-101-kilometros-limite/00031790352083733566739.htm",
-    "time": "2026-09-25T16:05:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Un derbi de aspirantes en el prólogo para el CD Lugo y el Racing",
     "description": "Los de Borja Fernández, que siguen invictos, reciben a un combinado ferrolano con la cuenta pendiente de ganar a domicilio y que encadena dos triunfos",
     "url": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/09/25/derbi-aspirantes-prologo-cd-lugo-racing/00031790350790178451266.htm",
@@ -229,15 +238,6 @@
     "description": "El técnico del CD Lugo ensalza el trabajo de su plantilla tras competir con éxito ante rivales de entidad y aboga por convertir el choque de este sábado en una fiesta del fútbol gallego",
     "url": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/09/25/borja-fernandez-derbi-contra-racing-haciendo-bien/00031790342991835230537.htm",
     "time": "2026-09-25T13:49:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Guillermo Conejero arbitrará el derbi entre el CD Lugo y el Racing",
-    "description": "El colegiado acumula cinco antecedentes con ambos equipos y una única victoria lucense frente al Real Unión",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/25/guillermo-conejero-arbitrara-derbi-cd-lugo-racing/00031790342984837944584.htm",
-    "time": "2026-09-25T13:32:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
