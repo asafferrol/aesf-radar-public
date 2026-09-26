@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 665,
+  "count": 662,
   "items": [
+    {
+      "title": "El «1x1» del Racing Club Ferrol en la derrota contra el CD Lugo",
+      "description": "Dani Ojeda, que ejerce de cerebro del equipo; Lucas Díaz, con un paradón, y Álvaro Ramón fueron de lo más destacado de un equipo gafado de cara al gol",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/26/1x1-racing-club-ferrol-derbi-contra-cd-lugo/00031790437211139971208.htm",
+      "time": "2026-09-26T17:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una mujer atropellada por un autobús urbano en la Estrada de Castela",
+      "description": "Fue trasladada a un centro sanitario",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/26/mujer-atropellada-autobus-urbano-estrada-castela/00031790440441505135938.htm",
+      "time": "2026-09-26T16:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "En directo: CD Lugo-Racing Club Ferrol",
       "description": "Los de Borja Fernández, que mantienen la condición de invictos, calibrar fuerzas con otro de los candidatos a asaltar la parte alta en un tempranero derbi gallego en Primera Federación",
@@ -5938,51 +5956,6 @@
       "description": "El preparador ferrolano, que admite el bajón del segundo cuarto, no se confía y espera que A Malata impulse para vivir Europa por tercer año",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/24/lino-lopez-tecnico-baxifuimos-capaces-darle-vuelta/00031790273868217452134.htm",
       "time": "2026-09-24T18:22:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La maderera Intasa avanza en su descarbonización con una nueva planta de biomasa",
-      "description": "La Xunta dio luz verde este jueves al trámite medioambiental",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/09/25/maderera-intasa-avanza-descarbonizacion-nueva-planta-biomasa/0003_202609G25P25991.htm",
-      "time": "2026-09-24T16:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol conquista Bulgaria para abrirse camino en Europa (61-76)",
-      "description": "Las de Lino López, que se recobraron tras el descanso de un mal segundo cuarto, contarán con ventaja en A Malata para la vuelta de la Eurocup Women",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/24/baxi-ferrol-beroe/00031790261950477827445.htm",
-      "time": "2026-09-24T16:44:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La ministra de Defensa, Margarita Robles, visitará este viernes el Tercio Norte de Ferrol",
-      "description": "El acto, que no está abierto a los medios de comunicación, será a la una de la tarde",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/ministra-defensa-margarita-robles-visitara-manana-tercio-norte-ferrol/00031790266503138231570.htm",
-      "time": "2026-09-24T16:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vuelta al cole en Ferrol, vuelta al caos para aparcar en Esteiro: «En septiembre es una locura»",
-      "description": "El comienzo de las clases en las facultades y centros educativos de la zona, sumado a las obras para abrir Ferrol al mar, han agravado de nuevo los problemas de los conductores a la hora de dar con una plaza libre",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/vuelta-cole-ferrol-vuelta-caos-aparcar-esteiro-septiembre-locura/00031790263582319767560.htm",
-      "time": "2026-09-24T15:34:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Intentan matar 16 árboles en Ferrol mediante agujeros con taladro e introduciendo un químico en el tronco",
-      "description": "Los vecinos lo consideran un «arboricidio» y el Concello investiga el origen de los daños y su alcance",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/24/inyectan-producto-quimicopracticandoagujeros-taladro-16-arboles-ferrol/00031790260031419548599.htm",
-      "time": "2026-09-24T15:20:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"

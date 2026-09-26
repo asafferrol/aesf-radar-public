@@ -1,9 +1,27 @@
 [
   {
-    "title": "En directo: CD Lugo-Racing Club Ferrol",
-    "description": "Los de Borja Fernández, que mantienen la condición de invictos, calibrar fuerzas con otro de los candidatos a asaltar la parte alta en un tempranero derbi gallego en Primera Federación",
+    "title": "El «1x1» del Racing Club Ferrol en la derrota contra el CD Lugo",
+    "description": "Dani Ojeda, que ejerce de cerebro del equipo; Lucas Díaz, con un paradón, y Álvaro Ramón fueron de lo más destacado de un equipo gafado de cara al gol",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/26/1x1-racing-club-ferrol-derbi-contra-cd-lugo/00031790437211139971208.htm",
+    "time": "2026-09-26T17:35:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Una mujer atropellada por un autobús urbano en la Estrada de Castela",
+    "description": "Fue trasladada a un centro sanitario",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/26/mujer-atropellada-autobus-urbano-estrada-castela/00031790440441505135938.htm",
+    "time": "2026-09-26T16:40:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Así te contamos la victoria del CD Lugo en un derbi trepidante ante el Racing (1-0)",
+    "description": "Los de Borja Fernández, que se adelantaron con suspense por mediación de Gallar en el derbi, supieron resistir ante un cuadro naval que, con un gol anulado y otro fantasma, sigue sin ser capaz de ganar lejos de A Malata",
     "url": "https://www.lavozdegalicia.es/retransmision/cdlugo/2026/09/26/directo-cd-lugo-racing-club-ferrol/01071790427360599847618.htm",
-    "time": "2026-09-26T13:43:00+00:00",
+    "time": "2026-09-26T16:38:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -27,9 +45,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El proyecto de SAIC en Ferrol aún debe salvar trámites en tres Administraciones",
-    "description": "El Gobierno central, la Xunta y el Puerto tienen en marcha las distintas autorizaciones para la planta de vehículos eléctricos del gigante asiático",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/26/proyecto-saic-ferrol-debe-salvar-tramites-tres-administraciones/0003_202609G26P23991.htm",
+    "title": "Suben un 64 % los escritos de los juzgados de Ferrol que están pendientes de trámite",
+    "description": "Así lo indica el sindicato Alternativas na Xustiza",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/suben-64-escritos-juzgados-pendientes-tramite/0003_202609F26C8_COPY993.htm",
     "time": "2026-09-26T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -54,27 +72,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Suben un 64 % los escritos de los juzgados de Ferrol que están pendientes de trámite",
-    "description": "Así lo indica el sindicato Alternativas na Xustiza",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/suben-64-escritos-juzgados-pendientes-tramite/0003_202609F26C8_COPY993.htm",
-    "time": "2026-09-26T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La Xunta llama a los primeros usuarios de la residencia de mayores de O Bertón en Ferrol",
-    "description": "Los adjudicatarios de una plaza disponen de diez días para contestar si la aceptan o la rechazan",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/xunta-llama-primeros-usuarios-residencia-mayores-berton/0003_202609F26C2992.htm",
-    "time": "2026-09-26T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Un «eco resort» inspirado en una aldea gallega frente al mar de Valdoviño",
     "description": "El proyecto turístico de la promotora Nuvoo para O Baleo contempla la creación de un complejo con 42 alojamientos, piscina y restaurante",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/26/eco-resort-inspirado-aldea-gallega-frente-mar-valdovino/0003_202609F26C5991.htm",
+    "time": "2026-09-26T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El proyecto de SAIC en Ferrol aún debe salvar trámites en tres Administraciones",
+    "description": "El Gobierno central, la Xunta y el Puerto tienen en marcha las distintas autorizaciones para la planta de vehículos eléctricos del gigante asiático",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/26/proyecto-saic-ferrol-debe-salvar-tramites-tres-administraciones/0003_202609G26P23991.htm",
     "time": "2026-09-26T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -202,15 +211,6 @@
     "description": "Cientos de personas acudieron a la concentración en protesta por las pintadas en las instalaciones de la organización, que ya han sido denunciadas y de las que «se fará un seguimento»",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/25/ferrol-moviliza-contra-ataquesxenofobos-sede-cruz-roja/00031790365583458557295.htm",
     "time": "2026-09-25T19:53:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un derbi de aspirantes en el prólogo para el CD Lugo y el Racing",
-    "description": "Los de Borja Fernández, que siguen invictos, reciben a un combinado ferrolano con la cuenta pendiente de ganar a domicilio y que encadena dos triunfos",
-    "url": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/09/25/derbi-aspirantes-prologo-cd-lugo-racing/00031790350790178451266.htm",
-    "time": "2026-09-25T16:02:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
