@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T22:46:58.939470+00:00",
-  "count": 432,
+  "generated_at": "2026-09-27T06:18:56.580681+00:00",
+  "count": 430,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,105 @@
     }
   },
   "items": [
+    {
+      "title": "Pisos asequibles a la espera en Ferrol",
+      "description": "Cinco firmas compiten por diseñar las primeras viviendas públicas de Casa 47 en la ciudad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/pisos-asequibles-espera-ferrol/0003_202609F27C1991.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Narón abre el plazo para solicitar las ayudas para regalos de Navidad",
+      "description": "La ayuda consiste en un vale de 60 euros por menor para canjear en algún comercio local adherido",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/27/naron-abre-solicitud-ayudas-regalos-navidad/0003_202609F27C2992.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fene culmina la renovación de unas 500 tablas en la pasarela de San Valentín",
+      "description": "También se realizó la reposición de los elementos necesarios para mantener una infraestructura muy utilizado diariamente",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/09/27/fene-culmina-renovacion-500-tablas-pasarela-san-valentin/0003_202609F27C9994.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El corazón sanitario de Ferrol celebra su 50 aniversario con cifras de récord",
+      "description": "El Hospital Arquitecto Marcide llega a su medio siglo de trayectoria con más 11.000 operaciones, 348.000 consultas externas y casi 195.000 urgencias atendidas al año",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/corazon-sanitario-ferrol-mutiplica-actividad/0003_202609F27C4991.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los turistas llenan Ferrolterra en un septiembre tórrido, pero gastan menos",
+      "description": "El buen tiempo elevó la ocupación hotelera con visitantes más ahorradores",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/turistas-llenan-comarca-septiembre-torrido-gastan/0003_202609F27C9992.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Otoño de cine en As Pontes, con «La bola negra», «La Odisea», «Digger» y «El ser querido»",
+      "description": "Las entradas para las sesiones previstas los cuatro fines de semana de octubre ya están a la venta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/27/otono-cine-as-pontes-bola-negra-odisea-querido/0003_202609F27C10994.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O debuxante de Ortigueira Cristian F. Caruncho deixa a súa pegada nun mural en Vimianzo",
+      "description": "Foi a primeira experiencia en solitario como muralista deste creador de Couzadoiro",
+      "url": "https://www.lavozdegalicia.es/noticia/carballo/vimianzo/2026/09/27/debuxante-cristian-f-caruncho-deixa-sua-pegada-nun-mural-vimianzo/0003_202609F27C10993.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un vecino de Cedeira con dos doctorados, el último con 73 años: «Todo es ponerse, empezar, y el destino te va empujando»",
+      "description": "Empezó Historia da Arte en la USC con 58 años, pertenece a la primera promoción del Plan Bolonia, logró becas por sus buenas notas y a los 60 se fue de Erasmus a Oporto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/09/27/primer-libro-arte-griego-62-anos-tarde-me-doctore-historia-span-langgldaspan-arte/0003_202609F27C7991.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Biotopos de conejos de monte en Ferrol: «O repueblas o tienden a desaparecer»",
+      "description": "El tecor Urogallo ha construido dos refugios para una especie básica para la cadena trófica, amenazada por las enfermedades y el abandono del hábitat",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/cazadores-ferrol-construyen-biotopos-repoblacion-conejos-monte/0003_202609F27C10991.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Oda al talento emprendedor de Ferrolterra",
+      "description": "Catorce proyectos optan a los XI Premios Ferrolterra, distribuidos entre las categorías Iniciativa Emprendedora y Joven Empresario: «Muestra la riqueza empresarial de la zona»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/oda-talento-emprendedor-ferrolterra/0003_202609F27C3991.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Esperanza Piñeiro: «Invito al ministro de Transportes a venir a Ferrol en tren, a ver qué le parecía»",
+      "description": "Avanza que el Foro va a intensificar las medidas de presión para conseguir un servicio ferroviario digno para la ciudad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/invito-ministro-transportes-venir-ferrol-tren-ver-parecia/0003_202609F27C12991.htm",
+      "time": "2026-09-27T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Borja Fernández tras ganar el derbi al Racing: «A segunda parte foi un exercicio brutal de resistencia»",
       "description": "El técnico no quiere euforias pese al liderato provisional de su equipo",
@@ -3792,123 +3891,6 @@
       "description": "El edil socialista Julián Reina se abstuvo en todos los puntos, lo que permitió que el popular Arán López, que acaba de convertirse en padre, se desconectase de la sesión y que el gobierno se impusiese en las votaciones",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/gesto-humanidad-politica-ferrol-psoe-renuncia-voto-concejal-pp-tenga-seguir-pleno-hospital/00031790327024542931705.htm",
       "time": "2026-09-25T09:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En el «desierto» de la estación de autobuses de Ferrol: «No conozco muchas que estén como esta»",
-      "description": "Las instalaciones amanecieron el jueves cerradas y los usuarios tuvieron que entrar por el andén",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/desierto-estacion/0003_202609F25C1991.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Redistribución del espacio de tres terrazas de la calle Real de Ferrol",
-      "description": "Los locales de hostelería tendrán ocho mesas y se garantizará un corredor de tres metros, tras delimitar el espacio que pueden ocupar",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/25/redistribucion-espacio-tres-terrazas-calle-real/0003_202609F25C2991.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Luz verde a la Conta Xeral del 2025 y a los festivos locales para el 2026 en Ferrol: Chamorro y San Xiao",
-      "description": "Ferrol en Común y BNG preferían el Martes de Carnaval, pero no prosperó su propuesta",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/luz-verde-conta-xeral-2025-festivos-locales-2026-ferrol-chamorro-san-xiao/00031790277809351602107.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Cooperativa de Vilaboa alcanzó los 581.000 euros de beneficio en 2025",
-      "description": "La sección de crédito es el motor de la sociedad, que tiene diez trabajadores",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/25/cooperativa-vilaboa-alcanzo-581000-euros-beneficio-2025/0003_202609F25C6991.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Concello de Ferrol ofrece 110 plazas para viajar gratis a las fiestas de Lugo y Mondoñedo",
-      "description": "Las plazas se asignarán, por orden de inscripción, este lunes en la agencia Viaxes Paco",
-      "url": "https://www.lavozdegalicia.es/noticia/lugo/lugo/2026/09/25/concello-ofrece-110-plazas-viajar-gratis-fiestas-lugo-mondonedo/0003_202609F25C2992.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Septiembre y turismo",
-      "description": "Ferrol sigue recibiendo numerosos visitantes, pese a que ya ha comenzado el otoño",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/septiembre-turismo/00031790264759049144104.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El blues de Dani Wilde llega a Ferrol",
-      "description": "La cantante, guitarrista y compositora británica actuará el 3 de octubre en el Jofre",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/blues-dani-wilde/00031790264441100119986.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol rinde homenaje este fin de semana a Álvaro Lamas",
-      "description": "El Auditorio llevará el nombre de este músico, fallecido en enero, y sus compañeros de fatigas lo homenajearán con un festival el sábado en el Cantón",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/24/ferrol-rinde-homenaje-fin-semana-alvaro-lamas/00031790264096233737578.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Endesa estrena en Mañón la tercera temporada de su «videopodcast»",
-      "description": "«Conexión a Tierra» aborda la repotenciación del parque de A Coriscada",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/09/25/endesa-estrena-manon-tercera-temporada-videopodcast/0003_202609F25C5991.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La conselleira do Mar y la cofradía de pescadores analizan el sector en la ría de Ferrol",
-      "description": "Reafirmó la disposición de la Xunta para mantener una interlocución directa y permanente",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/conselleira-do-mar-cofradia-pescadores-analizan-sector-ria-ferrol/0003_202609F25C3994.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PP de Narón advierte de que la gestión del agua exigiría una estructura de casi 530.000 euros anuales",
-      "description": "Responde así a las declaraciones del BNG sobre este futuro servicio y desmienten que exista ningún tipo de acuerdo con Terra Galega",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/09/25/pp-naron-advierte-gestion-agua-exigiria-estructura-530000-euros/0003_202609F25C6994.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En el «desierto» de la estación de autobuses de Ferrol: «No conozco muchas que estén como esta»",
-      "description": "Las instalaciones amanecieron el jueves cerradas y los usuarios tuvieron que entrar por el andén",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/desierto-estacion-autobuses-ferrol-conozco-esten-/0003_202609F25C1991.htm",
-      "time": "2026-09-25T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Asime exhibe el músculo de la eólica marina de Ferrolterra en Hamburgo",
-      "description": "Exige al Gobierno acelerar la subasta eólica y priorizar la capacidad local",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/25/asime-exhibe-musculo-eolica-marina-ferrolterra-hamburgo/0003_202609F25C3991.htm",
-      "time": "2026-09-25T02:55:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
