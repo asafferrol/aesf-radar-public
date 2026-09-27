@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:18:56.580681+00:00",
+  "generated_at": "2026-09-27T12:12:33.210560+00:00",
   "count": 430,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Los trabajadores de Navantia pueden solicitar las ayudas para estudios a partir del lunes",
+      "description": "Los impresos para pedirlas se pueden recoger en el local del comité, de 11.00 a 14.00 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/27/ayudas-estudios-navantia-podran-solicitarse-partir-manana/0003_202609F27C2993.htm",
+      "time": "2026-09-27T09:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol homenajea a Álvaro Lamas con música y recuerdos: ««Un pioneiro coa súa steel guitar»",
+      "description": "Tras el acto institucional del viernes para bautizar el Auditorio de Ferrol con su nombre, numerosos artistas le rindieron tributo ayer con un concierto en el Cantón",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/ferrol-homenajea-alvaro-lamas-musica-recuerdos/0003_202609F27C2991.htm",
+      "time": "2026-09-27T08:52:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Pisos asequibles a la espera en Ferrol",
       "description": "Cinco firmas compiten por diseñar las primeras viviendas públicas de Casa 47 en la ciudad",
@@ -3873,24 +3891,6 @@
       "description": "El colegiado acumula cinco antecedentes con ambos equipos y una única victoria lucense frente al Real Unión",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/25/guillermo-conejero-arbitrara-derbi-cd-lugo-racing/00031790342984837944584.htm",
       "time": "2026-09-25T13:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Con el apoyo de nuestra afición, jugaremos el derbi casi como locales»",
-      "description": "El técnico reclama mantener en Lugo la dinámica de las últimas jornadas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/25/javi-vazquez-apoyo-aficion-jugaremos-derbi-locales/00031790328533326722904.htm",
-      "time": "2026-09-25T10:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La humanidad se impone a la política en Ferrol: el PSOE renuncia a un voto para que un concejal del PP no tenga que seguir el pleno desde el hospital",
-      "description": "El edil socialista Julián Reina se abstuvo en todos los puntos, lo que permitió que el popular Arán López, que acaba de convertirse en padre, se desconectase de la sesión y que el gobierno se impusiese en las votaciones",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/25/gesto-humanidad-politica-ferrol-psoe-renuncia-voto-concejal-pp-tenga-seguir-pleno-hospital/00031790327024542931705.htm",
-      "time": "2026-09-25T09:47:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
