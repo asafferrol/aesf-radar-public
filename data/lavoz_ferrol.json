@@ -1,5 +1,68 @@
 [
   {
+    "title": "David Senra e Iván Somoza, campeones ibéricos",
+    "description": "La pareja gallega se impuso tras completar seis horas de carrera y cerca de 50 kilómetros",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/27/david-senra-ivan-somoza-campeones-ibericos/00031790526378278383278.htm",
+    "time": "2026-09-27T16:28:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Adrián Orjales: «Queremos un sitio en el que todo el mundo se pueda poner sus metas»",
+    "description": "El valdoviñés impulsa Saturno, un nuevo club de tiro con arco inclusivo",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/09/27/adrian-orjalesqueremos-sitio-mundo-pueda-poner-metas/00031790526099017400686.htm",
+    "time": "2026-09-27T16:26:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El fútbol son ocasiones de gol",
+    "description": "",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/27/futbol-ocasiones-gol/00031790524317399537531.htm",
+    "time": "2026-09-27T15:56:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Fabio González: «Hemos hecho un partidazo, nos vamos reforzados pese a la derrota»",
+    "description": "Los de Javi Vázquez perdieron, aunque generaron más ocasiones que el Lugo",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/27/fabio-gonzalezhemos-partidazo-vamos-reforzados-pese-derrota/00031790523850415207463.htm",
+    "time": "2026-09-27T15:48:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Asotrame organiza este miércoles una charla gratuita sobre discapacidad y derechos",
+    "description": "Será impartida por Alba García, trabajadora social de la entidad",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/28/asotrame-organiza-miercoles-charla-gratuita-sobre-discapacidad-derechos/0003_202609F28C2991.htm",
+    "time": "2026-09-27T14:28:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "A la búsqueda de figurantes para el rodaje de una película en Ares",
+    "description": "Pueden optar hombres y mujeres mayores de edad; las grabaciones se llevarán a cabo entre octubre y diciembre",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/09/28/ala-busqueda-figurantes-rodaje-pelicula-ares/0003_202609F28C2992.htm",
+    "time": "2026-09-27T14:24:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Valdoviño estrena el otoño a golpe de pedal con 250 ciclistas en ruta por el entorno de As Forcadas",
+    "description": "Ni las nubes ni la lluvia frenaron a los aficionados que se sumaron al Día de la Bici en Valdoviño, organizado por el Concello, Radio Voz y La Voz de Galicia",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/27/valdovino-estrena-otono-golpe-pedal-250-ciclistas-ruta-as-forcadas/00031790515066155695815.htm",
+    "time": "2026-09-27T13:54:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Los trabajadores de Navantia pueden solicitar las ayudas para estudios a partir del lunes",
     "description": "Los impresos para pedirlas se pueden recoger en el local del comité, de 11.00 a 14.00 horas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/27/ayudas-estudios-navantia-podran-solicitarse-partir-manana/0003_202609F27C2993.htm",
@@ -13,15 +76,6 @@
     "description": "Tras el acto institucional del viernes para bautizar el Auditorio de Ferrol con su nombre, numerosos artistas le rindieron tributo ayer con un concierto en el Cantón",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/ferrol-homenajea-alvaro-lamas-musica-recuerdos/0003_202609F27C2991.htm",
     "time": "2026-09-27T08:52:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Pisos asequibles a la espera en Ferrol",
-    "description": "Cinco firmas compiten por diseñar las primeras viviendas públicas de Casa 47 en la ciudad",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/pisos-asequibles-espera-ferrol/0003_202609F27C1991.htm",
-    "time": "2026-09-27T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -45,9 +99,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Los turistas llenan Ferrolterra en un septiembre tórrido, pero gastan menos",
-    "description": "El buen tiempo elevó la ocupación hotelera con visitantes más ahorradores",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/turistas-llenan-comarca-septiembre-torrido-gastan/0003_202609F27C9992.htm",
+    "title": "Pisos asequibles a la espera en Ferrol",
+    "description": "Cinco firmas compiten por diseñar las primeras viviendas públicas de Casa 47 en la ciudad",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/pisos-asequibles-espera-ferrol/0003_202609F27C1991.htm",
     "time": "2026-09-27T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -108,18 +162,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Javi Vázquez: «Estoy más orgulloso que en las dos victorias previas»",
-    "description": "El preparador del Racing, que admite que faltó el gol para rascar algo del derbi con el Lugo, satisfecho con la mejoría en el juego",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/26/javi-vazquez-orgulloso-dos-victorias-previas/00031790450317733708287.htm",
-    "time": "2026-09-26T18:31:01+00:00",
+    "title": "Los turistas llenan Ferrolterra en un septiembre tórrido, pero gastan menos",
+    "description": "El buen tiempo elevó la ocupación hotelera con visitantes más ahorradores",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/turistas-llenan-comarca-septiembre-torrido-gastan/0003_202609F27C9992.htm",
+    "time": "2026-09-27T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Borja Fernández tras ganar el derbi al Racing: «A segunda parte foi un exercicio brutal de resistencia»",
-    "description": "El técnico no quiere euforias pese al liderato provisional de su equipo",
-    "url": "https://www.lavozdegalicia.es/noticia/lugo/lugo/2026/09/27/borja-fernandez-segunda-parte-foi-exercicio-brutal-resistencia/0003_202609L27P51991.htm",
+    "title": "Javi Vázquez: «Estoy más orgulloso que en las dos victorias previas»",
+    "description": "El preparador del Racing, que admite que faltó el gol para rascar algo del derbi con el Lugo, satisfecho con la mejoría en el juego",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/26/javi-vazquez-orgulloso-dos-victorias-previas/00031790450317733708287.htm",
     "time": "2026-09-26T18:31:01+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -135,15 +189,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "O Parrulo se estrena a domicilio con una victoria de carácter en Zaragoza",
-    "description": "Los ferrolanos siguen invictos después de las tres primeras jornadas de liga",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/parrulo-estrena-domicilio-victoria-caracter-zaragoza/00031790446315142654584.htm",
-    "time": "2026-09-26T18:19:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Ismael Vázquez: «Entrené como un cabrón, todo el año preparándolo»",
     "description": "El pontés acabó en 8 horas, 24 minutos y 55 segundos la exigente ultrafondo de las 21 Leguas de Narón",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/ismael-vazquez-entrene-cabron-ano-preparandolo/00031790444540600610704.htm",
@@ -153,28 +198,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El «1x1» del Racing Club Ferrol en la derrota contra el CD Lugo",
-    "description": "Dani Ojeda, que ejerce de cerebro del equipo; Lucas Díaz, con un paradón, fueron de lo más destacado de un equipo gafado de cara al gol",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/26/1x1-racing-club-ferrol-derbi-contra-cd-lugo/00031790437211139971208.htm",
-    "time": "2026-09-26T17:35:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Una mujer atropellada por un autobús urbano en la Estrada de Castela",
     "description": "Fue trasladada a un centro sanitario",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/26/mujer-atropellada-autobus-urbano-estrada-castela/00031790440441505135938.htm",
     "time": "2026-09-26T16:40:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Así te contamos la victoria del CD Lugo en un derbi trepidante ante el Racing (1-0)",
-    "description": "Los de Borja Fernández, que se adelantaron con suspense por mediación de Gallar en el derbi, supieron resistir ante un cuadro naval que, con un gol anulado y otro fantasma, sigue sin ser capaz de ganar lejos de A Malata",
-    "url": "https://www.lavozdegalicia.es/retransmision/cdlugo/2026/09/26/directo-cd-lugo-racing-club-ferrol/01071790427360599847618.htm",
-    "time": "2026-09-26T16:38:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -210,15 +237,6 @@
     "title": "Alberto González: «El Día de la Bici de Valdoviño nos concienciará de la necesidad de proteger el agua»",
     "description": "La prueba, que tendrá lugar mañana, recorrerá el embalse de As Forcadas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/dia-bici-concienciara-necesidad-proteger-agua/0003_202609F26C10991.htm",
-    "time": "2026-09-26T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Cofer analiza en un seminario web la digitalización del transporte y el impacto del documento electrónico de control",
-    "description": "La sesión contará con la ponencia de José Antonio Prieto Lamas, especialista de la firma Docuten",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/cofer-analiza-digitalizacion-transporte-impacto-documento-electronico-control/0003_202609F26C4991.htm",
     "time": "2026-09-26T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -292,15 +310,6 @@
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/21/ferrol/0003_202609F21C8992.htm",
     "time": "2026-09-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Los asaltos musicales de Ignacio Sanz en Valdoviño: «Mi cuerpo y mi alma me piden tocar ahí, cueste lo que cueste»",
-    "description": "En 2017 creó Pantinhaus e ideó las actuaciones sin previo aviso en los túneles de la punta de A Frouxeira, en A Capelada o en la Porta do Sol",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/09/17/cuerpo-alma-me-piden-tocar-ahi-cueste-cueste/0003_202609SL17F24991.htm",
-    "time": "2026-09-18T14:55:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
