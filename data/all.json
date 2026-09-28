@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T07:03:53.336196+00:00",
+  "generated_at": "2026-09-28T15:19:51.837307+00:00",
   "count": 407,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 44,
+      "count": 46,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Exposición sobre comida saludable en la biblioteca de Neda",
+      "description": "La muestra llega al municipio con motivo del Día internacional de concienciación sobre el desperdicio de alimentos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/29/divulgacion-exposicion-sobre-comida-saludable-biblioteca-neda/0003_202609F29C5995.htm",
+      "time": "2026-09-28T14:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Denuncian incumplimientos de auxiliares de Navantia en el nuevo convenio del metal",
+      "description": "Los vigilantes de Prosegur acusan a su empresa de no efectuar la subida de los pluses del naval y los sindicatos advierten de que hay más firmas que quebrantan el acuerdo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/28/denuncian-incumplimientos-auxiliares-navantia-nuevo-convenio-metal/00031790594304565435502.htm",
+      "time": "2026-09-28T11:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El camino del PXOM de Fene hacia la contratación: así avanza el nuevo plan urbanístico",
       "description": "El Concello abrirá una fase previa de consulta vecinal a la espera de que la empresa propuesta como adjudicataria presente la documentación necesaria, mientras los vecinos piden más celeridad y concreción",
@@ -3464,6 +3482,15 @@
       "type": "NOTICIAS"
     },
     {
+      "title": "El Ateneo acogerá un taller de bienestar físico y emocional el 16 de octubre",
+      "description": "Será impartido por María José Lladó, psicopedagoga, y María Moure, farmacéutica y fitoterapeuta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/28/ateneo-acoge-taller-bienestar-fisico-emocional/0003_202609F28C2995.htm",
+      "time": "2026-09-27T14:28:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
       "title": "A la búsqueda de figurantes para el rodaje de una película en Ares",
       "description": "Pueden optar hombres y mujeres mayores de edad; las grabaciones se llevarán a cabo entre octubre y diciembre",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/09/28/ala-busqueda-figurantes-rodaje-pelicula-ares/0003_202609F28C2992.htm",
@@ -3657,33 +3684,6 @@
       "description": "Fue trasladada a un centro sanitario",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/26/mujer-atropellada-autobus-urbano-estrada-castela/00031790440441505135938.htm",
       "time": "2026-09-26T16:40:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En directo: CD Lugo-Racing Club Ferrol",
-      "description": "Los de Borja Fernández, que mantienen la condición de invictos, calibrar fuerzas con otro de los candidatos a asaltar la parte alta en un tempranero derbi gallego en Primera Federación",
-      "url": "https://www.lavozdegalicia.es/retransmision/cdlugo/2026/09/26/directo-cd-lugo-racing-club-ferrol/01071790427360599847618.htm",
-      "time": "2026-09-26T13:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Auditorio de Ferrol ya lleva el nombre de Álvaro Lamas, el genio de la «steel guitar»",
-      "description": "Tras el acto instituacional celebrado ayer en Caranza, el Cantón acoge esta tarde un concierto-tributo con la participación de numerosos músicos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/26/auditorio-ferrol-rebautizado-nombre-alvaro-lamas-homenaje-genio-steel-guitar/00031790425690317704161.htm",
-      "time": "2026-09-26T13:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El desafío de 101 kilómetros de Narón, en imágenes",
-      "description": "Marchadores y ciclistas se afanan este sábado en completar el exigente recorrido de la quinta edición de las 21 Leguas",
-      "url": "https://www.lavozdegalicia.es/album/ferrol/naron/2026/09/26/desafio-101-kilometros-naron-imagenes/01101790423338867639390.htm",
-      "time": "2026-09-26T11:50:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
