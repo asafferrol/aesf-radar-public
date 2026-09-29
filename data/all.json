@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T06:48:30.399461+00:00",
-  "count": 706,
+  "generated_at": "2026-09-29T13:23:38.383768+00:00",
+  "count": 708,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "Detenido en Ferrol un chico de 24 años que arrastró varios metros por el suelo a una joven al intentar robarle el bolso",
+      "description": "Los hechos ocurrieron en la madrugada del pasado sábado, la detención corrió a cargo de la Policía Local",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/29/detenido-chico-24-anos-ferrol-tras-arrastrar-joven-varios-metros-suelo-intentar-robarle-bolso/00031790680772150688202.htm",
+      "time": "2026-09-29T11:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "«Vigilancia y disuasión» de la fragata más moderna de la Armada en el estrecho de Gibraltar y el golfo de Cádiz",
+      "description": "La Cristóbal Colón, con base en Ferrol, se despliega en el Atlántico oriental y el Mediterráneo junto a la Navarra",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/29/fragata-cristobal-colon-vigilara-estrecho-gibraltar-golfo-cadiz/00031790671100810875303.htm",
+      "time": "2026-09-29T08:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El precio de los errores",
+      "description": "El derbi que protagonizaron el CD Lugo y el Racing Club Ferrol deja varios ejemplos de las lagunas del FVS y de otras novedades del reglamento que invitan a la reflexión",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/29/precio-errores/00031790671620867268917.htm",
+      "time": "2026-09-29T08:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Sabotea siete veces la vía férrea de Ortigueira con árboles y hormigón",
+      "description": "La Guardia Civil investiga a una persona como como presunta autora de un delito continuado de sabotaje, entre junio y agosto de 2026; llegó a talar y arrojar un pino de grandes dimensiones a la línea e interrumpió el tráfico",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/09/29/sabotea-siete-veces-via-ferrea-ortigueira-arboles-hormigon/00031790666829073361491.htm",
+      "time": "2026-09-29T07:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El ultimátum de la sequía en la zona de Ferrol: 26 de octubre",
       "description": "Si no llueve, dentro de un mes será necesario aplicar restricciones del suministro en la zona",
@@ -6357,24 +6393,6 @@
       "description": "Ni las nubes ni la lluvia frenaron a los aficionados que se sumaron al Día de la Bici en Valdoviño, organizado por el Concello, Radio Voz y La Voz de Galicia",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/27/valdovino-estrena-otono-golpe-pedal-250-ciclistas-ruta-as-forcadas/00031790515066155695815.htm",
       "time": "2026-09-27T13:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los trabajadores de Navantia pueden solicitar las ayudas para estudios a partir del lunes",
-      "description": "Los impresos para pedirlas se pueden recoger en el local del comité, de 11.00 a 14.00 horas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/27/ayudas-estudios-navantia-podran-solicitarse-partir-manana/0003_202609F27C2993.htm",
-      "time": "2026-09-27T09:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol homenajea a Álvaro Lamas con música y recuerdos: ««Un pioneiro coa súa steel guitar»",
-      "description": "Tras el acto institucional del viernes para bautizar el Auditorio de Ferrol con su nombre, numerosos artistas le rindieron tributo ayer con un concierto en el Cantón",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/27/ferrol-homenajea-alvaro-lamas-musica-recuerdos/0003_202609F27C2991.htm",
-      "time": "2026-09-27T08:52:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
