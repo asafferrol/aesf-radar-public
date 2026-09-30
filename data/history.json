@@ -1,7 +1,52 @@
 {
   "hours": 48,
-  "count": 597,
+  "count": 600,
   "items": [
+    {
+      "title": "Denuncian al párroco de As Pontes por construir un gallinero y una barbacoa, e instalar cámaras de vigilancia en la iglesia",
+      "description": "El sacerdote ve «una revancha» por la polémica de la terraza de hostelería de la capilla del Carmen y habla de «una opereta, que no refleja la realidad de este pueblo»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/30/denuncian-parroco-as-pontes-construir-gallinero-barbacoa-instalar-camaras-vigilancia-iglesia/00031790768713365183768.htm",
+      "time": "2026-09-30T13:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El futuro nudo eléctrico de As Pontes estará reservado a generación renovable y almacenamiento",
+      "description": "El Ministerio de Transición Ecológica lanza el concurso para adjudicar 600 megavatios de capacidad",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/30/futuro-nudo-electrico-as-pontes-estara-reservado-generacion-renovable-almacenamiento/00031790761777090128862.htm",
+      "time": "2026-09-30T10:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Navantia adjudica a Amper trabajos del futuro buque de aprovisionamiento en combate por 9,2 millones de euros",
+      "description": "Las tareas se prolongarán hasta agosto del 2027",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/30/navantia-adjudica-amper-92-millones-euros-trabajos-futuro-buque-aprovisionamiento-combate/00031790759018064185342.htm",
+      "time": "2026-09-30T09:19:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Árboles caídos, inundaciones y vientos de hasta 127 kilómetros por hora en la zona de Ferrol en el primer temporal del otoño",
+      "description": "Un gran ejemplar cayó sobre la carretera de Castilla y se recogieron 3,9 litros de lluvia por metro cuadrado en diez minutos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/09/30/temporal-dejo-arboles-caidos-inundaciones-ferrol/00031790757002334791791.htm",
+      "time": "2026-09-30T08:43:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos heridos de 54 y 56 años en sendos accidentes por deslumbramiento en el mismo vial de Ferrol en cinco minutos",
+      "description": "Una furgoneta volcó en la rotonda del Marcide de la FE-13 y un ciclista fue atropellado en la de Alcampo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/30/dos-heridos-sendos-accidentes-tres-minutos-dos-rotondas-ferrol/00031790754765311820396.htm",
+      "time": "2026-09-30T08:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Cuenta atrás para la apertura de la nueva área comercial de la comarca",
       "description": "Avanzan las obras de la segunda fase de Parque Gándara, donde se instalará Action, que ya busca empleados; Obramat da la bienvenida a su plantilla",
@@ -5353,24 +5398,6 @@
       "description": "La muestra llega al municipio con motivo del Día internacional de concienciación sobre el desperdicio de alimentos",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/09/29/divulgacion-exposicion-sobre-comida-saludable-biblioteca-neda/0003_202609F29C5995.htm",
       "time": "2026-09-28T14:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Denuncian incumplimientos de auxiliares de Navantia en el nuevo convenio del metal",
-      "description": "Los vigilantes de Prosegur acusan a su empresa de no efectuar la subida de los pluses del naval y los sindicatos advierten de que hay más firmas que quebrantan el acuerdo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/28/denuncian-incumplimientos-auxiliares-navantia-nuevo-convenio-metal/00031790594304565435502.htm",
-      "time": "2026-09-28T11:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Denuncian incumplimientos de auxiliares de Navantia en el nuevo convenio del metal",
-      "description": "Los vigilantes de Prosegur acusan a su empresa de no efectuar la subida de los pluses del naval y los sindicatos advierten de que hay más firmas que quebrantan el acuerdo",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/28/denuncian-incumplimientos-auxiliares-navantia-nuevo-convenio-metal/00031790594304565435502.htm",
-      "time": "2026-09-28T11:33:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
