@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 545,
+  "count": 544,
   "items": [
+    {
+      "title": "Oleada de robos en locales de Valdoviño: los ladrones entran en cinco establecimientos en una semana",
+      "description": "Todos se encuentran en las inmediaciones de la playa de A Frouxeira; «Fueron solo a por el dinero», dice uno de los hosteleros afectados",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/01/oleada-robos-locales-valdovino/00031790872193025877735.htm",
+      "time": "2026-10-01T16:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fernando Román arbitrará el derbi entre el Racing y el Pontevedra",
+      "description": "El palentino, que anuló a los granates un tanto en su última visita a Pasarón, dirimió el último duelo territorial en el que los ferrolanos sumaron de tres",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/01/fernando-roman-arbitrara-derbi-racing-pontevedra/00031790870782686544803.htm",
+      "time": "2026-10-01T16:12:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Arroyo, jugador del Racing: «Mi debut en Primera es mi mayor logro y espero repetirlo»",
+      "description": "Rememora los inicios con su abuelo, la puesta de largo frente a todo un Barcelona, su presente en Ferrol y lo que está por venir en una industria que «da muchas vueltas»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/01/arroyo-jugador-racing-debut-primera-mayor-logro-espero-reperirlo/00031790861313725196387.htm",
+      "time": "2026-10-01T15:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La Semana del Patrimonio Invisible de Ferrol regresa con más plazas, recorridos guiados por lugares emblemáticos y una visita «secreta»",
       "description": "Los interesados en asistir pueden inscribirse desde este mismo viernes, a las 12.00 horas, en la página web oficial del programa",
@@ -4870,42 +4897,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "La nueva A Malata, a un paso de recibir a la selección sub-21 en marzo",
-      "description": "Las gestiones avanzan para que España vuelva a jugar en Ferrol 12 años después",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/29/nueva-malata-paso-recibir-seleccion-sub-21-marzo/00031790694697229639731.htm",
-      "time": "2026-09-29T15:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Parrulo pone a prueba su gran inicio mañana en el Palau a las 20.45 horas",
-      "description": "Los de Gerard Casas buscan continuar invictos midiéndose al Barcelona",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/29/parrulo-pone-prueba-gran-inicio-manana-palau-2045-horas/00031790694472696919859.htm",
-      "time": "2026-09-29T15:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La ciudad deportiva de Mandiá ya empieza a tomar forma para el Racing",
-      "description": "El campo principal avanza y podría estrenarse en dos semanas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/29/ciudad-deportiva-mandia-empieza-tomar-forma-racing/00031790694130196852674.htm",
-      "time": "2026-09-29T15:05:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Crecer sin gol no basta",
-      "description": "",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/29/crecer-gol-basta/00031790693877444758443.htm",
-      "time": "2026-09-29T15:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
