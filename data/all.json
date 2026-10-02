@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T08:55:34.644871+00:00",
-  "count": 486,
+  "generated_at": "2026-10-02T15:18:30.126164+00:00",
+  "count": 492,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -14,7 +14,7 @@
     },
     "boe": {
       "ok": true,
-      "count": 159,
+      "count": 162,
       "name": "BOE"
     },
     "youtube": {
@@ -25,6 +25,87 @@
     }
   },
   "items": [
+    {
+      "title": "Qué hacer en Ferrolterra, Eume y Ortegal: bicis, motos y zapatillas en el fin de semana del deporte",
+      "description": "Las últimas verbenas conviven con propuestas gastronómicas y culturales, que incluyen conciertos y representaciones teatrales",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/fin-semana-ferrolterra-eume-ortegal/00031790941614155870598.htm",
+      "time": "2026-10-02T14:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El ferrolano que trepó tres metros por una iglesia para llevarse objetos de 24.430 euros tendrá cinco juicios en un día",
+      "description": "El hombre también está acusado de robar en una guardería, un taller de coches, un pabellón y una vivienda en la ría de Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/02/ferrolano-trepo-tres-metros-iglesia-llevarse-calices-dinero-valor-24430-euros-tendra-cinco-juicios-dia/00031790948137915654331.htm",
+      "time": "2026-10-02T14:07:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo Ferrol, a lucir un plumaje más aguerrido ante el Valdepeñas",
+      "description": "Los de Casas, que no pudieron desplegar su juego alegre en el Palau, testan su aprendizaje ante un rival ordenado: «Tenemos que querer marcadores más cortos»",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/02/parrulo-ferrol-lucir-plumaje-aguerrido-ante-valdepenas/00031790945343495562763.htm",
+      "time": "2026-10-02T12:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos barcos de guerra con base en Ferrol operan ya en la fuerza de respuesta rápida de la OTAN en el Mediterráneo",
+      "description": "El despliegue de la fragata Blas de Lezo y del buque de aprovisionamiento en combate Patiño durará dos meses y medio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/dos-buques-guerra-base-ferrol-operan-fuerza-respuesta-rapida-otan-mediterraneo/00031790937704757682438.htm",
+      "time": "2026-10-02T11:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos meses de baloncesto caviar por cortesía del Baxi Ferrol",
+      "description": "El club pone a la venta los abonos para la fase de grupos de la Eurocup, que se prolongará hasta diciembre",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/02/dos-meses-baloncesto-caviar-cortesia-baxi-ferrol/00031790940715581874418.htm",
+      "time": "2026-10-02T11:38:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Deputación da Coruña moviliza 5 millones en bonos de descuento para el comercio local",
+      "description": "MercaNaVila ofrece hasta 100 euros por persona en compras realizadas en municipios de menos de 20.000 habitantes",
+      "url": "https://www.lavozdegalicia.es/noticia/barbanza/2026/10/03/deputacion-da-coruna-moviliza-5-millones-bonos-descuento-comercio-local/0003_202610B3C6993.htm",
+      "time": "2026-10-02T11:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Esta semana habrá cambios 100 %»",
+      "description": "El técnico anuncia novedades en el derbi ante el Pontevedra y mantiene su confianza en el crecimiento del equipo pese a los siete puntos conseguidos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/02/javi-vazquez-semana-habra-cambios-100-/00031790937249715108573.htm",
+      "time": "2026-10-02T10:41:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Condenan un nuevo ataque contra Cruz Roja en Ferrol, con una furgoneta con la luna rota y una esvástica pintada",
+      "description": "Es el segundo ataque xenófobo que recibe la delegación ferrolana de esta ONG en dos semanas; BNG, Ferrol en Común y CC.OO. repudian lo ocurrido",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/bng-condena-nuevo-ataque-contra-cruz-roja-furgoneta-luna-rota-esvastica-pintada/00031790935833022654580.htm",
+      "time": "2026-10-02T10:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A Gándara se va de fiesta este sábado con música, chorizo y pulpo en Narón",
+      "description": "La comisión ya prepara las verbenas del próximo año, con el lema «O importante é estar xuntos»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/02/gandara-va-fiesta-sabado-musica-chorizo-pulpo-naron/00031790931338811893645.htm",
+      "time": "2026-10-02T09:20:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una barandilla al borde del abismo en Ferrol: «Cualquiera que se arrime ahí, cae a la vía»",
       "description": "La corrosión de la pasarela sobre la vía del tren en San Xoán pone en riesgo a los peatones y amenaza con desprendimientos sin que se hayan tomado medidas durante diez años",
@@ -1910,6 +1991,24 @@
       "title": "ILUSTRE COLEGIO NOTARIAL DE ANDALUCÍA.",
       "description": "V. Anuncios. - C. Anuncios particulares - ANUNCIOS PARTICULARES - Referencia: BOE-B-2026-31914 - KBytes: 196 - Páginas: 1",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31914",
+      "time": "2026-10-01T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible.",
+      "description": "I. Disposiciones generales - CORTES GENERALES - Medidas urgentes - Referencia: BOE-A-2026-20526 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20526",
+      "time": "2026-10-01T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 27/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual.",
+      "description": "I. Disposiciones generales - CORTES GENERALES - Medidas urgentes - Referencia: BOE-A-2026-20527 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20527",
       "time": "2026-10-01T22:00:00+00:00",
       "source": "BOE",
       "source_id": "boe",
@@ -4350,51 +4449,6 @@
       "description": "Los ferrolanos, que se reservaron un porcentaje de una futura venta, percibirán un importe tras la venta del central por parte del Atlético de Madrid",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/30/traspaso-puric-dubai-united-fc-via-ingresos-racing/00031790783153933174361.htm",
       "time": "2026-09-30T16:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "D'Tapas sopla las velas con una previa como regalo de derbi",
-      "description": "La peña racinguista celebrará una previa por su quinto aniversario como antesala de la visita del Pontevedra CF",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/30/dtapas-sopla-velas-previa-regalo-derbi/00031790779007146771516.htm",
-      "time": "2026-09-30T14:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Bernal, de escoba a navaja suiza en el Racing Club Ferrol: «De portero no me veo aún»",
-      "description": "El pivote de Muniesa, que es de los intocables en el esquema de Javi Vázquez y jugó ya más del 34 % del total de su minutaje de las últimas dos campañas, asume con naturalidad un adelantamiento posicional en determinados contextos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/09/30/bernal-escoba-navaja-suiza-racing-club-ferrol-portero-me-veo-/00031790775578898268963.htm",
-      "time": "2026-09-30T13:48:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Denuncian al párroco de As Pontes por construir un gallinero y una barbacoa, e instalar cámaras de vigilancia en la iglesia",
-      "description": "El sacerdote ve «una revancha» por la polémica de la terraza de hostelería de la capilla del Carmen y habla de «una opereta, que no refleja la realidad de este pueblo»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/09/30/denuncian-parroco-as-pontes-construir-gallinero-barbacoa-instalar-camaras-vigilancia-iglesia/00031790768713365183768.htm",
-      "time": "2026-09-30T13:37:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El futuro nudo eléctrico de As Pontes estará reservado a generación renovable y almacenamiento",
-      "description": "El Ministerio de Transición Ecológica lanza el concurso para adjudicar 600 megavatios de capacidad",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/09/30/futuro-nudo-electrico-as-pontes-estara-reservado-generacion-renovable-almacenamiento/00031790761777090128862.htm",
-      "time": "2026-09-30T10:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Navantia adjudica a Amper trabajos del futuro buque de aprovisionamiento en combate por 9,2 millones de euros",
-      "description": "Las tareas se prolongarán hasta agosto del 2027",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/30/navantia-adjudica-amper-92-millones-euros-trabajos-futuro-buque-aprovisionamiento-combate/00031790759018064185342.htm",
-      "time": "2026-09-30T09:19:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
