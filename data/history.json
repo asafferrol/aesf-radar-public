@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 547,
+  "count": 548,
   "items": [
+    {
+      "title": "Las diez mejores imágenes de la victoria del Racing Club Ferrol frente al Pontevedra",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/album/ferrol/2026/10/03/diez-mejores-imagenes-victoria-racing-club-ferrolfrente-pontevedra/01101791056964140389940.htm",
+      "time": "2026-10-03T19:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «El gol de Alcaina habría sido volar»",
+      "description": "El técnico racinguista pone en valor la conexión entre el equipo y A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/03/javi-vazquez-gol-alcaina-habria-volar/00031791054263768990770.htm",
+      "time": "2026-10-03T19:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dani Ojeda, una oda a la insistencia para bajar la persiana del gol",
+      "description": "Gozó de la primera ocasión clara del duelo y puso la rúbrica en la recta final",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/03/ojeda-aduena-partido-firma-sentencia-partido-gol/00031791054029825439292.htm",
+      "time": "2026-10-03T19:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El «1x1» del Racing en la victoria contra el Pontevedra",
       "description": "Dani Ojeda fue el mejor de un derbi notable en A Malata",
@@ -4903,24 +4930,6 @@
       "description": "La victoria frente al Beroe búlgaro y el pase a la fase de grupos europea afianza la identidad del equipo",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/01/lino-lopez-tecnico-baxi-ferrol-vamos-siendo-mejor-equipo/00031790889648744832279.htm",
       "time": "2026-10-01T21:28:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol supera al Beroe para explorar Europa un año más (85-58)",
-      "description": "Las de Lino López, que ya hicieron lo propio en la ida, sentenciaron en A Malata la fase preliminar continental para sellar su billete definitivo",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/01/baxi-ferrol-beroe/00031790876897228570756.htm",
-      "time": "2026-10-01T19:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón, única gran población gallega que no publica los currículos ni el patrimonio de su corporación",
-      "description": "La Comisión da Transparencia de Galicia le concede un plazo de 15 días hábiles para que cumpla con sus « obrigas de publicidade activa »",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/01/naron-unica-gran-poblacion-gallega-publica-curriculos-patrimonio-corporacion/00031790877854338640217.htm",
-      "time": "2026-10-01T18:15:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
