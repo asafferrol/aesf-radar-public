@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 345,
+  "count": 346,
   "items": [
+    {
+      "title": "El Baxi Ferrol convierte su estreno con el Araski en una auténtica fiesta (82-77)",
+      "description": "Las de Lino López supieron sufrir hasta el último segundo para llevarse el partido",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/04/baxi-araski/00031791133332754145272.htm",
+      "time": "2026-10-04T17:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Nueva aventura para Romo, que firma con el colista de la Primera División de Chipre",
+      "description": "El ex del Racing Club Ferrol firma con el Krasava, que encadena cuatro derrotas en las primeras jornadas de Liga",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/aventura-chipriota-romo-firma-colista-primera/00031791131411436127864.htm",
+      "time": "2026-10-04T16:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Entra en un bar de Valdoviño, pide una cocacola, agrede al propietario por negarse a llevarlo en su coche y huye tras robarle dinero y el vehículo",
+      "description": "Los cuerpos de seguridad buscan al agresor tras localizar el automóvil en Caranza, mientras el hostelero tuvo que ser trasladado al hospital",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/04/entra-robar-bar-valdovino-pide-consumicion-agrede-propietario-huye-llevandose-coche-alta-gama/00031791121850863180332.htm",
+      "time": "2026-10-04T15:18:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cuenta atrás para la visita del Racing al Fabril en Riazor",
+      "description": "El club ferrolano gestionará, desde el lunes, la venta de las 564 localidades facilitadas por el club herculino para la grada visitante y ya está activa la compra telemática en Preferencia (15 euros)",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/cuenta-atras-visita-racing-riazor/00031791125502504205284.htm",
+      "time": "2026-10-04T14:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Buján, jugador del Racing: «Somos más que un equipo, somos una familia»",
       "description": "El extremo, que partió desde el banquillo, destaca la importancia coral del equipo ferrolano",
@@ -3079,33 +3115,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Un clásico con mucho rock and roll entre el Racing y el Pontevedra",
-      "description": "Ambos equipos, con un abultado histórico de duelos, se reencuentran en A Malata para testar lo melódico de sus partituras en un derbi declarado de «alto riesgo»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/02/clasico-rock-and-roll-racing-pontevedra/00031790960448369735626.htm",
-      "time": "2026-10-02T17:44:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Aparatoso vuelco de un coche en la rotonda de Cabanas, a la salida de la autopista",
-      "description": "El vehículo rozó el guardarraíl y se fue contra la glorieta",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/02/vuelca-coche-rotonda-cabanas-salida-autopista/00031790957831181872909.htm",
-      "time": "2026-10-02T16:28:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Qué hacer en Ferrolterra, Eume y Ortegal: bicis, motos y zapatillas en el fin de semana del deporte",
-      "description": "Las últimas verbenas conviven con propuestas gastronómicas y culturales, que incluyen conciertos y representaciones teatrales",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/fin-semana-ferrolterra-eume-ortegal/00031790941614155870598.htm",
-      "time": "2026-10-02T14:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
