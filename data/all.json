@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T08:29:52.956275+00:00",
-  "count": 350,
+  "generated_at": "2026-10-04T14:18:20.302476+00:00",
+  "count": 345,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Buján, jugador del Racing: «Somos más que un equipo, somos una familia»",
+      "description": "El extremo, que partió desde el banquillo, destaca la importancia coral del equipo ferrolano",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/bujan-jugador-racing-equipo-familia/00031791120931153707153.htm",
+      "time": "2026-10-04T13:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ganar, ganar y volver a ganar en A Malata dos años y medio después",
+      "description": "La última vez que el Racing encadenó tres triunfos consecutivos como local fue en abril del 2024, con Cristóbal Parralo al frente del banquillo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/ganar-ganar-volver-ganar-malata-dos-anos-medio-despues/00031791119305800403286.htm",
+      "time": "2026-10-04T13:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De la tensión a la soltura y la confianza del Racing en A Malata",
+      "description": "El equipo, con pleno de victorias como local, se está ganado el derecho a sentirse fuerte en casa y eso es clave para pelear por los objetivos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/tension-soltura-confianza-racing-malata/00031791112973600962337.htm",
+      "time": "2026-10-04T11:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La plaza de Armas que pudo ser y no fue en Ferrol",
       "description": "Diez años del concurso de ideas que alumbró la remodelación del espacio central de Ferrol, con 49 alternativas desechadas e importantes cambios en la propuesta que finalmente se ejecutó",
@@ -3099,78 +3126,6 @@
       "description": "Las últimas verbenas conviven con propuestas gastronómicas y culturales, que incluyen conciertos y representaciones teatrales",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/fin-semana-ferrolterra-eume-ortegal/00031790941614155870598.htm",
       "time": "2026-10-02T14:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El ferrolano que trepó tres metros por una iglesia para llevarse objetos de 24.430 euros tendrá cinco juicios en un día",
-      "description": "El hombre también está acusado de robar en una guardería, un taller de coches, un pabellón y una vivienda en la ría de Ferrol",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/02/ferrolano-trepo-tres-metros-iglesia-llevarse-calices-dinero-valor-24430-euros-tendra-cinco-juicios-dia/00031790948137915654331.htm",
-      "time": "2026-10-02T14:07:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Parrulo Ferrol, a lucir un plumaje más aguerrido ante el Valdepeñas",
-      "description": "Los de Casas, que no pudieron desplegar su juego alegre en el Palau, testan su aprendizaje ante un rival ordenado: «Tenemos que querer marcadores más cortos»",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/02/parrulo-ferrol-lucir-plumaje-aguerrido-ante-valdepenas/00031790945343495562763.htm",
-      "time": "2026-10-02T12:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dos barcos de guerra con base en Ferrol operan ya en la fuerza de respuesta rápida de la OTAN en el Mediterráneo",
-      "description": "El despliegue de la fragata Blas de Lezo y del buque de aprovisionamiento en combate Patiño durará dos meses y medio",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/dos-buques-guerra-base-ferrol-operan-fuerza-respuesta-rapida-otan-mediterraneo/00031790937704757682438.htm",
-      "time": "2026-10-02T11:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dos meses de baloncesto caviar por cortesía del Baxi Ferrol",
-      "description": "El club pone a la venta los abonos para la fase de grupos de la Eurocup, que se prolongará hasta diciembre",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/02/dos-meses-baloncesto-caviar-cortesia-baxi-ferrol/00031790940715581874418.htm",
-      "time": "2026-10-02T11:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Deputación da Coruña moviliza 5 millones en bonos de descuento para el comercio local",
-      "description": "MercaNaVila ofrece hasta 100 euros por persona en compras realizadas en municipios de menos de 20.000 habitantes",
-      "url": "https://www.lavozdegalicia.es/noticia/barbanza/2026/10/03/deputacion-da-coruna-moviliza-5-millones-bonos-descuento-comercio-local/0003_202610B3C6993.htm",
-      "time": "2026-10-02T11:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Esta semana habrá cambios 100 %»",
-      "description": "El técnico anuncia novedades en el derbi ante el Pontevedra y mantiene su confianza en el crecimiento del equipo pese a los siete puntos conseguidos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/02/javi-vazquez-semana-habra-cambios-100-/00031790937249715108573.htm",
-      "time": "2026-10-02T10:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Condenan un nuevo ataque contra Cruz Roja en Ferrol, con una furgoneta con la luna rota y una esvástica pintada",
-      "description": "Es el segundo ataque xenófobo que recibe la delegación ferrolana de esta ONG en dos semanas; BNG, Ferrol en Común y CC.OO. repudian lo ocurrido",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/bng-condena-nuevo-ataque-contra-cruz-roja-furgoneta-luna-rota-esvastica-pintada/00031790935833022654580.htm",
-      "time": "2026-10-02T10:15:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A Gándara se va de fiesta este sábado con música, chorizo y pulpo en Narón",
-      "description": "La comisión ya prepara las verbenas del próximo año, con el lema «O importante é estar xuntos»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/02/gandara-va-fiesta-sabado-musica-chorizo-pulpo-naron/00031790931338811893645.htm",
-      "time": "2026-10-02T09:20:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
