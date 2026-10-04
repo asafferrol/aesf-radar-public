@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-04T18:12:46.147818+00:00",
-  "count": 346,
+  "generated_at": "2026-10-04T21:26:43.816760+00:00",
+  "count": 348,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 50,
+      "count": 46,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Conferencia en Ferrol sobre la vivienda colectiva por la semana de la arquitectura",
+      "description": "El despacho profesional Carbajo Barrios protagonizará la charla organizada por el COAG el día 22",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/05/alto-zona-rural-emblema-naron-modernoconferencia-sobre-vivienda-colectiva-semana-arquitectura/0003_202610F5C2993.htm",
+      "time": "2026-10-04T20:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La UD Somozas remonta a La Sarriana y suma su primer triunfo (2-1)",
+      "description": "Carlos López y Lucas Fanego le dieron la vuelta al tanto inicial de Adrián Rodríguez en el Manolo Candocia",
+      "url": "https://www.lavozdegalicia.es/noticia/futbolgallego/2026/10/04/somozas-remonta-sarriana-suma-primer-triunfo-2-1/00031791142780937751183.htm",
+      "time": "2026-10-04T19:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El Baxi Ferrol convierte su estreno con el Araski en una auténtica fiesta (82-77)",
       "description": "Las de Lino López supieron sufrir hasta el último segundo para llevarse el partido",
