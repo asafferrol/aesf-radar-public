@@ -1,7 +1,106 @@
 {
   "hours": 48,
-  "count": 84,
+  "count": 81,
   "items": [
+    {
+      "title": "Ferrol estudia colocar cámaras de vigilancia en vertederos incontrolados: «Esto es un sinvivir»",
+      "description": "Vecinos del rural alertan de la proliferación de residuos por toda la zona, con especial incidencia en Mandiá",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/ferrol-estudia-colocar-camaras-vigilancia-vertederos-incontrolados/0003_202610F5C3992.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Malestar en el seno de la Policía Local de Ferrol por el incumplimiento de la nueva RPT",
+      "description": "CC.OO. y UGT denuncian «trato desigual» entre compañeros de la misma categoría por el complemento de penosidad horaria",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/malestar-seno-policia-local-incumplimiento-nueva-rpt/0003_202610F5C3991.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PSOE de Ferrol propone un registro de incidencias en el servicio de bus con códigos QR en las paradas",
+      "description": "El concejal socialista Julián Reina defiende que serviría para facilitar la interlocución y evitar la indefensión de los usuarios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/psoe-propone-registro-incidencias-servicio-bus-codigos-qr-paradas/0003_202610F5C3994.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Aparece en Ferrol el automóvil sustraído a un jugador de fútbol sala del Burela",
+      "description": "El turismo apareció en buen estado tras ser robado en la madrugada del jueves al viernes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/aparece-ferrol-automovil-sustraido-jugador-futbol-sala-burela/0003_202610F5C2995.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "As redes sociais tiran do repunte literario: «Un libro pode pasar rapidamente de ser descoñecido a estar en todas partes»",
+      "description": "A creación de contidos relacionados coa lectura enche bibliotecas, librarías e clubs",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/as-redes-sociais-tiran-do-repunte-literario-libro-pode-pasar-rapidamente-desconecido-estar-partes/00031790961262175714809.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La futura escuela Antonio de Escaño",
+      "description": "La reforma del cuartel de alumnos del centro de especialidades de la Armada alcanza el 20 % de ejecución; de forma paralela, avanza la redacción del proyecto del nuevo edificio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/05/futura-escuela-antonio-escano/0003_202610F5C1991.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Muestra colectiva de la SAF sobre el paisaje gallego en el Casino Ferrolano",
+      "description": "Reúne los trabajos de 40 artistas de la entidad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/muestra-colectiva-saf-sobre-paisaje-gallego-casino-ferrolano/0003_202610F5C6994.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Alto: treinta años siendo «emblema del Narón moderno»",
+      "description": "El barrio pasó de ser una zona rural a aglutinar la mayoría de servicios y administraciones locales",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/02/alto-treinta-anos-siendo-emblema-naron-moderno/00031790944361950742307.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una emotiva Andaina de Valdoviño a San Andrés de Teixido",
+      "description": "Siete romeros del primer año repitieron la ruta con motivo del 25.º aniversario",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/05/emotiva-andaina-valdovino-san-andres-teixido/0003_202610F5C6993.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El acero en la construcción naval",
+      "description": "El uso de este material incrementó sustancialmente la resistencia específica de la estructura de los barcos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/05/acero-construccion-naval/0003_202610F5C8993.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Preámbulo del miedo",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/preambulo-miedo/0003_202610F5C6991.htm",
+      "time": "2026-10-05T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "ORDEN de 28 de septiembre de 2026 por la que se conceden distinciones al personal de los cuerpos de Policía local de Galicia.",
       "description": "III. Otras disposiciones Consellería de Presidencia, Justicia y Deportes",
@@ -345,6 +444,15 @@
       "type": "NOTICIAS"
     },
     {
+      "title": "El parque móvil de la provincia tiene una media de 16 años, 1,1 más que la nacional",
+      "description": "Es el menos envejecido de Galicia, con Lugo y Ourense superando los 17 y 18",
+      "url": "https://www.lavozdegalicia.es/noticia/santiago/santiago/2026/10/04/parque-movil-provincia-media-16-anos-11-nacional/00031791067960360930687.htm",
+      "time": "2026-10-04T17:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
       "title": "El Baxi Ferrol convierte su estreno con el Araski en una auténtica fiesta (82-77)",
       "description": "Las de Lino López supieron sufrir hasta el último segundo para llevarse el partido",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/04/baxi-araski/00031791133332754145272.htm",
@@ -619,141 +727,6 @@
       "description": "La concentración convocada frente a la Xunta exigió la declaración de zona tensionada y que se pongan a disposición los pisos vacíos de Recimil, Caranza y Esteiro",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/03/medio-millar-personas-claman-ferrol-vivienda-digna/00031791023109625514987.htm",
       "time": "2026-10-03T10:38:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los peores baches de Ferrol, ocho meses después",
-      "description": "La acción de la empresa de mantenimiento de viales deja su impronta, aunque el callejero local presenta todavía múltiples muestras de deterioro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/03/peores-baches-ferrol-ocho-meses-despues/0003_202610F3C2991.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón publicó ayer en la web el patrimonio de su corporación",
-      "description": "El Concello subió la declaración de bienes y actividades horas después de que se difundiese en este diario que era la única gran población gallega sin hacerlo y bajo requerimiento de la Comisión da Transparencia; aún no publicó los currículos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/03/naron-publico-ayer-web-patrimonio-corporacion/0003_202610F3C5_COPY993.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La justicia obliga al Concello de Ares a abonar 67.000 euros a un trabajador",
-      "description": "El técnico de empleo había presentado una demanda por vulneración de derechos fundamentales, porque no le pagaban igual que a otros compañeros con la misma función",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/10/03/justicia-obliga-concello-ares-abonar-67000-euros-trabajador/0003_202610F3C5_COPY996.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A asamblea local do BNG de Cabanas elixe a Iago Varela como candidato a alcalde",
-      "description": "Asegura: «Sabemos o que significa gobernar, temos experencia»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/10/03/asamblea-local-do-bng-cabanas-elixe-iago-varela-candidato-alcalde/0003_202610F3C8991.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón adjudica tres obras por más de 77.000 euros para mejorar el pabellón de As Lagoas",
-      "description": "Se reparará la cubierta y se ampliará el graderío superior",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/03/naron-adjudica-tres-obras-77000-euros-mejorar-pabellon-as-lagoas/0003_202610F3C8992.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los rostros del desempleo en Ferrolterra: «Me fui de Perú por amenazas en mi negocio, pensé que la vida 'acá' era fácil»",
-      "description": "El fin de la campaña estival eleva el paro hasta los 8.492 demandantes; el sector servicios, con 229 nuevos parados, supone cuatro de cada cinco nuevos desempleados",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/rostros-desempleo-ferrolterra-nancy-josefiname-fui-peru-amenazas-negocio-pense-vida-aca-era-facil/00031790959401749180660.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Claudio Rodríguez Fer: «Impresiona saber que Cunqueiro estuvo aquí, en este mismo teatro de Ortigueira»",
-      "description": "Más de medio centenar de investigadores de toda Galicia participan en el congreso organizado por la Asociación Cultural Terras do Ortegal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/03/rodriguez-fer-impresiona-saber-cunqueiro-estuvo-teatro-ortigueira/0003_202610F3C9994.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Tarde de domingo para disfrutar del teatro en Caranza",
-      "description": "La compañía ourensana ¡Abran paso! Teatro pondrá en escena «Héroes en decembro»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/tarde-domingo-disfrutar-teatro-caranza/00031790958230478201523.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«El fuego en la piedra», nueva novela de Carmen Blanco",
-      "description": "La autora publicará este lunes una nueva entrega de la serie sobre la revuelta irmandiña",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/fuego-piedra-nueva-novela-carmen-blanco/00031790957566479363625.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Samu, a por la mejor tortilla de España",
-      "description": "La Cafetería Ankha de Ferrol disputará de nuevo el campeonato nacional, que tendrá lugar en Alicante",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/samu-mejor-tortilla-espana/00031790958015100806673.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los 225 hombres y mujeres que velan las calles de Ferrol y Narón: «Es nuestro día»",
-      "description": "La Policía Nacional celebró los Ángeles Custodios con sus condecoraciones",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/03/225-hombres-mujeres-velan-calles-ferrol-naron-dia/0003_202610F3C5_COPY995.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un joven de 22 años toma el relevo del zapatero O Rápido, en Pontedeume",
-      "description": "Marcos Biurrum reabrirá el taller que gestionó durante 43 años José González Díaz, que se jubiló hace un año y le está enseñando el oficio a su sucesor",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/03/joven-22-anos-toma-relevo-zapatero-rapido-pontedeume/0003_202610F3C9991.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Estudiantes mexicanos de visita en A Fusquenlla, en Moeche, sorprendidos por la autogestión",
-      "description": "La delegación ha viajado a Galicia para conocer experiencias vinculadas con el sector primario",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/moeche/2026/10/03/estudiantes-mexicanos-visita-fusquenlla-moeche-sorprendidos-autogestion/0003_202610F3C9992.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "An Strato se lleva dos de los premios anuales que otorgan los jóvenes empresarios de Ferrol",
-      "description": "Amanda Silva, Asun Moreno y Adrián López fueron otros de los galardonados por la patronal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/02/an-strato-lleva-dos-premios-anuales-otorgan-jovenes-empresarios-ferrol/00031790974386276754844.htm",
-      "time": "2026-10-03T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Diputación invertirá un millón de euros en la vía DP-5002, en Monfero",
-      "description": "La actuación fue aprobada en el pleno del viernes por unanimidad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/monfero/2026/10/03/diputacion-invertira-millon-euros-via-dp-5002-monfero/0003_202610F3C9993.htm",
-      "time": "2026-10-03T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
