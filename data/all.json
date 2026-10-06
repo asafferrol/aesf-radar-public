@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T14:45:14.983989+00:00",
-  "count": 694,
+  "generated_at": "2026-10-06T19:51:41.281489+00:00",
+  "count": 695,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,69 @@
     }
   },
   "items": [
+    {
+      "title": "Parera se hace fuerte en la Cultural y lidera el rumbo de los exracinguistas",
+      "description": "El portero ha disputado 360 minutos con el conjunto leonés hasta ahora",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/06/parera-fuerte-cultural-lidera-rumbo-exracinguistas/00031791303688290938368.htm",
+      "time": "2026-10-06T16:26:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La marea verde agota las entradas visitantes para Riazor",
+      "description": "Preferencia se mantiene como alternativa, con localidades a 25 euros",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/06/marea-verde-agota-entradas-visitantes-riazor/00031791301894090428337.htm",
+      "time": "2026-10-06T16:20:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La ciudad deportiva acelera la puesta a punto del primer campo",
+      "description": "Las máquinas trabajan las 24 horas para completar una superficie híbrida que se estrenará próximamente",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/ciudad-deportiva-acelera-puesta-punto-primer-campo/00031791302115422625132.htm",
+      "time": "2026-10-06T16:20:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Iago Fuertes conquista en Portugal su tercer título FIP Bronze",
+      "description": "El naronés se impuso junto a Alejandro García tras superar en la final a los portugueses Graça y Araújo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/iago-fuertes-conquista-portugal-tercer-titulo-fip-bronze/00031791301554772381633.htm",
+      "time": "2026-10-06T16:20:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "David Rodríguez :«Queremos que Ferrol tenga un lugar en el mapa del boxeo»",
+      "description": "La Fábrica del Boxeo busca acercar el deporte a gente de todas las edades y convertirlo en una herramienta de formación",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/david-rodriguez-queremos-ferrol-tenga-lugar-mapa-boxeo/00031791302376059206170.htm",
+      "time": "2026-10-06T16:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Supremo da la razón a la familia de la ría de Ferrol cuyo hijo sufrió acoso escolar: «Burlas y agresiones físicas»",
+      "description": "El menor estaba en un centro de otra comarca de la provincia de A Coruña, el protocolo no fue eficaz y la Xunta tendrá que indemnizarlo con 9.000 euros; la familia fue representada por el abogado Cristóbal Dobarro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/supremo-da-razon-familia-ria-ferrol-hijo-sufrio-acoso-escolarburlas-agresiones-fisicas/00031791301108274592972.htm",
+      "time": "2026-10-06T16:01:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una persona herida en una salida de vía en Narahío",
+      "description": "El accidente de tráfico se registró en la autovía de As Pontes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/persona-herida-salida-via-narahio/00031791299326526650806.htm",
+      "time": "2026-10-06T15:18:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "O Bertón llega a su ecuador con el inicio de un cuarto bloque con 49 nuevas viviendas para Ferrol",
       "description": "Actualmente están en construcción 172 de los más de 350 hogares previstos y la conselleira asegura que los tres edificios que restan se empezarán este año",
@@ -6213,60 +6276,6 @@
       "description": "El despacho profesional Carbajo Barrios protagonizará la charla organizada por el COAG el día 22",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/05/alto-zona-rural-emblema-naron-modernoconferencia-sobre-vivienda-colectiva-semana-arquitectura/0003_202610F5C2993.htm",
       "time": "2026-10-04T20:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La UD Somozas remonta a La Sarriana y suma su primer triunfo (2-1)",
-      "description": "Carlos López y Lucas Fanego le dieron la vuelta al tanto inicial de Adrián Rodríguez en el Manolo Candocia",
-      "url": "https://www.lavozdegalicia.es/noticia/futbolgallego/2026/10/04/somozas-remonta-sarriana-suma-primer-triunfo-2-1/00031791142780937751183.htm",
-      "time": "2026-10-04T19:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El parque móvil de la provincia tiene una media de 16 años, 1,1 más que la nacional",
-      "description": "Es el menos envejecido de Galicia, con Lugo y Ourense superando los 17 y 18",
-      "url": "https://www.lavozdegalicia.es/noticia/santiago/santiago/2026/10/04/parque-movil-provincia-media-16-anos-11-nacional/00031791067960360930687.htm",
-      "time": "2026-10-04T17:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol convierte su estreno con el Araski en una auténtica fiesta (82-77)",
-      "description": "Las de Lino López supieron sufrir hasta el último segundo para llevarse el partido",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/04/baxi-araski/00031791133332754145272.htm",
-      "time": "2026-10-04T17:51:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nueva aventura para Romo, que firma con el colista de la Primera División de Chipre",
-      "description": "El ex del Racing Club Ferrol firma con el Krasava, que encadena cuatro derrotas en las primeras jornadas de Liga",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/aventura-chipriota-romo-firma-colista-primera/00031791131411436127864.htm",
-      "time": "2026-10-04T16:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Entra en un bar de Valdoviño, pide una cocacola, agrede al propietario por negarse a llevarlo en su coche y huye tras robarle dinero y el vehículo",
-      "description": "Los cuerpos de seguridad buscan al agresor tras localizar el automóvil en Caranza, mientras el hostelero tuvo que ser trasladado al hospital",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/04/entra-robar-bar-valdovino-pide-consumicion-agrede-propietario-huye-llevandose-coche-alta-gama/00031791121850863180332.htm",
-      "time": "2026-10-04T15:18:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Cuenta atrás para la visita del Racing al Fabril en Riazor",
-      "description": "El club ferrolano gestionará, desde el lunes, la venta de las 564 localidades facilitadas por el club herculino para la grada visitante y ya está activa la compra telemática en Preferencia (15 euros)",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/cuenta-atras-visita-racing-riazor/00031791125502504205284.htm",
-      "time": "2026-10-04T14:56:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
