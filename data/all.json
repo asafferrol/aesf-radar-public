@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T07:56:34.100726+00:00",
+  "generated_at": "2026-10-06T14:45:14.983989+00:00",
   "count": 694,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 50,
+      "count": 48,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "O Bertón llega a su ecuador con el inicio de un cuarto bloque con 49 nuevas viviendas para Ferrol",
+      "description": "Actualmente están en construcción 172 de los más de 350 hogares previstos y la conselleira asegura que los tres edificios que restan se empezarán este año",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/berton-llega-ecuador-inicio-cuarto-bloque-49-viviendas/0003_202610F7C3991.htm",
+      "time": "2026-10-06T14:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un acusado de múltiples robos en Ferrol acepta penas que suman doce años",
+      "description": "Tuvo cinco juicios en la Audiencia Provincial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/07/acusado-multiples-robos-ferrol-acepta-penas-suman-doce-anos/0003_202610F7C4991.htm",
+      "time": "2026-10-06T11:52:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las obras para abrir Ferrol al mar cortan desde este miércoles un carril de Irmandiños",
+      "description": "El tramo entre la avenida de Esteiro y la plaza de Galicia será de sentido único hacia al puerto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/06/obras-abrir-ferrol-mar-cortan-manana-carril-irmandinos/00031791279565827881519.htm",
+      "time": "2026-10-06T10:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Tres semanas sin dormir por una obra en Ferrol: «Llegamos a tirar el colchón en el pasillo, esto no es vida»",
       "description": "Vecinos de la calle Instituto llaman cada noche a la policía por ruidos, vibraciones y gases en la vía del tren; el proyecto es de ADIF y el Concello recuerda a la empresa el derecho al descanso de los residentes",
@@ -6240,33 +6267,6 @@
       "description": "El club ferrolano gestionará, desde el lunes, la venta de las 564 localidades facilitadas por el club herculino para la grada visitante y ya está activa la compra telemática en Preferencia (15 euros)",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/cuenta-atras-visita-racing-riazor/00031791125502504205284.htm",
       "time": "2026-10-04T14:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Buján, jugador del Racing: «Somos más que un equipo, somos una familia»",
-      "description": "El extremo, que partió desde el banquillo, destaca la importancia coral del equipo ferrolano",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/bujan-jugador-racing-equipo-familia/00031791120931153707153.htm",
-      "time": "2026-10-04T13:40:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ganar, ganar y volver a ganar en A Malata dos años y medio después",
-      "description": "La última vez que el Racing encadenó tres triunfos consecutivos como local fue en abril del 2024, con Cristóbal Parralo al frente del banquillo",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/ganar-ganar-volver-ganar-malata-dos-anos-medio-despues/00031791119305800403286.htm",
-      "time": "2026-10-04T13:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "De la tensión a la soltura y la confianza del Racing en A Malata",
-      "description": "El equipo, con pleno de victorias como local, se está ganado el derecho a sentirse fuerte en casa y eso es clave para pelear por los objetivos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/04/tension-soltura-confianza-racing-malata/00031791112973600962337.htm",
-      "time": "2026-10-04T11:29:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
