@@ -1,7 +1,61 @@
 {
   "hours": 48,
-  "count": 573,
+  "count": 574,
   "items": [
+    {
+      "title": "La Armada abre las puertas de sus buques e instalaciones emblemáticas en Ferrol",
+      "description": "El público podrá conocer la fragata F-104, patrulleros o el Tercio Norte",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/armada-abre-puertas-buques-instalaciones-emblematicas/0003_202610F8C4991.htm",
+      "time": "2026-10-07T16:11:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Ponferradina visitará A Malata el sábado 31 de octubre a las 16.30 horas",
+      "description": "Será el sexto partido que los de Javi Vázquez jugarán en la misma franja horaria",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/07/ponferradina-visitara-malata-sabado-31-octubre-1630-horas/00031791385840298372672.htm",
+      "time": "2026-10-07T15:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las obras para abrir Ferrol al mar cortan este jueves un tramo de la avenida Mac Mahón en Esteiro",
+      "description": "La restricción será total entre el cruce con Españoleto y se aplicará de cuatro a seis de la tarde",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/07/obras-abrir-ferrol-mar-cortan-jueves-tramo-avenida-mac-mahon-esteiro/00031791382028065444565.htm",
+      "time": "2026-10-07T14:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "En el vestuario del Racing, «como locos» por estrenar la ciudad deportiva",
+      "description": "Migue Leal confesó que el equipo se encuentra con ganas de cambiar a Gándara por un terreno de juego híbrido para mejorar la calidad de los entrenamientos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/07/vestuario-racing-locos-estrenar-ciudad-deportiva/00031791383198307110108.htm",
+      "time": "2026-10-07T14:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Leal, jugador del Racing: «Tenía esa espinita de que no conocieran al verdadero Migue»",
+      "description": "El lateral, que acumula dos dianas con el club ferrolano, fue distinguido con el premio Xogador do Mes que otorga Estrella Galicia",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/07/leal-jugador-racingtenia-espinita-conocieran-verdadero-migue/00031791381601853583181.htm",
+      "time": "2026-10-07T14:04:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Trece detenidos por dar pasaportes falsos a migrantes de Senegal en Ferrol para facilitarles la nacionalidad española",
+      "description": "La Policía Nacional desarticula esta red criminal, en tres registros domiciliarios se incautaron 24.000 euros en efectivo y 39 documentos manipulados; doce arrestos fueron en la ciudad ferrolana y uno en A Coruña; los involucrados contaban con la ayuda de una abogada (también detenida) y de terceras personas que simulaban ser familiares",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/trece-detenidos-dar-pasaportes-falsos-migrantes-senegal-ferrolquerian-facilitarles-nacionalidad-espanola/00031791368763821802628.htm",
+      "time": "2026-10-07T10:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La gran labor humana de la Policía Local de Ferrol: «Arriesgamos la vida por los demás»",
       "description": "Los agentes Javier Primoy y Sergio Criado son condecorados por evitar la muerte de una persona; entre los dos ya han salvado a por lo menos veinticinco",
@@ -5113,51 +5167,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Freire y Dopico mantienen su pulso por el título nacional",
-      "description": "Los dos pilotos ferrolanos llegan a la última prueba separados por solo tres puntos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/freire-dopico-mantienen-pulso-titulo-nacional/00031791215256162842224.htm",
-      "time": "2026-10-05T16:04:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El 2-0 que sonríe al Racing en varias grandes tardes vuelve a A Malata",
-      "description": "El triunfo ante el Pontevedra permite al conjunto verde salir reforzado",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/05/2-0-sonrie-racing-varias-grandes-tardes-vuelve-malata/00031791214517173666756.htm",
-      "time": "2026-10-05T15:40:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Novoa, convocado con España para iniciar el camino hacia el Mundial 2028",
-      "description": "El jugador de O Parrulo Ferrol disputará ante Finlandia el primer partido de la fase de clasificación",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/novoa-convocado-espana-iniciar-camino-mundial-2028/00031791201357718674520.htm",
-      "time": "2026-10-05T12:01:02+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Inés Prado: «Vivir solo del ajedrez está al alcance de muy pocos»",
-      "description": "Tras cumplir el sueño de disputar una Olimpiada, la ajedrecista ferrolana hace balance de una experiencia marcada por una hospitalización",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/05/ines-pradovivir-solo-ajedrez-alcance-pocos/00031791200355075304267.htm",
-      "time": "2026-10-05T11:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A la fuga el hombre que agredió a un hostelero de Valdoviño, para después robarle el coche y conducirlo hasta Caranza",
-      "description": "La Policía Nacional sigue su rastro, la Guardia Civil confirma que el automóvil apareció con el motor encendido y sin ocupantes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/05/fuga-hombre-agredio-hostelero-valdovino-despues-robarle-coche-conducirlo-caranza/00031791195574258367619.htm",
-      "time": "2026-10-05T10:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
