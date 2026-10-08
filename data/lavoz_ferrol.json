@@ -1,5 +1,14 @@
 [
   {
+    "title": "Detienen a un hombre que amenazó con un adoquín a tres chicas en Ferrol y robó el bolso a una mujer mayor",
+    "description": "La Policía Nacional lo considera presunto autor de dos robos con violencia e intimidación, el arrestado ya declaró en los juzgados y quedó en libertad con cargos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/detienen-hombre-amenazo-adoquin-tres-chicas-ferrol-robo-bolso-mujer-mayor/00031791459548292324394.htm",
+    "time": "2026-10-08T11:48:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "La accesibilidad tropieza en el barrio de Caranza, en Ferrol",
     "description": "Suspendida temporalmente la obra para sustituir tramos de escaleras exteriores por rampas para llegar a los portales de 140 viviendas, a la espera del suministro de las barandillas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/accesibilidad-tropieza-caranza/0003_202610F8C1991.htm",
@@ -11,16 +20,7 @@
   {
     "title": "Ence constata el aumento de la compra y suministro de madera en el verano",
     "description": "La compañía destaca sus iniciativas de apoyo y desarrollo al sector forestal",
-    "url": "https://www.lavozdegalicia.es/noticia/somosagro/2026/10/08/ence-constata-aumento-compra-suministro-madera-verano/0003_202610F8C5993.htm",
-    "time": "2026-10-08T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El comité de Navantia Ferrol expone los avances en el contrato relevo",
-    "description": "",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/comite-navantia-ferrol-expone-avances-contrato-relevo/0003_202610F8C2993.htm",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/10/08/ence-constata-aumento-compra-suministro-madera-verano/0003_202610F8C5993.htm",
     "time": "2026-10-08T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -54,6 +54,42 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "La ferrolana Carmen estrena la residencia de mayores de O Bertón, con cinco usuarios",
+    "description": "La conselleira de Política Social visitó las instalaciones y a los primeros residentes",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/ferrolana-carmen-estrena-residencia-mayores-berton-cinco-usuarios/0003_202610F8C2991.htm",
+    "time": "2026-10-08T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "«Rondalleando por Ultramar» reunirá este viernes a cinco agrupaciones",
+    "description": "La música recorrerá el barrio ferrolano a partir de las siete de la tarde",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/rondalleando-ultramar-reunira-viernes-cinco-agrupaciones/00031791397421582106542.htm",
+    "time": "2026-10-08T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Semana del Patrimonio Invisible",
+    "description": "La sexta edición del programa de visitas guiadas a edificios históricos de Ferrol finaliza con récord de participación: 655 plazas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/semana-patrimonio-invisible/00031791386437777878730.htm",
+    "time": "2026-10-08T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Preinstalación del alumbrado navideño",
+    "description": "Operarios de Electromiño trabajan ya en la colocación del cableado para las próximas fiestas de diciembre",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/preinstalacion-alumbrado-navideno/00031791386821366746774.htm",
+    "time": "2026-10-08T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "ADIF coloca pantallas contra el ruido en Ferrol: «Pero seguimos sin dormir»",
     "description": "Vecinos de la calle Instituto piden que las obras en la vía del tren se paren por las noches; la empresa también cambiará el generador eléctrico",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/adif-coloca-pantallas-contra-ruido-ferrol-seguimos-dormir/0003_202610F8C3_COPY992.htm",
@@ -65,7 +101,7 @@
   {
     "title": "La sequía retrasa la temporada micológica: «Para las setas está siendo desastroso»",
     "description": "« Estes días está explotando o monte, pero fai falta un mes de choivas acumuladas », asegura Miño Guerreiro, de la agrupación pontesa Poupariña",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/10/08/sequia-retrasa-temporada-micologica-setas-siendo-desastroso/0003_202610F8C5991.htm",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/10/08/sequia-retrasa-temporada-micologica-setas-siendo-desastroso/0003_202610F8C5991.htm",
     "time": "2026-10-08T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -94,6 +130,15 @@
     "description": "El colectivo quiere promover el trabajo en red en torno al bienestar emocional",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/08/ascm-hara-naron-encuentro-sobre-salud-mental-jovenes/0003_202610F8C6992.htm",
     "time": "2026-10-08T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Conmemorando 300 años de tradición naval en Ferrol",
+    "description": "Exponav acoge hasta finales de mes una exposición que repasa cómo surgieron los astilleros en la ría",
+    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/07/conmemorando-300-anos-tradicion-naval-ferrol/00031791386047347712345.htm",
+    "time": "2026-10-07T20:13:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -184,51 +229,6 @@
     "description": "La Policía Nacional desarticula esta red criminal, en tres registros domiciliarios se incautaron 24.000 euros en efectivo y 39 documentos manipulados; doce arrestos fueron en la ciudad ferrolana y uno en A Coruña; los involucrados contaban con la ayuda de una abogada (también detenida) y de terceras personas que simulaban ser familiares",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/trece-detenidos-dar-pasaportes-falsos-migrantes-senegal-ferrolquerian-facilitarles-nacionalidad-espanola/00031791368763821802628.htm",
     "time": "2026-10-07T10:45:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un cuarto de siglo de Podoloxía en Ferrol",
-    "description": "La facultad conmemora el viernes los 25 años de la primera promoción",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/07/cuarto-siglo-podoloxia/0003_202610F7C4992.htm",
-    "time": "2026-10-07T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Alicia Munín Doce, nueva codirectora de la Cátedra Cosme Álvarez de los Ríos de UDC y Navantia",
-    "description": "Toma el relevo de la docente Ana Álvarez García y compartirá la dirección de la entidad con Rafael Morgade",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/munin-doce-codirectora-catedra-cosme-alvarez-rios-udc-navantia/0003_202610F7C2993.htm",
-    "time": "2026-10-07T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La familia Basketmi",
-    "description": "El equipo ferrolano de baloncesto en silla de ruedas se proclamó campeón del primer torneo internacional Cidade de Ferrol",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/familia-basketmi/00031791301814693860737.htm",
-    "time": "2026-10-07T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Premios Manuel Lourenzo",
-    "description": "Dos actores del colectivo Opaí Teatro, de Canido, galardonados en Galicia",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/premios-manuel-lourenzo/00031791301593513486741.htm",
-    "time": "2026-10-07T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Isma Taboada, la voz ferrolana que busca su oportunidad",
-    "description": "El cantautor participará el viernes en «La Voz» con la esperanza de pasar a la siguiente fase del concurso televisivo",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/isma-taboada-voz-ferrolana-busca-oportunidad/00031791301088336795274.htm",
-    "time": "2026-10-07T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
