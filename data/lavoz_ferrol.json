@@ -1,5 +1,41 @@
 [
   {
+    "title": "O Parrulo Ferrol visita al Illes Balears Palma Futsal con «nada que perder y mucho que ganar»",
+    "description": "Los de Casas, que lograron mostrar su cara más solida frente a Valdepeñas, visitan a un rival con pleno de victorias",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/08/parrulo-ferrol-visita-illes-balears-palma-futsal-perder-ganar/00031791485249131202147.htm",
+    "time": "2026-10-08T18:50:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Seis meses, el horizonte que se marca el Racing para culminar la primera fase de su ciudad deportiva",
+    "description": "Además del campo híbrido, que encara su recta final y se estrenará en «las próximas semanas», la obra incluye otro artificial y la rehabilitación del edificio principal",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/08/seis-meses-horizonte-marca-racing-culminar-primera-fase-ciudad-deportiva/00031791480652713814660.htm",
+    "time": "2026-10-08T17:37:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Las nuevas cerchas del estadio de A Malata llegan a la grada de Tribuna",
+    "description": "Los trabajadores del Racing Club Ferrol abandonaron las instalaciones al mediodía para que el personal de obra procediese a la colocación de la estructura con plenas garantías",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/08/nuevas-cerchas-estadio-malata-llegan-tribuna/00031791473607579494848.htm",
+    "time": "2026-10-08T15:48:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El entrenador gallego de fútbol sala que se aísla de la tensión de Ceuta",
+    "description": "El ferrolano Nacho García, de 28 años, desgrana los entresijos de la rutina deportiva en un contexto de incertidumbre: «En el pabellón estamos a salvo»",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/05/futbol-sala-red-seguridad-dia-dia-gallego-ceuta-pabellon-salvo/00031791197427470297989.htm",
+    "time": "2026-10-08T14:41:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Detienen a un hombre que amenazó con un adoquín a tres chicas en Ferrol y robó el bolso a una mujer mayor",
     "description": "La Policía Nacional lo considera presunto autor de dos robos con violencia e intimidación, el arrestado ya declaró en los juzgados y quedó en libertad con cargos",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/detienen-hombre-amenazo-adoquin-tres-chicas-ferrol-robo-bolso-mujer-mayor/00031791459548292324394.htm",
@@ -153,15 +189,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Un Jaris continuista para testar el crecimiento del renovado Baxi Ferrol",
-    "description": "Las de Lino López visitan, este jueves, a domicilio en Alcantarilla (21.00 horas) al compacto bloque de Bernat Canut",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/07/jaris-continuista-testar-crecimiento-renovado-baxi-ferrol/00031791396068200545847.htm",
-    "time": "2026-10-07T18:08:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Sandra, jugadora del Baxi Ferrol: «Trato de coger confianza; sé que si estoy cohibida no va a funcionar»",
     "description": "La viguesa de 18 años encara el salto a la élite del básquet con mucha hambre",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/07/sandra-jugadora-baxi-ferroltrato-coger-confianza-se-cohibida-va-funcionar/00031791392958174183796.htm",
@@ -184,15 +211,6 @@
     "description": "El público podrá conocer la fragata F-104, patrulleros o el Tercio Norte",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/08/armada-abre-puertas-buques-instalaciones-emblematicas/0003_202610F8C4991.htm",
     "time": "2026-10-07T16:11:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La Ponferradina visitará A Malata el sábado 31 de octubre a las 16.30 horas",
-    "description": "Será el sexto partido que los de Javi Vázquez jugarán en la misma franja horaria",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/07/ponferradina-visitara-malata-sabado-31-octubre-1630-horas/00031791385840298372672.htm",
-    "time": "2026-10-07T15:16:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -256,24 +274,6 @@
     "description": "La Policía Local interceptó a la persona que depositaba los residuos y tramitó la denuncia",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/07/pillado-in-fraganti-tiraba-escombros-calle/0003_202610F7C3994.htm",
     "time": "2026-10-07T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Iago Fuertes conquista en Portugal su tercer título FIP Bronze",
-    "description": "El naronés se impuso junto a Alejandro García tras superar en la final a los portugueses Graça y Araújo",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/iago-fuertes-conquista-portugal-tercer-titulo-fip-bronze/00031791301554772381633.htm",
-    "time": "2026-10-06T16:20:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "David Rodríguez :«Queremos que Ferrol tenga un lugar en el mapa del boxeo»",
-    "description": "La Fábrica del Boxeo busca acercar el deporte a gente de todas las edades y convertirlo en una herramienta de formación",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/david-rodriguez-queremos-ferrol-tenga-lugar-mapa-boxeo/00031791302376059206170.htm",
-    "time": "2026-10-06T16:06:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

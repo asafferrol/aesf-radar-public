@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T14:42:42.640337+00:00",
-  "count": 533,
+  "generated_at": "2026-10-08T20:10:31.660308+00:00",
+  "count": 530,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "O Parrulo Ferrol visita al Illes Balears Palma Futsal con «nada que perder y mucho que ganar»",
+      "description": "Los de Casas, que lograron mostrar su cara más solida frente a Valdepeñas, visitan a un rival con pleno de victorias",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/08/parrulo-ferrol-visita-illes-balears-palma-futsal-perder-ganar/00031791485249131202147.htm",
+      "time": "2026-10-08T18:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Seis meses, el horizonte que se marca el Racing para culminar la primera fase de su ciudad deportiva",
+      "description": "Además del campo híbrido, que encara su recta final y se estrenará en «las próximas semanas», la obra incluye otro artificial y la rehabilitación del edificio principal",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/08/seis-meses-horizonte-marca-racing-culminar-primera-fase-ciudad-deportiva/00031791480652713814660.htm",
+      "time": "2026-10-08T17:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las nuevas cerchas del estadio de A Malata llegan a la grada de Tribuna",
+      "description": "Los trabajadores del Racing Club Ferrol abandonaron las instalaciones al mediodía para que el personal de obra procediese a la colocación de la estructura con plenas garantías",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/08/nuevas-cerchas-estadio-malata-llegan-tribuna/00031791473607579494848.htm",
+      "time": "2026-10-08T15:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El entrenador gallego de fútbol sala que se aísla de la tensión de Ceuta",
+      "description": "El ferrolano Nacho García, de 28 años, desgrana los entresijos de la rutina deportiva en un contexto de incertidumbre: «En el pabellón estamos a salvo»",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/05/futbol-sala-red-seguridad-dia-dia-gallego-ceuta-pabellon-salvo/00031791197427470297989.htm",
+      "time": "2026-10-08T14:41:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Detienen a un hombre que amenazó con un adoquín a tres chicas en Ferrol y robó el bolso a una mujer mayor",
       "description": "La Policía Nacional lo considera presunto autor de dos robos con violencia e intimidación, el arrestado ya declaró en los juzgados y quedó en libertad con cargos",
@@ -4758,69 +4794,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Parera se hace fuerte en la Cultural y lidera el rumbo de los exracinguistas",
-      "description": "El portero ha disputado 360 minutos con el conjunto leonés hasta ahora",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/06/parera-fuerte-cultural-lidera-rumbo-exracinguistas/00031791303688290938368.htm",
-      "time": "2026-10-06T16:26:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La marea verde agota las entradas visitantes para Riazor",
-      "description": "Preferencia se mantiene como alternativa, con localidades a 25 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/06/marea-verde-agota-entradas-visitantes-riazor/00031791301894090428337.htm",
-      "time": "2026-10-06T16:20:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La ciudad deportiva acelera la puesta a punto del primer campo",
-      "description": "Las máquinas trabajan las 24 horas para completar una superficie híbrida que se estrenará próximamente",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/ciudad-deportiva-acelera-puesta-punto-primer-campo/00031791302115422625132.htm",
-      "time": "2026-10-06T16:20:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Iago Fuertes conquista en Portugal su tercer título FIP Bronze",
-      "description": "El naronés se impuso junto a Alejandro García tras superar en la final a los portugueses Graça y Araújo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/iago-fuertes-conquista-portugal-tercer-titulo-fip-bronze/00031791301554772381633.htm",
-      "time": "2026-10-06T16:20:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "David Rodríguez :«Queremos que Ferrol tenga un lugar en el mapa del boxeo»",
-      "description": "La Fábrica del Boxeo busca acercar el deporte a gente de todas las edades y convertirlo en una herramienta de formación",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/david-rodriguez-queremos-ferrol-tenga-lugar-mapa-boxeo/00031791302376059206170.htm",
-      "time": "2026-10-06T16:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Supremo da la razón a la familia de la ría de Ferrol cuyo hijo sufrió acoso escolar: «Burlas y agresiones físicas»",
-      "description": "El menor estaba en un centro de otra comarca de la provincia de A Coruña, el protocolo no fue eficaz y la Xunta tendrá que indemnizarlo con 9.000 euros; la familia fue representada por el abogado Cristóbal Dobarro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/supremo-da-razon-familia-ria-ferrol-hijo-sufrio-acoso-escolarburlas-agresiones-fisicas/00031791301108274592972.htm",
-      "time": "2026-10-06T16:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una persona herida en una salida de vía en Narahío",
-      "description": "El accidente de tráfico se registró en la autovía de As Pontes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/persona-herida-salida-via-narahio/00031791299326526650806.htm",
-      "time": "2026-10-06T15:18:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
