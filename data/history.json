@@ -1,7 +1,70 @@
 {
   "hours": 48,
-  "count": 583,
+  "count": 589,
   "items": [
+    {
+      "title": "Los cruceristas toman Ferrol",
+      "description": "Dos buques turísticos han traído a la urbe naval a más de 3.000 visitantes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/doble-escala-cruceros-ferrol/00031791548517171936255.htm",
+      "time": "2026-10-09T12:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PSOE de Arteixo pregunta al alcalde si la abogada implicada en la trama de falsificación de pasaportes es la del Concello",
+      "description": "Fuentes municipales afirman que se trata de un tema policial y que el gobierno local no se va a pronunciar",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/arteixo/2026/10/09/psoe-arteixo-exige-alcade-aclare-abogada-implicada-red-falsificaciones-concello/00031791547177385340729.htm",
+      "time": "2026-10-09T12:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Lorenzana ve factible la luz verde del Consejo de Ministros a la planta de SAIC en Ferrol pese al adelanto electoral",
+      "description": "La conselleira de Industria señala que la empresa continúa las reuniones con Moncloa y la tramitación autonómica avanza con normalidad",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/09/lorenzana-ve-factible-luz-verde-consejo-ministros-planta-saic-ferrol-pese-adelanto-electorale-expediente-comezado-daconvocatoria/00031791546569060352227.htm",
+      "time": "2026-10-09T12:04:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Grave accidente en Neda entre dos coches y una moto",
+      "description": "Una persona fue trasladada en ambulancia al hospital Arquitecto Marcide, acompañada por médicos de atención primaria",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/10/09/grave-accidente-neda-dos-coches-moto/00031791545152271919709.htm",
+      "time": "2026-10-09T11:38:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Queremos ganar ante el Fabril y romper esa barrera a domicilio»",
+      "description": "El técnico racinguista destaca la evolución del equipo y pide mantener la confianza en el trabajo semanal",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/09/javi-vazquezqueremos-ganar-siempre-contra-fabril-ganamos-rompemos-barrera/00031791539201804327722.htm",
+      "time": "2026-10-09T10:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Aparece un hombre de 54 años muerto en su casa de Narón",
+      "description": "El suceso ocurrió anoche, en una vivienda de la carretera de Castilla",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/09/aparece-hombre-52-anos-muerto-casa-naron/00031791535128787362913.htm",
+      "time": "2026-10-09T09:05:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rescatados doce pasajeros atrapados en un tren parado en un túnel en Mañón por una chapa sobre la vía",
+      "description": "Los viajeros fueron evacuados a otro convoy hasta el apeadero y continuaron su viaje en taxi",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/09/rescatados-doce-pasajeros-tren-detenido-tunel-debido-chapa-sobre-via-manon/00031791530410521174589.htm",
+      "time": "2026-10-09T07:42:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Los 13 miembros de la red de Ferrol que falsificaba pasaportes quedan libres, entre ellos una abogada de Arteixo",
       "description": "La letrada fue pillada «in fraganti» en el registro civil de los juzgados de Ferrol cuando intentaba nacionalizar a africanos, tras ser arrestada se defendió a sí misma ante el juez",
@@ -5236,15 +5299,6 @@
       "description": "El lateral, que acumula dos dianas con el club ferrolano, fue distinguido con el premio Xogador do Mes que otorga Estrella Galicia",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/07/leal-jugador-racingtenia-espinita-conocieran-verdadero-migue/00031791381601853583181.htm",
       "time": "2026-10-07T14:04:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Trece detenidos por dar pasaportes falsos a migrantes de Senegal en Ferrol para facilitarles la nacionalidad española",
-      "description": "La Policía Nacional desarticula esta red criminal, en tres registros domiciliarios se incautaron 24.000 euros en efectivo y 39 documentos manipulados; doce arrestos fueron en la ciudad ferrolana y uno en A Coruña; los involucrados contaban con la ayuda de una abogada (también detenida) y de terceras personas que simulaban ser familiares",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/07/trece-detenidos-dar-pasaportes-falsos-migrantes-senegal-ferrolquerian-facilitarles-nacionalidad-espanola/00031791368763821802628.htm",
-      "time": "2026-10-07T10:45:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"

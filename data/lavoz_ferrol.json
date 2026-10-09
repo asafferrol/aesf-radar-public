@@ -1,35 +1,71 @@
 [
   {
+    "title": "Los cruceristas toman Ferrol",
+    "description": "Dos buques turísticos han traído a la urbe naval a más de 3.000 visitantes",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/doble-escala-cruceros-ferrol/00031791548517171936255.htm",
+    "time": "2026-10-09T12:27:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El PSOE de Arteixo pregunta al alcalde si la abogada implicada en la trama de falsificación de pasaportes es la del Concello",
+    "description": "Fuentes municipales afirman que se trata de un tema policial y que el gobierno local no se va a pronunciar",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/arteixo/2026/10/09/psoe-arteixo-exige-alcade-aclare-abogada-implicada-red-falsificaciones-concello/00031791547177385340729.htm",
+    "time": "2026-10-09T12:21:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Lorenzana ve factible la luz verde del Consejo de Ministros a la planta de SAIC en Ferrol pese al adelanto electoral",
+    "description": "La conselleira de Industria señala que la empresa continúa las reuniones con Moncloa y la tramitación autonómica avanza con normalidad",
+    "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/09/lorenzana-ve-factible-luz-verde-consejo-ministros-planta-saic-ferrol-pese-adelanto-electorale-expediente-comezado-daconvocatoria/00031791546569060352227.htm",
+    "time": "2026-10-09T12:04:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Grave accidente en Neda entre dos coches y una moto",
+    "description": "Una persona fue trasladada en ambulancia al hospital Arquitecto Marcide, acompañada por médicos de atención primaria",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/10/09/grave-accidente-neda-dos-coches-moto/00031791545152271919709.htm",
+    "time": "2026-10-09T11:38:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Javi Vázquez: «Queremos ganar ante el Fabril y romper esa barrera a domicilio»",
+    "description": "El técnico racinguista destaca la evolución del equipo y pide mantener la confianza en el trabajo semanal",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/09/javi-vazquezqueremos-ganar-siempre-contra-fabril-ganamos-rompemos-barrera/00031791539201804327722.htm",
+    "time": "2026-10-09T10:36:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Aparece un hombre de 54 años muerto en su casa de Narón",
+    "description": "El suceso ocurrió anoche, en una vivienda de la carretera de Castilla",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/09/aparece-hombre-52-anos-muerto-casa-naron/00031791535128787362913.htm",
+    "time": "2026-10-09T09:05:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Rescatados doce pasajeros atrapados en un tren parado en un túnel en Mañón por una chapa sobre la vía",
+    "description": "Los viajeros fueron evacuados a otro convoy hasta el apeadero y continuaron su viaje en taxi",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/09/rescatados-doce-pasajeros-tren-detenido-tunel-debido-chapa-sobre-via-manon/00031791530410521174589.htm",
+    "time": "2026-10-09T07:42:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Los 13 miembros de la red de Ferrol que falsificaba pasaportes quedan libres, entre ellos una abogada de Arteixo",
     "description": "La letrada fue pillada «in fraganti» en el registro civil de los juzgados de Ferrol cuando intentaba nacionalizar a africanos, tras ser arrestada se defendió a sí misma ante el juez",
     "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/10/09/13-miembros-red-falsificaba-pasaportes-galicia-quedan-libertad-cargos/0003_202610G9P11991.htm",
-    "time": "2026-10-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Defensa solo consigue vender uno de los cinco bajos subastados en Ferrol",
-    "description": "El local adjudicado en Caranza se otorgó por 28.000 euros, pero quedaron sin colocar cuatro situados junto al bulevar, que ahora se ofertan en venta directa",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/defensa-solo-consigue-vender-cinco-bajos-subastados-caranza/0003_202610F9C3991.htm",
-    "time": "2026-10-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Concello de Ferrol abre la oposición para cubrir cinco plazas de auxiliar administrativo",
-    "description": "Se aceptará como válido el pago de tasas realizado desde julio, cuando se publicaron las bases",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/09/concello-abre-oposicion-cubrir-cinco-plazas-auxiliar-administrativo/0003_202610F9C3994.htm",
-    "time": "2026-10-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Sanidade estrena en Ferrol el programa piloto de organización de agendas",
-    "description": "El conselleiro, Antonio Gómez Caamaño, explicó que servirá para que los médicos puedan tener más tiempo para la atención a los pacientes al tiempo que se mide y da respuesta a la «sobredemanda»",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/09/sanidade-estrena-ferrol-programa-piloto-organizacion-agendas/0003_202610F9C3993.htm",
     "time": "2026-10-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -82,7 +118,7 @@
   },
   {
     "title": "Los gatos en el motor del coche traen de cabeza a una naronesa: «Cuando lo encendí salía pelo blanco»",
-    "description": "En un mes, le entraron dos felinos y pide más ayuda para estas situaciones; los bomberos del SPEIS atienden seis casos de este tipo al año",
+    "description": "En un mes, le entraron dos felinos y pide más ayuda para estas situaciones; los bomberos del SPEIS atienden nueve casos de este tipo al año",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/09/gatos-motor-coche-traen-cabeza-naronesa-horrible/0003_202610F9C5_COPY995.htm",
     "time": "2026-10-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -99,24 +135,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Cerdido, puntero en el cultivo de arándanos de la mano de la firma Cool Farms Regenerative",
-    "description": "La conselleira de Medio Rural elogió el trabajo de la empresa, que cuenta con nuevas instalaciones en As Somozas",
-    "url": "https://www.lavozdegalicia.es/noticia/somosagro/agricultura/2026/10/09/cerdido-puntero-cultivo-arandanos-mano-firma-cool-farms-regenerative/0003_202610F9C6991.htm",
-    "time": "2026-10-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Concentración de propietarios en Ferrol: «Las Fragas do Eume tienen dueños y habitantes»",
-    "description": "Los afectados por el PRUX se concentraron en la ciudad y le reprocharon a la Xunta que no escuche sus demandas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/09/concentracion-propietarios-ferrol-fragas-do-eume-duenos-habitantes/0003_202610F9C6994.htm",
-    "time": "2026-10-09T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "La Cámara simplifica los trámites para internacionalizar las empresas",
     "description": "Ofrece un servicio para validar documentación comercial necesaria para exportar a determinados mercados",
     "url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/10/09/camara-simplifica-tramites-internacionalizar-empresas/0003_202610F9C4991.htm",
@@ -126,9 +144,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Varios concellos de Ferrolterra denuncian la situación «crítica» del transporte público en la zona",
-    "description": "Exigen « unha resposta inmediata e coordinada da Xunta de Galicia »",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/09/denuncian-situacion-critica-transporte-publico-zona/0003_202610F9C6997.htm",
+    "title": "Sanidade estrena en Ferrol el programa piloto de organización de agendas",
+    "description": "El conselleiro, Antonio Gómez Caamaño, explicó que servirá para que los médicos puedan tener más tiempo para la atención a los pacientes al tiempo que se mide y da respuesta a la «sobredemanda»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/09/sanidade-estrena-ferrol-programa-piloto-organizacion-agendas/0003_202610F9C3993.htm",
+    "time": "2026-10-09T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Cerdido, puntero en el cultivo de arándanos de la mano de la firma Cool Farms Regenerative",
+    "description": "La conselleira de Medio Rural elogió el trabajo de la empresa, que cuenta con nuevas instalaciones en As Somozas",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/agricultura/2026/10/09/cerdido-puntero-cultivo-arandanos-mano-firma-cool-farms-regenerative/0003_202610F9C6991.htm",
     "time": "2026-10-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -138,6 +165,15 @@
     "title": "Ya hay fechas confirmadas para el Festival de Ortigueira de 2027: del 7 al 11 de julio",
     "description": "Será el año previo al 50 aniversario de la fundación del gran evento musical",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/confirmada-fecha-festival-ortigueira-2027-7-11-julio/0003_202610F9C6995.htm",
+    "time": "2026-10-09T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Defensa solo consigue vender uno de los cinco bajos subastados en Ferrol",
+    "description": "El local adjudicado en Caranza se otorgó por 28.000 euros, pero quedaron sin colocar cuatro situados junto al bulevar, que ahora se ofertan en venta directa",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/defensa-solo-consigue-vender-cinco-bajos-subastados-caranza/0003_202610F9C3991.htm",
     "time": "2026-10-09T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -207,24 +243,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Detienen a un hombre que amenazó con un adoquín a tres chicas en Ferrol y robó el bolso a una mujer mayor",
-    "description": "La Policía Nacional lo considera presunto autor de dos robos con violencia e intimidación, el arrestado ya declaró en los juzgados y quedó en libertad con cargos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/detienen-hombre-amenazo-adoquin-tres-chicas-ferrol-robo-bolso-mujer-mayor/00031791459548292324394.htm",
-    "time": "2026-10-08T11:48:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La sequía retrasa la temporada micológica: «Para las setas está siendo desastroso»",
-    "description": "« Estes días está explotando o monte, pero fai falta un mes de choivas acumuladas », asegura Miño Guerreiro, de la agrupación pontesa Poupariña",
-    "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/10/08/sequia-retrasa-temporada-micologica-setas-siendo-desastroso/0003_202610F8C5991.htm",
-    "time": "2026-10-08T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Ence constata el aumento de la compra y suministro de madera en el verano",
     "description": "La compañía destaca sus iniciativas de apoyo y desarrollo al sector forestal",
     "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/10/08/ence-constata-aumento-compra-suministro-madera-verano/0003_202610F8C5993.htm",
@@ -237,15 +255,6 @@
     "title": "La ferrolana Carmen estrena la residencia de mayores de O Bertón, con cinco usuarios",
     "description": "La conselleira de Política Social visitó las instalaciones y a los primeros residentes",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/08/ferrolana-carmen-estrena-residencia-mayores-berton-cinco-usuarios/0003_202610F8C2991.htm",
-    "time": "2026-10-08T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Adrián López y Susana Basoa, premio Jóvenes Empresarios con Gaman CrossFit: «Vendí el coche y me puse a descargar leche de noche para montar el negocio»",
-    "description": "Emprendieron hace cuatro años con un proyecto que acaba valerles el premio de AJE Ferrolterra",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/08/vendi-coche-me-puse-descargar-leche-noche-montar-negocio/0003_202610F8C2992.htm",
     "time": "2026-10-08T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -274,15 +283,6 @@
     "description": "El público podrá conocer la fragata F-104, patrulleros o el Tercio Norte",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/08/armada-abre-puertas-buques-instalaciones-emblematicas/0003_202610F8C4991.htm",
     "time": "2026-10-07T16:11:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "En el vestuario del Racing, «como locos» por estrenar la ciudad deportiva",
-    "description": "Migue Leal confesó que el equipo se encuentra con ganas de cambiar a Gándara por un terreno de juego híbrido para mejorar la calidad de los entrenamientos",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/07/vestuario-racing-locos-estrenar-ciudad-deportiva/00031791383198307110108.htm",
-    "time": "2026-10-07T14:35:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
