@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 420,
+  "count": 415,
   "items": [
+    {
+      "title": "Una permuta inesperada que apuntala el vestuario del Racing Club Ferrol",
+      "description": "Bernal, que lo había jugado todo hasta la salida del Racing a Abanca Riazor, cedió el sitio a Esquerdo por decisión personal de Javi Vázquez: «Da igual el doble pivote que saquemos»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/11/permuta-inesperada-apuntala-vestuario-racing-club-ferrol/00031791722176496640522.htm",
+      "time": "2026-10-11T12:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Esquerdo: «Daba la impresión de que estábamos jugando en casa»",
+      "description": "El jugador del Racing agradeció el impulso para sumar de tres en la que fue, además, su segunda titularidad del curso",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/11/esquerdodaba-impresion-estabamos-jugando-casa/00031791719485172267476.htm",
+      "time": "2026-10-11T11:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Miedo a los ladrones en Valdoviño: «Pueden volver en cualquier momento»",
       "description": "Los hosteleros alertan sobre la creciente ola de robos, con los cacos llevándose la recaudación e incluso agrediendo a un gerente",
@@ -3715,69 +3733,6 @@
       "description": "El vasco, que ya dirimió el derbi con empate ante el Ourense CF el pasado curso, hará lo propio en Riazor",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/09/ekaitz-ikini-garcia-arbitra-segunda-vez-racing-club-ferrol/00031791558022632875346.htm",
       "time": "2026-10-09T15:02:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los cruceristas toman Ferrol",
-      "description": "Dos buques turísticos han traído a la urbe naval a más de 3.000 visitantes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/doble-escala-cruceros-ferrol/00031791548517171936255.htm",
-      "time": "2026-10-09T12:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PSOE de Arteixo pregunta al alcalde si la abogada implicada en la trama de falsificación de pasaportes es la del Concello",
-      "description": "Fuentes municipales afirman que se trata de un tema policial y que el gobierno local no se va a pronunciar",
-      "url": "https://www.lavozdegalicia.es/noticia/coruna/arteixo/2026/10/09/psoe-arteixo-exige-alcade-aclare-abogada-implicada-red-falsificaciones-concello/00031791547177385340729.htm",
-      "time": "2026-10-09T12:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Lorenzana ve factible la luz verde del Consejo de Ministros a la planta de SAIC en Ferrol pese al adelanto electoral",
-      "description": "La conselleira de Industria señala que la empresa continúa las reuniones con Moncloa y la tramitación autonómica avanza con normalidad",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/09/lorenzana-ve-factible-luz-verde-consejo-ministros-planta-saic-ferrol-pese-adelanto-electorale-expediente-comezado-daconvocatoria/00031791546569060352227.htm",
-      "time": "2026-10-09T12:04:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Grave accidente en Neda entre dos coches y una moto",
-      "description": "Una persona fue trasladada en ambulancia al hospital Arquitecto Marcide, acompañada por médicos de atención primaria",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/10/09/grave-accidente-neda-dos-coches-moto/00031791545152271919709.htm",
-      "time": "2026-10-09T11:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Queremos ganar ante el Fabril y romper esa barrera a domicilio»",
-      "description": "El técnico racinguista destaca la evolución del equipo y pide mantener la confianza en el trabajo semanal",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/09/javi-vazquezqueremos-ganar-siempre-contra-fabril-ganamos-rompemos-barrera/00031791539201804327722.htm",
-      "time": "2026-10-09T10:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Aparece un hombre de 54 años muerto en su casa de Narón",
-      "description": "El suceso ocurrió anoche, en una vivienda de la carretera de Castilla",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/09/aparece-hombre-52-anos-muerto-casa-naron/00031791535128787362913.htm",
-      "time": "2026-10-09T09:05:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Rescatados doce pasajeros atrapados en un tren parado en un túnel en Mañón por una chapa sobre la vía",
-      "description": "Los viajeros fueron evacuados a otro convoy hasta el apeadero y continuaron su viaje en taxi",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/09/rescatados-doce-pasajeros-tren-detenido-tunel-debido-chapa-sobre-via-manon/00031791530410521174589.htm",
-      "time": "2026-10-09T07:42:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
