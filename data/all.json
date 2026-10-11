@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T13:30:27.676192+00:00",
-  "count": 415,
+  "generated_at": "2026-10-11T18:23:37.289681+00:00",
+  "count": 417,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "Maggie Doogan lidera al Baxi en su remontada frente al Estepona (84-72)",
+      "description": "Las ferrolanas hacen de A Malata un fortín con pleno de victorias en casa",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/11/baxi-estepona/00031791733976892420100.htm",
+      "time": "2026-10-11T18:02:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las 10 mejores imágenes del Baxi Ferrol-Estepona",
+      "description": "A Malata volvió a registrar una gran entrada para arropar al equipo de Lino López en la Liga Femenina Endesa",
+      "url": "https://www.lavozdegalicia.es/album/deportes/2026/10/11/10-mejores-imagenes-baxi-ferrol-estepona/01101791736012096624207.htm",
+      "time": "2026-10-11T17:01:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fallece a los 104 años Olimpia Barcia, víctima de la represión franquista: «Era la última que quedaba de aquel período tan negro en la zona»",
+      "description": "En su entierro, oficiado el domingo en el cementerio de Regoela, en Cabanas, donde nació, sonó «La Internacional»",
+      "url": "https://www.lavozdegalicia.es/noticia/obituarios/2026/10/12/fallece-fenesa-olimpia-barcia-victima-violencia-carcel-franquismo/0003_202610F12C2991.htm",
+      "time": "2026-10-11T16:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Iago Fuertes se queda a las puertas del cuadro principal en el P1 de Milán",
+      "description": "El naronés cayó frente a la dupla italiana de Perino-Domínguez, mucho más arriba en el ránking mundial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/11/iago-fuertes-queda-puerta-cuadro-principal-p1-milan/00031791728904027540215.htm",
+      "time": "2026-10-11T14:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing Club Ferrol, de cabeza al «playoff»",
+      "description": "Los de Javi Vázquez, a la espera del duelo entre los dos primeros, se aseguran pasar la tercera semana en tercera posición",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/11/racing-club-ferrol-cabeza-playoff/00031791725048787253313.htm",
+      "time": "2026-10-11T13:34:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una permuta inesperada que apuntala el vestuario del Racing Club Ferrol",
       "description": "Bernal, que lo había jugado todo hasta la salida del Racing a Abanca Riazor, cedió el sitio a Esquerdo por decisión personal de Javi Vázquez: «Da igual el doble pivote que saquemos»",
@@ -3729,33 +3774,6 @@
       "description": "Los de Casas, que aguantaron el envite durante la primera mitad, no definieron en dos mano a mano consecutivos y desataron el torbellino local",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/09/palma-futsal-parrulo/00031791569766567619590.htm",
       "time": "2026-10-09T19:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Fabril y Racing, un derbi de vidas cruzadas en Abanca Riazor",
-      "description": "Los de Manuel Pablo, con cinco futbolistas de Ferrolterra en sus filas, reciben a un combiando ferrolano con dos efectivos con pasado blanquiazul",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/09/fabril-racing-derbi-vidas-cruzadas-abanca-riazor/00031791563635668924644.htm",
-      "time": "2026-10-09T17:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Choque frontal en el túnel de la plaza de España",
-      "description": "Dos personas resultaron heridas al colisionar dos turismos en la boca de la avenida do Rei",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/choque-frontal-tunel-plaza-espana/00031791563132848634118.htm",
-      "time": "2026-10-09T16:34:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ekaitz Ikiñi García arbitra por segunda vez al Racing Club Ferrol",
-      "description": "El vasco, que ya dirimió el derbi con empate ante el Ourense CF el pasado curso, hará lo propio en Riazor",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/09/ekaitz-ikini-garcia-arbitra-segunda-vez-racing-club-ferrol/00031791558022632875346.htm",
-      "time": "2026-10-09T15:02:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
