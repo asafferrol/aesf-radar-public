@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:54:44.013344+00:00",
-  "count": 129,
+  "generated_at": "2026-10-12T23:24:50.707883+00:00",
+  "count": 161,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -9,7 +9,7 @@
     },
     "dog": {
       "ok": true,
-      "count": 45,
+      "count": 35,
       "name": "DOG · Xunta de Galicia"
     },
     "boe": {
@@ -25,6 +25,330 @@
     }
   },
   "items": [
+    {
+      "title": "RESOLUCIÓN de 6 de octubre de 2026, de la Dirección General de Empleo Público y Administración de Personal, por la que se anuncia la exposición de las listas definitivas de personas admitidas y excluidas de los criterios de reparto del Fondo de Acción Social del ejercicio económico 2025, relativos a la ayuda para la atención de personas con discapacidad.",
+      "description": "III. Otras disposiciones Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0597-061026-0003_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 1 de octubre de 2026, de la Dirección General de Comercio y Consumo, por la que se hace público el agotamiento del crédito y se da publicidad a las ayudas concedidas al amparo de la Orden de 5 de enero de 2026 por la que se establecen las bases reguladoras para la concesión, en régimen de concurrencia no competitiva, de subvenciones para el impulso de una red de mercados excelentes de Galicia y la dinamización y revitalización de las plazas de abastos, y se convocan estas subvenciones para el año 2026 (código de procedimiento IN223A).",
+      "description": "III. Otras disposiciones Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0767-051026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 8 de octubre de 2026, de la Dirección General de Trabajo Autónomo y Economía Social, por la que realiza la redistribución de los créditos presupuestarios de la Orden de 13 de abril de 2026 por la que se establecen las bases reguladoras de ayudas a centros especiales de empleo (CEE) con el fin de promover la integración laboral de las personas con discapacidad, y se procede a su convocatoria para la anualidad 2026 (códigos de procedimiento TR341K, TR342D, y TR341M) (Diario Oficial de Galicia número 71, de 17 de abril).",
+      "description": "III. Otras disposiciones Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0767-081026-0004_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 1 de octubre de 2026 por la que se establecen las bases reguladoras del VIII Premio al talento innovador en la Administración pública gallega y se convoca para el año 2026 (código de procedimiento IN822D).",
+      "description": "III. Otras disposiciones Agencia Gallega de Innovación",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0198-011026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "EXTRACTO de la Resolución de 1 de octubre de 2026 por la que se establecen las bases reguladoras del VIII Premio al talento innovador en la Administración pública gallega y se convoca para el año 2026 (código de procedimiento IN822D).",
+      "description": "III. Otras disposiciones Agencia Gallega de Innovación",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0198-011026-0002_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 2 de octubre de 2026 por la que se da publicidad del agotamiento de crédito destinado a la concesión de las ayudas para atracción de empresas a Galicia, cofinanciadas por la Unión Europea en el marco del programa Galicia Feder 2021-2027, convocadas por la Resolución de 30 de diciembre de 2025 (Diario Oficial de Galicia número 10, de 16 de enero de 2026) (código de procedimiento IG408H).",
+      "description": "III. Otras disposiciones Instituto Gallego de Promoción Económica",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioO92-051026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 30 de septiembre de 2026 por la que se anuncia convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto ED.701.00.000.15770.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0761-021026-0003_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 30 de septiembre de 2026 por la que se anuncia convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto ED.901.00.002.15770.071).",
+      "description": "IV. Oposiciones y concursos Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0761-021026-0002_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 30 de septiembre de 2026 por la que se resuelve la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto ED.401.00.000.15770.015).",
+      "description": "IV. Oposiciones y concursos Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0761-021026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 6 de octubre de 2026, de la Dirección General de Empleo Público y Administración de Personal, por la que se acuerda abrir el período de presentación de solicitudes de elección de puestos de trabajo y el procedimiento de justificación de la posesión de méritos y requisitos del concurso ordinario para la provisión de puestos de trabajo vacantes del cuerpo superior, escala superior de sistemas y tecnologías de la información; cuerpo de gestión, escala de gestión de sistemas y tecnologías de la información; y cuerpo administrativo, escala de técnica/o especialista en tecnologías y sistemas de la información de la Administración general de la Comunidad Autónoma de Galicia.",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0597-061026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 6 de octubre de 2026, del tribunal designado para calificar el proceso selectivo extraordinario de estabilización derivado de la Ley 20/2021, de 28 de diciembre, para el ingreso, por el turno de acceso libre y mediante el sistema de concurso, en categorías del grupo I de personal laboral de la Xunta de Galicia, por la que se hacen públicos los datos de una nueva persona aspirante que superó el proceso selectivo para el acceso al grupo I, categoría 19 (titulado/a superior especialista, titulado/a superior farmacéutico).",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0597-061026-0002_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 8 de octubre de 2026 por la que se modifican las resoluciones de 29 de septiembre de 2026 por las que se nombra personal funcionario de carrera en el cuerpo de gestión , subgrupo A2, y en el cuerpo administrativo, subgrupo C1, de la Administración general de la Comunidad Autónoma de Galicia, a las personas aspirantes que superaron el proceso selectivo, por el turno de promoción interna, convocados por las resoluciones de 16 de noviembre de 2023 (Diario Oficial de Galicia número 222, de 22 de noviembre).",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0597-091026-0002_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 5 de octubre de 2026 por la que se aprueban y se hacen públicas las listas provisionales de personas admitidas y excluidas en el proceso de provisión por movilidad (código de procedimiento PR461D) en los cuerpos de la Policía Local de Galicia, escala básica, categoría de policía, convocado por la Orden de 21 de julio de 2026.",
+      "description": "IV. Oposiciones y concursos Academia Gallega de Seguridad Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioO3C2-051026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 2 de octubre de 2026, de la Gerencia del Área Sanitaria de A Coruña y Cee, por el que se da publicidad a la resolución de la misma fecha por la que se convoca la provisión, por el procedimiento de concurso de méritos y defensa de proyecto técnico, de diversos puestos de supervisor/a de unidad.",
+      "description": "IV. Oposiciones y concursos Servicio Gallego de Salud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0003-051026-0005_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 2 de octubre de 2026, de la Gerencia del Área Sanitaria de A Coruña y Cee, por el que se da publicidad a la resolución de la misma fecha por la que se convoca la provisión, por el procedimiento de libre designación, de un puesto de supervisor/a del Área Funcional de Servicios Centrales.",
+      "description": "IV. Oposiciones y concursos Servicio Gallego de Salud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0003-051026-0006_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 30 de septiembre de 2026, del Departamento Territorial de A Coruña, por el que se emplaza a las personas interesadas para ser notificadas por comparecencia en el expediente en materia de residuos CO-RES-2026-021 y nueve más.",
+      "description": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0760-300926-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ACUERDO de 23 de septiembre de 2026, del Departamento Territorial de Lugo, por el que se somete a información pública la solicitud de otorgamiento de las autorizaciones administrativas previa y de construcción de una instalación de almacenamiento de energía eléctrica mediante baterías denominada Bess Belesar y su infraestructura de evacuación, promovida por Bess Development 11, S.L., en el ayuntamiento de Chantada (expediente PB 21/2025).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0763-230926-0002_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 4 de septiembre de 2026, del Departamento Territorial de Pontevedra, por la que se concede la autorización administrativa previa y de construcción de una instalación eléctrica en el ayuntamiento de Sanxenxo (expediente IN407A 2025/135-4 modificado).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0763-210926-0005_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 30 de septiembre de 2026, del Departamento Territorial de A Coruña, por el que se notifica la imposición de una primera multa coercitiva derivada del expediente con referencia SAI BT 2024/73 (ejecución forzosa en materia de seguridad industrial).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0763-300926-0014_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 30 de septiembre de 2026, del Departamento Territorial de A Coruña, por el que se notifica la imposición de una primera multa coercitiva derivada del expediente con referencia SAI IN 2025/42 (ejecución forzosa en materia de seguridad industrial).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0763-300926-0011_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 1 de octubre de 2026, del Departamento Territorial de A Coruña, de comunicación de la fecha de ocupación y requerimiento de las hojas de aprecio en el expediente de expropiación IN407A 2024/311-1, en el ayuntamiento de Oza Cesuras.",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0763-011026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 30 de septiembre de 2026, del Departamento Territorial de A Coruña, por el que se notifican diversos expedientes sancionadores por infracciones de las personas trabajadoras o asimiladas, beneficiarias y solicitantes de prestaciones por desempleo.",
+      "description": "a) Administración autonómica Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0767-300926-0004_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 30 de septiembre de 2026, del Departamento Territorial de A Coruña, por el que se notifican diversos expedientes sancionadores por infracciones de personas trabajadoras o asimiladas, no perceptoras de prestaciones por desempleo.",
+      "description": "a) Administración autonómica Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0767-300926-0003_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 18 de septiembre de 2026 por la que se autoriza la transmisión mortis causa, mediante pacto de mejora, de la concesión administrativa de la batea Jomao II.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0427-210926-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 29 de septiembre de 2026, del Departamento Territorial de A Coruña, por el que se notifica la resolución de revocación de sanción accesoria del expediente PSC-CO-0035/2025-V.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0427-300926-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CORRECCIÓN DE ERRORES. Anuncio de 21 de enero de 2025, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de novación de la concesión de aguas con clave DH.A36.07388, otorgada el 24 de junio de 2005, en el ayuntamiento de Ponte Caldelas (expediente DH.A36.106075).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioO143-270526-0006_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 7 de septiembre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Norte, por el que se somete a información pública una solicitud de autorización de obras en el ayuntamiento de Carballo (expediente DH.W15.118768).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioO143-080926-0014_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 11 de septiembre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de Nigrán (expediente DH.A36.117859).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioO143-110926-0004_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 30 de septiembre de 2026 por el que se notifica la resolución del expediente de reposición de la legalidad urbanística CO-0038-2025.",
+      "description": "a) Administración autonómica Agencia de Protección de la Legalidad Urbanística",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG1096-300926-0002_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 29 de septiembre de 2026, de la Gerencia del Área Sanitaria de Santiago de Compostela y Barbanza, por el que se notifican a las personas relacionadas los plazos de ingreso en período voluntario y en período ejecutivo por los servicios sanitarios prestados.",
+      "description": "a) Administración autonómica Servicio Gallego de Salud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0003-011026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de requerimiento de gestión de la biomasa.",
+      "description": "b) Administración local Ayuntamiento de Salvaterra de Miño",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioL250-210926-0004_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 18 de septiembre de 2026 de notificación a los titulares desconocidos del requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y de retirada de especies arbóreas.",
+      "description": "b) Administración local Ayuntamiento de Sober",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioL459-220926-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de la aprobación definitiva del Plan especial de infraestructuras y dotaciones para implantar un equipamiento dotacional destinado a cementerio en la parroquia de Añobre.",
+      "description": "b) Administración local Ayuntamiento de Vila de Cruces",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioL259-071026-0001_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 21 de septiembre de 2026 por la que se da publicidad a los convenios de colaboración suscritos por esta fundación en el segundo cuatrimestre del año 2026.",
+      "description": "c) Otros anuncios Fundación Deporte Galego",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG1558-210926-0002_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de disolución de cooperativa.",
+      "description": "c) Otros anuncios Arroutada, S. Coop. Galega Juvenil",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261013/AnuncioG0973-220926-1_es.html",
+      "time": "2026-10-12T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Chiqui Barros: «Siento que nunca fui mejor entrenador de lo que soy ahora»",
+      "description": "Con más de tres décadas de experiencia continuada, incluyendo una aventura internacional, el ferrolano afronta ahora una ilusionante etapa en Tarragona",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/12/chiqui-barrossiento-nunca-fui-mejor-entrenador-/00031791826840681184895.htm",
+      "time": "2026-10-12T17:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Las comisiones del área de Ferrol trabajan a un año vista en las fiestas del 2027: «Ya tenemos todo contratado»",
       "description": "Las organizaciones comienzan con los preparativos de las celebraciones estivales nada más terminar la edición anterior y «ya hay que hacer malabares con algunas orquestas»",
@@ -1146,42 +1470,6 @@
       "description": "Hubo exhibición de artículos y puestos de venta",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/11/cita-multilabores-pontedeume/0003_202610F11C8992.htm",
       "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La definición gráfica del «aura» del Racing, el tsunami verde que tiño Abanca Riazor",
-      "description": "Los ferrolanos impulsaron al equipo, de principio a fin, en un sufrido triunfo ante el Fabril",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/10/definicion-grafica-aura-racing-tsunami-verde-tino-abanca-riazor/00031791668107637247310.htm",
-      "time": "2026-10-10T21:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El empujón a Saúl y los motivos del Racing para no solicitar la revisión",
-      "description": "«La veíamos clara, pero sabe Dios si la va a dar», valoró Javi Vázquez sobre un posible penalti favorable a los ferrolanos en la recta final de un derbi que acabó con petición del Fabril",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/10/empujon-saul-motivos-racing-solicitar-revision/00031791665587556918370.htm",
-      "time": "2026-10-10T21:04:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez, técnico del Racing: «Sacamos un partido de gen competitivo»",
-      "description": "Asume que al equipo le faltó más con balón, pero se queda con lo emocional por encima de lo táctico para sumar de tres en Abanca Riazor",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/10/javi-vazqueztecnico-racing-sacamos-partido-gen-competitivo/00031791661381142664859.htm",
-      "time": "2026-10-10T19:59:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ropero, el héroe en un triunfo agónico del Racing en Riazor",
-      "description": "El delantero firmó el gol que dio al conjunto verde su primera victoria a domicilio, pese a jugar con diez desde el minuto 60",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/10/ropero-heroe-triunfo-agonico-racing-riazor/00031791660387491923138.htm",
-      "time": "2026-10-10T19:29:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
