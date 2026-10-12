@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T22:10:37.176165+00:00",
-  "count": 50,
+  "generated_at": "2026-10-12T07:28:03.905257+00:00",
+  "count": 129,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -14,7 +14,7 @@
     },
     "boe": {
       "ok": true,
-      "count": 366,
+      "count": 87,
       "name": "BOE"
     },
     "youtube": {
@@ -25,6 +25,870 @@
     }
   },
   "items": [
+    {
+      "title": "La agonía del marisqueo en la ría de Cedeira: «Así é insostible»",
+      "description": "Las profesionales del sector, tras dos años sin actividad ni ingresos por la venta de coquina o berberecho, reclaman ayuda para poder mantenerse a flote",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/12/agonia-marisqueo-cedeira/0003_202610F12C1991.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La cifra de pacientes que tardan más de un año en ser operados se multiplicó por 40 en la provincia coruñesa",
+      "description": "En julio, 4.009 personas llevaban más de seis meses pendientes de pasar por el quirófano, 2.328 más que a mitad del 2025",
+      "url": "https://www.lavozdegalicia.es/noticia/barbanza/2026/10/12/cifra-pacientes-tardan-ano-operados-multiplico-40-provincia-corunesa/0003_202610B12C5991.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A Coruña es la única provincia gallega en la que baja el cibercrimen: un 11,4 %",
+      "description": "Los delitos cometidos a través de internet solo suben en Ferrol y Ribeira",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/12/coruna-unica-provincia-gallega-baja-cibercrimen-114-/0003_202610B12C4991.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De guerra de drones a caza de submarinos: las tareas para el Patiño y la fragata Blas de Lezo",
+      "description": "Los dos buques con base en Ferrol desplegados con la OTAN en el Mediterráneo harán ejercicios en aguas de Italia, Grecia y Turquía",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/12/guerra-drones-caza-submarinos-tareas-patino-fragata-blas-lezo/0003_202610F12C3991.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "José Luis Cuba, micólogo: «A seca é malísima para as setas, pero desde agosto houbo unha eclosión enorme de boletos»",
+      "description": "A falta de choiva retrasou a aparición polos montes da zona de exemplares de especies como a «Lepiota» ou a «Russula»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/10/12/seca-e-malisima-as-setas-agosto-houbo-unh-eclosion-enorme-boletos/0003_202610F12C6992.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Pontedeume recupera la fuente y el viejo lavadero de Ombre",
+      "description": "El Concello avanza que seguirá limpiando este tipo de elementos en otras parroquias",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/12/pontedeume-recupera-fuente-viejo-lavadero-ombre/0003_202610F12C2992.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O primeiro Premio de Pintura Concello de San Sadurniño distingue obras de Albert Giménez Torrent e Eduardo Pérez Baamonde",
+      "description": "Entregou dous accésits e recoñeceu o traballo das irmás Sara e Uxía Lorendo Pérez, as participantes máis novas do certame, veciñas deste municipio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/12/span-langglsan-sadurnino-premia-perez-baamonde-gimenez-torrentspan/0003_202610F12C2993.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Prueba superada en la Feira do Queixo e do Mel de Goente: «Vendeuse bastante»",
+      "description": "La parroquia de As Pontes dedicó el domingo a celebrar una feria que cumplió su 16 edición",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/11/prueba-superada-feira-do-queixo-do-mel-goentevendeuse-bastante/00031791744120338285463.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las fabas volaron en Moeche",
+      "description": "El municipio celebró la feria dedicada a esa legumbre, que incluyó degustación de fabada: «Foi todo un éxito»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/11/fabas-volaron-moeche/00031791743705605634220.htm",
+      "time": "2026-10-12T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Sumario",
+      "description": "Sumario del diario núm. 253, correspondiente al lunes 12 de octubre de 2026. - Referencia: BOE-S-2026-253 - KBytes: 296",
+      "url": "https://www.boe.es/boe/dias/2026/10/12/",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Acuerdo internacional administrativo entre el Ministerio de Educación, Formación Profesional y Deportes del Reino de España y las Escuelas Europeas para regular la implantación y financiación del catalán como otra lengua nacional (ONL) en el Sistema de Escuelas Europeas, hecho en Bruselas y Madrid el 27 y 31 de agosto de 2026.",
+      "description": "I. Disposiciones generales - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Acuerdos internacionales administrativos - Referencia: BOE-A-2026-21165 - KBytes: 219 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21165",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden TRM/1072/2026, de 30 de septiembre, por la que se regulan el ámbito de actuación y las funciones de la Subdirección General de Control de Calidad e Inspección Técnica.",
+      "description": "I. Disposiciones generales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Organización - Referencia: BOE-A-2026-21166 - KBytes: 255 - Páginas: 12",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21166",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden EFD/1073/2026, de 5 de octubre, por la que se actualizan determinados estándares de competencias profesionales de las familias profesionales Agraria; Artes Gráficas; Artes y Artesanías; Energía y Agua; Edificación y Obra Civil; Fabricación Mecánica; Industrias Alimentarias; Madera, Mueble y Corcho; Química; Textil, Confección y Piel; y Vidrio y Cerámica recogidos en el Catálogo Nacional de Estándares de Competencias Profesionales.",
+      "description": "I. Disposiciones generales - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Formación profesional - Referencia: BOE-A-2026-21167 - KBytes: 3402 - Páginas: 370",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21167",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 23 de junio de 2026, de la Comisión Permanente, en el Servicio del Promotor de la Acción Disciplinaria.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CONSEJO GENERAL DEL PODER JUDICIAL - Destinos - Referencia: BOE-A-2026-21168 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21168",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 30 de junio de 2026, de la Comisión Permanente, en la Escuela Judicial.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CONSEJO GENERAL DEL PODER JUDICIAL - Destinos - Referencia: BOE-A-2026-21169 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21169",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Acuerdo de 7 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María del Pilar Robles García.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CONSEJO GENERAL DEL PODER JUDICIAL - Situaciones - Referencia: BOE-A-2026-21170 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21170",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Acuerdo de 7 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña Susana Salvador Gutiérrez.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CONSEJO GENERAL DEL PODER JUDICIAL - Situaciones - Referencia: BOE-A-2026-21171 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21171",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 18 de septiembre de 2026, de la Secretaría de Estado de Seguridad, por la que se nombra personal funcionario de carrera de la Policía Nacional, Escala Básica, categoría de Policía, a los/as Policías Alumnos/as, que han superado el proceso selectivo establecido reglamentariamente.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DEL INTERIOR - Nombramientos - Referencia: BOE-A-2026-21172 - KBytes: 200 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21172",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Subsecretaría, por la que se resuelve el concurso específico convocado por Resolución de 7 de mayo de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Destinos - Referencia: BOE-A-2026-21173 - KBytes: 508 - Páginas: 10",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21173",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 29 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21174 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21174",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 29 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra Profesora Titular de Universidad a doña Esther Guerrero Vizuete.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21175 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21175",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a doña María Josefa Hernández Amorós.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21176 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21176",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Universidad de Granada, por la que se nombran Catedráticos de Universidad.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21177 - KBytes: 190 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21177",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesor Titular de Universidad a don Carlos Sabater Piqueres.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21178 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21178",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a doña Carolina Soler García.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21179 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21179",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Universidad de Granada, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21180 - KBytes: 205 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21180",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Universidad de León, por la que se nombra Profesora Titular de Universidad a doña Sara Mayo Prieto.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-21181 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21181",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden PJC/1074/2026, de 5 de octubre, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación, para el Cuerpo de Letrados de la Administración de Justicia.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Procedimientos de libre designación - Referencia: BOE-A-2026-21182 - KBytes: 241 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21182",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Subdirección de Gerencia del Museo Nacional Centro de Arte Reina Sofía, por la que se convoca proceso selectivo para ingreso, por el sistema de acceso libre, como personal laboral fijo, fuera de convenio.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE CULTURA - Personal laboral - Referencia: BOE-A-2026-21183 - KBytes: 319 - Páginas: 19",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21183",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Procedimientos de libre designación - Referencia: BOE-A-2026-21184 - KBytes: 287 - Páginas: 6",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21184",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE SANIDAD - Procedimientos de libre designación - Referencia: BOE-A-2026-21185 - KBytes: 245 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21185",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Procedimientos de libre designación - Referencia: BOE-A-2026-21186 - KBytes: 261 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21186",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 29 de septiembre de 2026, del Ayuntamiento de Alhama de Murcia (Murcia), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21187 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21187",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, del Ayuntamiento de Las Palmas de Gran Canaria (Las Palmas), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21188 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21188",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, del Cabildo Insular de Fuerteventura (Las Palmas), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21189 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21189",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, del Ayuntamiento de Elx/Elche (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21190 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21190",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, del Ayuntamiento de Xeraco (Valencia/València), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21191 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21191",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, del Ayuntamiento de Vilafranca de Bonany (Illes Balears), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21192 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21192",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, del Ayuntamiento de Collado Mediano (Madrid), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21193 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21193",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, del Ayuntamiento de Sant Fruitós de Bages (Barcelona), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-21194 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21194",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Universidad de Málaga, por la que se corrigen errores en la de 8 de julio de 2026, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Cuerpos docentes universitarios - Referencia: BOE-A-2026-21195 - KBytes: 189 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21195",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Universidad de Granada, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Auxiliar de Servicios Generales, para personas con discapacidad intelectual.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Personal técnico, de gestión y de administración y servicios - Referencia: BOE-A-2026-21196 - KBytes: 242 - Páginas: 10",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21196",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo, por la que se publica el Convenio con la Universidad de A Coruña, para la gestión, apoyo técnico y capacitación en el ámbito de la planificación del saneamiento y drenaje sostenible en el estado plurinacional de Bolivia (segunda fase).",
+      "description": "III. Otras disposiciones - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Comunidad Autónoma de Galicia. Convenio - Referencia: BOE-A-2026-21197 - KBytes: 289 - Páginas: 12",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21197",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 30 de septiembre de 2026, de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo, por la que se publica el Convenio con Médicos del Mundo España, para la respuesta coordinada ante emergencias humanitarias.",
+      "description": "III. Otras disposiciones - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Convenios - Referencia: BOE-A-2026-21198 - KBytes: 226 - Páginas: 7",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21198",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Filipinas y PLDT Inc., para la celebración de la Fiesta Nacional de España.",
+      "description": "III. Otras disposiciones - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Convenios - Referencia: BOE-A-2026-21199 - KBytes: 218 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21199",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de septiembre de 2026, del Centro de Estudios Jurídicos, O.A., por la que se publica el Convenio con la Universidad de Girona, para la realización de un curso de especialización en justicia restaurativa.",
+      "description": "III. Otras disposiciones - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Comunidad Autónoma de Cataluña. Convenio - Referencia: BOE-A-2026-21200 - KBytes: 233 - Páginas: 7",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21200",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 29 de septiembre de 2026, de la Secretaría de Estado de Justicia, por la que se publica la Adenda de modificación y prórroga del Convenio con la Comunidad Autónoma de Extremadura, para el uso de la aplicación informática JARA.",
+      "description": "III. Otras disposiciones - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Comunidad Autónoma de Extremadura. Convenio - Referencia: BOE-A-2026-21201 - KBytes: 200 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21201",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 7 de octubre de 2026, del Centro de Estudios Políticos y Constitucionales, por la que se publica el Convenio con la Fundación Universidad de Oviedo, para la coedición y difusión de la revista electrónica Historia Constitucional durante 2026 y 2027.",
+      "description": "III. Otras disposiciones - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Convenios - Referencia: BOE-A-2026-21202 - KBytes: 216 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21202",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, de la Secretaría General para la Innovación y Calidad del Servicio Público de Justicia, por la que se resuelven solicitudes de letradas y letrados de la Administración de Justicia sobre reconocimiento del mérito preferente del conocimiento oral y escrito de la lengua oficial y del derecho propio de determinadas comunidades autónomas, a efectos de concursos de traslados.",
+      "description": "III. Otras disposiciones - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Cuerpo de Letrados de la Administración de Justicia - Referencia: BOE-A-2026-21203 - KBytes: 225 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21203",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 16 de septiembre de 2026, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 145/2026, interpuesto ante el Tribunal Central de Instancia, Sección de lo Contencioso-Administrativo, Plaza n.º 3.",
+      "description": "III. Otras disposiciones - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Recursos - Referencia: BOE-A-2026-21204 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21204",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 24 de septiembre de 2026, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 147/2026, interpuesto ante el Tribunal Central de Instancia, Sección de lo Contencioso-Administrativo, Plaza n.º 12.",
+      "description": "III. Otras disposiciones - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Recursos - Referencia: BOE-A-2026-21205 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21205",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Dirección General del Catastro, por la que se publica el Convenio con el Colegio de Abogados de Terrassa.",
+      "description": "III. Otras disposiciones - MINISTERIO DE HACIENDA - Convenios - Referencia: BOE-A-2026-21206 - KBytes: 230 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21206",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden INT/1075/2026, de 30 de septiembre, por la que se declaran de utilidad pública diversas asociaciones.",
+      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Asociaciones de utilidad pública - Referencia: BOE-A-2026-21207 - KBytes: 212 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21207",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden INT/1076/2026, de 7 de octubre, por la que se modifica la Orden INT/1409/2011, de 10 de mayo, por la que se crea la Condecoración a la Dedicación al Servicio Policial, en sus diferentes categorías, en el Cuerpo Nacional de Policía.",
+      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Condecoraciones - Referencia: BOE-A-2026-21208 - KBytes: 207 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21208",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, de la Dirección General de Política Interior, por la que se publican las subvenciones estatales anuales para atender los gastos de funcionamiento ordinario a las diferentes formaciones políticas con representación en el Congreso de los Diputados, durante el tercer trimestre del ejercicio 2026.",
+      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Subvenciones - Referencia: BOE-A-2026-21209 - KBytes: 204 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21209",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, de la Dirección General de Política Interior, por la que se publican las subvenciones estatales anuales para sufragar los gastos de seguridad a las diferentes formaciones políticas con representación en el Congreso de los Diputados, durante el tercer trimestre del ejercicio 2026.",
+      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Subvenciones - Referencia: BOE-A-2026-21210 - KBytes: 203 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21210",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 4 de septiembre de 2026, del Instituto Geográfico Nacional, por la que se publica el Convenio con la Universidad de Salamanca, para el desarrollo de programas de cooperación educativa.",
+      "description": "III. Otras disposiciones - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Comunidad de Castilla y León. Convenio - Referencia: BOE-A-2026-21211 - KBytes: 267 - Páginas: 10",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21211",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 16 de julio de 2026, de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias, por la que se publica el Convenio con la Universidad de Alcalá y Adif-Alta Velocidad, para la realización de prácticas externas.",
+      "description": "III. Otras disposiciones - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Comunidad de Madrid. Convenio - Referencia: BOE-A-2026-21212 - KBytes: 335 - Páginas: 16",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21212",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 9 de septiembre de 2026, del Instituto Geográfico Nacional, por la que se publica la Adenda de prórroga del Convenio con la Generalitat Valenciana, para integrarse en el Sistema Cartográfico Nacional.",
+      "description": "III. Otras disposiciones - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Comunitat Valenciana. Convenio - Referencia: BOE-A-2026-21213 - KBytes: 201 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21213",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 29 de julio de 2026, de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias, por la que se publica el Convenio con la Universidad Antonio de Nebrija y Adif-Alta Velocidad, para la realización de prácticas externas.",
+      "description": "III. Otras disposiciones - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Convenios - Referencia: BOE-A-2026-21214 - KBytes: 265 - Páginas: 10",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21214",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 9 de septiembre de 2026, de la Dirección de la Agencia Estatal de Seguridad Aérea, por la que se establecen las bases para el desarrollo de los exámenes electrónicos de conocimientos teóricos para la obtención de licencias de mantenimiento de aeronaves.",
+      "description": "III. Otras disposiciones - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Titulaciones aeronáuticas - Referencia: BOE-A-2026-21215 - KBytes: 238 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21215",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con Endesa Generación, SA, para el desarrollo de un proyecto artístico de interés educativo, cultural y de integración paisajística.",
+      "description": "III. Otras disposiciones - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Convenios - Referencia: BOE-A-2026-21216 - KBytes: 240 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21216",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de octubre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con la Fundación Hispanoamericana Santiago de Cali, para la constitución del «Colegio Hispanoamericano» como centro de convenio en Colombia.",
+      "description": "III. Otras disposiciones - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Convenios - Referencia: BOE-A-2026-21217 - KBytes: 227 - Páginas: 7",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21217",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden EFD/1077/2026, de 1 de octubre, por la que se autoriza a impartir las enseñanzas deportivas del título de Técnico Deportivo Superior de Piragüismo de Aguas Tranquilas en el Centro Superior de Enseñanzas Deportivas.",
+      "description": "III. Otras disposiciones - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Enseñanzas deportivas - Referencia: BOE-A-2026-21218 - KBytes: 194 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21218",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 30 de septiembre de 2026, de la Secretaría General Técnica, por la que se publica la Adenda para la prórroga del Convenio con la Comunidad Autónoma de Galicia, para el funcionamiento por medios electrónicos del registro de empresas acreditadas en el sector de la construcción.",
+      "description": "III. Otras disposiciones - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Comunidad Autónoma de Galicia. Convenio - Referencia: BOE-A-2026-21219 - KBytes: 199 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21219",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 30 de septiembre de 2026, de la Secretaría de Estado de Industria, por la que se publica el Convenio con Asesores Fiscales Tributarios Castilla-La Mancha, para el establecimiento de Puntos de Atención al Emprendedor, integrados en la Red CIRCE.",
+      "description": "III. Otras disposiciones - MINISTERIO DE INDUSTRIA Y TURISMO - Convenios - Referencia: BOE-A-2026-21220 - KBytes: 243 - Páginas: 9",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21220",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden APA/1078/2026, de 5 de octubre, por la que se modifica la Orden APA/1511/2024, de 2 de diciembre, de fijación de límites para administrar ciertos gastos y de delegación de competencias.",
+      "description": "III. Otras disposiciones - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Delegación de competencias - Referencia: BOE-A-2026-21221 - KBytes: 190 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21221",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 30 de septiembre de 2026, de la Confederación Hidrográfica del Guadalquivir, O.A., por la que se publica el Convenio con el Ayuntamiento de Jaén, para el proyecto, ejecución y financiación de las obras del «Proyecto de intervención en el ámbito de los cañones de Río Frío en Jaén».",
+      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Convenios - Referencia: BOE-A-2026-21222 - KBytes: 241 - Páginas: 7",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21222",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 2 de octubre de 2026, de la Confederación Hidrográfica del Miño-Sil, O.A., por la que se publica el Convenio con el Ayuntamiento de As Neves, para la financiación, ejecución y entrega de las obras de construcción de varias infraestructuras de depuración, en As Neves (Pontevedra).",
+      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Convenios - Referencia: BOE-A-2026-21223 - KBytes: 244 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21223",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 16 de septiembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Parque eólico \"Muracais\", de 52,8 MW de potencia instalada, y su infraestructura de evacuación, en la provincia de Lugo».",
+      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Impacto ambiental - Referencia: BOE-A-2026-21224 - KBytes: 1799 - Páginas: 19",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21224",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 18 de septiembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Parque eólico \"Alamoceiros\", parque eólico \"Chamarrapio\" y parque eólico \"Xubrintas\", y parte de su infraestructura de evacuación, en la provincia de Pontevedra».",
+      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Impacto ambiental - Referencia: BOE-A-2026-21225 - KBytes: 1491 - Páginas: 23",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21225",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 7 de septiembre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Mulhacén Solar, SLU, autorización administrativa previa para el proyecto del módulo de almacenamiento energético Mulhacén, con una potencia instalada de 21,56 MW, y su infraestructura de evacuación para su hibridación con la instalación solar fotovoltaica Mulhacén Solar, de 70 MW de potencia instalada, en Esquivias (Toledo).",
+      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Instalaciones eléctricas - Referencia: BOE-A-2026-21226 - KBytes: 214 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21226",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 9 de septiembre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Azor Solar, SLU, autorización administrativa previa para el proyecto de almacenamiento con baterías Azor Solar, de 68,51 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con la instalación solar fotovoltaica existente Azor Solar, de 64,02 MW de potencia instalada, en Paracuellos de Jarama (Madrid).",
+      "description": "III. Otras disposiciones - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Instalaciones eléctricas - Referencia: BOE-A-2026-21227 - KBytes: 217 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21227",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, del Instituto Nacional de Estadística, por la que se publica el Convenio con el Consejo General del Notariado, para la realización de operaciones estadísticas relativas a los bienes muebles y estimaciones de las cuentas nacionales.",
+      "description": "III. Otras disposiciones - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Convenios - Referencia: BOE-A-2026-21228 - KBytes: 224 - Páginas: 6",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21228",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 9 de octubre de 2026, de la Dirección General del Tesoro y Política Financiera, por la que se disponen determinadas emisiones de Bonos y Obligaciones del Estado en el mes de octubre de 2026 y se convocan las correspondientes subastas.",
+      "description": "III. Otras disposiciones - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Deuda del Estado - Referencia: BOE-A-2026-21229 - KBytes: 297 - Páginas: 7",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21229",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Dirección General de Ordenación del Juego, por la que se publica la Adenda de prórroga del Convenio con la Comunidad Autónoma de La Rioja, para la interconexión automatizada de los correspondientes registros de interdicción de acceso al juego a través de una integración funcional y organizativa.",
+      "description": "III. Otras disposiciones - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Comunidad Autónoma de La Rioja. Convenio - Referencia: BOE-A-2026-21230 - KBytes: 198 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21230",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden DCA/1079/2026, de 7 de octubre, por la que se establecen las bases reguladoras para la concesión de subvenciones a entidades locales para la erradicación de asentamientos irregulares de personas trabajadoras temporeras.",
+      "description": "III. Otras disposiciones - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Subvenciones - Referencia: BOE-A-2026-21231 - KBytes: 325 - Páginas: 23",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21231",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 29 de septiembre de 2026, del Consorcio Centro de Investigación Biomédica en Red, por la que se publica el Convenio con la Fundació Institut d’Investigació en Ciències de la Salut Germans Trias i Pujol, para la promoción e impulso de la investigación en el área temática de Enfermedades Respiratorias.",
+      "description": "III. Otras disposiciones - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Convenios - Referencia: BOE-A-2026-21232 - KBytes: 246 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21232",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 30 de septiembre de 2026, del Instituto de Salud Carlos III, O.A., M.P., por la que se publica el Convenio con la Universidad CEU San Pablo, M.P., para la realización de prácticas académicas externas, trabajos de fin de grado, trabajos de fin de máster y estancias de doctorado.",
+      "description": "III. Otras disposiciones - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Convenios - Referencia: BOE-A-2026-21233 - KBytes: 316 - Páginas: 15",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21233",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 4 de octubre de 2026, de la Delegación del Gobierno contra la Violencia de Género, por la que se publica el Convenio con la Ciudad de Ceuta, para la prestación del servicio telefónico de información, atención y asesoramiento jurídico en materia de violencia contra las mujeres.",
+      "description": "III. Otras disposiciones - MINISTERIO DE IGUALDAD - Ciudad de Ceuta. Convenio - Referencia: BOE-A-2026-21234 - KBytes: 235 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21234",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Secretaría General Técnica, por la que se publica la Adenda de prórroga y modificación del Convenio entre el Instituto Nacional de la Seguridad Social y la Diputación Foral de Gipuzkoa, en materia de cesión de información tributaria.",
+      "description": "III. Otras disposiciones - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Convenios - Referencia: BOE-A-2026-21235 - KBytes: 272 - Páginas: 14",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21235",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de octubre de 2026, de la Presidencia de la Junta Electoral Central, por la que se anuncia propuesta de designación de concejal del Ayuntamiento de Alcollarín (Cáceres), en aplicación de lo previsto en el artículo 182.2 de la Ley Orgánica del Régimen Electoral General, de conformidad con lo dispuesto en el número 2 del apartado segundo de la Instrucción 1/2025, de 30 de enero, de la Junta Electoral Central, sobre sustitución de cargos representativos locales.",
+      "description": "III. Otras disposiciones - JUNTA ELECTORAL CENTRAL - Cargos representativos locales - Referencia: BOE-A-2026-21236 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21236",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, del Banco de España, por la que se publican los índices y tipos de referencia aplicables para el cálculo del valor de mercado en la compensación por riesgo de tipo de interés de los préstamos hipotecarios, así como para el cálculo del diferencial que se ha de aplicar para la obtención del valor de mercado de los préstamos o créditos que se cancelan anticipadamente.",
+      "description": "III. Otras disposiciones - BANCO DE ESPAÑA - Préstamos hipotecarios. Índices - Referencia: BOE-A-2026-21237 - KBytes: 196 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21237",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 30 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se publica el Acuerdo de encomienda de gestión al Consorcio Universitario del Centro Asociado a la Universidad Nacional de Educación a Distancia en Lugo, para el funcionamiento de la oficina verde y otras iniciativas del Observatorio ODS.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Encomienda de gestión - Referencia: BOE-A-2026-21238 - KBytes: 266 - Páginas: 14",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21238",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se publica el Acuerdo de encomienda de gestión al Consorcio Universitario del Centro Asociado a la Universidad Nacional de Educación a Distancia de Pontevedra, para la promoción y difusión de la identidad corporativa.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Encomienda de gestión - Referencia: BOE-A-2026-21239 - KBytes: 241 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21239",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 22 de septiembre de 2026, de la Universidad Católica de Valencia San Vicente Mártir, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Odontología.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21240 - KBytes: 295 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21240",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 22 de septiembre de 2026, de la Universidad Católica de Valencia San Vicente Mártir, por la que se publica la modificación del plan de estudios de Máster Universitario en Rehabilitación del Enfermo Neurológico.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21241 - KBytes: 223 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21241",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 23 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Ingeniería Electrónica Industrial y Automática.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21242 - KBytes: 214 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21242",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 25 de septiembre de 2026, de la Universidad de Deusto, por la que se publica el plan de estudios de Máster Universitario en Dirección de Centros Educativos: Gestión, Innovación y Liderazgo.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21243 - KBytes: 201 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21243",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Máster Universitario en Finanzas/Master in Finance (MiF).",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21244 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21244",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Máster Universitario en Práctica Avanzada de Enfermería.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21245 - KBytes: 204 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21245",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Graduado o Graduada en Biología.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21246 - KBytes: 209 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21246",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Graduado o Graduada en Bioquímica.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21247 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21247",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Graduado o Graduada en Ciencias Ambientales.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21248 - KBytes: 210 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21248",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 1 de octubre de 2026, de la Universidad Complutense de Madrid, por la que se publica la modificación del plan de estudios de Graduado o Graduada en European Studies.",
+      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-21249 - KBytes: 215 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21249",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Pleno. Sentencia 59/2026, de 8 de septiembre de 2026. Recurso de inconstitucionalidad 1301-2024. Interpuesto por el Consejo de Gobierno de la Comunidad Autónoma del País Vasco en relación con diversos preceptos de la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda. Competencias en materia de ordenación del territorio, urbanismo y vivienda: pérdida parcial de objeto del proceso y reiteración de doctrina en cuanto afecta a preceptos legales ya enjuiciados en las SSTC 79/2024, de 21 de mayo; 26/2025, de 29 de enero; 17/2026, de 24 de febrero; 41/2026, de 26 de mayo, y 53/2026, de 8 de julio; constitucionalidad de los preceptos legales que contienen unas definiciones supeditadas a las establecidas por las administraciones competentes en materia de vivienda, enuncian las medidas que las administraciones públicas pueden adoptar para favorecer el acceso a la vivienda, y fijan el criterio temporal de aplicación del régimen de arrendamientos de grandes tenedores en zonas tensionadas. Votos particulares.",
+      "description": "T.C. Sección del Tribunal Constitucional - TRIBUNAL CONSTITUCIONAL - Sentencias - Referencia: BOE-A-2026-21250 - KBytes: 292 - Páginas: 18",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21250",
+      "time": "2026-10-11T22:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
     {
       "title": "De Maggie a Magic Doogan, la histórica transformación en el Baxi Ferrol",
       "description": "La americana batió el récord de anotación del club, con 38 puntos frente al Estepona: «Veo que entran los primeros tiros y me da alas»",
@@ -318,159 +1182,6 @@
       "description": "El vehículo chocó contra un poste de telefonía en el lugar de Saíñas",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/10/ileso-conductor-coche-estuvo-punto-caerse-terraplen-cedeira-suerte/00031791624028883504927.htm",
       "time": "2026-10-10T09:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Xunta aplaude las casi seis décadas del Grupo Rilo como referente en valorización de residuos",
-      "description": "La empresa familiar con sede en Ferrol, que visitó la conselleira de Industria, ultima su nuevo proyecto, una innovadora planta en As Somozas, Valogreene",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/10/xunta-aplaude-seis-decadas-grupo-rilo-referente-valorizacion-residuos/0003_202610F10C5992.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "As Pontes apuesta por la cooperación empresarial para impulsar el empleo",
-      "description": "El alcalde valora la incorporación de Arteixo Telecom al grupo José Jainaga",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/10/10/as-pontes-apuesta-cooperacion-empresarial-impulsar-empleo/0003_202610F10C9991.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La renovación de la calzada de la carretera de Castilla recibe tres ofertas de empresas",
-      "description": "El Concello de Ferrol prevé destinar a este proyecto 660.000 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/10/renovacion-calzada-carretera-castilla-recibe-tres-ofertas-empresas/0003_202610F10C2995.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Xeoparque Cabo Ortegal será el anfitrión de un encuentro nacional en el 2027",
-      "description": "«Supone una gran oportunidad para dar a conocer el territorio », destaca el gerente",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/xeoparque-cabo-ortegal-sera-anfitrion-encuentro-nacional-2027/00031791577714122224478.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol, ciudad de contrastes: del auge de la rehabilitación al declive de Recimil",
-      "description": "El mayor parque de vivienda pública de Galicia, más problema que oportunidad",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/10/ferrol-ciudad-contrastes-auge-rehabilitacion-declive-recimil/0003_202610G10P24991.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PSOE califica de «pura fachada» la política de vivienda del gobierno local",
-      "description": "El concejal Julián Reina asegura que el PP se limita «a camiñar de foto en foto»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/10/psoe-califica-pura-fachada-politica-vivienda-gobierno-local/0003_202610F10C2994.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Santi Santos, músico: «Me decían: \"Mira que está mal Ferrol, y tú tienes que venir ahora con la cancioncita\"»",
-      "description": "A punto de cumplir 40 años en la música, sigue reivindicando el papel social de las canciones",
-      "url": "https://www.lavozdegalicia.es/noticia/cultura/2026/10/10/me-decian-mira-mal-ferrol-tu-tienes-venir-cancioncita/0003_202610G10P33992.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Qué hacer este puente en Ferrolterra, Eume y Ortegal: visitas a la Armada, concierto de Depedro, Feira do Queixo y ruta cabalar",
-      "description": "El Pavo Fest trae la electrónica a la comarca en unas jornadas en las que tampoco faltarán los planes culturales, como cuentacuentos y obra de teatro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/06/puente-ferrolterra-eume-ortegal/00031791304229499260847.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Exhibición canina de la Unidad Cinológica del Tercio Norte",
-      "description": "La Armada festeja la Fiesta Nacional del 12 de octubre abriendo sus instalaciones a la sociedad civil",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/exhibicion-canina-unidad-cinologica-tercio-norte/00031791559485801320795.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un veterano policía",
-      "description": "Un antiguo agente municipal de Ferrol de 99 años fue otro de los homenajeados por el Concello",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/veterano-policia/00031791559329199256857.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol celebra la vida y la memoria de sus mayores",
-      "description": "El Concello homenajea a los vecinos que peinan canas, entre ellos, a Herminia, de 102 años",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/ferrol-celebra-vida-memoria-mayores/00031791559104946481152.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nuevo acceso al Arsenal Militar de Ferrol por un millón de euros",
-      "description": "Abrir Ferrol al mar convertirá la puerta de la Enfermería en la entrada principal del recinto militar, con vallas automáticas, cuatro carriles, tornos y un aparcamiento en la pista deportiva",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/10/nuevo-acceso-arsenal-millon/0003_202610F10C1991.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "James Rhodes, pianista: «Prefiro mil veces Ferrol a Londres»",
-      "description": "O recoñecido artista actuará o 23 de outubro no Auditorio de Caranza cun programa moi especial; tamén destaca a súa faceta solidaria como na axuda á recentemente falecida Maricarmen",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/10/prefiro-mil-veces-ferrol-londres/0003_202610F10C8_COPY993.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Casi la mitad de los gallegos vive al borde de la exclusión social",
-      "description": "Los resultados del último informe de Foessa y Cáritas refleja que el 43,8 % de la población se encuentra en una situación de «integración precaria» en la comunidad y desmonta la idea de que la exclusión es solo una cuestión económica",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/mitad-gallegos-vive-borde-exclusion-social/00031791549209081411159.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Venda, degustación, concurso de debagado e sorteo de produtos na Feira das Fabas de Moeche, este domingo",
-      "description": "A Asociación de Veciños de Labacengos preparará a fabada para o xantar",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/moeche/2026/10/10/span-langglvenda-degustacion-sorteo-na-feira-das-fabas-moeche-domingospan/0003_202610F10C9994.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Europa simplifica las normas sobre emisiones que afectan a granjas de cerdos y aves",
-      "description": "La Comisión asegura que las nueva reglamentación ofrece a los ganaderos un marco claro y proporcionado y mantiene un alto nivel de protección medioambiental",
-      "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2026/10/09/europa-simplifica-normas-sobre-emisiones-afectan-granjas-cerdos-aves/00031791537058088417126.htm",
-      "time": "2026-10-10T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol se reinventa en el cotizado mercado de cruceros",
-      "description": "Global Ports intensifica la promoción mundial de la ciudad como puerto turístico; una doble escala trajo ayer a más de 3.000 visitantes a la urbe naval",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/10/ferrol-reinventa-cotizado-mercado-cruceros/0003_202610F10C2996.htm",
-      "time": "2026-10-10T02:46:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
