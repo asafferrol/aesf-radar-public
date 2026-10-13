@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T23:24:50.707883+00:00",
-  "count": 161,
+  "generated_at": "2026-10-13T03:42:31.643518+00:00",
+  "count": 160,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,114 @@
     }
   },
   "items": [
+    {
+      "title": "Dos meses sin agua en A Capela: vecinos sin traída municipal se abastecen con un tractor",
+      "description": "En algunos lugares se surten desde agosto con bidones y en varias viviendas han optado por la construcción de pozos de barrena",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/a-capela/2026/10/13/dos-meses-agua-capela/0003_202610F13C1991.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las denuncias por delitos de odio crecen en Ferrol: esvásticas, amenazas y ataques xenófobos",
+      "description": "Desde las pintadas en casa de Celso Posada a los ataques en las sedes de Cruz Roja y PSOE, o los escritos a Basterrechea",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/13/denuncias-delitos-odio-crecen-ferrol-esvasticas-amenazas-ataques-xenofobos/0003_202610F13C3_COPY999.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Vecinos de Ferrol logran que las obras del tren solo se hagan de día: «Al fin volvemos a dormir»",
+      "description": "Los residentes en la calle Instituto consiguen que un generador se cambie de sitio y que cesen los trabajos nocturnos de renovación de la vía, un proyecto a cargo de ADIF",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/13/vecinos-calle-instituto-logran-obras-solo-hagan-dia-fin-volvemos-dormir/0003_202610F13C4_COPY993.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Narón convida ao comercio local a atender en galego co reto «En que podo axudarche?»",
+      "description": "A iniciativa, que forma parte do programa «Narón gaña co galego», ofrece aos negocios participantes un curso de márketing e un vídeo publicitario",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/13/span-langglnaron-convida-ao-comercio-spanspan-langgllocal-atender-galego-co-reto-spanspan-langgl-podo-axudarchespan/0003_202610F13C2994.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Neda reunirá toda la documentación administrativa del archivo municipal en los sótanos de la Casa da Cultura",
+      "description": "Actualmente se reparte en cuatro localizaciones diferentes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/12/neda-reunira-documentacion-administrativa-archivo-municipal-sotanos-casa-da-cultura/00031791813877966348447.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Sangre ferrolana entre los mejores coches 127 de Galicia",
+      "description": "Cuatro modelos únicos de esta comarca participaron en la concentración nacional, el pasado fin de semana en Sanxenxo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/13/sangre-ferrolana-mejores-coches-127-galicia/0003_202610F13C4_COPY991.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fene oferta unha mostra de fotografías feitas por mulleres vítimas da violencia machista",
+      "description": "Estará aberta ao público de balde ata o próximo 21 de outubro no salón de plenos municipal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/12/span-langglfene-oferta-unha-mostra-fotografias-feitas-mulleres-vitimas-da-violencia-machistaspan/00031791814395468385234.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Más talento de Ferrol en videojuegos",
+      "description": "Alumnado del campus presentó tres propuestas en el salón sectorial de Barcelona",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/13/talento-ferrolano-videojuegos/0003_202610F13C8993.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Pontedeume se engancha al terror y a las leyendas",
+      "description": "Un nuevo festival literario que tendrá lugar del 30 de este mes al 1 de noviembre mezclará la tradición oral de la villa con la literatura fantástica y de misterio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/13/pontedeume-engancha-terror-leyendas/0003_202610F13C6991.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Guardia Civil celebra su patrona de la Virgen del Pilar en Ferrol",
+      "description": "Acudieron representantes de la Benemérita junto con otros cargos en la ciudad, como el alcalde, la comisaria de la Policía Nacional o el fiscal jefe",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/13/guardia-civil-celebra-patrona-virgen-pilar/0003_202610F13C3_COPY992.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La tienda de moda Maldita Shop conquista el mercado digital desde Cedeira: «Desde aquí se puede llegar lejos»",
+      "description": "El comercio de ropa abierto hace tres años por Ana Iglesias Cheda recibe pedidos de clientes de toda España y Portugal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/13/maldita-shop-conquista-mercado-digital-cedeira/0003_202610F13C5991.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Encontro de exalumnos da Sección Delegada de FP de Ortigueira, o 14 de novembro",
+      "description": "Estudantes daquel centro organiza a xuntanza polo 50 aniversario da súa posta en marcha",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/13/span-langglencontro-exalumnos-da-seccion-delegada-fp-ortigueira-14-novembrospan/0003_202610F13C5992.htm",
+      "time": "2026-10-13T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "RESOLUCIÓN de 6 de octubre de 2026, de la Dirección General de Empleo Público y Administración de Personal, por la que se anuncia la exposición de las listas definitivas de personas admitidas y excluidas de los criterios de reparto del Fondo de Acción Social del ejercicio económico 2025, relativos a la ayuda para la atención de personas con discapacidad.",
       "description": "III. Otras disposiciones Consellería de Hacienda y Administración Pública",
@@ -1353,123 +1461,6 @@
       "description": "El jugador del Racing agradeció el impulso para sumar de tres en la que fue, además, su segunda titularidad del curso",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/11/esquerdodaba-impresion-estabamos-jugando-casa/00031791719485172267476.htm",
       "time": "2026-10-11T11:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Miedo a los ladrones en Valdoviño: «Pueden volver en cualquier momento»",
-      "description": "Los hosteleros alertan sobre la creciente ola de robos, con los cacos llevándose la recaudación e incluso agrediendo a un gerente",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/11/miedo-ladrones-valdovino/0003_202610F11C1992.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Terminal de cruceros sin monopolios: clave para incrementar el negocio en Ferrol",
-      "description": "La ciudad se beneficiará también de la red internacional de Global Ports",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/11/terminal-cruceros-monopolios-clave-incrementar-negocio/0003_202610F11C4991.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La mala cosecha, por la sequía y las velutinas, marcará la Feira do Mel de Narón, el día 18",
-      "description": "Solo dos de los nueve apicultores que acudirán son de la zona",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/11/mala-cosecha-sequia-velutinas-marcaran-feira-do-mel-naron-dia-18/0003_202610F11C8991.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Revolución industrial 5.0 para un astillero centenario",
-      "description": "La construcción de las fragatas F-110 sirvió de catalizador para la transformación de Navantia Ferrol con una inyección histórica de 200 millones",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/11/revolucion-industrial-50-astillero-centenario/0003_202610G11P28991.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El magistrado Morán Llordén recibe el premio Faba de Plata",
-      "description": "Lo concede la Asociación Asturiana Ferrolterra-Peña Les Fabes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/10/magistrado-moran-llorden-recibe-premio-faba-plata/00031791640095283178845.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Manu Fraguela, zanfonista: «Escoito de todo, a referentes como Os Cempés, pero tamén son superfan de Rosalía e de Guitarrica de la Fuente»",
-      "description": "Con so 19 anos, Manu Fraguela xa é unha experimentada instrumentista, pero sigue aprendendo con Óscar Fernández",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/11/span-langglescoitospan-referentes-os-cempes-superfan-rosalia/0003_202610F11C12993.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Exposición sobre el mundo equino en el castillo de Moeche",
-      "description": "La muestra se puede visitar este domingo, día de la Feira da Faba",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/moeche/2026/10/11/exposicion-sobre-mundo-equino/0003_202610F11C8993.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nueva vida para emblemas industriales de Ferrolterra",
-      "description": "Glekom ultima la transformación y mudanza a la antigua Rubber; Parque Ferrol abrirá las puertas de su primera fase donde en su día reinó Poligal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/11/nueva-vida-emblemas-industriales-ferrolterra/0003_202610F11C2994.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mariángeles Serrano, psicopedagoga: «Las luces con sensor de movimiento pueden salvarle la vida a tu abuelo»",
-      "description": "La experta, afincada en Narón, explica las claves de un hogar seguro para las personas mayores, a través de acciones como colocar carteles, evitar obstáculos u organizar la medicación con pastilleros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/09/mariangeles-serranopsicopedagoga-luces-sensor-movimiento-puede-salvarle-vida-tu-abuelo/00031791566738454118341.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mandina Cortizas, 97 anos: «Ía andando ao mercado de Pontedeume cunha cesta con patacas na cabeza»",
-      "description": "É a quinta de once irmáns, dos que só quedan outras tres mulleres, todas nonaxenarias: «Se todos traballaran coma min, España non estaba así»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/11/span-langglia-pe-ao-mercado-pontedeume-cunha-cesta-patacas-na-cabezaspan/0003_202610F11C9991.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El mirador de Teixido, sobre la imponente cantera de Goente",
-      "description": "De allí se extrajo la piedra para construir la presa del Eume, cuando aún pertenecía al municipio de A Capela, y hoy es una pared de referencia para amantes de la escalada y una ruta por «la zona noble» del parque natural",
-      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/10/11/mirador-teixido-sobre-imponente-cantera-goente/0003_202610G11P39992.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Visitas a la fragata Méndez Núñez en Ferrol antes de una jornada de pesca solidaria",
-      "description": "Continúan los actos de puertas abiertas de la Armada",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/11/visitas-mendez-nunez-jornada-pesca-solidaria/0003_202610F11C4993.htm",
-      "time": "2026-10-11T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Xuntanza de Multilabores en Pontedeume",
-      "description": "Hubo exhibición de artículos y puestos de venta",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/11/cita-multilabores-pontedeume/0003_202610F11C8992.htm",
-      "time": "2026-10-11T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
