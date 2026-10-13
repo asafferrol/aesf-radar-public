@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T11:08:20.938049+00:00",
-  "count": 397,
+  "generated_at": "2026-10-13T18:14:51.261646+00:00",
+  "count": 398,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,78 @@
     }
   },
   "items": [
+    {
+      "title": "Un coche se empotra contra una columna en el aparcamiento de Lidl de Narón",
+      "description": "La salida de vía se produjo a las siete de esta tarde de martes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/13/herido-naron-tras-empotrar-coche-contra-columna-aparcamiento-lidl/00031791912965283653442.htm",
+      "time": "2026-10-13T17:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Corona de plata en Asia para la dupla fenesa formada por Edgar Vigo y Fátima Ameneiro",
+      "description": "La decisión de que la última prueba de la FIA Asia Pacific Rally Championship no fuese puntuable les asegura la segunda posición",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/13/corona-plata-asia-dupla-fenesa-formada-edgar-vigo-fatima-ameneiro/00031791912880475243169.htm",
+      "time": "2026-10-13T17:41:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Once botafumeiros y un merecido respiro para el Mirfak",
+      "description": "La tripulación ferrolana amplió, el pasado septiembre, su nómina de Trofeos Xunta de Galicia con once títulos y se centra ahora en la modalidad snipe",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/13/once-botafumeiros-merecido-respiro-mirfak/00031791911577518694265.htm",
+      "time": "2026-10-13T17:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol, a Grecia para buscar el talón de Aquiles del Olimpiakós",
+      "description": "Se miden a un equipo «construido para pelear por los títulos» en Europa",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/13/baxi-ferrol-grecia-buscar-talon-aquiles-olimpiakos/00031791907326055535801.htm",
+      "time": "2026-10-13T16:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un militar que vendía abortivos a diez euros desde Narón, condenado a tres años y nueve meses de cárcel",
+      "description": "Su pareja y su hermano también aceptan condenas de 18 meses y dos años, tras llegar a una conformidad esta mañana en los juzgados de Ferrol; las ventas se hacían a toda España con redes sociales y falsificación de recetas del ISFAS",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/14/cuatro-anos-prision-militar-vendia-abortivos-diez-euros/0003_202610F14C2_COPY992.htm",
+      "time": "2026-10-13T15:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La brecha del Racing con liderato, un punto más grande que el pasado curso",
+      "description": "A estas alturas, el cuadro naval contaba con 14 puntos y se situaba a cinco de la primera posición",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/13/brecha-racing-lugo-punto-grande-tenerife/00031791898593623797385.htm",
+      "time": "2026-10-13T14:12:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Vari Caramés, premio nacional de fotografía 2026",
+      "description": "El jurado destaca en el fallo su contribución a la renovación cultural gallega desde los años ochenta",
+      "url": "https://www.lavozdegalicia.es/noticia/cultura/2026/10/13/vari-carames-premio-nacional-fotografia-2026/00031791894500061495515.htm",
+      "time": "2026-10-13T12:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los patrones de conducta que auparon al Racing al «playoff»",
+      "description": "Los ferrolanos, con seis goleadores distintos y tres porterías a cero, templan en los arranques, golpean en el momento justo y no sufren tanto en los cierres",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/13/patrones-conducta-auparon-racing-playoff/00031791895111622306654.htm",
+      "time": "2026-10-13T12:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Condenan a Navantia a contratar a un candidato tras una valoración errónea en los méritos de gallego",
       "description": "Se trata de un aspirante a una plaza de Técnico Senior de Emergencia, Seguridad y Salud Laboral en la ría de Ferrol; fue representado por el despacho de Cristóbal Dobarro",
@@ -3531,69 +3603,6 @@
       "description": "Las imágenes de José Suárez se pueden visitar en la plaza de la Constitución hasta el 19 de octubre",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/11/obra-historico-fotografia-galicia-exhibe-canton/00031791744852922927399.htm",
       "time": "2026-10-11T18:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Maggie Doogan lidera al Baxi en su remontada frente al Estepona (84-72)",
-      "description": "Las ferrolanas hacen de A Malata un fortín con pleno de victorias en casa",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/11/baxi-estepona/00031791733976892420100.htm",
-      "time": "2026-10-11T18:02:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las 10 mejores imágenes del Baxi Ferrol-Estepona",
-      "description": "A Malata volvió a registrar una gran entrada para arropar al equipo de Lino López en la Liga Femenina Endesa",
-      "url": "https://www.lavozdegalicia.es/album/deportes/2026/10/11/10-mejores-imagenes-baxi-ferrol-estepona/01101791736012096624207.htm",
-      "time": "2026-10-11T17:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Fallece a los 104 años Olimpia Barcia, víctima de la represión franquista: «Era la última que quedaba de aquel período tan negro en la zona»",
-      "description": "En su entierro, oficiado el domingo en el cementerio de Regoela, en Cabanas, donde nació, sonó «La Internacional»",
-      "url": "https://www.lavozdegalicia.es/noticia/obituarios/2026/10/12/fallece-fenesa-olimpia-barcia-victima-violencia-carcel-franquismo/0003_202610F12C2991.htm",
-      "time": "2026-10-11T16:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Iago Fuertes se queda a las puertas del cuadro principal en el P1 de Milán",
-      "description": "El naronés cayó frente a la dupla italiana de Perino-Domínguez, mucho más arriba en el ránking mundial",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/11/iago-fuertes-queda-puerta-cuadro-principal-p1-milan/00031791728904027540215.htm",
-      "time": "2026-10-11T14:35:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing Club Ferrol, de cabeza al «playoff»",
-      "description": "Los de Javi Vázquez, a la espera del duelo entre los dos primeros, se aseguran pasar la tercera semana en tercera posición",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/11/racing-club-ferrol-cabeza-playoff/00031791725048787253313.htm",
-      "time": "2026-10-11T13:34:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una permuta inesperada que apuntala el vestuario del Racing Club Ferrol",
-      "description": "Bernal, que lo había jugado todo hasta la salida del Racing a Abanca Riazor, cedió el sitio a Esquerdo por decisión personal de Javi Vázquez: «Da igual el doble pivote que saquemos»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/11/permuta-inesperada-apuntala-vestuario-racing-club-ferrol/00031791722176496640522.htm",
-      "time": "2026-10-11T12:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Esquerdo: «Daba la impresión de que estábamos jugando en casa»",
-      "description": "El jugador del Racing agradeció el impulso para sumar de tres en la que fue, además, su segunda titularidad del curso",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/11/esquerdodaba-impresion-estabamos-jugando-casa/00031791719485172267476.htm",
-      "time": "2026-10-11T11:56:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
