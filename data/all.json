@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:16:12.187745+00:00",
+  "generated_at": "2026-10-14T17:18:04.141026+00:00",
   "count": 630,
   "sources": {
     "lavoz_ferrol": {
@@ -26,10 +26,46 @@
   },
   "items": [
     {
+      "title": "Eric Monjonell, un puntal inesperado en la defensa del Racing de Ferrol",
+      "description": "El central acumula 605 de los 630 minutos disputados por el equipo en liga",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/eric-monjonell-puntal-inesperado-defensa-racing-ferrol/00031791993454316969584.htm",
+      "time": "2026-10-14T16:43:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El portero Emilio Bernad se reencuentra con el conjunto verde",
+      "description": "El jugador estuvo en el Racing de Ferrol en las temporada 2023-2024 y 2024-2025",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/portero-emilio-bernad-reencuentra-conjunto-verde/00031791993613178375291.htm",
+      "time": "2026-10-14T16:43:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Concello acondiciona el anexo de A Malata tras el desbroce del campo",
+      "description": "La actuación, encargada a la Concejalía de Servizos, se realizó con la nueva maquinaria municipal",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/concello-acondiciona-anexo-malata-tras-desbroce-campo/00031791993883692820731.htm",
+      "time": "2026-10-14T16:43:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
       "title": "De Fene a «La Voz»: Melendi y Mika se rinden a Isma Taboada",
       "description": "Familiares y amigos del artista se reunieron en el ambigú de Agarimos de Sillobre para arropar al cantautor",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/fene-voz-melendi-mika-rinden-isma-taboada/00031791975100795462360.htm",
       "time": "2026-10-14T11:34:07+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Sindicato Unificado de Policía reelige a Abel Lobato como secretario general provincial en A Coruña",
+      "description": "El principal objetivo del representante del SUP será aumentar las plantillas de todas las comisarías",
+      "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/10/14/sindicato-unificado-policia-reelige-abel-lobato-secretario-general-provincial-coruna/00031791975132375633869.htm",
+      "time": "2026-10-14T11:08:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
@@ -5655,42 +5691,6 @@
       "description": "Con más de tres décadas de experiencia continuada, incluyendo una aventura internacional, el ferrolano afronta ahora una ilusionante etapa en Tarragona",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/12/chiqui-barrossiento-nunca-fui-mejor-entrenador-/00031791826840681184895.htm",
       "time": "2026-10-12T17:48:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las comisiones del área de Ferrol trabajan a un año vista en las fiestas del 2027: «Ya tenemos todo contratado»",
-      "description": "Las organizaciones comienzan con los preparativos de las celebraciones estivales nada más terminar la edición anterior y «ya hay que hacer malabares con algunas orquestas»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/13/comisiones-trabajan-ano-vista-fiestas-2027-tenemos-contratado/0003_202610F13C2991.htm",
-      "time": "2026-10-12T15:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Herido el conductor de un vehículo que chocó contra un árbol en O Ermo, en Ortigueira",
-      "description": "El accidente se produjo en torno a las diez de la noche del domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/12/herido-conductor-vehiculo-choco-contra-arbol-ermo-ortigueira/00031791817479947419334.htm",
-      "time": "2026-10-12T15:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Centenariazo de Melia, que es ya la extranjera más longeva del Baxi Ferrol",
-      "description": "La irlandesa, que jugó este fin de semana su partido 100, supera a Jenna Allen en el histórico del club",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/12/centenariazo-melia-extranjera-longeva-baxi-ferrol/00031791814313464716987.htm",
-      "time": "2026-10-12T14:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arranca el desfile de entrenadores en Primera Federación",
-      "description": "Juventud Torremolinos y SD Huesca, ambos en el Grupo 2, acuñaron las primeras destituciones",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/12/arranca-desfile-entrenadores-primera-federacion/00031791811921743179735.htm",
-      "time": "2026-10-12T13:36:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
