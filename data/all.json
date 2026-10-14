@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T17:18:04.141026+00:00",
-  "count": 630,
+  "generated_at": "2026-10-14T20:46:21.618461+00:00",
+  "count": 632,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Lino López: «Siempre fuimos detrás en todos los sentidos»",
+      "description": "El técnico ferrolano puso en valor el esfuerzo de sus jugadoras, pese a que no fue suficiente para batir a las griegas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/lino-lopez-siempre-fuimos-detras-sentidos/00031792002848758282860.htm",
+      "time": "2026-10-14T18:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol se estrella contra el muro del Olimpiakós en Grecia (96-68)",
+      "description": "Las de Lino sucumbieron por 28 puntos ante la presión de las locales",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/baxi-ferrol-estrella-contra-muro-olimpiakos-grecia-96-68/00031792002535510416847.htm",
+      "time": "2026-10-14T18:34:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Colisión por alcance entre tres coches en Fene",
+      "description": "En Ferrol, otro vehículo se salió de la vía cuando circulaba por la autopista a su paso por Santa Mariña en dirección al puerto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/colision-alcance-tres-vehiculos-fene/00031792000151056295114.htm",
+      "time": "2026-10-14T18:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Eric Monjonell, un puntal inesperado en la defensa del Racing de Ferrol",
       "description": "El central acumula 605 de los 630 minutos disputados por el equipo en liga",
@@ -5685,15 +5712,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Chiqui Barros: «Siento que nunca fui mejor entrenador de lo que soy ahora»",
-      "description": "Con más de tres décadas de experiencia continuada, incluyendo una aventura internacional, el ferrolano afronta ahora una ilusionante etapa en Tarragona",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/12/chiqui-barrossiento-nunca-fui-mejor-entrenador-/00031791826840681184895.htm",
-      "time": "2026-10-12T17:48:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
