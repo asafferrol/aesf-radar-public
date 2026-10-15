@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T16:26:16.855294+00:00",
-  "count": 567,
+  "generated_at": "2026-10-15T19:58:43.714741+00:00",
+  "count": 569,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "Gaizka Altun, debutante en la categoría, dirigirá el encuentro frente al Unionistas",
+      "description": "El árbitro será la primera vez que dirija un partido para ambos equipos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/15/gaizka-altun-debutante-categoria-dirigira-encuentro-frente-unionistas/00031792083312328890496.htm",
+      "time": "2026-10-15T17:07:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Club de Baile Deportivo Narón conquista España",
+      "description": "Alberto López y Hugo Regose proclamaron campeones de España de Dúo Sincro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/club-baile-deportivo-naron-conquista-espana/00031792083859453601153.htm",
+      "time": "2026-10-15T17:07:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Manolo Berenguel: «Debemos hacernos fuertes en casa y no dar nada por perdido»",
+      "description": "El entrenador debutará el sábado al frente del Aldebarán Intasa San Sadurniño recibiendo en la Superliga al Pamesa Teruel a las 19.30 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/manolo-berengueldebemos-hacernos-fuertes-casa-dar-perdido/00031792083658876425352.htm",
+      "time": "2026-10-15T17:07:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Emilio Bernad: «Tengo muchas ganas de volver a la que fue mi casa durante dos años»",
+      "description": "El guardameta de Unionistas se medirá este sábado al Racing en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/15/emilio-bernad-ganas-volver-casa-durante-dos-anos/00031792083008232485812.htm",
+      "time": "2026-10-15T17:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Álvaro Ramón, sancionado con un partido por su expulsión",
+      "description": "El lateral se perderá el encuentro del sábado frente a Unionistas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/15/alvaro-ramon-sancionado-partido-expulsion/00031792083188760994488.htm",
+      "time": "2026-10-15T17:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La justicia estima que el Grupo Yáñez tuvo unas pérdidas de 8,1 millones de euros",
       "description": "El Supremo dice que el caso del concesionario debe juzgarse en el Mercantil; la empresa operaba como distribuidora de Volkswagen con puntos de venta en Ferrol, A Coruña y Santiago, y quería que el despido colectivo se dirimiese en el Social",
@@ -5100,33 +5145,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Un coche se empotra contra una columna en el aparcamiento de Lidl de Narón",
-      "description": "La salida de vía se produjo a las siete de esta tarde de martes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/13/herido-naron-tras-empotrar-coche-contra-columna-aparcamiento-lidl/00031791912965283653442.htm",
-      "time": "2026-10-13T17:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Corona de plata en Asia para la dupla fenesa formada por Edgar Vigo y Fátima Ameneiro",
-      "description": "La decisión de que la última prueba de la FIA Asia Pacific Rally Championship no fuese puntuable les asegura la segunda posición",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/13/corona-plata-asia-dupla-fenesa-formada-edgar-vigo-fatima-ameneiro/00031791912880475243169.htm",
-      "time": "2026-10-13T17:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Once botafumeiros y un merecido respiro para el Mirfak",
-      "description": "La tripulación ferrolana amplió, el pasado septiembre, su nómina de Trofeos Xunta de Galicia con once títulos y se centra ahora en la modalidad snipe",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/13/once-botafumeiros-merecido-respiro-mirfak/00031791911577518694265.htm",
-      "time": "2026-10-13T17:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
