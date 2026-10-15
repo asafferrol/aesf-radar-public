@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T11:57:14.117704+00:00",
-  "count": 570,
+  "generated_at": "2026-10-15T16:26:16.855294+00:00",
+  "count": 567,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "La justicia estima que el Grupo Yáñez tuvo unas pérdidas de 8,1 millones de euros",
+      "description": "El Supremo dice que el caso del concesionario debe juzgarse en el Mercantil; la empresa operaba como distribuidora de Volkswagen con puntos de venta en Ferrol, A Coruña y Santiago, y quería que el despido colectivo se dirimiese en el Social",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/justicia-estima-yanez-perdidas-81-millones-euros/0003_202610F16C5_COPY992.htm",
+      "time": "2026-10-15T16:01:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las cámaras permiten identificar al conductor del coche que atropelló a una joven el lunes en Cedeira",
+      "description": "Los datos facilitados por la mujer, que sufrió magulladuras, y la grabación resultaron clave para localizar al autor",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/15/camaras-permiten-identificar-conductor-coche-atropello-joven-lunes-cedeira/00031792073857873749472.htm",
+      "time": "2026-10-15T14:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Suso Basterrechea, candidato de Esquerda Unida a las municipales de Ferrol",
       "description": "Optará al proceso para elegir un alcaldable en el frente de izquierdas, en el que ya está claro el aspirante de Sumar; y falta por determinar cuáles serán los de Ferrol en Común, Anova y Podemos",
@@ -5106,51 +5124,6 @@
       "description": "La tripulación ferrolana amplió, el pasado septiembre, su nómina de Trofeos Xunta de Galicia con once títulos y se centra ahora en la modalidad snipe",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/13/once-botafumeiros-merecido-respiro-mirfak/00031791911577518694265.htm",
       "time": "2026-10-13T17:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol, a Grecia para buscar el talón de Aquiles del Olimpiakós",
-      "description": "Se miden a un equipo «construido para pelear por los títulos» en Europa",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/13/baxi-ferrol-grecia-buscar-talon-aquiles-olimpiakos/00031791907326055535801.htm",
-      "time": "2026-10-13T16:13:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un militar que vendía abortivos a diez euros desde Narón, condenado a tres años y nueve meses de cárcel",
-      "description": "Su pareja y su hermano también aceptan condenas de 18 meses y dos años, tras llegar a una conformidad esta mañana en los juzgados de Ferrol; las ventas se hacían a toda España con redes sociales y falsificación de recetas del ISFAS",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/14/cuatro-anos-prision-militar-vendia-abortivos-diez-euros/0003_202610F14C2_COPY992.htm",
-      "time": "2026-10-13T15:13:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La brecha del Racing con liderato, un punto más grande que el pasado curso",
-      "description": "A estas alturas, el cuadro naval contaba con 14 puntos y se situaba a cinco de la primera posición",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/13/brecha-racing-lugo-punto-grande-tenerife/00031791898593623797385.htm",
-      "time": "2026-10-13T14:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vari Caramés, premio nacional de fotografía 2026",
-      "description": "El jurado destaca en el fallo su contribución a la renovación cultural gallega desde los años ochenta",
-      "url": "https://www.lavozdegalicia.es/noticia/cultura/2026/10/13/vari-carames-premio-nacional-fotografia-2026/00031791894500061495515.htm",
-      "time": "2026-10-13T12:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los patrones de conducta que auparon al Racing al «playoff»",
-      "description": "Los ferrolanos, con seis goleadores distintos y tres porterías a cero, templan en los arranques, golpean en el momento justo y no sufren tanto en los cierres",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/13/patrones-conducta-auparon-racing-playoff/00031791895111622306654.htm",
-      "time": "2026-10-13T12:47:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
