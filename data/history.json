@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 520,
+  "count": 518,
   "items": [
+    {
+      "title": "Que el ritmo no pare, la máxima del Baxi Ferrol en su salida Valencia",
+      "description": "Imprimir velocidad al juego y crecer como bloque son las premisas de Lino López para la visita de las ferrolanas al reciente campeón de la Supercopa de España",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/16/ritmo-pare-maxima-baxi-ferrol-salida-valencia/00031792173900791194809.htm",
+      "time": "2026-10-16T18:11:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Carta a Uxía de súa nai, Paloma, desde O Barqueiro",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/16/uxia/00031792171570214470183.htm",
+      "time": "2026-10-16T17:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "En el Racing-Unionistas, todos los caminos llevan a Saúl",
+      "description": "El lateral cántabro sustituirá al sancionado Álvaro Ramón en la visita de los charros, con la confianza absoluta del técnico Javi Vázquez",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/16/racing-unionistas-caminos-llevan-saul/00031792161539222161489.htm",
+      "time": "2026-10-16T14:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La convocatoria de Álex González, prácticamente descartada en el Racing",
       "description": "Javi Vázquez, que cuenta únicamente con Saúl como lateral izquierdo, explicó que el contexto de la UD Somozas no es propicia para tirar del filial en la visita de Unionistas",
@@ -4633,51 +4660,6 @@
       "description": "Las de Lino sucumbieron por 28 puntos ante la presión de las locales",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/baxi-ferrol-estrella-contra-muro-olimpiakos-grecia-96-68/00031792002535510416847.htm",
       "time": "2026-10-14T18:34:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Colisión por alcance entre tres coches en Fene",
-      "description": "En Ferrol, otro vehículo se salió de la vía cuando circulaba por la autopista a su paso por Santa Mariña en dirección al puerto",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/colision-alcance-tres-vehiculos-fene/00031792000151056295114.htm",
-      "time": "2026-10-14T18:15:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Plan Único de la Diputación bate un nuevo récord con 178 millones",
-      "description": "Las comarcas de Ferrolterra, Eume y Ortegal recibirán casi 4,6 millones en esta nueva remesa y alcanzarán los 33,2 millones",
-      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/10/15/plan-unico-diputacion-bate-nuevo-record-178-millones/0003_202610H15C6991.htm",
-      "time": "2026-10-14T16:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Eric Monjonell, un puntal inesperado en la defensa del Racing de Ferrol",
-      "description": "El central acumula 605 de los 630 minutos disputados por el equipo en liga",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/eric-monjonell-puntal-inesperado-defensa-racing-ferrol/00031791993454316969584.htm",
-      "time": "2026-10-14T16:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El portero Emilio Bernad se reencuentra con el conjunto verde",
-      "description": "El jugador estuvo en el Racing de Ferrol en las temporada 2023-2024 y 2024-2025",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/portero-emilio-bernad-reencuentra-conjunto-verde/00031791993613178375291.htm",
-      "time": "2026-10-14T16:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Concello acondiciona el anexo de A Malata tras el desbroce del campo",
-      "description": "La actuación, encargada a la Concejalía de Servizos, se realizó con la nueva maquinaria municipal",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/concello-acondiciona-anexo-malata-tras-desbroce-campo/00031791993883692820731.htm",
-      "time": "2026-10-14T16:43:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
