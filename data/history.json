@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 519,
+  "count": 520,
   "items": [
+    {
+      "title": "La convocatoria de Álex González, prácticamente descartada en el Racing",
+      "description": "Javi Vázquez, que cuenta únicamente con Saúl como lateral izquierdo, explicó que el contexto de la UD Somozas no es propicia para tirar del filial en la visita de Unionistas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/16/convocatoria-alex-gonzalez-practicamente-descartada-racing/00031792157053226462583.htm",
+      "time": "2026-10-16T13:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Diabillo Verde regresa a casa después de un largo retiro: «Lo está deseando»",
+      "description": "El diseño, con el que Julio Ferrín ganó el concurso de mascotas del Racing Club Ferrol en el 2001, retorna para impulsar a los de Javi Vázquez",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/15/diabillo-verde-regresa-casa-despues-largo-retiro/00031792067200687686974.htm",
+      "time": "2026-10-16T11:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Estoy encantado de que Saúl pueda jugar de titular»",
+      "description": "El técnico alerta del crecimiento de Unionistas y busca prolongar la fortaleza del Racing en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/16/javi-vazquez-encantado-saul-pueda-jugar-titular/00031792142231888346466.htm",
+      "time": "2026-10-16T10:31:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Asalta un restaurante de Fene para llevarse vino, 200 cubiertos y dos robots de cocina",
       "description": "La Guardia Civil detuvo a un vecino de esta localidad como presunto autor del robo con fuerza, el individuo ponía después todo a la venta",
@@ -4651,24 +4678,6 @@
       "description": "La actuación, encargada a la Concejalía de Servizos, se realizó con la nueva maquinaria municipal",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/concello-acondiciona-anexo-malata-tras-desbroce-campo/00031791993883692820731.htm",
       "time": "2026-10-14T16:43:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "De Fene a «La Voz»: Melendi y Mika se rinden a Isma Taboada",
-      "description": "Familiares y amigos del artista se reunieron en el ambigú de Agarimos de Sillobre para arropar al cantautor",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/fene-voz-melendi-mika-rinden-isma-taboada/00031791975100795462360.htm",
-      "time": "2026-10-14T11:34:07+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Sindicato Unificado de Policía reelige a Abel Lobato como secretario general provincial en A Coruña",
-      "description": "El principal objetivo del representante del SUP será aumentar las plantillas de todas las comisarías",
-      "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/10/14/sindicato-unificado-policia-reelige-abel-lobato-secretario-general-provincial-coruna/00031791975132375633869.htm",
-      "time": "2026-10-14T11:08:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
