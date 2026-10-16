@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 516,
+  "count": 519,
   "items": [
+    {
+      "title": "Asalta un restaurante de Fene para llevarse vino, 200 cubiertos y dos robots de cocina",
+      "description": "La Guardia Civil detuvo a un vecino de esta localidad como presunto autor del robo con fuerza, el individuo ponía después todo a la venta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/asalta-restaurante-fene-llevarse-vino-200-cubiertos-dos-robots-cocina/00031792135395791129113.htm",
+      "time": "2026-10-16T07:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Toma forma la superestructura del viaducto del tren al puerto exterior de Ferrol",
       "description": "Representantes de la empresa nacional ferroviaria india visitaron la infraestructura",
@@ -123,6 +132,24 @@
       "title": "Parque Ferrol inaugura hoy su nueva tienda, MGI",
       "description": "Los primeros 300 visitantes tendrán premio",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/parque-ferrol-inaugura-hoy-nueva-tienda-mgi/0003_202610F16C3994.htm",
+      "time": "2026-10-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una comerciante de Ferrol con varices y obesidad pide la incapacidad permanente, y se la deniegan",
+      "description": "El TSXG considera que no hay opción para tener la total ni la absoluta: «Su profesión consiste en la alternancia postural»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/niegan-incapacidad-permanente-comerciante-varices/0003_202610F16C5_COPY994.htm",
+      "time": "2026-10-16T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Opositores que lograron plaza en los juzgados de Ferrol en 2023 aún no entraron a trabajar",
+      "description": "Los sindicatos lamentan que la falta de personal provoca «que no se ejecuten sentencias por lo que hay dinero bloqueado en el Tribunal de Instancia, y que se suspendan juicios en el Penal»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/opositores-lograron-plaza-juzgados-2023-entraron-trabajar/0003_202610F16C5_COPY995.htm",
       "time": "2026-10-16T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",

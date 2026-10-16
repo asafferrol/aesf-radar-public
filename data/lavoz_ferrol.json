@@ -1,8 +1,35 @@
 [
   {
+    "title": "Asalta un restaurante de Fene para llevarse vino, 200 cubiertos y dos robots de cocina",
+    "description": "La Guardia Civil detuvo a un vecino de esta localidad como presunto autor del robo con fuerza, el individuo ponía después todo a la venta",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/asalta-restaurante-fene-llevarse-vino-200-cubiertos-dos-robots-cocina/00031792135395791129113.htm",
+    "time": "2026-10-16T07:36:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Toma forma la superestructura del viaducto del tren al puerto exterior de Ferrol",
     "description": "Representantes de la empresa nacional ferroviaria india visitaron la infraestructura",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/toma-forma-superestructura-viaducto-tren-puerto-exterior-ferrol/0003_202610F16C3991.htm",
+    "time": "2026-10-16T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Una comerciante de Ferrol con varices y obesidad pide la incapacidad permanente, y se la deniegan",
+    "description": "El TSXG considera que no hay opción para tener la total ni la absoluta: «Su profesión consiste en la alternancia postural»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/niegan-incapacidad-permanente-comerciante-varices/0003_202610F16C5_COPY994.htm",
+    "time": "2026-10-16T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Opositores que lograron plaza en los juzgados de Ferrol en 2023 aún no entraron a trabajar",
+    "description": "Los sindicatos lamentan que la falta de personal provoca «que no se ejecuten sentencias por lo que hay dinero bloqueado en el Tribunal de Instancia, y que se suspendan juicios en el Penal»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/opositores-lograron-plaza-juzgados-2023-entraron-trabajar/0003_202610F16C5_COPY995.htm",
     "time": "2026-10-16T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -21,24 +48,6 @@
     "title": "Un 40 % más de turistas en septiembre en Ferrol",
     "description": "Las pernoctas aumentaron casi un 50 %",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/40-turistas-septiembre/0003_202610F16C2994.htm",
-    "time": "2026-10-16T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El refugio de animales de Mougá, en Ferrol, logra 34 adopciones en septiembre",
-    "description": "El servicio de lacería de la Mancomunidade de Concellos da Comarca de Ferrol recogió el pasado mes 58 animales de la vía pública",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/refugio-animales-mouga-logra-34-adopciones-pasado-mes/0003_202610F16C2993.htm",
-    "time": "2026-10-16T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Jorge Ulla: «Narón debe ser protagonista da transformación industrial que traerá SAIC»",
-    "description": "Defendeu que a dimensión deste proxecto representa unha oportunidade para que Narón recupere o seu papel como motor industrial da comarca",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/16/jorge-ulla-naron-debe-protagonista-da-transformacion-industrial-traera-saic/0003_202610F16C4994.htm",
     "time": "2026-10-16T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -99,15 +108,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Cedeira reunirá a 300 palilleiras en un encuentro que cumple veinte años",
-    "description": "La Asociación de Mulleres Vila de Cedeira organiza la cita del día 17 en el pabellón municipal",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/16/cedeira-reunira-300-palilleiras-cita-cumple-20-anos/0003_202610F16C6994.htm",
-    "time": "2026-10-16T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Narón se suma a Enreguéifate, el proyecto colaborativo que lleva la regueifa a las aulas",
     "description": "Con Narón y A Baña, que se incorporan ahora, son ya ocho los concellos que lo sacan adelante",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/naron-suma-enregueifate-proyecto-colaborativo-lleva-regueifa-aulas/0003_202610F16C4992.htm",
@@ -120,6 +120,24 @@
     "title": "Parque Ferrol inaugura hoy su nueva tienda, MGI",
     "description": "Los primeros 300 visitantes tendrán premio",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/parque-ferrol-inaugura-hoy-nueva-tienda-mgi/0003_202610F16C3994.htm",
+    "time": "2026-10-16T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Jorge Ulla: «Narón debe ser protagonista da transformación industrial que traerá SAIC»",
+    "description": "Defendeu que a dimensión deste proxecto representa unha oportunidade para que Narón recupere o seu papel como motor industrial da comarca",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/16/jorge-ulla-naron-debe-protagonista-da-transformacion-industrial-traera-saic/0003_202610F16C4994.htm",
+    "time": "2026-10-16T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El refugio de animales de Mougá, en Ferrol, logra 34 adopciones en septiembre",
+    "description": "El servicio de lacería de la Mancomunidade de Concellos da Comarca de Ferrol recogió el pasado mes 58 animales de la vía pública",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/refugio-animales-mouga-logra-34-adopciones-pasado-mes/0003_202610F16C2993.htm",
     "time": "2026-10-16T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -207,6 +225,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Suso Basterrechea, candidato de Esquerda Unida a las municipales de Ferrol",
+    "description": "Optará al proceso para elegir un alcaldable en el frente de izquierdas, en el que ya está claro el aspirante de Sumar; y falta por determinar cuáles serán los de Ferrol en Común, Anova y Podemos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/15/suso-basterrechea-candidato-esquerda-unida-municipales-ferrol/00031792057902845915402.htm",
+    "time": "2026-10-15T10:23:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "De costura a primeros auxilios: todo lo que puedes aprender este otoño en Ferrolterra, Eume y Ortegal",
     "description": "Los municipios de la ría ofrecen durante los próximos meses cursos que abarcan desde la prevención de riesgos en el hogar hasta la psicología",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/costura-primeros-auxilios-puede-aprender-otono/0003_202610F15C5991.htm",
@@ -225,18 +252,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El congreso eólico marino en Ferrol se aplaza al 2027 por la huelga general",
-    "description": "Organizan GOE-Asime y la Asociación Empresarial Eólica",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/congreso-eolico-marino-ferrol-aplaza-2027-huelga-general/0003_202610F15C3993.htm",
+    "title": "El embalse de As Forcadas, a un tercio de su capacidad, el mínimo histórico",
+    "description": "Preocupación por el bajo nivel, al 34 %: «La única solución es que llueva»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/as-forcadas-minimo-historico/0003_202610F15C2991.htm",
     "time": "2026-10-15T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Misión comercial de la Cámara en Marruecos",
-    "description": "Sectores como la agroalimentación, pesca, naval y su industria auxiliar, energías renovables, gestión del agua y residuos, construcción, logística y soluciones tecnológicas ofrecen un amplio potencial para la actividad empresarial gallega",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/mision-camara-marruecos/0003_202610F15C3992.htm",
+    "title": "En busca de un modelo de gestión para el polígono de Río do Pozo",
+    "description": "Cofer trata de reactivar el proyecto de crear una Entidad de Conservación, Xestión e Modernización, para dirimir directamente servicios comunitarios",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/15/busca-modelo-gestion-poligono-rio-do-pozo/0003_202610F15C3991.htm",
     "time": "2026-10-15T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -256,33 +283,6 @@
     "description": "El central acumula 605 de los 630 minutos disputados por el equipo en liga",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/14/eric-monjonell-puntal-inesperado-defensa-racing-ferrol/00031791993454316969584.htm",
     "time": "2026-10-14T16:43:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Amparo González, médica del 061: «Es posible saber que un bebé no está bien solo con mirarlo»",
-    "description": "«Las convulsiones febriles en niños asustan mucho, pero no son algo grave», asegura esta experta, que impartirá en Neda un curso sobre primeros auxilios en la infancia para el que las plazas se agotaron hace semanas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/13/amparo-gonzalez-medica-061-posible-saber-bebe-bien-solo-mirarlo/00031791908054801663205.htm",
-    "time": "2026-10-14T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un militar que vendía abortivos a diez euros desde Narón, condenado a tres años y nueve meses de cárcel",
-    "description": "Su pareja y su hermano también aceptan condenas de 18 meses y dos años, tras llegar a una conformidad esta mañana en los juzgados de Ferrol; las ventas se hacían a toda España con redes sociales y falsificación de recetas del ISFAS",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/14/cuatro-anos-prision-militar-vendia-abortivos-diez-euros/0003_202610F14C2_COPY992.htm",
-    "time": "2026-10-13T15:13:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Condenan a Navantia a contratar a un candidato tras una valoración errónea en los méritos de gallego",
-    "description": "Se trata de un aspirante a una plaza de Técnico Senior de Emergencia, Seguridad y Salud Laboral en la ría de Ferrol; fue representado por el despacho de Cristóbal Dobarro",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/13/condenan-navantia-contratar-candidato-tras-valoracion-erronea-meritos-gallego/00031791885662638549180.htm",
-    "time": "2026-10-13T10:30:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
