@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T18:26:19.504060+00:00",
-  "count": 518,
+  "generated_at": "2026-10-16T21:29:48.416897+00:00",
+  "count": 517,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Confirman la condena al alcalde de Pontedeume por lesiones a una vecina",
+      "description": "Bernardo Fernández ya ha adelantado que solicitará la nulidad de la sentencia: «No empuje ni siquiera levemente a esa persona»",
+      "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/10/16/confirman-condena-alcalde-pontedeume-lesiones-vecina/00031792182839102831903.htm",
+      "time": "2026-10-16T20:44:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Que el ritmo no pare, la máxima del Baxi Ferrol en su salida Valencia",
       "description": "Imprimir velocidad al juego y crecer como bloque son las premisas de Lino López para la visita de las ferrolanas al reciente campeón de la Supercopa de España",
@@ -4668,24 +4677,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Lino López: «Siempre fuimos detrás en todos los sentidos»",
-      "description": "El técnico ferrolano puso en valor el esfuerzo de sus jugadoras, pese a que no fue suficiente para batir a las griegas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/lino-lopez-siempre-fuimos-detras-sentidos/00031792002848758282860.htm",
-      "time": "2026-10-14T18:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol se estrella contra el muro del Olimpiakós en Grecia (96-68)",
-      "description": "Las de Lino sucumbieron por 28 puntos ante la presión de las locales",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/14/baxi-ferrol-estrella-contra-muro-olimpiakos-grecia-96-68/00031792002535510416847.htm",
-      "time": "2026-10-14T18:34:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
