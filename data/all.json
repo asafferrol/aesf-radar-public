@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T18:52:10.588418+00:00",
-  "count": 586,
+  "generated_at": "2026-10-17T21:04:46.578503+00:00",
+  "count": 587,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 49,
+      "count": 47,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Esmelle se vuelca con la pequeña Julieta",
+      "description": "Música y humor en el festival solidario que se celebró en la parroquia ferrolana",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/esmelle-vuelca-pequena-julieta/0003_202610F18C4992.htm",
+      "time": "2026-10-17T19:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Las diez mejores imagénes de la victoria del Racing Club Ferrol",
       "description": "La vuelta de Diablillo, las novedades en el once y la hora del bocata marcaron la visita de Unionistas",
