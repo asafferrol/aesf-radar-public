@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T10:35:48.314309+00:00",
-  "count": 588,
+  "generated_at": "2026-10-17T13:54:14.424297+00:00",
+  "count": 591,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 50,
+      "count": 49,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "El «1x1» del Racing en su victoria frente a Unionistas",
+      "description": "La coralidad marcó a un equipo notable, que encadena tres victorias consecutivas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/17/1x1-racing-frente-unionistas/00031792221776574927826.htm",
+      "time": "2026-10-17T12:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing Club Ferrol disuelve a Unionistas en A Malata (1-0)",
+      "description": "Un inicio arrollador de los locales, con Arroyo como goleador, abrió una brecha que la insistencia de los charros no logró deshacer",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/17/racing-unionistas/00031792221729756277730.htm",
+      "time": "2026-10-17T12:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La luz verde para que SAIC construya su fábrica de coches eléctricos en Ferrol llegará «en próximas semanas»",
+      "description": "La conselleira de Economía afirma que «hai un compromiso do Goberno para a autorización do Consello de Ministros ao FDI (Inversión Estranxeira Directa), necesario para a sociedade vehicular»; María Jesús Lorenzana también anunció que el polígono industrial de Mougá será el gran proyecto de los presupuestos autonómicos para la zona",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/17/luz-verde-saic-construya-fabrica-coches-electricos-ferrol-llegara-proximas-semanas/00031792236007760587243.htm",
+      "time": "2026-10-17T12:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Aparecen más esvásticas en la Cruz Roja en Ferrol y en la casa de una familia",
       "description": "Es la cuarta vez en este año que esta institución sufre ataques neonazis",
