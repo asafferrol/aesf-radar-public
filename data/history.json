@@ -1,7 +1,79 @@
 {
   "hours": 48,
-  "count": 324,
+  "count": 316,
   "items": [
+    {
+      "title": "Una estación de bus abandonada y otra sin apenas trenes reflejan la situación del transporte en la comarca de Ferrol",
+      "description": "Los usuarios del autobús denuncian las constantes incidencias del servicio, mientras los del ferrocarril reclaman más frecuencias y mejores horarios. El problema se acrecenta para las personas con discapacidad, como Juanjo, que tiene síndrome de Down depende de que su hermano lo lleve a trabar a un polígono de Narón",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/17/estacion-bus-abandonada-apenas-trenes-reflejan-situacion-transporte-comarca-ferrol/00031792259748301956230.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El campus de Ferrol conectará a sus estudiantes con más de cincuenta empresas",
+      "description": "La feria de empleo Festalent reunirá a sectores como el naval, metal o energía",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/18/campus-ferrol-conectara-estudiantes-cincuenta-empresas/0003_202610F18C8991.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cofer y Concello de Ferrol lanzan dos cursos sobre inteligencia artificial y ciberseguridad",
+      "description": "Las acciones formativas son gratuitas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/18/cofer-concello-ferrol-lanzan-dos-cursos-sobre-inteligencia-artificial-ciberseguridad/0003_202610F18C8992.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Protesta personal civil de Defensa para exigir la mejora salarial definitiva",
+      "description": "Será el miércoles ante la delegación de la Agencia Tributaria en Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/18/protesta-personal-civil-defensa-exigir-mejora-salarial-definitiva/0003_202610F18C8993.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La policía frena a los narcos en Ferrol con vigilancia «de lunes a domingo»",
+      "description": "El bloqueo a los campamentos y el asalto a pisos, claves en la lucha antidroga en la zona; la ciudad es la única del noroeste español que queda con poblados de la droga en su interior; el Gobierno central celebra «el trabajo constante» de las fuerzas de seguridad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/18/policia-frena-narcos-ferrol/0003_202610F18C1_COPY992.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Estaca de Bares, estación central de la migración de alcatraces: «Pueden llegar a pasar ochenta mil al día, es espectacular»",
+      "description": "Kees Camphuysen, experto internacional en aves marinas, se ha detenido en el extremo norte peninsular como parte de un estudio de estas aves, que viajan del norte de Europa a África",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/18/estaca-bares-eje-proyecto-investigacion-sobre-migracion-alcatraces/0003_202610F18C9991.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Luisa Montero, capataz forestal: «Coas velutinas te enfrontas a niños de 3.000 avespas que se che botan todas enriba»",
+      "description": "Gustáballe tanto o mar, que estudou Bioloxía Mariña, pero acabou no monte, arrincando eucaliptos, apagando lumes e loitando contra pragas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/span-langglcoas-velutinas-enfrontas-ninos-3000-avespas-che-botan-enribaspan/0003_202610F18C12993.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Nuevo éxito personal y deportivo de Gabry Torres, vecino de Ortigueira con párkinson juvenil",
+      "description": "Compartió su medalla con su amigo Luisma, cariñés con la misma enfermedad, y con la Asociación DreamingAwake Project",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/18/nuevo-exito-personal-deportivo-gabry-torres-vecino-ortigueira-parkinson-juvenil/0003_202610F18C9993.htm",
+      "time": "2026-10-18T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Esmelle se vuelca con la pequeña Julieta",
       "description": "Música y humor en el festival solidario que se celebró en la parroquia ferrolana",
@@ -241,6 +313,15 @@
       "description": "Los despliegues desarrollados por las unidades con base en Ferrol este ejercicio han dado respuesta a las necesidades de Defensa por la situación global",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/17/2026-ano-cambia-foco-armada/0003_202610F17C2996.htm",
       "time": "2026-10-17T02:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fallece un hombre de 81 años en una calle de Ferrol a causa de una parada cardiorrespiratoria",
+      "description": "Un particular avisó al 112, que certificó el fallecimiento",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/17/fallece-hombre-81-anos-via-publica-causa-parada-cardiorrespiratoria/00031792262542067676837.htm",
+      "time": "2026-10-17T02:29:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
@@ -2761,159 +2842,6 @@
       "description": "La Guardia Civil detuvo a un vecino de esta localidad como presunto autor del robo con fuerza, el individuo ponía después todo a la venta",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/asalta-restaurante-fene-llevarse-vino-200-cubiertos-dos-robots-cocina/00031792135395791129113.htm",
       "time": "2026-10-16T07:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Toma forma la superestructura del viaducto del tren al puerto exterior de Ferrol",
-      "description": "Representantes de la empresa nacional ferroviaria india visitaron la infraestructura",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/toma-forma-superestructura-viaducto-tren-puerto-exterior-ferrol/0003_202610F16C3991.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "BBVA renueva su oficina del Callao con zonas para pymes",
-      "description": "Intervinieron Guadalupe Hernández, directora de la Territorial Noroeste de BBVA; Daniel Miguel, director de Zona Galicia Norte de BBVA; y Gonzalo Grasa, director del Centro de Banca de Clientes de BBVA en Ferrol",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/bbva-renueva-oficina-callao-zonas-pymes/0003_202610F16C3993.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un 40 % más de turistas en septiembre en Ferrol",
-      "description": "Las pernoctas aumentaron casi un 50 %",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/40-turistas-septiembre/0003_202610F16C2994.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El refugio de animales de Mougá, en Ferrol, logra 34 adopciones en septiembre",
-      "description": "El servicio de lacería de la Mancomunidade de Concellos da Comarca de Ferrol recogió el pasado mes 58 animales de la vía pública",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/refugio-animales-mouga-logra-34-adopciones-pasado-mes/0003_202610F16C2993.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Jorge Ulla: «Narón debe ser protagonista da transformación industrial que traerá SAIC»",
-      "description": "Defendeu que a dimensión deste proxecto representa unha oportunidade para que Narón recupere o seu papel como motor industrial da comarca",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/16/jorge-ulla-naron-debe-protagonista-da-transformacion-industrial-traera-saic/0003_202610F16C4994.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Sube la venta de test de gripe y covid en el área sanitaria de Ferrol",
-      "description": "Aunque los virus aún no han repuntado en las consultas, las farmacias notan el tirón de los resfriados: «La mayoría se aseguran para no contagiar»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/sube-venta-test-gripe-covid-area-sanitaria-ferrol/00031792085974216631782.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En Sedes no hay tregua",
-      "description": "La parroquia naronesa acogió el segundo encuentro de Cantos de Taberna",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/sedes-tregua/00031792084431813767392.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vuelven los títeres",
-      "description": "El sábado arranca en Ferrol Festea, un ciclo de teatro de marionetas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/vuelven-titeres/00031792084074880484427.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "De Ferrol a la alta cocina: la experiencia de Iñaki Aldrey",
-      "description": "El chef ferrolano elaboró junto a Jordi Cruz unos platos con pimiento de Herbón",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/15/ferrol-alta-cocina-experiencia-inaki-aldrey/00031792083709989245500.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La cofradía de Ferrol inicia los trámites para crear un espacio de degustación en la lonja",
-      "description": "El pósito solicitó hace un mes en la Autoridad Portuaria la concesión para convertir la zona alta de la rula en un espacio para comer marisco",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/cofradia-ferrol-inicia-tramites-crear-espacio-degustacion-lonja/0003_202610F16C4991.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Concello de Ferrol y UDC orientarán a los alumnos para escoger su vocación laboral",
-      "description": "Organizan la segunda Feira de Formación e Educación enfocada a los estudiantes de 15 o 16 años que no tienen claro qué camino elegir",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/concello-udc-orientaran-alumnos-escoger-vocacion-laboral/0003_202610F16C2992.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Cedeira reunirá a 300 palilleiras en un encuentro que cumple veinte años",
-      "description": "La Asociación de Mulleres Vila de Cedeira organiza la cita del día 17 en el pabellón municipal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/16/cedeira-reunira-300-palilleiras-cita-cumple-20-anos/0003_202610F16C6994.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón se suma a Enreguéifate, el proyecto colaborativo que lleva la regueifa a las aulas",
-      "description": "Con Narón y A Baña, que se incorporan ahora, son ya ocho los concellos que lo sacan adelante",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/naron-suma-enregueifate-proyecto-colaborativo-lleva-regueifa-aulas/0003_202610F16C4992.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Parque Ferrol inaugura hoy su nueva tienda, MGI",
-      "description": "Los primeros 300 visitantes tendrán premio",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/parque-ferrol-inaugura-hoy-nueva-tienda-mgi/0003_202610F16C3994.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una comerciante de Ferrol con varices y obesidad pide la incapacidad permanente, y se la deniegan",
-      "description": "El TSXG considera que no hay opción para tener la total ni la absoluta: «Su profesión consiste en la alternancia postural»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/16/niegan-incapacidad-permanente-comerciante-varices/0003_202610F16C5_COPY994.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Opositores que lograron plaza en los juzgados de Ferrol en 2023 aún no entraron a trabajar",
-      "description": "Los sindicatos lamentan que la falta de personal provoca «que no se ejecuten sentencias por lo que hay dinero bloqueado en el Tribunal de Instancia, y que se suspendan juicios en el Penal»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/16/opositores-lograron-plaza-juzgados-2023-entraron-trabajar/0003_202610F16C5_COPY995.htm",
-      "time": "2026-10-16T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las rederas de Cariño, reconocidas en los Premios Nacionales de Mujeres Rurales: «Estamos súper contentas»",
-      "description": "El colectivo, que agrupa a 12 profesionales, ha sido galardonado por la excelencia en innovación en la actividad pesquera",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/16/rederas-carino-reconocidas-premios-nacionales-mujeres-rurales/0003_202610F16C6991.htm",
-      "time": "2026-10-16T02:47:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
