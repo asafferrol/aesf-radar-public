@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 317,
+  "count": 319,
   "items": [
+    {
+      "title": "Narón se endulza la vida con su famosa miel cinco estrellas",
+      "description": "Éxito de público en su Feira do Mel e da Producción Primaria, que se celebraba este domingo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/19/naron-endulza-vida-famosa-miel-cinco-estrellas/0003_202610F19C2994.htm",
+      "time": "2026-10-18T16:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Arroyo, jugador del Racing: «Tenemos que estar preparados para entrar cuando toque»",
+      "description": "El vallisoletano, que acuñó el gol del último triunfo de los ferrolanos tras entrar de emergencia en el once, exalta el crecimiento colectivo de los ferrolanos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/arroyo-jugador-racingtenemos-estar-preparados-entrar-toque/00031792337949820346708.htm",
+      "time": "2026-10-18T15:44:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cuando estar arriba es cosa de todos en el Racing Club Ferrol",
+      "description": "Tras la entrada de Pujol y Saúl, tan solo Sekou, Castro y el lesionado Álvaro Juan están pendientes de estrenar titularidad en un equipo en el que los cambios van más allá del hombre por hombre",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/estar-arriba-racing-club-ferrol/00031792335780163934872.htm",
+      "time": "2026-10-18T14:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Julia Vaquero acercó su historia a la cantera ferrolana de atletismo",
+      "description": "La gallega recibió un homenaje por parte del Club del Ferrol Atletismo y vivió la presentación de su biografía, Chámome Julia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/julia-vaquero-acerco-historia-cantera-ferrolana-atletismo/00031792331542730499842.htm",
+      "time": "2026-10-18T13:56:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Volver a A Malata con el convencimiento de que el Racing va a ganar",
       "description": "En una categoría como Primera Federación, la positividad que transmite Javi Vázquez es básica para que el equipo se mantenga arriba",
@@ -2833,24 +2869,6 @@
       "description": "",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/16/uxia/00031792171570214470183.htm",
       "time": "2026-10-16T17:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En el Racing-Unionistas, todos los caminos llevan a Saúl",
-      "description": "El lateral cántabro sustituirá al sancionado Álvaro Ramón en la visita de los charros, con la confianza absoluta del técnico Javi Vázquez",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/16/racing-unionistas-caminos-llevan-saul/00031792161539222161489.htm",
-      "time": "2026-10-16T14:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La convocatoria de Álex González, prácticamente descartada en el Racing",
-      "description": "Javi Vázquez, que cuenta únicamente con Saúl como lateral izquierdo, explicó que el contexto de la UD Somozas no es propicia para tirar del filial en la visita de Unionistas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/16/convocatoria-alex-gonzalez-practicamente-descartada-racing/00031792157053226462583.htm",
-      "time": "2026-10-16T13:35:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
