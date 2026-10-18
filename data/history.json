@@ -1,6 +1,6 @@
 {
   "hours": 48,
-  "count": 317,
+  "count": 316,
   "items": [
     {
       "title": "Narón se endulza la vida con su famosa miel cinco estrellas",
@@ -2845,15 +2845,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Confirman la condena al alcalde de Pontedeume por lesiones a una vecina",
-      "description": "Bernardo Fernández ya ha adelantado que solicitará la nulidad de la sentencia: «No empuje ni siquiera levemente a esa persona»",
-      "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/10/16/confirman-condena-alcalde-pontedeume-lesiones-vecina/00031792182839102831903.htm",
-      "time": "2026-10-16T20:44:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
