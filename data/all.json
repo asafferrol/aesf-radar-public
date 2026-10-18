@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T09:42:15.978473+00:00",
-  "count": 315,
+  "generated_at": "2026-10-18T13:34:44.719893+00:00",
+  "count": 317,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "Volver a A Malata con el convencimiento de que el Racing va a ganar",
+      "description": "En una categoría como Primera Federación, la positividad que transmite Javi Vázquez es básica para que el equipo se mantenga arriba",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/volver-malata-convencimiento-racing-va-ganar/00031792327051633350110.htm",
+      "time": "2026-10-18T12:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Valencia Basket impone su ley y pasa por encima al Baxi Ferrol (87-50)",
+      "description": "Las ferrolanas no consiguen frenar el acierto exterior de las locales y buscarán recuperar sensaciones en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/valencia-basket-impone-ley-pasa-encima-baxi-ferrol-87-50/00031792324979269578581.htm",
+      "time": "2026-10-18T12:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol y Narón recibirán 45 millones de la Xunta para crear 458 viviendas públicas",
+      "description": "Los presupuestos autonómicos de 2027 incrementan sus partidas en un 40 % para estos proyectos en ambas ciudades",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/19/45-millones-vivienda/0003_202610F19C1991.htm",
+      "time": "2026-10-18T11:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Buscan a los conductores que se dieron a la fuga tras dos accidentes en Ferrol",
+      "description": "Una furgoneta y tres coches quedaron abollados tras el impacto de un vehículo en la noche del viernes al sábado; esta mañana apareció otro turismo abandonado tras una salida de vía en O Vilar",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/18/buscan-conductores-dieron-fuga-tras-dos-accidentes-ferrol/00031792317071178660834.htm",
+      "time": "2026-10-18T10:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Una estación de bus abandonada y otra sin apenas trenes reflejan la situación del transporte en la comarca de Ferrol",
       "description": "Los usuarios del autobús denuncian las constantes incidencias del servicio, mientras los del ferrocarril reclaman más frecuencias y mejores horarios. El problema se acrecenta para las personas con discapacidad, como Juanjo, que tiene síndrome de Down depende de que su hermano lo lleve a trabar a un polígono de Narón",
@@ -2838,24 +2874,6 @@
       "description": "Javi Vázquez, que cuenta únicamente con Saúl como lateral izquierdo, explicó que el contexto de la UD Somozas no es propicia para tirar del filial en la visita de Unionistas",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/16/convocatoria-alex-gonzalez-practicamente-descartada-racing/00031792157053226462583.htm",
       "time": "2026-10-16T13:35:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Diabillo Verde regresa a casa después de un largo retiro: «Lo está deseando»",
-      "description": "El diseño, con el que Julio Ferrín ganó el concurso de mascotas del Racing Club Ferrol en el 2001, retorna para impulsar a los de Javi Vázquez",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/15/diabillo-verde-regresa-casa-despues-largo-retiro/00031792067200687686974.htm",
-      "time": "2026-10-16T11:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Estoy encantado de que Saúl pueda jugar de titular»",
-      "description": "El técnico alerta del crecimiento de Unionistas y busca prolongar la fortaleza del Racing en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/16/javi-vazquez-encantado-saul-pueda-jugar-titular/00031792142231888346466.htm",
-      "time": "2026-10-16T10:31:01+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
