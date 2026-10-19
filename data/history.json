@@ -1,7 +1,61 @@
 {
   "hours": 48,
-  "count": 337,
+  "count": 339,
   "items": [
+    {
+      "title": "Alerta de los comerciantes de Ferrol por el regreso de los ladrones del reparto",
+      "description": "A principios de mes, se anunció la detención de dos personas por asaltar furgones de paquetería en la ría; quedaron libres y ahora vuelven los robos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/19/alerta-comerciantes-ferrol-regreso-ladrones-reparto/00031792425986494970950.htm",
+      "time": "2026-10-19T16:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Mirandés destituye a Antxon Muneta antes de recibir al Racing de Ferrol",
+      "description": "El club rojillo pone fin a la etapa del técnico tras un inicio irregular y prescinde también de Alain Arroyo y César Remón",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/19/mirandes-destituye-antxon-muneta-recibir-racing-ferrol/00031792425752836380937.htm",
+      "time": "2026-10-19T16:05:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Mirandés y Racing de Ferrol, dos caminos que vuelven a cruzarse",
+      "description": "Varios futbolistas militaron en los equipos que se enfrentarán el sábado, e incluso los clubes han vivido una historia reciente con fuertes paralelismos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/19/mirandes-racing-ferrol-dos-caminos-vuelven-cruzarse/00031792424922326778815.htm",
+      "time": "2026-10-19T15:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Costa Ártabra recupera el pulso con victoria de los dos séniors",
+      "description": "El masculino se impuso al filial del Obradoiro, mientras que el femenino venció al CB Ponferrada",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/costa-artabra-recupera-pulso-victoria-dos-seniors/00031792423841852778532.htm",
+      "time": "2026-10-19T15:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol apura la venta de abonos para la Eurocup",
+      "description": "El club abrirá las taquillas de A Malata este lunes y martes para facilitar la compra de los pases para la fase de grupos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/baxi-ferrol-apura-venta-abonos-eurocup/00031792424030983962198.htm",
+      "time": "2026-10-19T15:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ismael Pérez: «Puedes pasarte años fallando hasta que te salga el truco»",
+      "description": "El ferrolano revalidó su título de Best Handstand y triunfó en Portugal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/ismael-perez-puedes-pasarte-anos-fallando-salga-truco/00031792423692369830254.htm",
+      "time": "2026-10-19T15:38:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El patrullero Serviola, con base en Ferrol, vigiló un convoy de buques rusos en aguas nacionales",
       "description": "Hizo la monitorización desde el límite entre España y Portugal hasta Francia",
@@ -2995,42 +3049,6 @@
       "description": "Compartió su medalla con su amigo Luisma, cariñés con la misma enfermedad, y con la Asociación DreamingAwake Project",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/18/nuevo-exito-personal-deportivo-gabry-torres-vecino-ortigueira-parkinson-juvenil/0003_202610F18C9993.htm",
       "time": "2026-10-18T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Esmelle se vuelca con la pequeña Julieta",
-      "description": "Música y humor en el festival solidario que se celebró en la parroquia ferrolana",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/esmelle-vuelca-pequena-julieta/0003_202610F18C4992.htm",
-      "time": "2026-10-17T19:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las diez mejores imagénes de la victoria del Racing Club Ferrol",
-      "description": "La vuelta de Diablillo, las novedades en el once y la hora del bocata marcaron la visita de Unionistas",
-      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/10/17/diez-mejores-imagenes-victoria-racing-club-ferrol/01101792254096207749605.htm",
-      "time": "2026-10-17T16:37:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Tengo veinte jugadores que son una locura»",
-      "description": "El técnico ensalzó la respuesta de Edgar Pujol y Arroyo, protagonistas de una victoria que mantiene el pleno en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/17/javi-vazquez-veinte-jugadores-locura/00031792254487860353191.htm",
-      "time": "2026-10-17T16:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un comodín llamado Edgar Pujol",
-      "description": "El defensa, que no había disputado minutos ligueros esta temporada, suplió la baja de Migue Leal en el lateral derecho y rindió a un gran nivel",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/17/comodin-llamado-edgar-pujol/00031792251281889584858.htm",
-      "time": "2026-10-17T15:37:01+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
