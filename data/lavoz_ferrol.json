@@ -63,10 +63,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Buscan a una vecina de Ferrol de 71 años desaparecida desde el miércoles",
-    "description": "María Trinidad Orrego Montoya mide 1,60 metros, es de origen colombiano y tiene el pelo liso y algo canoso",
+    "title": "Aparece sana y salva la vecina de Ferrol de 71 años desaparecida desde el miércoles: «Gracias a Dios, todo quedó en un susto»",
+    "description": "María Trinidad Orrego Montoya se puso en contacto con su hijo para decirle que estaba bien",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/buscan-vecina-ferrol-71-anos-desaparecida-miercoles/00031792401175262107380.htm",
-    "time": "2026-10-19T09:36:01+00:00",
+    "time": "2026-10-19T09:36:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -171,15 +171,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Luisa Montero, capataz forestal: «Coas velutinas te enfrontas a niños de 3.000 avespas que se che botan todas enriba»",
-    "description": "Gustáballe tanto o mar, que estudou Bioloxía Mariña, pero acabou no monte, arrincando eucaliptos, apagando lumes e loitando contra pragas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/span-langglcoas-velutinas-enfrontas-ninos-3000-avespas-che-botan-enribaspan/0003_202610F18C12993.htm",
-    "time": "2026-10-18T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "La policía frena a los narcos en Ferrol con vigilancia «de lunes a domingo»",
     "description": "El bloqueo a los campamentos y el asalto a pisos, claves en la lucha antidroga en la zona; la ciudad es la única del noroeste español que queda con poblados de la droga en su interior; el Gobierno central celebra «el trabajo constante» de las fuerzas de seguridad",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/18/policia-frena-narcos-ferrol/0003_202610F18C1_COPY992.htm",
@@ -202,6 +193,15 @@
     "description": "Música y humor en el festival solidario que se celebró en la parroquia ferrolana",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/esmelle-vuelca-pequena-julieta/0003_202610F18C4992.htm",
     "time": "2026-10-17T19:23:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "As mulleres rurais: «Sen elas, Ferrol e Galicia serían outras»",
+    "description": "Onte celebrouse o acto conmemorativo do Día da Muller Rural",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/17/span-langglas-mulleres-rurais-sen-elas-ferrol-galicia-serian-outrasspan/0003_202610F17C4993.htm",
+    "time": "2026-10-17T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
