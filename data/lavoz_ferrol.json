@@ -1,5 +1,14 @@
 [
   {
+    "title": "MercaNaVila recibe 6.000 descargas en solo una hora",
+    "description": "Este martes comienza la campaña de la Diputación de A Coruña para fomentar el comercio local en municipios de menos de 20.000 habitantes",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/10/20/mercanavila-6000-descargas-hora/00031792493020971320100.htm",
+    "time": "2026-10-20T20:36:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "La fragata Álvaro de Bazán regresa a casa: «Fue una eternidad»",
     "description": "La F-101, con base en Ferrol, volvió este martes tras cinco meses y medio de navegación",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/20/fragata-alvaro-bazan-regresa-casa-eternidad/00031792519777212505724.htm",
@@ -10,7 +19,7 @@
   },
   {
     "title": "Una fuerte humareda alarma a los vecinos del Camiño do Toxo, en Ferrol",
-    "description": "Bomberos y Policía Local acuden a sofocar un incendio en una chabola que se propagó a la maleza",
+    "description": "Bomberos y Policía Local acuden a sofocar un incendio en la vegetación de una finca, con palmera incluida",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/fuerte-humareda-alarma-vecinos-camino-do-toxo-ferrol/00031792524107447279833.htm",
     "time": "2026-10-20T19:32:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -76,15 +85,6 @@
     "description": "En esta nueva planta la compañía asumirá la integración de tres tipos de plataformas terrestres estratégicas para las Fuerzas Armadas españolas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/21/consejero-delegado-indra-presentara-nueva-fabrica-vehiculos-militares-as-pontes/0003_202610G21P27992.htm",
     "time": "2026-10-20T16:03:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "MercaNaVila recibe 6.000 descargas en solo una hora",
-    "description": "Este martes comienza la campaña de la Diputación de A Coruña para fomentar el comercio local en municipios de menos de 20.000 habitantes",
-    "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/10/20/mercanavila-6000-descargas-hora/00031792493020971320100.htm",
-    "time": "2026-10-20T11:35:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
