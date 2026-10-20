@@ -1,5 +1,77 @@
 [
   {
+    "title": "La fragata Álvaro de Bazán regresa a casa: «Fue una eternidad»",
+    "description": "La F-101, con base en Ferrol, volvió este martes tras cinco meses y medio de navegación",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/20/fragata-alvaro-bazan-regresa-casa-eternidad/00031792519777212505724.htm",
+    "time": "2026-10-20T19:39:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Una fuerte humareda alarma a los vecinos del Camiño do Toxo, en Ferrol",
+    "description": "Bomberos y Policía Local acuden a sofocar un incendio en una chabola que se propagó a la maleza",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/fuerte-humareda-alarma-vecinos-camino-do-toxo-ferrol/00031792524107447279833.htm",
+    "time": "2026-10-20T19:32:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El proyecto UNIcas nace con un homenaje a Patri Cabrera",
+    "description": "El Baxi busca reforzar su vínculo con la ciudad a través de productos, ligados a personas y momentos de su historia",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/unicas/00031792515629973832889.htm",
+    "time": "2026-10-20T17:36:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Lino López reta al Baxi a medirse con la élite europea: «A Malata se tiene que llenar»",
+    "description": "El técnico apela al apoyo de la afición ante la visita de las vigentes campeonas de la Eurocup",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/previa-baxi/00031792515566546394865.htm",
+    "time": "2026-10-20T17:36:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Aday Benítez irrumpe en el banquillo del Mirandés",
+    "description": "El técnico catalán sustituye a Antxon Muneta en el conjunto rojillo",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/entrenador/00031792515301814526535.htm",
+    "time": "2026-10-20T17:25:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Anduva, una visita que genera nerviosismo en el Racing de Ferrol",
+    "description": "El conjunto verde perdió por 4-1 en su último desplazamiento a Miranda",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/anduva/00031792515232905448607.htm",
+    "time": "2026-10-20T17:24:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Racing de Ferrol visitará al Athletic Club B el sábado 14",
+    "description": "La duodécima jornada se disputará a las 13.00 horas",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/racing-ferrol-visitara-athletic-club-b-sabado-14/00031792515349147820176.htm",
+    "time": "2026-10-20T17:05:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Racing refuerza el compromiso con Nuestra Señora de Chamorro",
+    "description": "Álvaro Juan y Fabio González visitaron las instalaciones y conocieron la labor de la sede",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/visita-reforzar-compromiso-asociacion-senora-chamorro/00031792515449058185299.htm",
+    "time": "2026-10-20T17:05:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "El consejero delegado de Indra presentará la nueva fábrica de vehículos militares en As Pontes",
     "description": "En esta nueva planta la compañía asumirá la integración de tres tipos de plataformas terrestres estratégicas para las Fuerzas Armadas españolas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/21/consejero-delegado-indra-presentara-nueva-fabrica-vehiculos-militares-as-pontes/0003_202610G21P27992.htm",
@@ -18,15 +90,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La fragata Álvaro de Bazán vuelve hoy a Ferrol tras marcar hitos en el Pacífico",
-    "description": "Después de un despliegue de más de cinco meses, adelante un día su regreso sobre el calendario previsto",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/fragata-alvaro-bazan-vuelve-ferrol-tras-marcar-hitos-pacifico/00031792493598971541280.htm",
-    "time": "2026-10-20T11:09:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Una colisión entre dos coches en Fene deja a una persona herida",
     "description": "El accidente ocurrió en Maniños y hasta allí se acercaron los servicios sanitarios",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/20/colision-dos-coches-fene-deja-persona-herida/00031792488953653235829.htm",
@@ -39,15 +102,6 @@
     "title": "La vivienda pública y el CHUF centran el grueso de la inversión autonómica para el 2027",
     "description": "La Xunta consigna en los Orzamentos unos 160 millones de euros para la comarca",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/vivienda-publica-chuf-centran-grueso-inversion-autonomica/0003_202610F20C1991.htm",
-    "time": "2026-10-20T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Los divorcios caen en Ferrol: un 33 % menos en dos años",
-    "description": "Así lo indican los datos del Consejo General del Poder Judicial",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/divorcios-caen-ferrol-33-dos-anos/0003_202610F20C5_COPY994.htm",
     "time": "2026-10-20T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -162,46 +216,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El Mirandés destituye a Antxon Muneta antes de recibir al Racing de Ferrol",
-    "description": "El club rojillo pone fin a la etapa del técnico tras un inicio irregular y prescinde también de Alain Arroyo y César Remón",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/19/mirandes-destituye-antxon-muneta-recibir-racing-ferrol/00031792425752836380937.htm",
-    "time": "2026-10-19T16:05:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Mirandés y Racing de Ferrol, dos caminos que vuelven a cruzarse",
     "description": "Varios futbolistas militaron en los equipos que se enfrentarán el sábado, e incluso los clubes han vivido una historia reciente con fuertes paralelismos",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/19/mirandes-racing-ferrol-dos-caminos-vuelven-cruzarse/00031792424922326778815.htm",
     "time": "2026-10-19T15:56:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Costa Ártabra recupera el pulso con victoria de los dos séniors",
-    "description": "El masculino se impuso al filial del Obradoiro, mientras que el femenino venció al CB Ponferrada",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/costa-artabra-recupera-pulso-victoria-dos-seniors/00031792423841852778532.htm",
-    "time": "2026-10-19T15:39:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Baxi Ferrol apura la venta de abonos para la Eurocup",
-    "description": "El club abrirá las taquillas de A Malata este lunes y martes para facilitar la compra de los pases para la fase de grupos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/baxi-ferrol-apura-venta-abonos-eurocup/00031792424030983962198.htm",
-    "time": "2026-10-19T15:39:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Ismael Pérez: «Puedes pasarte años fallando hasta que te salga el truco»",
-    "description": "El ferrolano revalidó su título de Best Handstand y triunfó en Portugal",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/ismael-perez-puedes-pasarte-anos-fallando-salga-truco/00031792423692369830254.htm",
-    "time": "2026-10-19T15:38:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -238,24 +256,6 @@
     "description": "Ángel González Pedreiro, patrón del Brisas de Cedeira, presume de oficio, «el más bonito del mundo», y alerta de la falta de relevo y del impacto de la burocracia",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/pesca-marisqueo/2026/10/19/cedeira-llego-haber-50-volanteros-hoy-9-pescado-dejan-trabajar/0003_202610G19P22991.htm",
     "time": "2026-10-19T02:50:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Cuando estar arriba es cosa de todos en el Racing Club Ferrol",
-    "description": "Tras la entrada de Pujol y Saúl, tan solo Sekou, Castro y el lesionado Álvaro Juan están pendientes de estrenar titularidad en un equipo en el que los cambios van más allá del hombre por hombre",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/estar-arriba-racing-club-ferrol/00031792335780163934872.htm",
-    "time": "2026-10-18T14:45:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Volver a A Malata con el convencimiento de que el Racing va a ganar",
-    "description": "En una categoría como Primera Federación, la positividad que transmite Javi Vázquez es básica para que el equipo se mantenga arriba",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/volver-malata-convencimiento-racing-va-ganar/00031792327051633350110.htm",
-    "time": "2026-10-18T12:46:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

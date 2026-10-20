@@ -1,7 +1,79 @@
 {
   "hours": 48,
-  "count": 642,
+  "count": 650,
   "items": [
+    {
+      "title": "La fragata Álvaro de Bazán regresa a casa: «Fue una eternidad»",
+      "description": "La F-101, con base en Ferrol, volvió este martes tras cinco meses y medio de navegación",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/20/fragata-alvaro-bazan-regresa-casa-eternidad/00031792519777212505724.htm",
+      "time": "2026-10-20T19:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una fuerte humareda alarma a los vecinos del Camiño do Toxo, en Ferrol",
+      "description": "Bomberos y Policía Local acuden a sofocar un incendio en una chabola que se propagó a la maleza",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/fuerte-humareda-alarma-vecinos-camino-do-toxo-ferrol/00031792524107447279833.htm",
+      "time": "2026-10-20T19:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El proyecto UNIcas nace con un homenaje a Patri Cabrera",
+      "description": "El Baxi busca reforzar su vínculo con la ciudad a través de productos, ligados a personas y momentos de su historia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/unicas/00031792515629973832889.htm",
+      "time": "2026-10-20T17:36:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Lino López reta al Baxi a medirse con la élite europea: «A Malata se tiene que llenar»",
+      "description": "El técnico apela al apoyo de la afición ante la visita de las vigentes campeonas de la Eurocup",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/previa-baxi/00031792515566546394865.htm",
+      "time": "2026-10-20T17:36:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Aday Benítez irrumpe en el banquillo del Mirandés",
+      "description": "El técnico catalán sustituye a Antxon Muneta en el conjunto rojillo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/entrenador/00031792515301814526535.htm",
+      "time": "2026-10-20T17:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Anduva, una visita que genera nerviosismo en el Racing de Ferrol",
+      "description": "El conjunto verde perdió por 4-1 en su último desplazamiento a Miranda",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/anduva/00031792515232905448607.htm",
+      "time": "2026-10-20T17:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing de Ferrol visitará al Athletic Club B el sábado 14",
+      "description": "La duodécima jornada se disputará a las 13.00 horas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/racing-ferrol-visitara-athletic-club-b-sabado-14/00031792515349147820176.htm",
+      "time": "2026-10-20T17:05:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing refuerza el compromiso con Nuestra Señora de Chamorro",
+      "description": "Álvaro Juan y Fabio González visitaron las instalaciones y conocieron la labor de la sede",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/20/visita-reforzar-compromiso-asociacion-senora-chamorro/00031792515449058185299.htm",
+      "time": "2026-10-20T17:05:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El consejero delegado de Indra presentará la nueva fábrica de vehículos militares en As Pontes",
       "description": "En esta nueva planta la compañía asumirá la integración de tres tipos de plataformas terrestres estratégicas para las Fuerzas Armadas españolas",
