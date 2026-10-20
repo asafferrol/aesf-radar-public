@@ -1,5 +1,23 @@
 [
   {
+    "title": "La fragata Álvaro de Bazán vuelve hoy a Ferrol tras marcar hitos en el Pacífico",
+    "description": "Después de un despliegue de más de cinco meses, adelante un día su regreso sobre el calendario previsto",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/fragata-alvaro-bazan-vuelve-ferrol-tras-marcar-hitos-pacifico/00031792493598971541280.htm",
+    "time": "2026-10-20T11:09:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Una colisión entre dos coches en Fene deja a una persona herida",
+    "description": "El accidente ocurrió en Maniños y hasta allí se acercaron los servicios sanitarios",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/20/colision-dos-coches-fene-deja-persona-herida/00031792488953653235829.htm",
+    "time": "2026-10-20T09:52:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "La vivienda pública y el CHUF centran el grueso de la inversión autonómica para el 2027",
     "description": "La Xunta consigna en los Orzamentos unos 160 millones de euros para la comarca",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/vivienda-publica-chuf-centran-grueso-inversion-autonomica/0003_202610F20C1991.htm",
@@ -12,24 +30,6 @@
     "title": "La oficia de Correos del barrio ferrolano de Caranza se mantiene y tendrá City Pack",
     "description": "El responsable de medios de la entidad, Javier Varela, mantuvo este lunes una reunión con la presidenta de la Asociación de Vecinos, Mapi Rodríguez",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/oficia-correos-caranza-mantiene-tendra-city-pack/0003_202610F20C3995.htm",
-    "time": "2026-10-20T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Los Reyes Magos y Papá Noel ya tiene cita con los niños de Ferrol",
-    "description": "El Concello aprobó este lunes el expediente de contratación del servicio de producción y ejecución de las cabalgatas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/reyes-magos-papa-noel-cita-ninos-ferrol/0003_202610F20C3994.htm",
-    "time": "2026-10-20T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Viajes en lancha y visitas teatralizadas al castillo de San Felipe, en Ferrol",
-    "description": "La segunda edición de la iniciativa turística se desarrolla hasta el próximo domingo",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/20/viajes-lancha-visitas-teatralizadas-san-felipe/0003_202610F20C3993.htm",
     "time": "2026-10-20T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -144,9 +144,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "James Rhodes actuará este viernes para presentar «Manía»",
-    "description": "O pianista británico estará no auditorio de Caranza dende as nove da noite",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/20/james-rhodes-actuara-viernes-presentar-mania/0003_202610F20C4992.htm",
+    "title": "Viajes en lancha y visitas teatralizadas al castillo de San Felipe, en Ferrol",
+    "description": "La segunda edición de la iniciativa turística se desarrolla hasta el próximo domingo",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/20/viajes-lancha-visitas-teatralizadas-san-felipe/0003_202610F20C3993.htm",
     "time": "2026-10-20T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
