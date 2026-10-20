@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T12:11:28.509344+00:00",
-  "count": 645,
+  "generated_at": "2026-10-20T17:03:01.951006+00:00",
+  "count": 642,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "El consejero delegado de Indra presentará la nueva fábrica de vehículos militares en As Pontes",
+      "description": "En esta nueva planta la compañía asumirá la integración de tres tipos de plataformas terrestres estratégicas para las Fuerzas Armadas españolas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/21/consejero-delegado-indra-presentara-nueva-fabrica-vehiculos-militares-as-pontes/0003_202610G21P27992.htm",
+      "time": "2026-10-20T16:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "MercaNaVila recibe 6.000 descargas en solo una hora",
+      "description": "Este martes comienza la campaña de la Diputación de A Coruña para fomentar el comercio local en municipios de menos de 20.000 habitantes",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/10/20/mercanavila-6000-descargas-hora/00031792493020971320100.htm",
+      "time": "2026-10-20T11:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La fragata Álvaro de Bazán vuelve hoy a Ferrol tras marcar hitos en el Pacífico",
       "description": "Después de un despliegue de más de cinco meses, adelante un día su regreso sobre el calendario previsto",
@@ -5784,51 +5802,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Narón se endulza la vida con su famosa miel cinco estrellas",
-      "description": "Éxito de público en su Feira do Mel e da Producción Primaria, que se celebraba este domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/19/naron-endulza-vida-famosa-miel-cinco-estrellas/0003_202610F19C2994.htm",
-      "time": "2026-10-18T16:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arroyo, jugador del Racing: «Tenemos que estar preparados para entrar cuando toque»",
-      "description": "El vallisoletano, que acuñó el gol del último triunfo de los ferrolanos tras entrar de emergencia en el once, exalta el crecimiento colectivo de los ferrolanos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/arroyo-jugador-racingtenemos-estar-preparados-entrar-toque/00031792337949820346708.htm",
-      "time": "2026-10-18T15:44:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Cuando estar arriba es cosa de todos en el Racing Club Ferrol",
-      "description": "Tras la entrada de Pujol y Saúl, tan solo Sekou, Castro y el lesionado Álvaro Juan están pendientes de estrenar titularidad en un equipo en el que los cambios van más allá del hombre por hombre",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/estar-arriba-racing-club-ferrol/00031792335780163934872.htm",
-      "time": "2026-10-18T14:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Julia Vaquero acercó su historia a la cantera ferrolana de atletismo",
-      "description": "La gallega recibió un homenaje por parte del Club del Ferrol Atletismo y vivió la presentación de su biografía, Chámome Julia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/18/julia-vaquero-acerco-historia-cantera-ferrolana-atletismo/00031792331542730499842.htm",
-      "time": "2026-10-18T13:56:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Volver a A Malata con el convencimiento de que el Racing va a ganar",
-      "description": "En una categoría como Primera Federación, la positividad que transmite Javi Vázquez es básica para que el equipo se mantenga arriba",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/18/volver-malata-convencimiento-racing-va-ganar/00031792327051633350110.htm",
-      "time": "2026-10-18T12:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
