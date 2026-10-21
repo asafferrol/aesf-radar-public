@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 555,
+  "count": 554,
   "items": [
+    {
+      "title": "Saúl García, cuestión de «perspectiva» en el Racing Club Ferrol",
+      "description": "El lateral, que compite con un Álvaro Ramón en un gran estado de forma, con hambre de elevar el listón en ua profesión marcada por el contexto: «Recargas pilas para volver con ganas e ilusión»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/21/saul-garcia-cuestion-perspectiva-racing-club-ferrol/00031792578783278101734.htm",
+      "time": "2026-10-21T10:42:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Suspendido el desahucio del viernes en Narón por decisión del Tribunal de Instancia de Ferrol",
+      "description": "La Sareb solicitó un plazo para materializar un expediente de alquiler social para esta familia; la situación había sido denunciada el sábado por el BNG",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/21/suspendido-desahucio-viernes-naron-decision-tribunal-instancia-ferrol/00031792574544836345647.htm",
+      "time": "2026-10-21T09:44:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Las carreras ilegales toman Ferrol y Narón: «Trompos, hamburguesas y más de 120 kilómetros por hora»",
       "description": "Coches de toda Galicia se concentran cada fin de semana en A Gándara, Río do Pozo y A Malata; las Policías Locales y la Nacional luchan para frenar este fenómeno",
@@ -4966,33 +4984,6 @@
       "description": "El ferrolano revalidó su título de Best Handstand y triunfó en Portugal",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/ismael-perez-puedes-pasarte-anos-fallando-salga-truco/00031792423692369830254.htm",
       "time": "2026-10-19T15:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El patrullero Serviola, con base en Ferrol, vigiló un convoy de buques rusos en aguas nacionales",
-      "description": "Hizo la monitorización desde el límite entre España y Portugal hasta Francia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/patrullero-serviola-base-ferrol-vigilo-convoy-buques-rusos-aguas-nacionales/00031792402777745870966.htm",
-      "time": "2026-10-19T09:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Buscan a una vecina de Ferrol de 71 años desaparecida desde el miércoles",
-      "description": "María Trinidad Orrego Montoya mide 1,60 metros, es de origen colombiano y tiene el pelo liso y algo canoso",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/buscan-vecina-ferrol-71-anos-desaparecida-miercoles/00031792401175262107380.htm",
-      "time": "2026-10-19T09:36:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "En Moeche ya cruzan el río Forcadas en zapatillas: «Ímonos ter que acostumar»",
-      "description": "La disminución del nivel de agua en As Forcadas afecta a los vecinos que viven al lado del embalse",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/moeche/2026/10/19/moeche-cruzan-rio-forcadas-zapatillas-span-langglimonos-ter-acostumarspan/0003_202610G19P4992.htm",
-      "time": "2026-10-19T09:26:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
