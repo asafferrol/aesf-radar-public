@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T17:22:02.552919+00:00",
-  "count": 553,
+  "generated_at": "2026-10-21T20:43:28.512383+00:00",
+  "count": 554,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "El Mersin pasa rodillo en A Malata y derriba el fortín del Baxi Ferrol (42-85)",
+      "description": "Las de Lino López dieron la cara durante la primera mitad frente al vigente campeón de la Eurocup en un partido marcado por el regreso a pista de Gala Mestres",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/21/baxi-mersin/00031792599340504797781.htm",
+      "time": "2026-10-21T19:57:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El personal civil de Defensa en Ferrol aumenta la presión para blindar su subida salarial",
       "description": "Reclama la consolidación en las nóminas del incremento económico comprometido por el ministerio",
