@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T12:18:41.533078+00:00",
-  "count": 554,
+  "generated_at": "2026-10-21T17:22:02.552919+00:00",
+  "count": 553,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "El personal civil de Defensa en Ferrol aumenta la presión para blindar su subida salarial",
+      "description": "Reclama la consolidación en las nóminas del incremento económico comprometido por el ministerio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/personal-civil-defensa-ferrol-aumenta-presion-blindar-subida-salarial/0003_202610F22C4994.htm",
+      "time": "2026-10-21T16:42:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una denunciante de violencia de género se enfrenta a una posible multa por no ir al juicio en Ferrol",
+      "description": "La vista, prevista para este miércoles, se suspendió porque la mujer no apareció y tampoco lo justificó. Si se ausenta una segunda vez podría enfrentarse al archivo del proceso porque es la testigo principal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/22/denunciante-violencia-genero-enfrenta-posible-multa-ir-juicio/0003_202610F22C3_COPY993.htm",
+      "time": "2026-10-21T16:34:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Montajes Fertri automatiza su planta eumesa para fabricar invernaderos de gran tamaño",
+      "description": "La firma eumesa moderniza sus instalaciones con una curvadora, soldadura robotizada y maquinaria de carga",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/montajes-fertri-automatiza-planta-eumesa-fabricar-invernaderos-gran-tamano/0003_202610F22C4993.htm",
+      "time": "2026-10-21T15:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Gala Mestres vuelve al ruedo del Baxi Ferrol tras 396 días de ausencia",
+      "description": "La catalana, que jugó su último compromiso en la final de la Copa Galicia de septiembre del 2025, es la gran novedad en la convocatoria para medirse al Mersin turco",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/21/gala-mestres-vuelve-ruedo-baxi-ferrol-tras-396-dias-ausencia/00031792595084397557967.htm",
+      "time": "2026-10-21T15:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Tres viejos conocidos en el Racing para el estreno en el banquillo de Aday Benítez",
+      "description": "El nuevo preparador del Mirandés compartió vestuario con Saúl y Monju en el Girona, así como con Diego Rivas en el Tenerife: «Es amigo»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/21/tres-viejos-conocidos-racing-estreno-banquillo-aday-benitez/00031792589693771318923.htm",
+      "time": "2026-10-21T13:42:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Saúl García, cuestión de «perspectiva» en el Racing Club Ferrol",
       "description": "El lateral, que compite con un Álvaro Ramón en un gran estado de forma, con hambre de elevar el listón en ua profesión marcada por el contexto: «Recargas pilas para volver con ganas e ilusión»",
@@ -4956,60 +5001,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Alerta de los comerciantes de Ferrol por el regreso de los ladrones del reparto",
-      "description": "A principios de mes, se anunció la detención de dos personas por asaltar furgones de paquetería en la ría; quedaron libres y ahora vuelven los robos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/19/alerta-comerciantes-ferrol-regreso-ladrones-reparto/00031792425986494970950.htm",
-      "time": "2026-10-19T16:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Mirandés destituye a Antxon Muneta antes de recibir al Racing de Ferrol",
-      "description": "El club rojillo pone fin a la etapa del técnico tras un inicio irregular y prescinde también de Alain Arroyo y César Remón",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/19/mirandes-destituye-antxon-muneta-recibir-racing-ferrol/00031792425752836380937.htm",
-      "time": "2026-10-19T16:05:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mirandés y Racing de Ferrol, dos caminos que vuelven a cruzarse",
-      "description": "Varios futbolistas militaron en los equipos que se enfrentarán el sábado, e incluso los clubes han vivido una historia reciente con fuertes paralelismos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/19/mirandes-racing-ferrol-dos-caminos-vuelven-cruzarse/00031792424922326778815.htm",
-      "time": "2026-10-19T15:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Costa Ártabra recupera el pulso con victoria de los dos séniors",
-      "description": "El masculino se impuso al filial del Obradoiro, mientras que el femenino venció al CB Ponferrada",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/costa-artabra-recupera-pulso-victoria-dos-seniors/00031792423841852778532.htm",
-      "time": "2026-10-19T15:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol apura la venta de abonos para la Eurocup",
-      "description": "El club abrirá las taquillas de A Malata este lunes y martes para facilitar la compra de los pases para la fase de grupos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/baxi-ferrol-apura-venta-abonos-eurocup/00031792424030983962198.htm",
-      "time": "2026-10-19T15:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ismael Pérez: «Puedes pasarte años fallando hasta que te salga el truco»",
-      "description": "El ferrolano revalidó su título de Best Handstand y triunfó en Portugal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/19/ismael-perez-puedes-pasarte-anos-fallando-salga-truco/00031792423692369830254.htm",
-      "time": "2026-10-19T15:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
