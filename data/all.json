@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-22T06:40:34.514619+00:00",
+  "generated_at": "2026-10-22T12:26:43.027610+00:00",
   "count": 559,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 50,
+      "count": 48,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "El transporte de mercancías protesta en Río do Pozo",
+      "description": "Es la tercera de las acciones convocadas por los sindicatos para reclamar un convenio provincial digno",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/22/protesta-transporte-mercancias-rio-do-pozo/00031792667202935638843.htm",
+      "time": "2026-10-22T11:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Concello de Ferrol construirá un parque infantil junto al local de la Asociación de Veciños de Mandiá",
+      "description": "La empresa Construcciones López Cao S.L. será la encargada de ejecutar las obras por un importe total de 40.241,02 euros y un plazo de tres meses",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/concello-ferrolconstruira-parque-infantiljunto-local-asociacion-vecinos-mandia/00031792659944285491136.htm",
+      "time": "2026-10-22T09:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Luz verde al Sánchez Aguilera con el informe favorable de Patrimonio",
       "description": "El visto bueno del quinto de los informes sectoriales necesarios desbloquea la urbanización",
@@ -137,6 +155,15 @@
       "title": "O Concello de Cedeira licita a obra de creación dunha nova zona verde na rúa Silva",
       "description": "A parcela sobre a que se vai actuar ten 73 metros cadrados de superficie",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/21/concello-cedeira-licita-obra-creacion-dunha-nova-zona-verde-na-rua-silva/00031792610535198816271.htm",
+      "time": "2026-10-22T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Navantia se prepara para la botadura de la segunda fragata de la F-110: la Roger de Lauria",
+      "description": "La cita del próximo 27 de octubre en la grada ferrolana visualiza el avance continuado del contrato de mayor volumen ejecutado por la compañía para la Armada",
+      "url": "https://www.lavozdegalicia.es/video/economia/2026/10/20/navantia-prepara-botadura-segunda-fragata-f-110-roger-lauria/0031_202610SQ9SQE1I.htm",
       "time": "2026-10-22T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -5025,33 +5052,6 @@
       "description": "En esta nueva planta la compañía asumirá la integración de tres tipos de plataformas terrestres estratégicas para las Fuerzas Armadas españolas",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/21/consejero-delegado-indra-presentara-nueva-fabrica-vehiculos-militares-as-pontes/0003_202610G21P27992.htm",
       "time": "2026-10-20T16:03:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "MercaNaVila recibe 6.000 descargas en solo una hora",
-      "description": "Este martes comienza la campaña de la Diputación de A Coruña para fomentar el comercio local en municipios de menos de 20.000 habitantes",
-      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/10/20/mercanavila-6000-descargas-hora/00031792493020971320100.htm",
-      "time": "2026-10-20T11:35:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La fragata Álvaro de Bazán vuelve hoy a Ferrol tras marcar hitos en el Pacífico",
-      "description": "Después de un despliegue de más de cinco meses, adelante un día su regreso sobre el calendario previsto",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/20/fragata-alvaro-bazan-vuelve-ferrol-tras-marcar-hitos-pacifico/00031792493598971541280.htm",
-      "time": "2026-10-20T11:09:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una colisión entre dos coches en Fene deja a una persona herida",
-      "description": "El accidente ocurrió en Maniños y hasta allí se acercaron los servicios sanitarios",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/20/colision-dos-coches-fene-deja-persona-herida/00031792488953653235829.htm",
-      "time": "2026-10-20T09:52:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"

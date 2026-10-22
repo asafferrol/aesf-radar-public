@@ -1,5 +1,23 @@
 [
   {
+    "title": "El transporte de mercancías protesta en Río do Pozo",
+    "description": "Es la tercera de las acciones convocadas por los sindicatos para reclamar un convenio provincial digno",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/22/protesta-transporte-mercancias-rio-do-pozo/00031792667202935638843.htm",
+    "time": "2026-10-22T11:24:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Concello de Ferrol construirá un parque infantil junto al local de la Asociación de Veciños de Mandiá",
+    "description": "La empresa Construcciones López Cao S.L. será la encargada de ejecutar las obras por un importe total de 40.241,02 euros y un plazo de tres meses",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/concello-ferrolconstruira-parque-infantiljunto-local-asociacion-vecinos-mandia/00031792659944285491136.htm",
+    "time": "2026-10-22T09:16:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Luz verde al Sánchez Aguilera con el informe favorable de Patrimonio",
     "description": "El visto bueno del quinto de los informes sectoriales necesarios desbloquea la urbanización",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/luz-verde-sanchez-aguilera-informe-favorable-patrimonio/0003_202610F22C1991.htm",
@@ -12,24 +30,6 @@
     "title": "El fenómeno de las carreras ilegales en Ferrol y Narón: anuladas en 2006, resucitadas con fuerza en 2026",
     "description": "Hace veinte años se juntaban 500 personas en Río do Pozo, ahora vuelven como atracción para el ocio nocturno de los jóvenes y con denuncias vecinales",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/22/fenomeno-carreras-ilegales-anuladas-2006-resucitadas-2026/0003_202610F22C3992.htm",
-    "time": "2026-10-22T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El PP naronés exige que se repare la climatización de la escuela infantil de A Gándara",
-    "description": "El portavoz municipal, Germán Castrillón, denuncia que las instalaciones llevan más de un año sin aire acondicionado",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/pp-narones-exige-repare-climatizacion-escuela-infantil-gandara/0003_202610F22C5993.htm",
-    "time": "2026-10-22T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Valdoviño reclama la construcción de un instituto",
-    "description": "El alcalde reiteró la solicitud de entrevista con el conselleiro de Educación",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/22/valdovino-reclama-construccion-instituto/0003_202610F22C6995.htm",
     "time": "2026-10-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -90,6 +90,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Navantia se prepara para la botadura de la segunda fragata de la F-110: la Roger de Lauria",
+    "description": "La cita del próximo 27 de octubre en la grada ferrolana visualiza el avance continuado del contrato de mayor volumen ejecutado por la compañía para la Armada",
+    "url": "https://www.lavozdegalicia.es/video/economia/2026/10/20/navantia-prepara-botadura-segunda-fragata-f-110-roger-lauria/0031_202610SQ9SQE1I.htm",
+    "time": "2026-10-22T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Narón recibe la Bandera Verde de Galicia por sus buenas prácticas ambientales",
     "description": "La localidad recibe el reconocimiento por segundo año consecutivo",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/22/naron-recibe-bandera-verde-galicia-buenas-practicas-ambientales/0003_202610F22C5991.htm",
@@ -99,18 +108,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Ortigueira renueva el Aula Municipal de Informática",
-    "description": "El Concello adquirió más de una decena de equipos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/22/ortigueira-renueva-aula-municipal-informatica/0003_202610F22C6993.htm",
+    "title": "Valdoviño reclama la construcción de un instituto",
+    "description": "El alcalde reiteró la solicitud de entrevista con el conselleiro de Educación",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/22/valdovino-reclama-construccion-instituto/0003_202610F22C6995.htm",
     "time": "2026-10-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "O Concello de Cedeira licita a obra de creación dunha nova zona verde na rúa Silva",
-    "description": "A parcela sobre a que se vai actuar ten 73 metros cadrados de superficie",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/21/concello-cedeira-licita-obra-creacion-dunha-nova-zona-verde-na-rua-silva/00031792610535198816271.htm",
+    "title": "Ortigueira renueva el Aula Municipal de Informática",
+    "description": "El Concello adquirió más de una decena de equipos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/22/ortigueira-renueva-aula-municipal-informatica/0003_202610F22C6993.htm",
     "time": "2026-10-22T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -207,37 +216,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El INE sitúa a Narón por encima de la barrera de los 40.000 habitantes",
-    "description": "El gobierno local estima que cerrará el año con unos 1.000 vecinos más",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/21/naron-supera-primera-vez-barrera-40000-habitantes/0003_202610F21C5991.htm",
-    "time": "2026-10-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "A Graña, puesto de mando en el ejercicio de la Fuerza de Guerra Naval Especial",
-    "description": "Desde las instalaciones militares ferrolanas se coordina el adiestramiento táctico de unidades nacionales y de fuerzas aliadas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/21/grana-puesto-mando-ejercicio-fuerza-guerra-naval-especial/0003_202610F21C4991.htm",
-    "time": "2026-10-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El método de la siembra con robos ante supermercados se instala en la ría de Ferrol: «Tiran monedas y te distraen»",
-    "description": "En Vilar do Colo, a una mujer le robaron el bolso con la tarjeta y le sacaron dinero de la cuenta; hechos similares sucedieron anteriormente en Narón; los asaltos a repartidores de paquetería se extienden de Ferrol a Fene",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/21/metodo-siembra-instala-robos-ante-supermercados-tiran-monedas-distraen/0003_202610F21C2_COPY993.htm",
-    "time": "2026-10-21T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La fragata Álvaro de Bazán regresa a casa: «Fue una eternidad»",
-    "description": "La F-101, con base en Ferrol, volvió este martes tras cinco meses y medio de navegación",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/20/fragata-alvaro-bazan-regresa-casa-eternidad/00031792519777212505724.htm",
-    "time": "2026-10-20T19:39:00+00:00",
+    "title": "MercaNaVila recibe 6.000 descargas en solo una hora",
+    "description": "Este martes comienza la campaña de la Diputación de A Coruña para fomentar el comercio local en municipios de menos de 20.000 habitantes",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/10/20/mercanavila-6000-descargas-hora/00031792493020971320100.htm",
+    "time": "2026-10-20T20:36:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
