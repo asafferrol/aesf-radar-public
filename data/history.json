@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 688,
+  "count": 687,
   "items": [
+    {
+      "title": "Las elecciones al Colegio de Abogados de Ferrol llegarán a los juzgados",
+      "description": "La lista de Ana Rosa Pena presentará un recurso contencioso contra la resolución del Consello da Avogacía Galega que anuló los comicios; recalca que «hubo numerosas irregularidades como que éramos 250 votantes y aparecieron 252 papeletas»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/elecciones-colegio-abogados-ferrol-llegan-juzgados/00031792762672361733455.htm",
+      "time": "2026-10-23T17:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Caza mayor en Anduva para el Racing Club Ferrol",
       "description": "Los de Javi Vázquez visitan al Mirandés en el estreno de Aday Benítez en el banquillo jabato y en un partido en el que la batalla de los duelos se antoja capital",
@@ -6172,24 +6181,6 @@
       "description": "Las de Lino López cayeron por 43 puntos en el segundo partido de la fase de grupos de la Eurocup",
       "url": "https://www.lavozdegalicia.es/album/deportes/2026/10/21/mejores-imagenes-visita-mersin-turco-baxi-ferrol/01101792617148684663755.htm",
       "time": "2026-10-21T21:13:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Mersin pasa rodillo en A Malata y derriba el fortín del Baxi Ferrol (42-85)",
-      "description": "Las de Lino López dieron la cara durante la primera mitad frente al vigente campeón de la Eurocup en un partido marcado por el regreso a pista de Gala Mestres",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/21/baxi-mersin/00031792599340504797781.htm",
-      "time": "2026-10-21T19:57:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Con 26 años, Iker García buscó para «La bola negra» paisajes e interiores: «Con los Javis es facilísimo trabajar»",
-      "description": "El joven localizador, de madre gallega, repasa los lugares del norte de España que dan vida al filme y asegura que vio su potencial desde el principio: «Ya he hecho la película de mi vida»",
-      "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/10/21/26-anos-iker-garciabusco-bola-negra-paisajes-interiores-javis-facilisimo-trabajar/00031792596465591642554.htm",
-      "time": "2026-10-21T18:55:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
