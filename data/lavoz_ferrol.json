@@ -1,5 +1,41 @@
 [
   {
+    "title": "Migue Leal y Álvaro Juan, las dos únicas bajas del Racing es su visita a Anduva",
+    "description": "El lateral se encuentra mejor de su «lesión muscular de bajo alcance» ya se reincoporó esta semana al entrenamiento con el grupo y su regreso será progresivo",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/migue-leal-alvaro-juan-dos-unicas-bajas-racing-visita-anduva/00031792754121864736971.htm",
+    "time": "2026-10-23T11:27:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La solidez del bloque del Baxi Ferrol pasa examen frente a Gernika",
+    "description": "Lino López pone el foco en la faceta defensiva y, tras tres derrotas consecutivas, insta al vestuario a olvidar y confiar en el proceso de mejora",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/23/solidez-bloque-baxi-ferrol-pasa-examen-frente-gernika/00031792753567909560616.htm",
+    "time": "2026-10-23T11:08:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Javi Vázquez: «No contemplamos otra cosa que no sea ganar, pero sin pensar en rachas»",
+    "description": "El Racing visita mañana al Mirandés en el estreno de Aday Benítez en el banquillo de Anduva",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/javi-vazquez-contemplamos-ganar-pensar-rachas/00031792747944289515426.htm",
+    "time": "2026-10-23T10:31:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La escritora Almudena de Arteaga será la madrina de la fragata F-112 Roger de Lauria",
+    "description": "El bautismo de mar se celebrará el próximo martes en el astillero de Ferrol",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/escritora-almudena-arteaga-sera-madrina-fragata-f-112-roger-lauria/00031792743938132237841.htm",
+    "time": "2026-10-23T08:45:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Radiografía del Sánchez Aguilera",
     "description": "Tres años de la firma del convenio al visto bueno al proyecto de urbanización",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/radiografia-sanchez-aguilera/0003_202610F23C3991.htm",
@@ -21,15 +57,6 @@
     "title": "Navantia tendrá que pagar 207.000 euros a la familia de un afectado por el amianto en Ferrol",
     "description": "La empresa pública, Izar y una auxiliar ya habían sido condenadas en primera instancia; las dos primeras recurrieron alegando que la víctima fumaba 50 cigarrillos al día; la sentencia indica que no se adoptaron las medidas preventivas necesarias",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/navantia-tendra-pagar-207000-euros-familia-afectado-amianto/0003_202610F23C2_COPY991.htm",
-    "time": "2026-10-23T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Lorena Fernández, una vida llena de luz truncada por la ELA: «Ella era excepcional»",
-    "description": "Su viudo Ovidio Aldegunde y sus amigos le declaran su amor incondicional en una serie de cartas desde la ría de Ferrol; era la presidenta de Indican y rescató durante años a numerosos animales, cuyos adoptantes le dan ahora las gracias",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/lorena-fernandez-vida-llena-luz-truncada-ela-era-excepcional/0003_202610F23C2_COPY992.htm",
     "time": "2026-10-23T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -72,7 +99,16 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La Xunta apoya la repotenciación del parque eólico del parque eólico de A Coriscada",
+    "title": "Lorena Fernández, una vida llena de luz truncada por la ELA: «Ella era excepcional»",
+    "description": "Su viudo Ovidio Aldegunde y sus amigos le declaran su amor incondicional en una serie de cartas desde la ría de Ferrol; era la presidenta de Indican y rescató durante años a numerosos animales, cuyos adoptantes le dan ahora las gracias",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/lorena-fernandez-vida-llena-luz-truncada-ela-era-excepcional/0003_202610F23C2_COPY992.htm",
+    "time": "2026-10-23T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La Xunta apoya la repotenciación del parque eólico de A Coriscada",
     "description": "La conselleira de Medio Ambiente visitó las obras, entre Mañón y Ortigueira",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/23/xunta-apoya-repotenciacion-parque-eolico-coriscada/0003_202610F23C6991.htm",
     "time": "2026-10-23T03:00:00+00:00",
@@ -90,18 +126,27 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Sueltan en las Fragas do Eume una lechuza y un ratonero recuperados en Oleiros",
-    "description": "Fueron tratados en el Centro de Recuperación da Fauna Salvaxe",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/devuelven-fragas-do-eume-lechuza-ratonero-recuperados/0003_202610F23C6994.htm",
+    "title": "Fabio, jugador del Racing: «Pasé de jugar contra Lamine y Pedri a estar sin equipo»",
+    "description": "El pivote, que recaló en Ferrol a pueba hace solo unos meses, capitanea a un vestuario con el que espera «celebrar algo muy bonito»",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/22/fabio-jugador-racingpase-jugar-contra-lamine-pedri-estar-equipo/00031792696345334965631.htm",
     "time": "2026-10-23T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Fabio, jugador del Racing: «Pasé de jugar contra Lamine y Pedri a estar sin equipo»",
-    "description": "El pivote, que recaló en Ferrol a pueba hace solo unos meses, capitanea a un vestuario con el que espera «celebrar algo muy bonito»",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/22/fabio-jugador-racingpase-jugar-contra-lamine-pedri-estar-equipo/00031792696345334965631.htm",
+    "title": "Impulso al saneamiento rural y el carril bici en Doniños",
+    "description": "El alcalde y el concejal de Servizos e Zona Rural se reunieron con la directiva de la asociación vecinal O Lago Doniños",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/impulso-saneamiento-rural-carril-bici-doninos/0003_202610F23C3993.htm",
+    "time": "2026-10-23T03:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Sueltan en las Fragas do Eume una lechuza y un ratonero recuperados en Oleiros",
+    "description": "Fueron tratados en el Centro de Recuperación da Fauna Salvaxe",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/devuelven-fragas-do-eume-lechuza-ratonero-recuperados/0003_202610F23C6994.htm",
     "time": "2026-10-23T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -180,15 +225,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El transporte de mercancías protesta en Río do Pozo",
-    "description": "Es la tercera de las acciones convocadas por los sindicatos para reclamar un convenio provincial digno",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/22/protesta-transporte-mercancias-rio-do-pozo/00031792667202935638843.htm",
-    "time": "2026-10-22T11:24:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El fenómeno de las carreras ilegales en Ferrol y Narón: anuladas en 2006, resucitadas con fuerza en 2026",
     "description": "Hace veinte años se juntaban 500 personas en Río do Pozo, ahora vuelven como atracción para el ocio nocturno de los jóvenes y con denuncias vecinales",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/22/fenomeno-carreras-ilegales-anuladas-2006-resucitadas-2026/0003_202610F22C3992.htm",
@@ -216,24 +252,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Las mejores imágenes de la visita del Mersin turco al Baxi Ferrol",
-    "description": "Las de Lino López cayeron por 43 puntos en el segundo partido de la fase de grupos de la Eurocup",
-    "url": "https://www.lavozdegalicia.es/album/deportes/2026/10/21/mejores-imagenes-visita-mersin-turco-baxi-ferrol/01101792617148684663755.htm",
-    "time": "2026-10-21T21:13:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Mersin pasa rodillo en A Malata y derriba el fortín del Baxi Ferrol (42-85)",
-    "description": "Las de Lino López dieron la cara durante la primera mitad frente al vigente campeón de la Eurocup en un partido marcado por el regreso a pista de Gala Mestres",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/21/baxi-mersin/00031792599340504797781.htm",
-    "time": "2026-10-21T19:57:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Con 26 años, Iker García buscó para «La bola negra» paisajes e interiores: «Con los Javis es facilísimo trabajar»",
     "description": "El joven localizador, de madre gallega, repasa los lugares del norte de España que dan vida al filme y asegura que vio su potencial desde el principio: «Ya he hecho la película de mi vida»",
     "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/10/21/26-anos-iker-garciabusco-bola-negra-paisajes-interiores-javis-facilisimo-trabajar/00031792596465591642554.htm",
@@ -247,24 +265,6 @@
     "description": "La vista, prevista para este miércoles, se suspendió porque la mujer no apareció y tampoco lo justificó. Si se ausenta una segunda vez podría enfrentarse al archivo del proceso porque es la testigo principal",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/22/denunciante-violencia-genero-enfrenta-posible-multa-ir-juicio/0003_202610F22C3_COPY993.htm",
     "time": "2026-10-21T16:34:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Montajes Fertri automatiza su planta eumesa para fabricar invernaderos de gran tamaño",
-    "description": "La firma eumesa moderniza sus instalaciones con una curvadora, soldadura robotizada y maquinaria de carga",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/montajes-fertri-automatiza-planta-eumesa-fabricar-invernaderos-gran-tamano/0003_202610F22C4993.htm",
-    "time": "2026-10-21T15:58:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Saúl García, cuestión de «perspectiva» en el Racing Club Ferrol",
-    "description": "El lateral, que compite con un Álvaro Ramón en un gran estado de forma, con hambre de elevar el listón en ua profesión marcada por el contexto: «Recargas pilas para volver con ganas e ilusión»",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/21/saul-garcia-cuestion-perspectiva-racing-club-ferrol/00031792578783278101734.htm",
-    "time": "2026-10-21T10:42:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

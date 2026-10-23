@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 685,
+  "count": 688,
   "items": [
+    {
+      "title": "Migue Leal y Álvaro Juan, las dos únicas bajas del Racing es su visita a Anduva",
+      "description": "El lateral se encuentra mejor de su «lesión muscular de bajo alcance» ya se reincoporó esta semana al entrenamiento con el grupo y su regreso será progresivo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/migue-leal-alvaro-juan-dos-unicas-bajas-racing-visita-anduva/00031792754121864736971.htm",
+      "time": "2026-10-23T11:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La solidez del bloque del Baxi Ferrol pasa examen frente a Gernika",
+      "description": "Lino López pone el foco en la faceta defensiva y, tras tres derrotas consecutivas, insta al vestuario a olvidar y confiar en el proceso de mejora",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/23/solidez-bloque-baxi-ferrol-pasa-examen-frente-gernika/00031792753567909560616.htm",
+      "time": "2026-10-23T11:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «No contemplamos otra cosa que no sea ganar, pero sin pensar en rachas»",
+      "description": "El Racing visita mañana al Mirandés en el estreno de Aday Benítez en el banquillo de Anduva",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/javi-vazquez-contemplamos-ganar-pensar-rachas/00031792747944289515426.htm",
+      "time": "2026-10-23T10:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La escritora Almudena de Arteaga será la madrina de la fragata F-112 Roger de Lauria",
+      "description": "El bautismo de mar se celebrará el próximo martes en el astillero de Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/escritora-almudena-arteaga-sera-madrina-fragata-f-112-roger-lauria/00031792743938132237841.htm",
+      "time": "2026-10-23T08:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Radiografía del Sánchez Aguilera",
       "description": "Tres años de la firma del convenio al visto bueno al proyecto de urbanización",
@@ -114,6 +150,15 @@
       "title": "Manifestación polo centro de saúde de As Pontes, este venres",
       "description": "O BNG convida a participar na protesta pola situación da atención primaria",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/10/23/span-langglmanifestacion-polo-centro-saude-hoxe-spanspan-langglnas-pontesspan/0003_202610F23C6993.htm",
+      "time": "2026-10-23T03:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Impulso al saneamiento rural y el carril bici en Doniños",
+      "description": "El alcalde y el concejal de Servizos e Zona Rural se reunieron con la directiva de la asociación vecinal O Lago Doniños",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/impulso-saneamiento-rural-carril-bici-doninos/0003_202610F23C3993.htm",
       "time": "2026-10-23T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -6145,24 +6190,6 @@
       "description": "El nuevo preparador del Mirandés compartió vestuario con Saúl y Monju en el Girona, así como con Diego Rivas en el Tenerife: «Es amigo»",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/21/tres-viejos-conocidos-racing-estreno-banquillo-aday-benitez/00031792589693771318923.htm",
       "time": "2026-10-21T13:42:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Saúl García, cuestión de «perspectiva» en el Racing Club Ferrol",
-      "description": "El lateral, que compite con un Álvaro Ramón en un gran estado de forma, con hambre de elevar el listón en ua profesión marcada por el contexto: «Recargas pilas para volver con ganas e ilusión»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/21/saul-garcia-cuestion-perspectiva-racing-club-ferrol/00031792578783278101734.htm",
-      "time": "2026-10-21T10:42:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Suspendido el desahucio del viernes en Narón por decisión del Tribunal de Instancia de Ferrol",
-      "description": "La Sareb solicitó un plazo para materializar un expediente de alquiler social para esta familia; la situación había sido denunciada el sábado por el BNG",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/21/suspendido-desahucio-viernes-naron-decision-tribunal-instancia-ferrol/00031792574544836345647.htm",
-      "time": "2026-10-21T09:44:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
