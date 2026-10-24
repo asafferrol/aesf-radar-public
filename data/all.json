@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T11:26:58.787648+00:00",
-  "count": 709,
+  "generated_at": "2026-10-24T14:45:18.725873+00:00",
+  "count": 708,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Adeus a Eulogio Sixto, Logito: «O teu nome soará de novo cada vez que se fale de liberdade»",
+      "description": "O artífice da creación da Xunta de Montes Comunais de Marraxón, nacido en Fene no 1954, será icinerado este domingo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/24/span-langgladeus-eulogio-sixto-logito-teu-nome-soara-novo-vez-fale-liberdadespan/00031792851939328103699.htm",
+      "time": "2026-10-24T14:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "O Parrulo Ferrol mide su crecimiento ante el invicto Jaén",
       "description": "Gerard Casas considera que el rival es «el mejor equipo del mundo a nivel de competir» y confía en que los ferrolanos ofrezcan su mejor versión",
@@ -6384,24 +6393,6 @@
       "description": "O deputado nacionalista asegura que «o proxecto estaría en risco cun goberno dos populares e de Vox»; urxe ao Executivo central para que acelere os trámites para a implantación da fábrica de coches eléctricos",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/nestor-rego-bng-defende-forza-saic-ferrol-pp-non-pode-dicir-mesmo/00031792667709944255619.htm",
       "time": "2026-10-22T15:02:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Gascón, una dulce tradición de 122 años que sabe a despedida en Ferrol",
-      "description": "La pastelería afronta su última campaña de Todos los Santos antes de la jubilación de Rosina Rubio y Pedro Espasandín",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/gascon-dulce-tradicion-122-anos-sabe-despedida-ferrol/00031792678079917984574.htm",
-      "time": "2026-10-22T14:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing Club Ferrol estrena el primer campo de entrenamiento de su ciudad deportiva",
-      "description": "La sesión de trabajo del primer equipo de este jueves, año y medio después de la compra de los terrenos, marca un punto de inflexión en la historia del club",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/22/racing-club-ferrol-estrena-primer-campo-entrenamiento-ciudad-deportiva/00031792677635435509528.htm",
-      "time": "2026-10-22T14:12:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
