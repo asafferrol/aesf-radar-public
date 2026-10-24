@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-24T17:38:10.039539+00:00",
-  "count": 708,
+  "generated_at": "2026-10-24T19:46:41.549173+00:00",
+  "count": 709,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 49,
+      "count": 50,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "El Baxi Ferrol rompe su mala racha y sonríe tras superar al Gernika (76-71)",
+      "description": "Las de Lino levantaron un parcial de 0-15 en el último cuarto para rehacerse en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/24/baxi-ferrol-rompe-mala-racha-sonrie-tras-superar-gernika-76-71/00031792865786657317158.htm",
+      "time": "2026-10-24T19:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez, técnico del Racing: «Aquí te duermes un poco y...»",
+      "description": "El preparador, que confesó que esperaba la línea de tres del Mirandés, puso el foco en el primer tanto: «Hemos regalado el córner y no hemos defendido bien esa acción»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/24/javi-vazquez-tecnico-racing-duermes-poco-/00031792867559197758808.htm",
+      "time": "2026-10-24T18:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Narón ya monta su Navidad con más de 600 elementos decorativos",
       "description": "Este año incorporan hojas de metacrilato que cambian de color durante el día",
@@ -6387,15 +6405,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Cae por el viento un cable del tendido eléctrico de una fachada de un edificio de Fene",
-      "description": "Acudieron el GES de Mugardos y los Bomberos do Eume",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/22/cae-viento-cable-tendido-electrico-fachada-edificio-fene/00031792694648873474397.htm",
-      "time": "2026-10-22T18:51:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
