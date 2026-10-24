@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 710,
+  "count": 709,
   "items": [
+    {
+      "title": "O Parrulo Ferrol mide su crecimiento ante el invicto Jaén",
+      "description": "Gerard Casas considera que el rival es «el mejor equipo del mundo a nivel de competir» y confía en que los ferrolanos ofrezcan su mejor versión",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/24/parrulo-ferrol-mide-crecimiento-ante-invicto-jaen/00031792839500709823287.htm",
+      "time": "2026-10-24T11:02:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Más de 1.600 jóvenes logran un empleo: «Para abrir un negocio solo te dan ayudas para lo básico»",
       "description": "Los menores de 35 años ocupan casi seis de cada diez de los 2.925 trabajos creados en lo que va de año en Ferrol, Eume y Ortegal, según los datos del IGE de afiliación a la Seguridad Social",
@@ -6370,24 +6379,6 @@
       "description": "La sesión de trabajo del primer equipo de este jueves, año y medio después de la compra de los terrenos, marca un punto de inflexión en la historia del club",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/22/racing-club-ferrol-estrena-primer-campo-entrenamiento-ciudad-deportiva/00031792677635435509528.htm",
       "time": "2026-10-22T14:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El transporte de mercancías protesta en Río do Pozo",
-      "description": "Es la tercera de las acciones convocadas por los sindicatos para reclamar un convenio provincial digno",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/22/protesta-transporte-mercancias-rio-do-pozo/00031792667202935638843.htm",
-      "time": "2026-10-22T11:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Concello de Ferrol construirá un parque infantil junto al local de la Asociación de Veciños de Mandiá",
-      "description": "La empresa Construcciones López Cao S.L. será la encargada de ejecutar las obras por un importe total de 40.241,02 euros y un plazo de tres meses",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/concello-ferrolconstruira-parque-infantiljunto-local-asociacion-vecinos-mandia/00031792659944285491136.htm",
-      "time": "2026-10-22T09:16:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
