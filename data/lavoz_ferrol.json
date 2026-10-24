@@ -1,7 +1,34 @@
 [
   {
+    "title": "Narón ya monta su Navidad con más de 600 elementos decorativos",
+    "description": "Este año incorporan hojas de metacrilato que cambian de color durante el día",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/25/naron-monta-navidad-600-elementos-decorativos/0003_202610F25C8991.htm",
+    "time": "2026-10-24T17:20:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Racing tropieza consigo mismo y cae ante el Mirandés (2-0)",
+    "description": "El enredo entre Fabio y Monju en la defensa de un córner derivó en la tempranera diana de Raúl Martínez, que abrochó Jorge González en el tramo final",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/24/racing-mirandes/00031792849968783326613.htm",
+    "time": "2026-10-24T16:33:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Manuel Polo e Pilar Lozano, representantes de Ferrolterra no BNG nas eleccións xerais",
+    "description": "O concelleiro de Fene sitúase de nº. 3 na candidatura ao Congreso e a responsábel comarcal figura de primeira suplente do cabeza de lista ao Senado",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/manuel-polo-pilar-lozano-representantes-ferrolterra-bng-nas-eleccions-xerais/0003_202610F25C2992.htm",
+    "time": "2026-10-24T16:02:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Adeus a Eulogio Sixto, Logito: «O teu nome soará de novo cada vez que se fale de liberdade»",
-    "description": "O artífice da creación da Xunta de Montes Comunais de Marraxón, nacido en Fene no 1954, será icinerado este domingo",
+    "description": "O artífice da creación da Xunta de Montes Comunais de Marraxón, nacido en Fene no 1954, será incinerado este domingo",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/24/span-langgladeus-eulogio-sixto-logito-teu-nome-soara-novo-vez-fale-liberdadespan/00031792851939328103699.htm",
     "time": "2026-10-24T14:40:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -18,27 +45,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Más de 1.600 jóvenes logran un empleo: «Para abrir un negocio solo te dan ayudas para lo básico»",
-    "description": "Los menores de 35 años ocupan casi seis de cada diez de los 2.925 trabajos creados en lo que va de año en Ferrol, Eume y Ortegal, según los datos del IGE de afiliación a la Seguridad Social",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/24/1600-jovenes-logran-empleo/0003_202610F24C1991.htm",
-    "time": "2026-10-24T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Victoria judicial para la vecina de Londres a la que Ferrol pedía 20 años de facturas de agua: «Vivía en Inglaterra desde 2004»",
     "description": "La mujer demandó al Concello y ganó, el magistrado Javier Tudela declara nulas las notificaciones que había recibido desde 2006 y por las que le habían embargado más de 8.500 euros",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/victoria-judicial-vecina-londres-ferrol-pedia-20-anos-facturas/0003_202610F24C3995.htm",
-    "time": "2026-10-24T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Concello de Narón detallará a los vecinos de Piñeiros la obra de la carretera de O Feal",
-    "description": "Técnicos municipales llevarán los planos para explicar el proyecto de la Diputación de A Coruña",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/24/concello-detallara-pineiros-obra-carretera-feal/0003_202610F24C8992.htm",
     "time": "2026-10-24T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -63,9 +72,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Narón inicia en Pedroso un programa para evitar la soledad no deseada de los mayores de 70",
-    "description": "La iniciativa se desarrollará en el local social de la parroquia todos los lunes y domingo por la tarde, hasta finales de noviembre",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/24/naron-inicia-pedroso-programa-evitar-soledad-deseada-mayores-70/0003_202610F24C8991.htm",
+    "title": "Más de 1.600 jóvenes logran un empleo: «Para abrir un negocio solo te dan ayudas para lo básico»",
+    "description": "Los menores de 35 años ocupan casi seis de cada diez de los 2.925 trabajos creados en lo que va de año en Ferrol, Eume y Ortegal, según los datos del IGE de afiliación a la Seguridad Social",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/24/1600-jovenes-logran-empleo/0003_202610F24C1991.htm",
     "time": "2026-10-24T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -117,18 +126,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "«Cuando buscas empleo teniendo cáncer te preguntas: '¿yo soy válida para una empresa?'»",
-    "description": "La AECC presenta en Ferrol un protocolo de actuación en el entorno laboral ante el diagnóstico de esta enfermedad",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/buscasempleo-teniendo-cancer-preguntas-valida-empresa/00031792765329132867852.htm",
+    "title": "El Campus Industrial reunirá a más de 50 empresas, entidades y asociaciones en el Festalent",
+    "description": "La feria tendrá lugar el jueves 29 de octubre, de 10 a 14 horas y de 15 a 18 horas, en el pabellón municipal de Esteiro",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/campus-industrial-reunira-50-empresas-entidades-asociaciones-festalent/0003_202610F24C2991.htm",
     "time": "2026-10-24T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "El Campus Industrial reunirá a más de 50 empresas, entidades y asociaciones en el Festalent",
-    "description": "La feria tendrá lugar el jueves 29 de octubre, de 10 a 14 horas y de 15 a 18 horas, en el pabellón municipal de Esteiro",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/campus-industrial-reunira-50-empresas-entidades-asociaciones-festalent/0003_202610F24C2991.htm",
+    "title": "Narón inicia en Pedroso un programa para evitar la soledad no deseada de los mayores de 70",
+    "description": "La iniciativa se desarrollará en el local social de la parroquia todos los lunes y domingo por la tarde, hasta finales de noviembre",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/24/naron-inicia-pedroso-programa-evitar-soledad-deseada-mayores-70/0003_202610F24C8991.htm",
     "time": "2026-10-24T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -153,15 +162,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Enfermeras abordan la alimentación complementaria en la infancia en los centros de salud de Ares, Fene y Mugardos",
-    "description": "En la actividad conjunta participaron familias con lactantes de entre 6 y 12 meses",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/24/enfermeras-abordan-alimentacion-complementaria-infancia/0003_202610F24C4995.htm",
-    "time": "2026-10-24T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Nueva oleada de empleo en Navantia Ferrol con 99 plazas de operarios y técnicos",
     "description": "La empresa pública y la Armada trabajan ya en la nueva serie de las fragatas F-110, que tendrán más capacidad antiaérea",
     "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/23/nueva-oleada-empleo-navantia-ferrol-99-plazas-operarios-tecnicos/00031792749680818632535.htm",
@@ -171,10 +171,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Caza mayor en Anduva para el Racing Club Ferrol",
-    "description": "Los de Javi Vázquez visitan al Mirandés en el estreno de Aday Benítez en el banquillo jabato y en un partido en el que la batalla de los duelos se antoja capital",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/caza-mayor-anduva-racing-club-ferrol/00031792771814845933194.htm",
-    "time": "2026-10-23T16:53:00+00:00",
+    "title": "Las elecciones al Colegio de Abogados de Ferrol llegarán a los juzgados",
+    "description": "La lista de Ana Rosa Pena presentará un recurso contencioso contra la resolución del Consello da Avogacía Galega que anuló los comicios; recalca que «hubo numerosas irregularidades como que éramos 250 votantes y aparecieron 252 papeletas»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/elecciones-colegio-abogados-ferrol-llegan-juzgados/00031792762672361733455.htm",
+    "time": "2026-10-23T17:23:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -246,15 +246,6 @@
     "title": "Lorena Fernández, una vida llena de luz truncada por la ELA: «Ella era excepcional»",
     "description": "Su viudo Ovidio Aldegunde y sus amigos le declaran su amor incondicional en una serie de cartas desde la ría de Ferrol; era la presidenta de Indican y rescató durante años a numerosos animales, cuyos adoptantes le dan ahora las gracias",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/lorena-fernandez-vida-llena-luz-truncada-ela-era-excepcional/0003_202610F23C2_COPY992.htm",
-    "time": "2026-10-23T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Samaín llega a Ferrol y Narón con escaparates «de miedo» y actividades el fin de semana",
-    "description": "El comercio de la comarca trata de paliar la posible ausencia del Quilómetro do Terror de Catabois con tallares de calabazas o yincanas de Truco o Trato",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/samain-llega-escaparates-miedo-actividades-fin-semana/0003_202610F23C4991.htm",
     "time": "2026-10-23T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
