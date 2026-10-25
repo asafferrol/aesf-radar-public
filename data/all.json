@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T17:14:40.214412+00:00",
-  "count": 375,
+  "generated_at": "2026-10-25T19:41:13.249668+00:00",
+  "count": 377,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "La defensa del córner, la grieta que asoma en las salidas del Racing",
+      "description": "Tres de los siete goles encajados por el cuadro ferrolano en lo que va de curso llegaron a domicilio y a balón parado desde la esquina",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/25/defensa-corner-grieta-asoma-salidas-racing/00031792953067300268372.htm",
+      "time": "2026-10-25T18:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los cruceristas del Renaissance, sorprendidos por los huesos de santo en su visita a Ferrol",
+      "description": "La escala del navío, con 1.500 turistas a bordo, se dejó sentir en la ciudad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/26/cruceristas-sorprendidos-huesos-santo/0003_202610F26C2991.htm",
+      "time": "2026-10-25T18:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos deportistas de Ferrolterra en el Mundial ISKA",
+      "description": "Marcos López Balado y Alberto López Torreiro competirán del 6 al 8 de noviembre en Aranjuez",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/dos-deportistas-ferrolterra-mundial-iska/00031792949002178594637.htm",
+      "time": "2026-10-25T17:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Monju estrena la nómina de apercibidos en el Racing Club Ferrol",
       "description": "Vio la cuarta amarilla en Anduva y su posible sanción abre una ventana de oportunidad para David Castro",
@@ -3390,15 +3417,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Las elecciones al Colegio de Abogados de Ferrol llegarán a los juzgados",
-      "description": "La lista de Ana Rosa Pena presentará un recurso contencioso contra la resolución del Consello da Avogacía Galega que anuló los comicios; recalca que «hubo numerosas irregularidades como que éramos 250 votantes y aparecieron 252 papeletas»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/elecciones-colegio-abogados-ferrol-llegan-juzgados/00031792762672361733455.htm",
-      "time": "2026-10-23T17:23:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
