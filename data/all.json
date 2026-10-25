@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-25T00:02:58.053885+00:00",
-  "count": 378,
+  "generated_at": "2026-10-25T04:29:40.544501+00:00",
+  "count": 374,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 50,
+      "count": 49,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,105 @@
     }
   },
   "items": [
+    {
+      "title": "Las heridas por las que se desangra el embalse de As Forcadas",
+      "description": "La sequía vuelve a poner en el punto de mira las fugas de la red que abastece a los municipios de Ares, Fene, Ferrol, Mugardos, Narón, Neda y Valdoviño",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/heridas-desangra-as-forcadas/0003_202610F25C2991.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Xunta destina 13 millones al edificio de industria inteligente del Campus de Ferrol",
+      "description": "La UDC licitará antes de final de año las obras del centro EI3 en Esteiro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/25/xunta-destina-13-millones-edificio-industria-inteligente-campus-ferrol/0003_202610F25C4992.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La paradoja del Puerto de Ferrol: el auge del gas compensa la crisis del contenedor",
+      "description": "Los tráficos crecen por encima de la media estatal pese al contexto global",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/puertos/2026/10/25/paradoja-puerto-auge-gas-compensa-crisis-contenedor/0003_202610F25C6992.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "MAS y CIG dan por bloqueado el plan estratégico de Navantia",
+      "description": "Las centrales censuran la falta de voluntad negociadora de la dirección",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/cig-dan-bloqueado-plan-estrategico-navantia/0003_202610F25C2998.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Sergio y Loky, los mejores rescatadores de Europa: «Es un perro diez para salvar vidas»",
+      "description": "El bombero de Ferrol y su can forman parte de Casaga, unidad de voluntarios que acuden a terremotos, danas y otras emergencias",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/sergio-loky-mejores-rescatadores-europa-perro-diez-salvar-vidas/00031792832781035575410.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El cronograma de Mandiá hasta 2032",
+      "description": "El futuro parque empresarial, que ya empieza a diseñarse con la redacción del plan de ordenación y los instrumentos de desarrollo y ejecución, movilizará 110 millones de inversión",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/cronograma-mandia-2032/0003_202610F25C1991.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Gamallo impartirá una charla en el campus sobre la proyección exterior de Galicia",
+      "description": "Será el viernes, 30",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/gamallo-analizara-charla-proyeccion-exterior-galicia/0003_202610F25C4991.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El ciclón que asoló La Habana y dejó a nueve familias de Redes en la miseria, hace cien años: «Las campanas de Caamouco tocaron a muerto cinco días seguidos»",
+      "description": "La Agrupación Instrutiva de Caamouco honrará a quienes fallecieron en la emigración con una pieza teatral y la colocación de una placa, el 7 de noviembre",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/ciclon-habana-dejo-desamparo-nueve-familias-redes-justo-cien-anos/0003_202610F25C9991.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Xosé Martinho Montero Santalha xa é Fillo Predilecto de Cerdido",
+      "description": "Amigos, familiares e persoas que admiran e respectan o traballo do homanexeado encheron a sala do Castro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/10/25/span-langglxose-martinho-montero-santalha-xa-e-fillo-predilecto-cerdidospan/0003_202610F25C9992.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rei Zentolo regresa a Odeón",
+      "description": "Instalará de nuevo un expositor en la planta principal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/rei-zentolo-regresa-odeon/0003_202610F25C2997.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O pan de landras que fai Alexandre Castro nas Somozas: a uns sábelles doce e a outros amargo",
+      "description": "Con 40 anos, Anacoreta Norteño comparte nas redes reflexións sobre un xeito de vida alternativo e oficios esquecidos coma o de zoqueiro ou cesteiro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/10/25/pan-landras-feito-nas-somozas/0003_202610F25C12991.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El Racing Club Ferrol, en el límite del bien y del mal",
       "description": "La delgada línea del fútbol penalizó a un cuadro naval que encajó pronto en una acción embarullada y no logró reaccionar",
@@ -3288,141 +3387,6 @@
       "description": "El bautismo de mar se celebrará el próximo martes en el astillero de Ferrol",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/escritora-almudena-arteaga-sera-madrina-fragata-f-112-roger-lauria/00031792743938132237841.htm",
       "time": "2026-10-23T08:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Radiografía del Sánchez Aguilera",
-      "description": "Tres años de la firma del convenio al visto bueno al proyecto de urbanización",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/radiografia-sanchez-aguilera/0003_202610F23C3991.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O PSOE de Ferrol presenta alegacións contra a subida de ata o 99 % dos nichos municipais",
-      "description": "«Estamos falando dunha necesidade que as familias deben afrontar nun dos momentos máis difíciles das súas vidas», denunciou Rafael Fernández Beceiro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/span-langgl-psoe-presenta-alegacions-contra-subida-ata-99-dos-nichos-municipaisspan/0003_202610F23C4992.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Navantia tendrá que pagar 207.000 euros a la familia de un afectado por el amianto en Ferrol",
-      "description": "La empresa pública, Izar y una auxiliar ya habían sido condenadas en primera instancia; las dos primeras recurrieron alegando que la víctima fumaba 50 cigarrillos al día; la sentencia indica que no se adoptaron las medidas preventivas necesarias",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/navantia-tendra-pagar-207000-euros-familia-afectado-amianto/0003_202610F23C2_COPY991.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Lorena Fernández, una vida llena de luz truncada por la ELA: «Ella era excepcional»",
-      "description": "Su viudo Ovidio Aldegunde y sus amigos le declaran su amor incondicional en una serie de cartas desde la ría de Ferrol; era la presidenta de Indican y rescató durante años a numerosos animales, cuyos adoptantes le dan ahora las gracias",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/lorena-fernandez-vida-llena-luz-truncada-ela-era-excepcional/0003_202610F23C2_COPY992.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Voz Natura, entre los cuatro distinguidos de este año con los Premios Resilientes, en Cedeira",
-      "description": "Maru Prieto Barcia, la Banda de Música Vila de Cedeira y los hermanos Lafuente Agrasar son los otros galardonados en esta décima edición",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/voz-natura-cuatro-distinguidos-ano-premios-resilientes-cedeira/0003_202610F23C6995.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El presidente del Puerto de Ferrol visita el Campus Industrial y Navantia",
-      "description": "Las visitas se enmarcan en una ronda de encuentros para reforzar la colaboración con instituciones y empresas estratégicas de la ciudad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/presidente-puerto-ferrol-visita-campus-industrial-navantia/0003_202610F23C3994.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Hoboken, una nueva librería en la calle Galiano",
-      "description": "Al frente del proyecto está Karlos Ramos, ferrolano vinculado familiarmente a esta zona",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/gascon-tradicion-122-anos-sabe-despedida/0003_202610F23C8992.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Más teatro en Caranza",
-      "description": "A partir de las siete de la tarde, con entrada libre, el público podrá disfrutar de Os marcos da vida",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/22/teatro-caranza/00031792692265211948544.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Xunta apoya la repotenciación del parque eólico del parque eólico de A Coriscada",
-      "description": "La conselleira de Medio Ambiente visitó las obras, entre Mañón y Ortigueira",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/23/xunta-apoya-repotenciacion-parque-eolico-coriscada/0003_202610F23C6991.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Samaín llega a Ferrol y Narón con escaparates «de miedo» y actividades el fin de semana",
-      "description": "El comercio de la comarca trata de paliar la posible ausencia del Quilómetro do Terror de Catabois con tallares de calabazas o yincanas de Truco o Trato",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/samain-llega-escaparates-miedo-actividades-fin-semana/0003_202610F23C4991.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Sueltan en las Fragas do Eume una lechuza y un ratonero recuperados en Oleiros",
-      "description": "Fueron tratados en el Centro de Recuperación da Fauna Salvaxe",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/devuelven-fragas-do-eume-lechuza-ratonero-recuperados/0003_202610F23C6994.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Fabio, jugador del Racing: «Pasé de jugar contra Lamine y Pedri a estar sin equipo»",
-      "description": "El pivote, que recaló en Ferrol a pueba hace solo unos meses, capitanea a un vestuario con el que espera «celebrar algo muy bonito»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/22/fabio-jugador-racingpase-jugar-contra-lamine-pedri-estar-equipo/00031792696345334965631.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Manifestación polo centro de saúde de As Pontes, este venres",
-      "description": "O BNG convida a participar na protesta pola situación da atención primaria",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/10/23/span-langglmanifestacion-polo-centro-saude-hoxe-spanspan-langglnas-pontesspan/0003_202610F23C6993.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Impulso al saneamiento rural y el carril bici en Doniños",
-      "description": "El alcalde y el concejal de Servizos e Zona Rural se reunieron con la directiva de la asociación vecinal O Lago Doniños",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/impulso-saneamiento-rural-carril-bici-doninos/0003_202610F23C3993.htm",
-      "time": "2026-10-23T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Sabotajes encubiertos y enjambres de drones: tres buques con base en Ferrol responden a las nuevas crisis bélicas",
-      "description": "Con unos 650 marinos a bordo, dos fragatas y el Patiño afrontan la fase crítica de unas exigentes pruebas en el Mediterráneo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/dos-fragatas-patino-ensayan-respuesta-nuevas-crisis-belicas/0003_202610F23C1993.htm",
-      "time": "2026-10-23T02:47:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
