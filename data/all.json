@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T09:19:24.568909+00:00",
+  "generated_at": "2026-10-25T13:45:56.439868+00:00",
   "count": 373,
   "sources": {
     "lavoz_ferrol": {
@@ -9,7 +9,7 @@
     },
     "dog": {
       "ok": true,
-      "count": 49,
+      "count": 1,
       "name": "DOG · Xunta de Galicia"
     },
     "boe": {
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "O Parrulo Ferrol, todo un infierno para el Jaén Paraíso Interior (5-2)",
+      "description": "Un recital de Caio y el equilibrio perfecto entre defensa y ataque tumbaron a un rival que llegaba invicto a A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/25/parrulo-jaen/00031792926694814575712.htm",
+      "time": "2026-10-25T13:34:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol, «contra a represión policial» : los jóvenes claman « contra o fascismo » en la plaza Amada García",
+      "description": "Los manifestantes animaron a secundar la huelga general del 11N y a acudir a votar el 29N para frenar a la ultraderecha",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/25/ss/00031792928783675488675.htm",
+      "time": "2026-10-25T12:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ojeda, jugador del Racing Club Ferrol: «Optimistas ya para el próximo partido»",
+      "description": "El canario, que tuvo el empate antes del descanso y poco después de la reanudación, admite lagunas en finalización frente al Mirandés",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/25/ojeda-jugador-racing-club-ferroloptimistas-proximo-partido/00031792918944187622306.htm",
+      "time": "2026-10-25T09:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Las heridas por las que se desangra el embalse de As Forcadas",
       "description": "La sequía vuelve a poner en el punto de mira las fugas de la red que abastece a los municipios de Ares, Fene, Ferrol, Mugardos, Narón, Neda y Valdoviño",
@@ -123,6 +150,24 @@
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
+    },
+    {
+      "title": "O pan de landras que fai Alexandre Castro nas Somozas: a uns sábelles doce e a outros amargo",
+      "description": "Con 40 anos, Anacoreta Norteño comparte nas redes reflexións sobre un xeito de vida alternativo e oficios esquecidos coma o de zoqueiro ou cesteiro",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/agricultura/2026/10/25/pan-landras-feito-nas-somozas/0003_202610F25C12991.htm",
+      "time": "2026-10-25T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "DECRETO 109/2026, de 25 de octubre, por el que se dispone que cese Fabiola García Martínez como conselleira de Política Social e Igualdad.",
+      "description": "a) Ceses Presidencia de la Xunta de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261025/AnuncioC3B0-251026-1_es.html",
+      "time": "2026-10-24T22:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
     },
     {
       "title": "El Racing Club Ferrol, en el límite del bien y del mal",
@@ -3333,51 +3378,6 @@
       "description": "El alcalde de Ferrol ya compagina su cargo con el de senador, Tellado es el secretario general del partido y número 2 de Feijoo; Rey Varela se compromete a «seguir creando un Ferrol grande con retos como un tren del siglo XXI o 400 viviendas para el Sánchez Aguilera»",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/23/ferrolanos-miguel-tellado-jose-manuel-rey-cabezas-lista-pp-congreso-senado-coruna/00031792766187806927587.htm",
       "time": "2026-10-23T15:11:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El colegiado Aimar Velasco arbitrará el Mirandés-Racing",
-      "description": "Los ferrolanos nunca lograron sumar de tres con él en los cuatro antecedentes existentes",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/colegiado-aimar-velasco-arbitrara-mirandes-racing/00031792759331965726314.htm",
-      "time": "2026-10-23T12:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nueva oleada de empleo en Navantia Ferrol con 99 plazas de operarios y técnicos",
-      "description": "Las vacantes serán publicadas en los próximos días en la web de la empresa pública",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/23/nueva-oleada-empleo-navantia-ferrol-99-plazas-operarios-tecnicos/00031792749680818632535.htm",
-      "time": "2026-10-23T12:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Migue Leal y Álvaro Juan, las dos únicas bajas del Racing es su visita a Anduva",
-      "description": "El lateral se encuentra mejor de su «lesión muscular de bajo alcance» ya se reincoporó esta semana al entrenamiento con el grupo y su regreso será progresivo",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/migue-leal-alvaro-juan-dos-unicas-bajas-racing-visita-anduva/00031792754121864736971.htm",
-      "time": "2026-10-23T11:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La solidez del bloque del Baxi Ferrol pasa examen frente a Gernika",
-      "description": "Lino López pone el foco en la faceta defensiva y, tras tres derrotas consecutivas, insta al vestuario a olvidar y confiar en el proceso de mejora",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/23/solidez-bloque-baxi-ferrol-pasa-examen-frente-gernika/00031792753567909560616.htm",
-      "time": "2026-10-23T11:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «No contemplamos otra cosa que no sea ganar, pero sin pensar en rachas»",
-      "description": "El Racing visita mañana al Mirandés en el estreno de Aday Benítez en el banquillo de Anduva",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/23/javi-vazquez-contemplamos-ganar-pensar-rachas/00031792747944289515426.htm",
-      "time": "2026-10-23T10:31:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
