@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T00:10:15.865544+00:00",
-  "count": 89,
+  "generated_at": "2026-10-26T04:43:11.364846+00:00",
+  "count": 87,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,132 @@
     }
   },
   "items": [
+    {
+      "title": "La botadura de la segunda fragata F-110 implicará a 500 trabajadores en la grada",
+      "description": "La Roger de Lauria recibirá mañana su bautismo de mar en Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/26/botadura-segunda-fragata-f-110-implicara-500-trabajadores-grada/0003_202610G26P19991.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Quince centros en la provincia de A Coruña recogen a las mascotas para darles un hogar",
+      "description": "Están en manos de grandes empresas como Servigal o XEA, pero sobre todo de protectoras sin ánimo de lucro como Cometa, Apadan o San Francisco de Asís",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/quince-centros-provincia-recogen-mascotas-darles-hogar/0003_202610F26C5991.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La provincia cuenta con 54 Casas do Maior repartidas en 25 municipios",
+      "description": "Mazaricos, con cinco viviendas, es el concello con más servicios",
+      "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/10/26/provincia-cuenta-54-casas-do-maior-repartidas-25-municipios/0003_202610S26C5993.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PP alerta de «insalubridad» en la Porta do Sol, en Valdoviño",
+      "description": "El candidato a la alcaldía asegura que hay ratas y solicita al Concello la intervención inmediata de los servicios de control de plagas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/26/pp-alerta-insalubridad-porta-do-sol-valdovino/0003_202610F26C2992.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Xunta y cofradías intentan salvar la ría de Ferrol",
+      "description": "Los pósitos vuelven a poner sobre la mesa la necesidad de otro cierre temporal del marisqueo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/xunta-cofradias-intentan-salvar-ria/0003_202610F26C1992.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Premio Resilientes para Voz Natura: «Por crear conciencia desde a infancia»",
+      "description": "El colectivo Rampla-Remo Revolución entregó los galardones, que cumplen diez años, en Cedeira",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/26/premio-resilientes-voz-natura-crear-conciencia-infancia/0003_202610F26C3991.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Miguel Silvarredonda, profesor de cociña: «Co formato aforro dos alimentos a maioría das veces non se aforra»",
+      "description": "O experto imparte en Ares cursos para reducir o desperdicio alimentario",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/span-langglmiguel-silvarredondaprofesor-cocinaco-formato-aforro-dos-alimentos-maioria-das-vecesspanbr-span-langglnon-aforraspan/00031792958577095816993.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "En recuerdo del buque Galatea",
+      "description": "Nuestro antiguo y emblemático barco-escuela es hoy museo flotante en Escocia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/recuerdo-buque-galatea/0003_202610F26C8993.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Por la concordia",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/26/concordia/0003_202610F26C8992.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PSOE advierte del riesgo de derrumbe de la nave de Ártica, de Portos de Galicia",
+      "description": "Critica que la Xunta solo destine diez mil euros a la conservación de este tipo de instalaciones",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/carino/2026/10/26/psoe-advierte-riesgo-derrumbe-nave-portos/0003_202610F26C2993.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Mañón proyecta un documental sobre el petrolero Mar Egeo",
+      "description": "El audiovisual se podrá ver el día 30, en el centro sociocomunitario de O Barqueiro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/10/26/manon-proyecta-documental-sobre-petrolero-mar-egeo/0003_202610F26C2994.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ortigueira organizará un curso de socorrismo de cara a la temporada del 2027",
+      "description": "Será necesario que se cubran 27 plazas para que se lleve a cabo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/26/ortigueira-organizara-curso-socorrismo-cara-temporada-2027/0003_202610F26C6992.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "San Sadurniño executa a anualidade 2026 do plan de camiños da AGADER",
+      "description": "Os traballos inclúen o aglomerado de 1,3 quilómetros do camiño entre Vilela, Bouzarrara e A Fontela, en Lamas, e o asfaltado de dúas pistas de acceso ao núcleo do Pico, en Naraío",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/10/26/span-langglsan-sadurnino-executa-anualidade-2026-do-plan-caminos-da-agaderspan/0003_202610F26C6993.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El BNG denuncia la falta de inversión de la Xunta en Narón",
+      "description": "Acusa al Gobierno gallego de «desatender as demandas históricas e a realidade socioeconómica» del municipio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/26/bng-narones-denuncia-falta-inversion-xunta/0003_202610F26C3994.htm",
+      "time": "2026-10-26T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "CORRECCIÓN DE ERRORES. Orden de 6 de octubre de 2026 por la que se modifica la composición del Consejo Social de la Universidad de Vigo.",
       "description": "b) Nombramientos Consellería de Educación, Ciencia, Universidades y Formación Profesional",
@@ -678,150 +804,6 @@
       "description": "Gerard Casas considera que el rival es «el mejor equipo del mundo a nivel de competir» y confía en que los ferrolanos ofrezcan su mejor versión",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/24/parrulo-ferrol-mide-crecimiento-ante-invicto-jaen/00031792839500709823287.htm",
       "time": "2026-10-24T11:02:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Más de 1.600 jóvenes logran un empleo: «Para abrir un negocio solo te dan ayudas para lo básico»",
-      "description": "Los menores de 35 años ocupan casi seis de cada diez de los 2.925 trabajos creados en lo que va de año en Ferrol, Eume y Ortegal, según los datos del IGE de afiliación a la Seguridad Social",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/24/1600-jovenes-logran-empleo/0003_202610F24C1991.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Victoria judicial para la vecina de Londres a la que Ferrol pedía 20 años de facturas de agua: «Vivía en Inglaterra desde 2004»",
-      "description": "La mujer demandó al Concello y ganó, el magistrado Javier Tudela declara nulas las notificaciones que había recibido desde 2006 y por las que le habían embargado más de 8.500 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/victoria-judicial-vecina-londres-ferrol-pedia-20-anos-facturas/0003_202610F24C3995.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Concello de Narón detallará a los vecinos de Piñeiros la obra de la carretera de O Feal",
-      "description": "Técnicos municipales llevarán los planos para explicar el proyecto de la Diputación de A Coruña",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/24/concello-detallara-pineiros-obra-carretera-feal/0003_202610F24C8992.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los mayores de 65 años del área sanitaria de Ferrol podrán optar a la vacuna conjunta de la gripe y el covid",
-      "description": "La campaña se enmarca dentro del ensayo clínico Combogal, para evaluar la eficacia de la dosis combinada",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/mayores-65-area-sanitaria-podran-optar-vacuna-conjunta-gripe-covid/0003_202610F24C4993.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mar ve «prioritario» recuperar los bancos marisqueros de Cedeira, pero no concreta cómo",
-      "description": "Las profesionales del sector llevan casi dos años sin actividad, a la espera de soluciones",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/24/mar-ve-prioritario-recuperar-bancos-marisqueiros-cedeira-concreta/0003_202610F24C9991.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mari, voluntaria en el Banco de Alimentos de Ferrol: «Me retiré como camionera y quise usar mi energía para hacer el bien»",
-      "description": "La entidad busca voluntarios para la gran recogida, los días 13 y 14 de noviembre",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/24/me-retire-camionera-quise-usar-energia-bien/0003_202610F24C5991.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón inicia en Pedroso un programa para evitar la soledad no deseada de los mayores de 70",
-      "description": "La iniciativa se desarrollará en el local social de la parroquia todos los lunes y domingo por la tarde, hasta finales de noviembre",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/24/naron-inicia-pedroso-programa-evitar-soledad-deseada-mayores-70/0003_202610F24C8991.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "MFES, empresa derivada de la investigación en biomecánica del CITENI, recibe dos premios",
-      "description": "Ha sido reconocida en los Santander X Spain Awards",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/24/mfes-empresa-derivada-investigacion-biomecanica-citeni-recibe-dos-premios-span-langglminuto-silencio-pola-ultima-vitima-spanspan-langgl-violencia-spanspan-langgl-xenero-span/0003_202610F24C2992.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un adiós imprevisto",
-      "description": "Fallece de forma inesperada Valentín Sánchez Espiñeira, que exponía sus figuras con restos de madera en la antigua panadería Francesa",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/adios-imprevisto/00031792774750994627942.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Retranca ferrolana",
-      "description": "La ferrolana Ana Díaz triunfa en el programa «Moito chiste», presentados por Touriñán en la TVG",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/retranca-ferrolana/00031792774583807506720.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Luces, sustos y miedo en el Samaín nedense de O Puntal",
-      "description": "La familia Carpente Rico se sumergen de lleno en la fiesta de los espíritus",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/luces-sustos-miedo-samain-nedense-puntal/00031792774386994518851.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Cuando buscas empleo teniendo cáncer te preguntas: '¿yo soy válida para una empresa?'»",
-      "description": "La AECC presenta en Ferrol un protocolo de actuación en el entorno laboral ante el diagnóstico de esta enfermedad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/23/buscasempleo-teniendo-cancer-preguntas-valida-empresa/00031792765329132867852.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Campus Industrial reunirá a más de 50 empresas, entidades y asociaciones en el Festalent",
-      "description": "La feria tendrá lugar el jueves 29 de octubre, de 10 a 14 horas y de 15 a 18 horas, en el pabellón municipal de Esteiro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/campus-industrial-reunira-50-empresas-entidades-asociaciones-festalent/0003_202610F24C2991.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "San Sadurniño pide á Xunta axuda para consolidar o castelo de Naraío",
-      "description": "O Concello estima nuns 190.000 euros o orzamento da intervención prevista na fortaleza",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/10/24/span-langglsan-sadurnino-pide-a-xunta-axuda-consolidar-castelo-naraiospan/0003_202610F24C9992.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Máis de 120 cartas para homenaxear a Martinho Montero Santalha en Cerdido",
-      "description": "O acto de nomeamento de Fillo Predilecto terá lugar este sábado, ás seis da tarde, na área recreativa do Castro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/10/24/cerdido-homenaxea-martinho-montero-santalha/0003_202610F24C9994.htm",
-      "time": "2026-10-24T03:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Enfermeras abordan la alimentación complementaria en la infancia en los centros de salud de Ares, Fene y Mugardos",
-      "description": "En la actividad conjunta participaron familias con lactantes de entre 6 y 12 meses",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/24/enfermeras-abordan-alimentacion-complementaria-infancia/0003_202610F24C4995.htm",
-      "time": "2026-10-24T03:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
