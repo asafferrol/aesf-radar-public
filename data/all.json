@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T16:56:05.299147+00:00",
-  "count": 418,
+  "generated_at": "2026-10-26T21:19:41.693642+00:00",
+  "count": 419,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,69 @@
     }
   },
   "items": [
+    {
+      "title": "Dos rivales de altura para el Racing de Ferrol",
+      "description": "El conjunto de Javi Vázquez recibirá a la Ponferradina y al Logroñés en sus próximos duelos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/26/dos-rivales-altura-racing-ferrol/00031793035098908895909.htm",
+      "time": "2026-10-26T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La cubierta de A Malata avanza con la instalación de las chapas",
+      "description": "En Preferencia se empiezan a colocar partes de la cubierta definitiva, mientras que en Tribuna continúan con la colocación de las cerchas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/26/cubierta-malata-avanza-instalacion-chapas/00031793035319571883941.htm",
+      "time": "2026-10-26T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Factory Team de Ferrol conquista el Campeonato de España de culturismo",
+      "description": "Iván Amado y José Miguel López Vázquez se hicieron con con cinco medallas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/factory-team-ferrol-conquista-campeonato-espana-culturismo/00031793035651178559496.htm",
+      "time": "2026-10-26T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Costa Ártabra tumba al invicto Maristas y se afianza en la zona alta",
+      "description": "El sénior masculino se hizo con la victoria, pero el femenino no pudo superar al Rosalía",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/costa-artabra-tumba-invicto-maristas-afianza-zona-alta/00031793035818578173571.htm",
+      "time": "2026-10-26T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol pierde a Iva Belosevic por una rotura del ligamento cruzado anterior",
+      "description": "La jugadora sufre una grave lesión en la rodilla derecha, confirmada tras las pruebas médicas realizadas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/baxi-ferrol-pierde-iva-belosevic-rotura-ligamento-cruzado-anterior/00031793036021614722562.htm",
+      "time": "2026-10-26T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo convierte A Malata en la clave contra uno de los grandes",
+      "description": "Rubén Orzáez y Caio César destacan la solidez colectiva para llevarse la victoria",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/parrulo-convierte-malata-clave-contra-grandes/00031793035462604881255.htm",
+      "time": "2026-10-26T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Grazas ao voluntariado de prevención de incendios de As Somozas",
+      "description": "A asociación de produtores de madeira, Promaso, subliña o labor dos socios que vixiaron os montes desde o comezo do verán",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/10/26/span-langglgrazas-ao-voluntariado-prevencion-incendios-as-somozasspan/00031793030047250774484.htm",
+      "time": "2026-10-26T16:59:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Epitafios para la eternidad en Ferrol: « O frío é de preguiceiros »",
       "description": "El Centro Cívico de Canido inauguró una muestra dentro de la programación del Samaín",
@@ -3732,60 +3795,6 @@
       "source": "DOG · Xunta de Galicia",
       "source_id": "dog",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Racing Club Ferrol, en el límite del bien y del mal",
-      "description": "La delgada línea del fútbol penalizó a un cuadro naval que encajó pronto en una acción embarullada y no logró reaccionar",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/24/racing-club-ferrol-limite-bien-mal/00031792875381679947687.htm",
-      "time": "2026-10-24T21:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las 10 mejores imágenes del Mirandés- Racing de Ferrol",
-      "description": "",
-      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/10/24/10-mejores-imagenes-mirandes-racing-ferrol/01101792872836466903612.htm",
-      "time": "2026-10-24T20:15:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» de la derrota del Racing frente al Mirandés",
-      "description": "Un detalle defensivo marcó un partido en el que ningún jugador ferrolano logró marcar diferencias arriba para lograr la igualada",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/24/1x1-derrota-racing-frente-mirandes/00031792871174655986804.htm",
-      "time": "2026-10-24T19:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol rompe su mala racha y sonríe tras superar al Gernika (76-71)",
-      "description": "Las de Lino levantaron un parcial de 0-15 en el último cuarto para rehacerse en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/24/baxi-ferrol-rompe-mala-racha-sonrie-tras-superar-gernika-76-71/00031792865786657317158.htm",
-      "time": "2026-10-24T19:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez, técnico del Racing: «Aquí te duermes un poco y...»",
-      "description": "El preparador, que confesó que esperaba la línea de tres del Mirandés, puso el foco en el primer tanto: «Hemos regalado el córner y no hemos defendido bien esa acción»",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/24/javi-vazquez-tecnico-racing-duermes-poco-/00031792867559197758808.htm",
-      "time": "2026-10-24T18:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Narón ya monta su Navidad con más de 600 elementos decorativos",
-      "description": "Este año incorporan hojas de metacrilato que cambian de color durante el día",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/25/naron-monta-navidad-600-elementos-decorativos/0003_202610F25C8991.htm",
-      "time": "2026-10-24T17:20:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
