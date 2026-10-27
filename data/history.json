@@ -1,7 +1,79 @@
 {
   "hours": 48,
-  "count": 755,
+  "count": 758,
   "items": [
+    {
+      "title": "Navantia exhibe en Ferrol las fragatas «más capaces del mundo»",
+      "description": "El gigante americano Lockheed Martin alaba el potencial de la familia F-110, en la botadura de la segunda unidad de la serie, que reunió a unas 5.000 personas",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/27/navantia-lanza-mar-ferrol-fragatas-capaces-mundo/00031793128285306179269.htm",
+      "time": "2026-10-27T19:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Miles de personas acompañaron a Almudena de Arteaga en el bautizo de la Roger de Lauria: «Es un orgullo amadrinar la fragata»",
+      "description": "Entre el público invitado, trabajadores y vecinos vivieron en directo una emocionante botadura",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/28/orgullo-amadrinar-fragata/0003_202610F28C1991.htm",
+      "time": "2026-10-27T19:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Botadura en Ferrol de la fragata F-112 Roger de Lauria por Navantia",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/video/ferrol/2026/10/27/botadura-roger-lauria-f-112-navantia/0031_2026109s1QHzg2.htm",
+      "time": "2026-10-27T19:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La botadura de la fragata F-112 Roger de Lauria, en imágenes",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/album/ferrol/2026/10/27/botadura-fragata-f-112-roger-lauria-imagenes/01101793121450567955938.htm",
+      "time": "2026-10-27T18:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing de Ferrol rentabiliza cada gol para mantenerse en la zona alta",
+      "description": "El equipo de Javi Vázquez suma 16 puntos con solo nueve tantos a favor",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/27/racing/00031793118749758233982.htm",
+      "time": "2026-10-27T17:20:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing de Ferrol refuerza su alianza con Integral Motion y GAC",
+      "description": "La colaboración se mantiene por sexto año consecutivo e incluye descuentos especiales en vehículos para los abonados del club",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/27/acuerdo-racing/00031793118808401311333.htm",
+      "time": "2026-10-27T17:20:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A la venta las entradas para recibir a la Ponferradina",
+      "description": "Los precios van desde los 20 euros en los Fondos, hasta los 30 en Tribuna",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/27/venta-entradas-recibir-ponferradina/00031793120960916625953.htm",
+      "time": "2026-10-27T17:20:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi busca oxígeno en la EucoCup ante el Sleza Wroclaw, un rival directo",
+      "description": "Lino apela al crecimiento del equipo y afronta como una final el duelo de mañana",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/baxi/00031793118851280265666.htm",
+      "time": "2026-10-27T17:20:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "En directo: Navantia celebra la botadura de la segunda fragata F-112, la Roger de Lauria",
       "description": "Dos años y diez meses han sido necesarios para hacer realidad el buque de 45 metros de eslora que esta tarde recibirá el bautismo de mar en el astillero de Ferrol",
@@ -6751,51 +6823,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "La defensa del córner, la grieta que asoma en las salidas del Racing",
-      "description": "Tres de los siete goles encajados por el cuadro ferrolano en lo que va de curso llegaron a domicilio y a balón parado desde la esquina",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/25/defensa-corner-grieta-asoma-salidas-racing/00031792953067300268372.htm",
-      "time": "2026-10-25T18:37:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los cruceristas del Renaissance, sorprendidos por los huesos de santo en su visita a Ferrol",
-      "description": "La escala del navío, con 1.500 turistas a bordo, se dejó sentir en la ciudad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/26/cruceristas-sorprendidos-huesos-santo/0003_202610F26C2991.htm",
-      "time": "2026-10-25T18:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dos deportistas de Ferrolterra en el Mundial ISKA",
-      "description": "Marcos López Balado y Alberto López Torreiro competirán del 6 al 8 de noviembre en Aranjuez",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/dos-deportistas-ferrolterra-mundial-iska/00031792949002178594637.htm",
-      "time": "2026-10-25T17:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Monju estrena la nómina de apercibidos en el Racing Club Ferrol",
-      "description": "Vio la cuarta amarilla en Anduva y su posible sanción abre una ventana de oportunidad para David Castro",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/25/monju-estrena-nomina-apercibidos-racing-club-ferrol/00031792946893558103218.htm",
-      "time": "2026-10-25T16:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Gerard Casas: «Teníamos que ganar como fuera»",
-      "description": "El técnico destaca la madurez del equipo tras imponerse al Jaén y subraya la importancia de seguir creciendo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/gerard-casas-teniamos-ganar-fuera/00031792944769715842285.htm",
-      "time": "2026-10-25T16:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
