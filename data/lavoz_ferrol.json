@@ -1,5 +1,23 @@
 [
   {
+    "title": "La cartera que una peregrina de Hawái extravió en Pontedeume",
+    "description": "La Policía Local le enviará la documentación que perdió en la villa eumesa, durante el Camiño Inglés, y que alguien depositó en la oficina",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/27/cartera-peregrina-hawai-extravio-pontedeume/00031793140704683203985.htm",
+    "time": "2026-10-28T11:12:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Gran golpe contra un capo de la droga en Narón",
+    "description": "La Guardia Civil realizó ayer una importante redada por los barrios de A Gándara, O Alto y A Solaina; en un operativo contra el narcotráfico que permanece abierto y bajo secreto de sumario; hay conexiones con los campamentos y hasta se levantaron falsos suelos que funcionaban como escondites de estupefacientes",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/28/gran-golpe-contra-capo-droga-naron/00031793182876975730582.htm",
+    "time": "2026-10-28T10:54:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Caminata saludable",
     "description": "Alumnos de Enfermería y de Podología del Campus Industrial de Ferrol quemaron calorías pateando la ciudad",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/caminata-saludable/00031793125065934376828.htm",
@@ -27,15 +45,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Récord en el Camino Inglés: el 2026 ya es el año en el que más peregrinos pasaron por Ferrol",
-    "description": "Este octubre se batió el récord y, a dos meses de terminar el ejercicio, se han superado las cifras con las que se cerró el 2025",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/28/2026-ano-peregrinos-camino-ingles/0003_202610F28C2991.htm",
-    "time": "2026-10-28T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Ratas en Valdoviño: «Es un problema, se comen los contenedores por abajo»",
     "description": "Concellos y empresas constatan un aumento de la población de estos roedores",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/28/ratas-valdovino-problema-comen-contenedores-abajo/0003_202610F28C3991.htm",
@@ -45,9 +54,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Soluciones 3D desde el Campus de Ferrol para las lesiones que producen el teclado y el ratón",
-    "description": "Doralys Torriente, de Fabricación Aditiva, diseña un kit de prevención",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/28/soluciones-3d-evitar-lesiones-producen-teclado-raton/0003_202610F28C4991.htm",
+    "title": "Récord en el Camino Inglés: el 2026 ya es el año en el que más peregrinos pasaron por Ferrol",
+    "description": "Este octubre se batió el récord y, a dos meses de terminar el ejercicio, se han superado las cifras con las que se cerró el 2025",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/28/2026-ano-peregrinos-camino-ingles/0003_202610F28C2991.htm",
     "time": "2026-10-28T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -99,15 +108,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Botadura en Ferrol de la fragata F-112 Roger de Lauria por Navantia",
-    "description": "",
-    "url": "https://www.lavozdegalicia.es/video/ferrol/2026/10/27/botadura-roger-lauria-f-112-navantia/0031_2026109s1QHzg2.htm",
-    "time": "2026-10-27T19:22:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "La botadura de la fragata F-112 Roger de Lauria, en imágenes",
     "description": "",
     "url": "https://www.lavozdegalicia.es/album/ferrol/2026/10/27/botadura-fragata-f-112-roger-lauria-imagenes/01101793121450567955938.htm",
@@ -145,9 +145,9 @@
   },
   {
     "title": "El Baxi busca oxígeno en la EucoCup ante el Sleza Wroclaw, un rival directo",
-    "description": "Lino apela al crecimiento del equipo y afronta como una final el duelo de mañana",
+    "description": "Lino apela al crecimiento del equipo y afronta como una final el duelo de hoy",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/baxi/00031793118851280265666.htm",
-    "time": "2026-10-27T17:20:01+00:00",
+    "time": "2026-10-27T17:20:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -157,6 +157,15 @@
     "description": "La presentación de los candidatos socialistas al Congreso y al Senado por la provincia de A Coruña coincidió con el día de la botadura de la F-112",
     "url": "https://www.lavozdegalicia.es/noticia/elecciones-29n/2026/10/27/besteiro-presenta-candidatos-provinciales-psoe-ferrol-apostamos-reindustrializacion-clara/00031793101967812881138.htm",
     "time": "2026-10-27T13:28:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La fragata más moderna de la Armada respalda a Navantia para abrir mercado en Croacia",
+    "description": "La Cristóbal Colón, con base en Ferrol, y la Navarra hicieron parada en Split en su despliegue con la OTAN",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/fragata-moderna-armada-respalda-navantia-croacia/00031793103445872557553.htm",
+    "time": "2026-10-27T12:35:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -238,15 +247,6 @@
     "description": "Rubén Orzáez y Caio César destacan la solidez colectiva para llevarse la victoria",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/parrulo-convierte-malata-clave-contra-grandes/00031793035462604881255.htm",
     "time": "2026-10-26T17:39:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Grazas ao voluntariado de prevención de incendios de As Somozas",
-    "description": "A asociación de produtores de madeira, Promaso, subliña o labor dos socios que vixiaron os montes desde o comezo do verán",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/10/26/span-langglgrazas-ao-voluntariado-prevencion-incendios-as-somozasspan/00031793030047250774484.htm",
-    "time": "2026-10-26T16:59:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
