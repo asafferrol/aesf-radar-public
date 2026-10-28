@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T11:19:57.605236+00:00",
-  "count": 616,
+  "generated_at": "2026-10-28T17:12:38.010937+00:00",
+  "count": 615,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -14,7 +14,7 @@
     },
     "boe": {
       "ok": true,
-      "count": 184,
+      "count": 186,
       "name": "BOE"
     },
     "youtube": {
@@ -25,6 +25,60 @@
     }
   },
   "items": [
+    {
+      "title": "Amper prevé sellar en noviembre el acuerdo para dejar su suelo en el puerto exterior de Ferrol y mudarse al de A Coruña",
+      "description": "La compañía explicó en la junta general extraordinaria de accionistas el movimiento que dará vía libre al desembarco de la multinacional automovilística china SAIC Motor",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/28/amper-preve-sellar-noviembre-acuerdo-dejar-suelo-puerto-exterior-ferrol/00031793201660664543440.htm",
+      "time": "2026-10-28T15:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol lidera la representación gallega en el encuentro nacional de campus periféricos",
+      "description": "La cita, que reúne a 19 universidades, se desarrolla en Melilla",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/29/ferrol-lidera-representacion-gallega-encuentro-nacional-campus-perifericos/0003_202610F29C4991.htm",
+      "time": "2026-10-28T15:42:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "José María Fonseca recibirá en Ferrol el Premio Paraugas de Honor Galicia Calidade",
+      "description": "El galardón se entregará el 13 de noviembre en el Teatro Jofre, durante la gala de los XI Premios Paraugas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/28/jose-maria-fonseca-ecibira-premio-paraugas-honor-galicia-calidade/00031793199458587630186.htm",
+      "time": "2026-10-28T15:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Indra comenzará a producir vehículos militares en su nueva planta de As Pontes en el 2027",
+      "description": "Contará con tres líneas de producción en paralelo y capacidad para fabricar 80 unidades al año",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/10/28/indra-comenzara-producir-vehiculos-militares-nueva-planta-as-pontes-2027/00031793188282775569119.htm",
+      "time": "2026-10-28T14:42:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ger Nóvoa, un regreso al pasado con el Racing de Ferrol: « É un partido especia l»",
+      "description": "El central es uno de los cuatro racinguistas que jugaron en la Ponferradina",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/28/ger-novoa-regreso-pasado-camiseta-racing-ferrol-span-langgle-partido-especiaspanl/00031793190047634786964.htm",
+      "time": "2026-10-28T12:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El naronés Héber Pena sufre una rotura del ligamento colateral de su rodilla",
+      "description": "El CD Estepona indicó que el extremo recibirá tratamiento conservador y no será operado",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/28/narones-heber-pena-sufre-rotura-ligamento-colateral-rodilla/00031793185990971301455.htm",
+      "time": "2026-10-28T11:19:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La cartera que una peregrina de Hawái extravió en Pontedeume",
       "description": "La Policía Local le enviará la documentación que perdió en la villa eumesa, durante el Camiño Inglés, y que alguien depositó en la oficina",
@@ -2162,6 +2216,15 @@
       "title": "ILUSTRE COLEGIO NOTARIAL DE EXTREMADURA.",
       "description": "V. Anuncios. - C. Anuncios particulares - ANUNCIOS PARTICULARES - Referencia: BOE-B-2026-35293 - KBytes: 195 - Páginas: 1",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35293",
+      "time": "2026-10-27T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto 949/2026, de 28 de octubre, por el que se declara luto oficial por los fallecidos en el accidente ferroviario acaecido en Urda (Toledo).",
+      "description": "I. Disposiciones generales - PRESIDENCIA DEL GOBIERNO - Luto nacional - Referencia: BOE-A-2026-22608 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22608",
       "time": "2026-10-27T23:00:00+00:00",
       "source": "BOE",
       "source_id": "boe",
@@ -5493,78 +5556,6 @@
       "description": "Rubén Orzáez y Caio César destacan la solidez colectiva para llevarse la victoria",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/parrulo-convierte-malata-clave-contra-grandes/00031793035462604881255.htm",
       "time": "2026-10-26T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Grazas ao voluntariado de prevención de incendios de As Somozas",
-      "description": "A asociación de produtores de madeira, Promaso, subliña o labor dos socios que vixiaron os montes desde o comezo do verán",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/10/26/span-langglgrazas-ao-voluntariado-prevencion-incendios-as-somozasspan/00031793030047250774484.htm",
-      "time": "2026-10-26T16:59:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Epitafios para la eternidad en Ferrol: « O frío é de preguiceiros »",
-      "description": "El Centro Cívico de Canido inauguró una muestra dentro de la programación del Samaín",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/epitafios-eternidad-exposicion-ferrol-rescata-retranca-cementerios/00031793029044071200350.htm",
-      "time": "2026-10-26T16:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "¡Cuidado si te llaman del Ayuntamiento! La última estafa que tiene en vilo a los comercios de Narón",
-      "description": "El gobierno local pide no facilitar ningún dato y recuerda que no contacta por teléfono para estos trámites",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/ayuntamiento-naron-alerta-llamadas-fraudulentas-comercios-haciendose-pasar-personal-municipal/00031793018217213718784.htm",
-      "time": "2026-10-26T15:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Apresado en Ferrol un hombre sobre el que pesaba una órden de búsqueda y detención",
-      "description": "Fue interceptado cuando intentó dar marha atrás al ver a una patrulla de la Policía Local",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/apresado-ferrol-hombre-sobre-pesaba-orden-busqueda-detencion/00031793022087756186612.htm",
-      "time": "2026-10-26T13:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "CC.OO. advierte de que Navantia Fene está en riesgo: sin trabajo y sin nuevos empleos",
-      "description": "El sindicato reclama al Gobierno central y a la Xunta que se unan para impulsar un nuevo dique para el astillero de Ferrol. «A futuro, generaría más empleo que SAIC»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/26/ccoo-advierte-navantia-fene-riesgo-trabajo-nuevos-empleos/00031793012447486187113.htm",
-      "time": "2026-10-26T13:19:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Guerra a las plagas: Ferrol saca a contratación el control de aves y roedores",
-      "description": "El presupuesto base de licitación es de algo más de 275.000 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/guerra-plagas-ferrol-saca-contratacion-control-aves-roedores/00031793019444774585113.htm",
-      "time": "2026-10-26T13:05:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Xunta licita nuevos equipamientos para el Naval y para el Marcide",
-      "description": "Uno de los concursos es para el suministro de un equipo de radiología digital portátil; y otro para el suministro de un equipo radiquirúrgico digital portátil para fluoroscopia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/xunta-licita-nuevos-equipamientos-naval-marcide/00031793016057924829800.htm",
-      "time": "2026-10-26T12:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Herido el conductor de un camión que sufrió un reventón en la AP-9, en Pontedeume",
-      "description": "El vehículo se salió de la vía a la altura del kilómetro 20, en Nogueirosa, y un carril de la autopista en sentido Ferrol permanece cortado en este punto",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/26/herido-conductor-camion-sufrio-reventon-ap-9-pontedeume/00031793013307472979715.htm",
-      "time": "2026-10-26T12:07:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
