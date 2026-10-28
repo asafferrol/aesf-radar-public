@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 615,
+  "count": 612,
   "items": [
+    {
+      "title": "Lino López: «Me gustaría dedicarle esta victoria a Iva»",
+      "description": "El técnico del Baxi Ferrol alentó a su jugadora tras confirmarse esta misma semana su rotura de cruzado",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/28/lino-lopezme-gustaria-dedicarle-victoria-iva/00031793217718087281398.htm",
+      "time": "2026-10-28T20:07:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Así será la nueva fábrica de Indra en As Pontes: una planta autónoma con zona de pruebas y pista de obstáculos",
+      "description": "La factoría gallega está concebida para una posible ampliación en el futuro",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/29/planta-autonoma-zona-pruebas-pista-obstaculos/0003_202610G29P31991.htm",
+      "time": "2026-10-28T19:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol supera al Sleza Wroclaw polaco y entra en calor en Europa (65-87)",
+      "description": "Una memorable actuación de Shaw avaló el primer triunfo de las de Lino López en fase de grupos para mantener vivas sus opciones de pase de ronda",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/28/sleza-wroclaw-baxi-ferrol/00031793212383225926565.htm",
+      "time": "2026-10-28T19:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Amper prevé sellar en noviembre el acuerdo para dejar su suelo en el puerto exterior de Ferrol y mudarse al de A Coruña",
       "description": "La compañía explicó en la junta general extraordinaria de accionistas el movimiento que dará vía libre al desembarco de la multinacional automovilística china SAIC Motor",
@@ -5482,60 +5509,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Dos rivales de altura para el Racing de Ferrol",
-      "description": "El conjunto de Javi Vázquez recibirá a la Ponferradina y al Logroñés en sus próximos duelos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/26/dos-rivales-altura-racing-ferrol/00031793035098908895909.htm",
-      "time": "2026-10-26T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La cubierta de A Malata avanza con la instalación de las chapas",
-      "description": "En Preferencia se empiezan a colocar partes de la cubierta definitiva, mientras que en Tribuna continúan con la colocación de las cerchas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/26/cubierta-malata-avanza-instalacion-chapas/00031793035319571883941.htm",
-      "time": "2026-10-26T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Factory Team de Ferrol conquista el Campeonato de España de culturismo",
-      "description": "Iván Amado y José Miguel López Vázquez se hicieron con con cinco medallas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/factory-team-ferrol-conquista-campeonato-espana-culturismo/00031793035651178559496.htm",
-      "time": "2026-10-26T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Costa Ártabra tumba al invicto Maristas y se afianza en la zona alta",
-      "description": "El sénior masculino se hizo con la victoria, pero el femenino no pudo superar al Rosalía",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/costa-artabra-tumba-invicto-maristas-afianza-zona-alta/00031793035818578173571.htm",
-      "time": "2026-10-26T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol pierde a Iva Belosevic por una rotura del ligamento cruzado anterior",
-      "description": "La jugadora sufre una grave lesión en la rodilla derecha, confirmada tras las pruebas médicas realizadas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/baxi-ferrol-pierde-iva-belosevic-rotura-ligamento-cruzado-anterior/00031793036021614722562.htm",
-      "time": "2026-10-26T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Parrulo convierte A Malata en la clave contra uno de los grandes",
-      "description": "Rubén Orzáez y Caio César destacan la solidez colectiva para llevarse la victoria",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/parrulo-convierte-malata-clave-contra-grandes/00031793035462604881255.htm",
-      "time": "2026-10-26T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
