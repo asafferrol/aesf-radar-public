@@ -1,5 +1,86 @@
 [
   {
+    "title": "Caminata saludable",
+    "description": "Alumnos de Enfermería y de Podología del Campus Industrial de Ferrol quemaron calorías pateando la ciudad",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/caminata-saludable/00031793125065934376828.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Rhodes en concierto",
+    "description": "El pianista británico deleitó al público el ferrolano",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/rhodes-concierto/00031793124915678571551.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Visitas guiadas y teatralizadas para descubrir San Felipe",
+    "description": "Unas jornadas divulgaron el valor histórico y patrimonial del castillo ferrolano",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/visitas-guiadas-teatralizadas-descubrir-san-felipe/00031793124698395657350.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Récord en el Camino Inglés: el 2026 ya es el año en el que más peregrinos pasaron por Ferrol",
+    "description": "Este octubre se batió el récord y, a dos meses de terminar el ejercicio, se han superado las cifras con las que se cerró el 2025",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/28/2026-ano-peregrinos-camino-ingles/0003_202610F28C2991.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Ratas en Valdoviño: «Es un problema, se comen los contenedores por abajo»",
+    "description": "Concellos y empresas constatan un aumento de la población de estos roedores",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/28/ratas-valdovino-problema-comen-contenedores-abajo/0003_202610F28C3991.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Soluciones 3D desde el Campus de Ferrol para las lesiones que producen el teclado y el ratón",
+    "description": "Doralys Torriente, de Fabricación Aditiva, diseña un kit de prevención",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/28/soluciones-3d-evitar-lesiones-producen-teclado-raton/0003_202610F28C4991.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La arteria principal de Río do Pozo estrena pavimento nuevo",
+    "description": "El Concello acaba de finalizar las obras de refuerzo del pavimento",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/28/arteria-principal-rio-do-pozo-estrena-pavimento-nuevo/0003_202610F28C6991.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "San Sadurniño apraza ata o 3 de novembro o encontro sobre memoria histórica cos maiores",
+    "description": "O programa Enterrar o espírito da guerra e os discursos de odio arrincou en Naraío hai uns días",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/10/28/span-langglsan-sadurnino-apraza-ata-3-spanspan-langgl-novembro-encontro-sobre-memoria-historica-cos-maioresspan/0003_202610F28C5992.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Valdoviño da formación gratuita sobre el préstamo digital de libros",
+    "description": "La sesión tendrá lugar este miércoles, a las 17.30 horas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/28/valdovino-da-formacion-sobre-prestamo-digital-libros/0003_202610F28C5993.htm",
+    "time": "2026-10-28T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Navantia exhibe en Ferrol las fragatas «más capaces del mundo»",
     "description": "El gigante americano Lockheed Martin alaba el potencial de la familia F-110, en la botadura de la segunda unidad de la serie, que reunió a unas 5.000 personas",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/27/navantia-lanza-mar-ferrol-fragatas-capaces-mundo/00031793128285306179269.htm",
@@ -72,10 +153,28 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "Besteiro en Ferrol: «Apostamos por unha reindustrialización clara»",
+    "description": "La presentación de los candidatos socialistas al Congreso y al Senado por la provincia de A Coruña coincidió con el día de la botadura de la F-112",
+    "url": "https://www.lavozdegalicia.es/noticia/elecciones-29n/2026/10/27/besteiro-presenta-candidatos-provinciales-psoe-ferrol-apostamos-reindustrializacion-clara/00031793101967812881138.htm",
+    "time": "2026-10-27T13:28:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Insignia nacional de calidad para la Asociación ASCM de Ferrol",
     "description": "El reconocimiento pone en valor el modelo de gestión de la entidad, centrado en las personas voluntarias",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/insignia-nacional-calidad-asociacion-sociocultural-ascm-ferrol/00031793098773026329215.htm",
     "time": "2026-10-27T12:16:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Compra una chaqueta en una tienda de Cedeira y la devuelve «con olor a humanidad» y a churrasco, y el tique de una cena",
+    "description": "Los responsables de Maldita Shop, un pequeño comercio de moda que potencia las ventas en línea, reconocen que ha sido la devolución «más descarada»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/27/compra-chaqueta-tienda-cedeira-devuelve-olor-humanidad-churrasco-tique-cena/00031793098711271615161.htm",
+    "time": "2026-10-27T11:13:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -90,27 +189,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Fene abre unha liña de axudas ás familias para o Nadal",
-    "description": "Está dirixida a familias con fillos de ata16 anos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/10/27/fene-abre-unha-lina-axudas-as-familias-nadal/0003_202610F27C5992.htm",
+    "title": "Sánchez Aguilera: un nuevo barrio de Ferrol",
+    "description": "El Concello de Ferrol aprueba el proyecto de reurbanización del acuartelamiento, que comenzará en el 2027 con un presupuesto de 17,8 millones y un plazo de ejecución de 24 meses",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/27/sanchez-aguilera-nuevo-barrio/0003_202610F27C1992.htm",
     "time": "2026-10-27T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "¿Samaín o Halloween?",
-    "description": "La tradición gallega y la fiesta importada de Estados Unidos se alían estos días para festejar el día de Difuntos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/samain-halloween/00031793032097713556359.htm",
-    "time": "2026-10-27T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La batería de Bailadora reivindica su valor histórico",
-    "description": "La visita guiada al enclave de Ares despertó el interés de numerosos visitantes",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/bateria-bailadora-reivindica-valor-historico/00031793031585638191365.htm",
+    "title": "La castaña del país resiste la sequía en la comarca del Eume: «É a de tarde, a máis sabedora»",
+    "description": "La escasa lluvia que cayó en septiembre salvó la cosecha en los bosques del norte, donde las variedades más tardías, autóctonas, han aguantado",
+    "url": "https://www.lavozdegalicia.es/noticia/somosagro/forestal/2026/10/27/castana-pais-resiste-sequia/0003_202610F27C3991.htm",
     "time": "2026-10-27T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -162,72 +252,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Epitafios para la eternidad en Ferrol: « O frío é de preguiceiros »",
-    "description": "El Centro Cívico de Canido inauguró una muestra dentro de la programación del Samaín",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/epitafios-eternidad-exposicion-ferrol-rescata-retranca-cementerios/00031793029044071200350.htm",
-    "time": "2026-10-26T16:36:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Apresado en Ferrol un hombre sobre el que pesaba una orden de búsqueda y detención",
-    "description": "Fue interceptado cuando intentó dar marcha atrás al ver a una patrulla de la Policía Local",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/apresado-ferrol-hombre-sobre-pesaba-orden-busqueda-detencion/00031793022087756186612.htm",
-    "time": "2026-10-26T13:45:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Herido el conductor de un camión que sufrió un reventón en la AP-9, en Pontedeume",
-    "description": "El vehículo se salió de la vía a la altura del kilómetro 20, en Nogueirosa, y un carril de la autopista en sentido Ferrol permanece cortado en este punto",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/26/herido-conductor-camion-sufrio-reventon-ap-9-pontedeume/00031793013307472979715.htm",
-    "time": "2026-10-26T12:07:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El «explorador elegante» llega a Ferrol, con precios de hasta 50.000 euros por camarote",
-    "description": "El crucero Amera ha recalado hoy en los muelles locales, que ya rozan las veinte escalas este año",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/ferrol-consolida-cuota-mercado-cruceros-expensas-bum-global-ports/00031793009777660177660.htm",
-    "time": "2026-10-26T10:45:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Aparece un caballo muerto en el campo da festa de Brión, en Ferrol",
-    "description": "El animal tendría dueño, según han confirmado desde la Asociación de Vecinos de Brión",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/26/aparece-caballo-muerto-campo-da-festa-brion-ferrol-arrastraron-tractor/00031793006551387346447.htm",
-    "time": "2026-10-26T09:51:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Por la concordia",
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/26/concordia/0003_202610F26C8992.htm",
-    "time": "2026-10-26T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Quince centros en la provincia de A Coruña recogen a las mascotas para darles un hogar",
-    "description": "Están en manos de grandes empresas como Servigal o XEA, pero sobre todo de protectoras sin ánimo de lucro como Cometa, Apadan o San Francisco de Asís",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/quince-centros-provincia-recogen-mascotas-darles-hogar/0003_202610F26C5991.htm",
-    "time": "2026-10-26T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "En recuerdo del buque Galatea",
-    "description": "Nuestro antiguo y emblemático barco-escuela es hoy museo flotante en Escocia",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/recuerdo-buque-galatea/0003_202610F26C8993.htm",
     "time": "2026-10-26T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -243,37 +270,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Las heridas por las que se desangra el embalse de As Forcadas",
-    "description": "La sequía vuelve a poner en el punto de mira las fugas de la red que abastece a los municipios de Ares, Fene, Ferrol, Mugardos, Narón, Neda y Valdoviño",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/25/heridas-desangra-as-forcadas/0003_202610F25C2991.htm",
-    "time": "2026-10-25T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Sergio y Loky, los mejores rescatadores de Europa: «Es un perro diez para salvar vidas»",
-    "description": "El guía canino y bombero nacido en Ferrol junto a su can forman parte de Casaga, unidad de voluntarios que acuden a terremotos, danas y otras emergencias",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/sergio-loky-mejores-rescatadores-europa-perro-diez-salvar-vidas/00031792832781035575410.htm",
-    "time": "2026-10-25T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Alca, de taller familiar a diversificarse en tres firmas y a dominar las grúas",
     "description": "La firma creada hace 50 años por Santiago Cagiao mantiene la esencia familiar",
     "url": "https://www.lavozdegalicia.es/noticia/economia/mercados/sagas-familiares/2026/10/25/alca-taller-familiar-diversificarse-tres-firmas-dominar-gruas/0003_202610SM25P12991.htm",
     "time": "2026-10-25T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Victoria judicial para la vecina de Londres a la que Ferrol pedía 20 años de facturas de agua: «Vivía en Inglaterra desde 2004»",
-    "description": "La mujer demandó al Concello y ganó, el magistrado Javier Tudela declara nulas las notificaciones que había recibido desde 2006 y por las que le habían embargado más de 8.500 euros",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/24/victoria-judicial-vecina-londres-ferrol-pedia-20-anos-facturas/0003_202610F24C3995.htm",
-    "time": "2026-10-24T03:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
