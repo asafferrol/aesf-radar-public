@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 540,
+  "count": 541,
   "items": [
+    {
+      "title": "Tres siglos de rumbo compartido: el impacto de la creación del Departamento Marítimo de Ferrol",
+      "description": "La sala Carlos III de la Fundación Exponav acogerá el próximo lunes la inauguración de una gran exposición y una jornada de debate",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/tres-siglos-rumbo-compartido-impacto-creacion-departamento-maritimo-ferrol/00031793275837616369189.htm",
+      "time": "2026-10-29T12:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Restricciones de estacionamiento y cambios en la circulación en el entorno del cementerio de Catabois en Ferrol",
+      "description": "El Concello aplicará desde este viernes y hasta el lunes un dispositivo especial de tráfico con motivo del día de Todos los Santos y del de Difuntos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/29/dispositivo-especial-trafico-entorno-cementerio-catabois-ferrol/00031793272703707731543.htm",
+      "time": "2026-10-29T11:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El sorteo de «Mi día» de la ONCE deja un premio de 3.000 euros en Narón",
+      "description": "El agente Carlos César Silvent despachó el boleto ganador en su itinerario por la avenida Santa Cecilia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/29/sorteo-dia-once-deja-premio-naron/00031793273861579511181.htm",
+      "time": "2026-10-29T11:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Atropellado un hombre de 80 años en un paso de cebra ante una floristería de Ferrol",
+      "description": "La víctima fue trasladada al Complexo Hospitalario Universitario de Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/atropellado-hombre-80-anos-paso-cebra-ante-floristeria-ferrol/00031793270223081449505.htm",
+      "time": "2026-10-29T10:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La nueva fábrica de Navantia Ferrol trabaja ya para tres buques con 300 empleados",
       "description": "Es el mayor taller diáfano dedicado a la construcción naval militar de toda Europa",
@@ -96,6 +132,24 @@
       "title": "Protesta de la enseñanza concertada en Ferrol con una caravana de vehículos",
       "description": "Saldrá hoy a las 18.30 horas del estacionamiento de a Malata",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/29/protesta-ensenanza-concertada-caravana-vehiculos/0003_202610F29C2993.htm",
+      "time": "2026-10-29T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Así se vive la campaña de Difuntos en la única cooperativa floral de Galicia: « Esta data é outro mundo »",
+      "description": "En las instalaciones de Agroflor, en Narón, se preparan estos días para la que es su temporada más fuerte, de la que obtienen el 30 % de la recaudación anual",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/agricultura/2026/10/29/flores-naron-espana/0003_202610F29C1991.htm",
+      "time": "2026-10-29T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PSOE pedirá una auditoría de las facturas del agua del poblado de Freixeiro",
+      "description": "La situación del poblado, en terrenos de Cáritas, por los impagos se encuentra en los juzgados",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/psoe-pedira-auditoria-facturas-agua-poblado-freixeiro/0003_202610F29C5_COPY993.htm",
       "time": "2026-10-29T04:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -4813,51 +4867,6 @@
       "description": "Dos años y diez meses han sido necesarios para hacer realidad el buque de 45 metros de eslora que esta tarde recibirá el bautismo de mar en el astillero de Ferrol",
       "url": "https://www.lavozdegalicia.es/video/economia/2026/10/27/directo-navantia-celebra-botadura-fragata-f112-roger/00311793112622296676332.htm",
       "time": "2026-10-27T14:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Besteiro en Ferrol: «Apostamos por unha reindustrialización clara»",
-      "description": "La presentación de los candidatos socialistas al Congreso y al Senado por la provincia de A Coruña coincidió con el día de la botadura de la F-112",
-      "url": "https://www.lavozdegalicia.es/noticia/elecciones-29n/2026/10/27/besteiro-presenta-candidatos-provinciales-psoe-ferrol-apostamos-reindustrializacion-clara/00031793101967812881138.htm",
-      "time": "2026-10-27T13:28:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La fragata más moderna de la Armada respalda a Navantia para abrir mercado en Croacia",
-      "description": "La Cristóbal Colón, con base en Ferrol, y la Navarra hicieron parada en Split en su despliegue con la OTAN",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/fragata-moderna-armada-respalda-navantia-croacia/00031793103445872557553.htm",
-      "time": "2026-10-27T12:35:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Insignia nacional de calidad para la Asociación ASCM de Ferrol",
-      "description": "El reconocimiento pone en valor el modelo de gestión de la entidad, centrado en las personas voluntarias",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/insignia-nacional-calidad-asociacion-sociocultural-ascm-ferrol/00031793098773026329215.htm",
-      "time": "2026-10-27T12:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Compra una chaqueta en una tienda de Cedeira y la devuelve «con olor a humanidad» y a churrasco, y el tique de una cena",
-      "description": "Los responsables de Maldita Shop, un pequeño comercio de moda que potencia las ventas en línea, reconocen que ha sido la devolución «más descarada»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/27/compra-chaqueta-tienda-cedeira-devuelve-olor-humanidad-churrasco-tique-cena/00031793098711271615161.htm",
-      "time": "2026-10-27T11:13:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Nachiños Fest traspasa fronteras y cierra su primera edición en México",
-      "description": "El festival ferrolano llenó el aforo del Centro Cultural de España en el país latinoamericano en su debut internacional",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/27/nachinos-fest-traspasa-fronteras-cierra-primera-edicion-mexico/00031793095187179853361.htm",
-      "time": "2026-10-27T10:19:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
