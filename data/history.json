@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 577,
+  "count": 578,
   "items": [
+    {
+      "title": "Endika Buján, la fórmula del Racing para despejar la equis berciana",
+      "description": "El desborde del extremo apunta a crucial en un duelo de máxima igualdad frente a la SD Ponferradina",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/30/endika-bujan-formula-racing-despejar-equis-berciana/00031793381723308106930.htm",
+      "time": "2026-10-30T17:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una persona herida en una salida de vía registrada en Pontedeume",
+      "description": "El accidente se produjo en la avenida da Coruña, a la altura del centro de mayores",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/30/persona-herida-salida-via-registrada-pontedeume/00031793378313934799934.htm",
+      "time": "2026-10-30T17:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Piden 24 y 28 años de prisión para un padre y un hijo por un ajuste de cuentas con machetes, catanas e intento de atropello en Ferrol",
+      "description": "Los hechos ocurrieron hace justo dos años, en una reyerta entre clanes que se extendió por todo el barrio de Recimil; varios implicados acabaron expulsados de la ciudad debido a este conflicto entre familias; las dos víctimas quedaron con numerosas cicatrices de hasta 19 centímetros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/piden-prision-padre-hijo-ajuste-cuentas-machetes-catanas-intento-atropello-ferrol/00031793376861928327215.htm",
+      "time": "2026-10-30T17:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El hombre que mató en Mañón con un palo a un vecino de Ortigueira se enfrenta a once años de cárcel",
+      "description": "La víctima murió a los seis días de la agresión, cometida tras una discusión cuando se encontraron en la parroquia de Santa María; el juicio se celebra la próxima semana en la Audiencia Provincial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/hombre-mato-manon-palo-vecino-ortigueira-enfrenta-once-anos-carcel/00031793374467465425963.htm",
+      "time": "2026-10-30T15:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Qué hacer en Ferrolterra, Eume y Ortegal: calabazas, disfraces y túneles de miedo en el fin de semana más terrorífico",
       "description": "Las localidades de la comarca organizan actividades como talleres, magostos y fiestas temáticas, mientras As Pontes celebra una nueva edición de la Feira de Fungos e Cogomelos",
@@ -5167,33 +5203,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Lino López: «Me gustaría dedicarle esta victoria a Iva»",
-      "description": "El técnico del Baxi Ferrol alentó a su jugadora tras confirmarse esta misma semana su rotura de cruzado",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/28/lino-lopezme-gustaria-dedicarle-victoria-iva/00031793217718087281398.htm",
-      "time": "2026-10-28T20:07:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Así será la nueva fábrica de Indra en As Pontes: una planta autónoma con zona de pruebas y pista de obstáculos",
-      "description": "La factoría gallega está concebida para una posible ampliación en el futuro",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/29/planta-autonoma-zona-pruebas-pista-obstaculos/0003_202610G29P31991.htm",
-      "time": "2026-10-28T19:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol supera al Sleza Wroclaw polaco y entra en calor en Europa (65-87)",
-      "description": "Una memorable actuación de Shaw avaló el primer triunfo de las de Lino López en fase de grupos para mantener vivas sus opciones de pase de ronda",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/28/sleza-wroclaw-baxi-ferrol/00031793212383225926565.htm",
-      "time": "2026-10-28T19:13:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
