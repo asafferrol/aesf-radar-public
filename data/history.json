@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 683,
+  "count": 681,
   "items": [
+    {
+      "title": "El «1x1» del empate entre el Racing y la SD Ponferradina",
+      "description": "Ojeda y Endika los mejores en un partido en el que nadie fue capaz de romper la baraka",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/31/1x1-partido-racing-sd-ponferradina/00031793456055022666231.htm",
+      "time": "2026-10-31T17:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El gol da la espalda al Racing Club Ferrol, que empata con la Ponferradina (0-0)",
+      "description": "La friolera de 27 remates no bastó a los de Javi Vázquez para imponerse a los bercianos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/31/racing-club-ferrol-sd-ponferradina/00031793455999796698913.htm",
+      "time": "2026-10-31T17:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O BNG convoca este domingo un Samaín reivindicativo na estación de bus «pantasma»",
+      "description": "O acto terá lugar ás 17.00 horas e denunciará a situación do transporte público",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/01/bng-convoca-hoxe-samain-reivindicativo-na-estacion-bus-pantasma/0003_202611F1C5991.htm",
+      "time": "2026-10-31T16:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Protesta en Ferrol por la celebración de un acto de Vox",
       "description": "Más de 200 personas se concentraron por la presencia de Jorge Buxadé en la ciudad, aunque sin que se produjesen altercados",
@@ -6103,51 +6130,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Tres coches implicados en un accidente de tráfico en las curvas de Laraxe",
-      "description": "Al menos dos personas precisaron asistencia médica",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/tres-coches-implicados-accidente-trafico-laraxe/00031793301871831808418.htm",
-      "time": "2026-10-29T19:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Secuelas coperas de la SD Ponferradina y un interrogante para su visita a Ferrol",
-      "description": "Varios jugadores bercianos terminaron cargados su eliminatoria ante el Llanera y el acompañante de Valle en la medular es la gran incógnita",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/29/secuelas-coperas-sd-ponferradina-interrogante-visita-ferrol/00031793297283587448816.htm",
-      "time": "2026-10-29T18:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Manuel Pozueta arbitrará el Racing-Ponferradina",
-      "description": "El cántabro es un habitual en los cruces de los bercianos con equipos gallegos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/29/manuel-pozueta-arbitrara-racing-ponferradina/00031793294546884923948.htm",
-      "time": "2026-10-29T17:26:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las empresas buscan talentos en el Campus de Ferrol: «Nos dan facilidades para compaginar los estudios y el trabajo»",
-      "description": "Más de 50 firmas participaron en la cuarta edición del FesTalent",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/29/empresas-buscan-talentos-campus-ferrol-dan-facilidades-compaginar-estudios-trabajo/00031793274074657776496.htm",
-      "time": "2026-10-29T16:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La forja de un Racing Club Ferrol reconocible",
-      "description": "Javi Vázquez y su cuerpo técnico, que este sábado cumplirán la decena de partidos al frente de un cuadro naval, con un molde claro de su propuesta",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/29/forja-racing-club-ferrol-reconocible/00031793291735585575161.htm",
-      "time": "2026-10-29T16:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
