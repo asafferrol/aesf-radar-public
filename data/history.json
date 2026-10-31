@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 684,
+  "count": 683,
   "items": [
+    {
+      "title": "Protesta en Ferrol por la celebración de un acto de Vox",
+      "description": "Más de 200 personas se concentraron por la presencia de Jorge Buxadé en la ciudad, aunque sin que se produjesen altercados",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/31/protesta-ferrol-celebracion-acto-vox/00031793452584183595288.htm",
+      "time": "2026-10-31T13:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La nostalgia llena los cementerios de la comarca de Ferrolterra",
+      "description": "En el camposanto de Catabois se mantendrá hasta la tarde del lunes, incluida, el dispositivo especial de tráfico.",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/31/nostalgia-llena-cementerios-comarca-ferrolterra/00031793449834384206996.htm",
+      "time": "2026-10-31T12:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El pasaporte para un sueño del Baxi Ferrol, por cortesía de Maruxas de Nata",
+      "description": "La marca de galletas con base en San Sadurniño lanza un libro de firmas exclusivo con diseño de la ferrolana Blanca Vila, que se repartirá el martes durante la visita del Olimpiakós",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/31/pasaporte-sueno-baxi-ferrol-cortesia-maruxas-nata/00031793446140894451883.htm",
+      "time": "2026-10-31T12:01:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Detenidos tres operarios en Fene por robar a su propia empresa: vendían el material «sobrante» de las obras",
       "description": "El perjuicio económico para la firma, ubicada en Vilar do Colo, supera los 6.000 euros",
@@ -6118,42 +6145,6 @@
       "description": "Javi Vázquez y su cuerpo técnico, que este sábado cumplirán la decena de partidos al frente de un cuadro naval, con un molde claro de su propuesta",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/29/forja-racing-club-ferrol-reconocible/00031793291735585575161.htm",
       "time": "2026-10-29T16:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A prisión ocho detenidos tras el caso del capo de la droga de Narón",
-      "description": "Formaban parte de una organización criminal, dedicada al narcotráfico y que portaba armas; la investigación principal corrió a cargo de Vigilancia Aduanera y la Guardia Civil",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/29/prision-ocho-personas-detenidas-tras-capo-droga-naron/00031793286787469206250.htm",
-      "time": "2026-10-29T15:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Tres siglos de rumbo compartido: el impacto de la creación del Departamento Marítimo de Ferrol",
-      "description": "La sala Carlos III de la Fundación Exponav acogerá el próximo lunes la inauguración de una gran exposición y una jornada de debate",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/tres-siglos-rumbo-compartido-impacto-creacion-departamento-maritimo-ferrol/00031793275837616369189.htm",
-      "time": "2026-10-29T12:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Restricciones de estacionamiento y cambios en la circulación en el entorno del cementerio de Catabois en Ferrol",
-      "description": "El Concello aplicará desde este viernes y hasta el lunes un dispositivo especial de tráfico con motivo del día de Todos los Santos y del de Difuntos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/29/dispositivo-especial-trafico-entorno-cementerio-catabois-ferrol/00031793272703707731543.htm",
-      "time": "2026-10-29T11:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El sorteo de «Mi día» de la ONCE deja un premio de 3.000 euros en Narón",
-      "description": "El agente Carlos César Silvent despachó el boleto ganador en su itinerario por la avenida Santa Cecilia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/29/sorteo-dia-once-deja-premio-naron/00031793273861579511181.htm",
-      "time": "2026-10-29T11:39:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
