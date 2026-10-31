@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 681,
+  "count": 685,
   "items": [
+    {
+      "title": "A la tercera y con prórroga fue la vencida para el Baxi Ferrol (81-95)",
+      "description": "Melia comandó la resistencia de las de Lino López en una guerra sin cuartel que supone el primer premio visitante en la Liga",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/31/tercera-prorroga-vencida-baxi-ferrol-81-95/00031793481741231136638.htm",
+      "time": "2026-10-31T21:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las diez mejores imagénes del empate del Racing Club Ferrol",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/10/31/diez-mejores-imagenes-empate-racing-club-ferrol/01101793479716108791228.htm",
+      "time": "2026-10-31T20:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «La sensación es que teníamos que haber ganado»",
+      "description": "El entrenador racinguista se mostró satisfecho con el juego de su equipo ante la Ponferradina, aunque lamentó la falta de acierto",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/31/javi-vazquez-sensacion-teniamos-haber-ganado/00031793478558877942713.htm",
+      "time": "2026-10-31T20:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El tanto que Ojeda soñó y A Malata se quedó sin celebrar",
+      "description": "El atacante del Racing estrelló el balón en el larguero con un disparo desde el círculo central, que rondó la línea de gol sin llegar a entrar",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/31/ojeda-sono-malata-quedo-celebrar/00031793477902238884891.htm",
+      "time": "2026-10-31T20:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El «1x1» del empate entre el Racing y la SD Ponferradina",
       "description": "Ojeda y Endika los mejores en un partido en el que nadie fue capaz de romper la baraka",
