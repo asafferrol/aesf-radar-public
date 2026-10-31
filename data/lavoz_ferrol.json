@@ -1,5 +1,23 @@
 [
   {
+    "title": "Detenidos tres operarios en Fene por robar a su propia empresa: vendían el material «sobrante» de las obras",
+    "description": "El perjuicio económico para la firma, ubicada en Vilar do Colo, supera los 6.000 euros",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/31/detenidos-tres-operarios-fene-robar-propia-empresa-vendian-material-sobrante-obras/00031793439495293520884.htm",
+    "time": "2026-10-31T09:48:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Corte de tráfico en la plaza de España por la descarga de un equipo de climatización para la Xunta",
+    "description": "La parada de bus se encuentra anulada y el tráfico se desvió por la calle Españoleto",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/31/corte-trafico-plaza-espana-descarga-equipo-climatizacion-xunta/00031793436852273414661.htm",
+    "time": "2026-10-31T09:09:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Los Chaquetas: el clan que saltó a los narcopisos de Narón en Lamborghini",
     "description": "Entre los ocho encarcelados, hay un agente por revelación de secretos; tres hermanos del poblado de Ferrol lideraban el grupo criminal, uno fue detenido en enero y los otros dos cayeron esta semana",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/31/chaquetas-clan-salto-narcopisos-naron-lamborghini/0003_202610F31C3_COPY991.htm",
@@ -9,27 +27,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Nuevas obras a la vista en el bulevar de As Pías de Ferrol",
-    "description": "Las máquinas volverán a la avenida para solventar dos tareas pendientes: el arreglo del tramo inicial y la conexión directa de la calle Lepanto en Caranza",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/31/nuevas-obras-vista-bulevar-as-pias/0003_202610F31C2991.htm",
-    "time": "2026-10-31T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "De imprenta en Narón a trabajar para Navantia, Loewe y hoteles de todo el país",
     "description": "Imaxina Global, centrada en el diseño gráfico, interiorismo e imagen corporativa, destaca con su «startup» de construcción modular inteligente Cubbox",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/31/imprenta-naron-trabajar-navantia-loewe-hoteles-pais/0003_202610F31C5995.htm",
-    "time": "2026-10-31T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Concello de Ferrol abre una consulta para decidir qué celebraciones declara de interés municipal",
-    "description": "El gobierno local propone reconocer más de una treintena de propuestas y los vecinos podrán realizar sus propias aportaciones",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/31/concello-abre-consulta-decidir-celebraciones-declara-interes-municipal/0003_202610F31C2993.htm",
     "time": "2026-10-31T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -63,9 +63,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El GES de Ortigueira abastece de agua a granjas y particulares por la sequía: «Vamos a tener un problema a futuro»",
-    "description": "El Concello solventa así los problemas por los pozos y manantiales vacíos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/31/ges-ortigueira-abastece-agua-granjas-particulares-sequia/0003_202610F31C8991.htm",
+    "title": "Nuevas obras a la vista en el bulevar de As Pías de Ferrol",
+    "description": "Las máquinas volverán a la avenida para solventar dos tareas pendientes: el arreglo del tramo inicial y la conexión directa de la calle Lepanto en Caranza",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/31/nuevas-obras-vista-bulevar-as-pias/0003_202610F31C2991.htm",
     "time": "2026-10-31T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -99,6 +99,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "El GES de Ortigueira abastece de agua a granjas y particulares por la sequía: «Vamos a tener un problema a futuro»",
+    "description": "El Concello solventa así los problemas por los pozos y manantiales vacíos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/10/31/ges-ortigueira-abastece-agua-granjas-particulares-sequia/0003_202610F31C8991.htm",
+    "time": "2026-10-31T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Valdoviño aclara que la nave de servicios es propiedad del Concello y no está en venta",
     "description": "El alcalde responde «aos bulos lanzados polo PP»",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/10/31/valdovino-aclara-nave-servicios-concello-venta/0003_202610F31C8992.htm",
@@ -108,18 +117,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El puerto más bizarro de la costa gallega",
-    "description": "Las embarcaciones de Miño quedan atrapadas en el muelle con la bajamar. El dragado previsto se pospone para el 2027 por culpa de una planta protegida",
-    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/31/barcos-mino-siguen-bloqueados-culpa-planta-protegida/0003_202610H31C8991.htm",
-    "time": "2026-10-31T03:50:00+00:00",
+    "title": "El Concello de Ferrol abre una consulta para decidir qué celebraciones declara de interés municipal",
+    "description": "El gobierno local propone reconocer más de una treintena de propuestas y los vecinos podrán realizar sus propias aportaciones",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/31/concello-abre-consulta-decidir-celebraciones-declara-interes-municipal/0003_202610F31C2993.htm",
+    "time": "2026-10-31T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
   },
   {
-    "title": "Cedeira y Valdoviño respaldan a las mariscadoras y piden una investigación de las causas del estado de los bancos",
-    "description": "Los concellos recuerdan que las profesionales del sector llevan dos meses sin actividad y sin apenas ingresos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/31/cedeira-valdovino-respaldan-mariscadoras-piden-investigacion-causas-estado-bancos/0003_202610F31C8993.htm",
+    "title": "El puerto más bizarro de la costa gallega",
+    "description": "Las embarcaciones de Miño quedan atrapadas en el muelle con la bajamar. El dragado previsto se pospone para el 2027 por culpa de una planta protegida",
+    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/31/barcos-mino-siguen-bloqueados-culpa-planta-protegida/0003_202610H31C8991.htm",
     "time": "2026-10-31T03:50:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -181,7 +190,7 @@
   },
   {
     "title": "El Baxi Ferrol descarta acudir al mercado por la baja de Iva: «Nuestra situación económica es la que es»",
-    "description": "Lino López confirma que la rotura de cruzado de la croata obligará a redoblar esfuerzos a sus nueve jugadoras",
+    "description": "Lino López confirma que la rotura de cruzado de la croata obligará a redoblar esfuerzos a sus diez jugadoras",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/30/baxi-ferrol-descarta-acudir-mercado-baja-iva-situacion-economica-/00031793366967186955662.htm",
     "time": "2026-10-30T13:50:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -237,15 +246,6 @@
     "title": "Josep Maria Recasens, consejero delegado de Indra Group: «As Pontes debe ser punta de lanza para competir en la defensa europea»",
     "description": "Presentó el proyecto de Indra, un centro de vehículos militares pesados",
     "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/30/as-pontes-debe-punta-lanza-competir-defensa-europea/0003_202610G30P29992.htm",
-    "time": "2026-10-30T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Alerta de baches a golpe de móvil en Ferrol",
-    "description": "El servicio municipal de mantenimiento de viales estrena un sistema de avisos a través del que los ciudadanos pueden enviar fotos de las deficiencias que adviertan en el callejero local",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/alerta-baches-golpe-movil/0003_202610F30C1991.htm",
     "time": "2026-10-30T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
