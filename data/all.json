@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T14:59:11.897437+00:00",
-  "count": 415,
+  "generated_at": "2026-11-01T19:26:59.354922+00:00",
+  "count": 414,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "La naronesa Sara Guerrero, reina de plata en Ibiza",
+      "description": "Se quedó a treinta y dos segundos del oro en la Copa de Europa de Triatlón de este domingo",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/01/naronesa-sara-guerrero-reina-plata-ibiza/00031793557355255846374.htm",
+      "time": "2026-11-01T18:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Samaín do BNG na estación «pantasma» de buses de Ferrol",
+      "description": "A formación recrimina o «mal de ollo» da Xunta cos veciños de Ferrolterra que «simplemente queremos un transporte público digno»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/02/span-langglsamain-na-estacion-pantasma-busesspan/0003_202611F2C2993.htm",
+      "time": "2026-11-01T17:47:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo Ferrol aplaca el parón con un amistoso contra el Famalicão",
+      "description": "El duelo, que se desarrollará en el marco del Trofeo Cidade de Ferrol, será el viernes a las 20.00 horas en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/01/parrulo-ferrol-aplaca-paron-amistoso-contra-famalic/00031793550705907269194.htm",
+      "time": "2026-11-01T16:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Esquerdo, la sofisticación pide paso en el Racing",
+      "description": "Disfrutó de su tercera titularidad, la primera como local, y regaló cuatro pases clave",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/01/esquerdo-sofisticacion-pide-paso-racing/00031793549023577953854.htm",
+      "time": "2026-11-01T16:07:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El paso al frente de Guillermo Rivera en la agenda del Racing Club Ferrol",
       "description": "El hijo de Ignacio Rivera, que forma parte del consejo desde finales del 2024, acudió al estreno de la Ciudad Deportiva y también presenció el empate ante la Ponferradina en el palco de A Malata",
@@ -3714,51 +3750,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Endika Buján, la fórmula del Racing para despejar la equis berciana",
-      "description": "El desborde del extremo apunta a crucial en un duelo de máxima igualdad frente a la SD Ponferradina",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/30/endika-bujan-formula-racing-despejar-equis-berciana/00031793381723308106930.htm",
-      "time": "2026-10-30T17:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una persona herida en una salida de vía registrada en Pontedeume",
-      "description": "El accidente se produjo en la avenida da Coruña, a la altura del centro de mayores",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/30/persona-herida-salida-via-registrada-pontedeume/00031793378313934799934.htm",
-      "time": "2026-10-30T17:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Piden 24 y 28 años de prisión para un padre y un hijo por un ajuste de cuentas con machetes, catanas e intento de atropello en Ferrol",
-      "description": "Los hechos ocurrieron hace justo dos años, en una reyerta entre clanes que se extendió por todo el barrio de Recimil; varios implicados acabaron expulsados de la ciudad debido a este conflicto entre familias; las dos víctimas quedaron con numerosas cicatrices de hasta 19 centímetros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/piden-prision-padre-hijo-ajuste-cuentas-machetes-catanas-intento-atropello-ferrol/00031793376861928327215.htm",
-      "time": "2026-10-30T17:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El hombre que mató en Mañón con un palo a un vecino de Ortigueira se enfrenta a once años de cárcel",
-      "description": "La víctima murió a los seis días de la agresión, cometida tras una discusión cuando se encontraron en la parroquia de Santa María; el juicio se celebra la próxima semana en la Audiencia Provincial",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/hombre-mato-manon-palo-vecino-ortigueira-enfrenta-once-anos-carcel/00031793374467465425963.htm",
-      "time": "2026-10-30T15:51:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Qué hacer en Ferrolterra, Eume y Ortegal: calabazas, disfraces y túneles de miedo en el fin de semana más terrorífico",
-      "description": "Las localidades de la comarca organizan actividades como talleres, magostos y fiestas temáticas, mientras As Pontes celebra una nueva edición de la Feira de Fungos e Cogomelos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/ferrolterra-eume-ortegal-calabazas-disfraces-tuneles-miedo-fin-semana-terrorifico/00031793366116838338973.htm",
-      "time": "2026-10-30T15:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
