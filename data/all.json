@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-01T08:04:13.438500+00:00",
-  "count": 419,
+  "generated_at": "2026-11-01T14:59:11.897437+00:00",
+  "count": 415,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 43,
+      "count": 44,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "El paso al frente de Guillermo Rivera en la agenda del Racing Club Ferrol",
+      "description": "El hijo de Ignacio Rivera, que forma parte del consejo desde finales del 2024, acudió al estreno de la Ciudad Deportiva y también presenció el empate ante la Ponferradina en el palco de A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/01/paso-frente-guillermo-rivera-agenda-racing-club-ferrol/00031793540148548534540.htm",
+      "time": "2026-11-01T13:43:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing pasa página en A Gándara y el Concello vuelve a asumir su mantenimiento",
+      "description": "El traslado a Mandiá propicia que el mantenimiento del campo principal sea, desde este domingo, responsabilidad del servicio de Parques y Jardines",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/01/racing-pasa-pagina-gandara-concello-vuelve-asumir-mantenimiento/00031793537602168561387.htm",
+      "time": "2026-11-01T13:02:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Detenido un joven de 20 años por agredir a dos sanitarios del 061 que atendían a su pareja de madrugada en Ferrol",
+      "description": "El varón la emprendió a puñetazos y patadas contra los técnicos de la ambulancia, que consiguieron reducir al agresor",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/01/dos-trabajadores-ambulancia-061-agredidos-madrugada-ferrol/00031793527815000828509.htm",
+      "time": "2026-11-01T11:04:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Manu Miranda, nuevo delegado de campo del Racing Club Ferrol",
+      "description": "El gran capitán, que colgó las botas hace dos décadas, volvió a saltar al verde de A Malata para asumir la logística del encuentro frente a la SD Ponferradina",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/01/manu-miranda-nuevo-delegado-campo-racing-club-ferrol/00031793527237537693701.htm",
+      "time": "2026-11-01T10:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Cantón de Ferrol amanece repleto de basura tras la noche de Halloween: «Es una pena que no seamos más cívicos»",
+      "description": "Botellas, bolsas de plástico y cristales aparecieron desperdigados sobre los bancos y el suelo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/01/canton-ferrol-amanece-repleto-basura-tras-noche-halloween-pena-seamos-civicos/00031793524216671682341.htm",
+      "time": "2026-11-01T09:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El comercio local se reinventa al ritmo del Camino Inglés: «Los peregrinos gastan 70 euros de media al día»",
       "description": "Recuerdos, menús, kits para los pies,... los establecimientos del kilómetro cero ofrecen cada vez más productos específicamente pensados para los caminantes con el objetivo de aprovechar el tirón de la ruta",
@@ -3711,87 +3756,6 @@
       "description": "Las localidades de la comarca organizan actividades como talleres, magostos y fiestas temáticas, mientras As Pontes celebra una nueva edición de la Feira de Fungos e Cogomelos",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/ferrolterra-eume-ortegal-calabazas-disfraces-tuneles-miedo-fin-semana-terrorifico/00031793366116838338973.htm",
       "time": "2026-10-30T15:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Tiran la puerta de un piso para auxiliar a una octogenaria que se había caído y no lograba incorporarse, en Pontedeume",
-      "description": "No fue posible abrir porque estaba la llave dentro de la cerradura y la Policía Local tuvo que derribarla",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/10/30/tiran-puerta-piso-auxiliar-octogenaria-habia-caido-lograba-incorporarse-pontedeume/00031793371049799503195.htm",
-      "time": "2026-10-30T14:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un duelo de polos opuestos para el Baxi Ferrol en su visita a Ibaeta",
-      "description": "Las de Lino López encaran en San Sebastián un examen de máxima exigencia física y táctica tras una extenuante escala europea en Polonia",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/30/duelo-polos-opuestos-baxi-ferrol-visita-ibaeta/00031793371065009285184.htm",
-      "time": "2026-10-30T14:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol descarta acudir al mercado por la baja de Iva: «Nuestra situación económica es la que es»",
-      "description": "Lino López confirma que la rotura de cruzado de la croata obligará a redoblar esfuerzos a sus nueve jugadoras",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/30/baxi-ferrol-descarta-acudir-mercado-baja-iva-situacion-economica-/00031793366967186955662.htm",
-      "time": "2026-10-30T13:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nafti: «Tenemos un déficit técnico que hasta en Copa he notado»",
-      "description": "El entrenador blanquiazul reconoce que esperaba más nivel de su plantilla y señala al Racing como uno de los equipos más completos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/30/nafti-tenemos-deficit-tecnico-copa-notado/00031793361964644375916.htm",
-      "time": "2026-10-30T12:37:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La periodista Ketty Garat será la pregonera de la Semana Santa de Ferrol",
-      "description": "El acto tendrá lugar el 13 de marzo en el teatro Jofre",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/periodista-ketty-garat-sera-pregonera-semana-santa-ferrol/00031793361481316889346.htm",
-      "time": "2026-10-30T12:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La estación de autobuses de Ferrol amanece cerrada: «Es la segunda vez que me pasa este curso»",
-      "description": "Usuarios del bus denuncian que tuvieron acceder a las dársenas por la entrada de vehículos: «El día que ocurra una desgracia, que no digan que no estaban avisados»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/estacion-autobuses-ferrol-amanece-cerrada-segunda-vez-me-pasa-curso/00031793353697581298154.htm",
-      "time": "2026-10-30T12:02:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Defensivamente, el equipo me tiene enamorado»",
-      "description": "El técnico del Racing aparca la derrota en Miranda y reivindica el crecimiento colectivo de los suyos para afrontar la visita de la SD Ponferradina",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/30/javi-vazquez/00031793356136841126714.htm",
-      "time": "2026-10-30T11:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing Club Ferrol recibe a la SD Ponferradina con dos bajas",
-      "description": "Javi Vázquez encara el choque sin la baza de Migue Leal, que podría regresar para la visita del Logroñés, y de Álvaro Juan",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/30/racing-club-ferrol-recibe-sd-ponferradina-dos-bajas/00031793357163240450716.htm",
-      "time": "2026-10-30T11:30:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Siete nuevos policías locales refuerzan la seguridad en Ferrol",
-      "description": "Los agentes se incorporaron oficialmente a la plantilla tras completar su formación en la Academia Galega de Seguridade Pública y en la urbe naval",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/siete-nuevos-policias-localesrefuerzan-seguridad-ferrol/00031793357832888535759.htm",
-      "time": "2026-10-30T11:26:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
