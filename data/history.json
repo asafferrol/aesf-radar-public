@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 414,
+  "count": 415,
   "items": [
+    {
+      "title": "Fallece José Martínez Vidal, fundador del restaurante O Parrulo de Ferrol",
+      "description": "El empresario y cocinero tenía 97 años y en enero recibió, junto a su esposa, una de las insignias de oro del Concello de Ferrol por engrandecer la ciudad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/01/fallece-jose-martinez-vidal-fundador-restaurante-parrulo/00031793560003326607731.htm",
+      "time": "2026-11-01T19:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La naronesa Sara Guerrero, reina de plata en Ibiza",
       "description": "Se quedó a treinta y dos segundos del oro en la Copa de Europa de Triatlón de este domingo",
