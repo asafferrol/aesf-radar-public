@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T01:34:08.322866+00:00",
-  "count": 425,
+  "generated_at": "2026-11-01T08:04:13.438500+00:00",
+  "count": 419,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,87 @@
     }
   },
   "items": [
+    {
+      "title": "El comercio local se reinventa al ritmo del Camino Inglés: «Los peregrinos gastan 70 euros de media al día»",
+      "description": "Recuerdos, menús, kits para los pies,... los establecimientos del kilómetro cero ofrecen cada vez más productos específicamente pensados para los caminantes con el objetivo de aprovechar el tirón de la ruta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/comercio-local-reinventa-ritmo-camino-ingles-peregrinos-gastan-70-euros-media-dia/00031793381958127873314.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Anatomía de la prostitución en la ría de Ferrol: de clubes de alterne a esclavas en pisos las 24 horas del día",
+      "description": "Cambian las ubicaciones y suben las penas, pero sigue la explotación sexual con mujeres endeudadas por sus proxenetas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/01/anatomia-prostitucion-clubes-esclavas-pisos-24-horas-dia/0003_202611F1C1_COPY991.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los 130 días sin una gota de lluvia en la comarca de Ferrolterra",
+      "description": "Ferrol registró un 31 % menos de precipitaciones entre mayo y octubre respecto al año anterior pese a tener las mismas jornadas secas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/01/130-dias-gota-lluvia/0003_202611F1C5993.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Marisela del Águila, cocinera peruana: «Ferrol es un sitio muy tranquilo, me ha abierto las puertas, le estoy muy agradecida»",
+      "description": "Dirige el restaurante Inkawasi, en la calle Nueva, donde se puede comer como en la mismísima Lima ceviche, patasca o leche de tigre: «Nos está yendo muy bien»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/01/ferrol-sitio-tranquilo-me-abierto-puertas-agradecida/0003_202611F1C12994.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La cedeiresa Marta Cameselle abraza sus monstruos en su primer libro, una novela infantil: «Nace de un dolor profundo»",
+      "description": "Una niña con TDAH protagoniza la historia que está a punto de publicar en Bunker Books, ilustrada por la suiza Reyhane",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/11/01/cedeiresa-marta-cameselle-abraza-monstruos-primer-libro-novela-infantil/0003_202611F1C9991.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Sánchez Aguilera: de cementerio de coches a nuevo barrio de Ferrol",
+      "description": "Luz verde al proyecto que transformará las diez hectáreas del antiguo cuartel en una zona residencial con áreas verdes, aparcamientos y diversos servicios",
+      "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/10/31/sanchez-aguilera-cementerio-coches-nuevo-barrio-ferrol/00031793464554507812952.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Aquellos inolvidables molinos de Gradaille y Entrerríos: vivir para moler y soñar",
+      "description": "La familia de las infraestructuras de Neda y Narón recupera estas historias",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/11/01/aquellos-inolvidables-molinos-gradaille-entrerrios-vivir-moler-sonar/0003_202611F1C8991.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "¿Y si hubiera una explosión mortífera en un edificio de As Pontes?",
+      "description": "Los Bomberos del Eume y personal de Ambulancias Ortigueira simularon, en la Casa da Enerxía, el derrumbe de un edificio y un accidente con varias víctimas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/11/01/hubiera-explosion-mortifera/0003_202611F1C10991.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Fisioterapia especializada: tratar el dolor, recuperar los tejidos y cuidar el bienestar",
+      "description": "La Clínica de Fisioterapia Noa Pérez Gil combina un abordaje individualizado del dolor y de distintas patologías musculoesqueléticas con una unidad de fisioterapia dermatofuncional",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/26/fisioterapia-especializada-tratar-dolor-recuperar-tejidos-cuidar-bienestar/00031793007151742593844.htm",
+      "time": "2026-11-01T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "A la tercera y con prórroga fue la vencida para el Baxi Ferrol (81-95)",
       "description": "Melia comandó la resistencia de las de Lino López en una guerra sin cuartel que supone el primer premio visitante en la Liga",
@@ -3711,141 +3792,6 @@
       "description": "Los agentes se incorporaron oficialmente a la plantilla tras completar su formación en la Academia Galega de Seguridade Pública y en la urbe naval",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/siete-nuevos-policias-localesrefuerzan-seguridad-ferrol/00031793357832888535759.htm",
       "time": "2026-10-30T11:26:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Josep Maria Recasens, consejero delegado de Indra Group: «As Pontes debe ser punta de lanza para competir en la defensa europea»",
-      "description": "Presentó el proyecto de Indra, un centro de vehículos militares pesados",
-      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/30/as-pontes-debe-punta-lanza-competir-defensa-europea/0003_202610G30P29992.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Alerta de baches a golpe de móvil en Ferrol",
-      "description": "El servicio municipal de mantenimiento de viales estrena un sistema de avisos a través del que los ciudadanos pueden enviar fotos de las deficiencias que adviertan en el callejero local",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/alerta-baches-golpe-movil/0003_202610F30C1991.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Desmantelado el clan de Los Chaquetas: operaban con drogas, Ferraris y armas desde un poblado de Ferrol",
-      "description": "El capo residente en Narón y su hermano lideraban el grupo, con ocho detenidos ya en prisión; la operación es de Vigilancia Aduanera y Guardia Civil; entre los arrestados había un agente",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/desmantelado-clan-chaquetas-operaban-drogas-ferraris-armas/0003_202610F30C3_COPY992.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Encarnación Mayán, nombrada fiscala de Memoria Democrática en Galicia",
-      "description": "Desde junio de 2024, ostentaba desde Ferrol la Fiscalía Delegada Provincial en esa especialidad y continuará llevando la plaza en la ciudad naval",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/30/encarnacion-mayan-nombrada-fiscala-memoria-democratica-galicia/0003_202610F30C3_COPY993.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Francisco Maldonado presenta sus relatos de terror en Narón",
-      "description": "El autor de Valdepeñas pero arraigado en la comarca ha publicado «Tenebri Mundo II»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/29/francisco-maldonado-presenta-relatos-terror-naron/00031793297288554666244.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Música y baile",
-      "description": "La Room de Ferrol acogerá este sábado un concierto de la banda viguesa Tangomango",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/musica-baile/00031793294596440469929.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Oportunidad laboral",
-      "description": "La Cámara de Comercio de A Coruña y la escuela de cocina iCook organizan un curso para desempleados de 45 a 60 años",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/oportunidad-laboral/00031793294403660380177.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Sarabela Teatro lleva «A Metamorfose» de Kafka al Jofre",
-      "description": "La representación será este sábado 31 a partir de las ocho y media de la tarde",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/29/sarabela-teatro-lleva-metamorfose-kafka-jofre/00031793294160012268768.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Josefa, centenaria de Cerdido: «Fame non pasei, pero co que se tira hoxe algún día ben comiamos»",
-      "description": "É a primeira da catro veciñas deste concello que logo cumprirán un século",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/10/30/josefa-centenaria-cerdido-fame-non-pasei-co-tira-hoxe-ben-comiamos/0003_202610F30C6991.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La UDC reafirma su interés por la residencia universitaria para el campus de Ferrol prevista en el Sánchez Aguilera",
-      "description": "El rector destaca la baja tasa de plazas disponibles para los estudiantes y asegura que « calquera fórmula que permita facela vai ser moi apoiada por nós »",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/udc-reafirma-interes-residencia-universitaria-prevista-sanchez-aguilera/0003_202610F30C2993.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "As Pontes retoma Espazo en Familia, un plan de apoyo a los centros educativos",
-      "description": "El Concello impulsa talleres y experiencias educativas para el alumnado de Infantil, Primaria, ESO y FP Básica",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/10/30/as-pontes-retoma-espazo-familia-apoyo-centros-educativos/0003_202610F30C6994.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "As Somozas despide « a unha persoa excepcional no humano »",
-      "description": "Carlos Bacelo Saavedra falleció el día 27 a los 89 años",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-somozas/2026/10/30/as-somozas-despide-span-langgl-unha-persoa-excepcional-humanospan/0003_202610F30C6992.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "MercaNaVila ha generado ventas por 844.000 euros en los 199 comercios adheridos en Ferrolterra, Eume y Ortegal",
-      "description": "Son 13 los concellos de menos de veinte mil habitantes en los que se desarrolla la iniciativa de apoyo al comercio local",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/30/mercanavila-generado-ventas-844000-euros-199-comercios-adheridos-zona/0003_202610F30C6993.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Cedeira organiza cuatro rutas para divulgar la identidad y el patrimonio ligados al mar",
-      "description": "El Concello promueve las salidas, los días 5, 6, 7 y 8 de noviembre, gratuitas y con inscripción previa",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/10/30/cedeira-organiza-cuatro-rutas-sobre-identidad-patrimonio-ligados-mar/0003_202610F30C6995.htm",
-      "time": "2026-10-30T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El patrullero Centinela opera contra la piratería y el narcotráfico en aguas de Mauritania",
-      "description": "Con base en Ferrol, navega ya con una estación de armas remota en su proa que potencia sus capacidades de disuasión",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/10/30/centinela-opera-contra-pirateria-narcotrafico-aguas-mauritania/0003_202610F30C5991.htm",
-      "time": "2026-10-30T03:46:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
