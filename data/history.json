@@ -1,7 +1,106 @@
 {
   "hours": 48,
-  "count": 211,
+  "count": 215,
   "items": [
+    {
+      "title": "La Cocina Económica de Ferrol lanza un SOS para «seguir funcionando más allá de 10 años»",
+      "description": "La caída del número de socios, debido al envejecimiento, y el aumento de costes han provocado que la entidad lance una campaña para garantizar su supervivencia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/02/cocina-economica-ferrol-lanza-sos-seguir-funcionando-alla-10-anos/00031793616185181216671.htm",
+      "time": "2026-11-02T16:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Vox se querella contra el delegado del Gobierno en Galicia: «No protegió el acto electoral en Ferrol»",
+      "description": "La formación de Santiago Abascal habla de «boicot de Galiza Nova»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/vox-querella-contra-delegado-gobierno-galicia-protegio-acto-electoral-ferrol/00031793636426006772670.htm",
+      "time": "2026-11-02T16:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La fase de Caranza de Abrir Ferrol al mar comenzará por los aparcamientos",
+      "description": "El alcalde avanza que las obras darán inicio « nos próximos días ou semanas »",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/03/fase-caranza-abrir-ferrol-mar-comenzara-aparcamientos/0003_202611F3C1993.htm",
+      "time": "2026-11-02T15:52:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Hospital Ribera Juan Cardona revalida su compromiso con el Baxi Ferrol",
+      "description": "El centro sanitario renovó su convenio de colaboración asistencial con el club",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/02/hospital-ribera-juan-cardona-revalida-compromiso-baxi-ferrol/00031793633060295988597.htm",
+      "time": "2026-11-02T15:28:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol, a no dejarse ir y alimentar su sueño europeo",
+      "description": "El Olimpiakós, con una ventaja de 28 puntos, mide este martes «A Maxia da Malata»",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/02/baxi-ferrol-dejarse-ir-alimentar-sueno-europeo/00031793630125984124810.htm",
+      "time": "2026-11-02T14:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una UD Logroñés tocada recalará en A Malata sin Latif Issman y con resaca copera",
+      "description": "La sanción al ghanés y su visita el miércoles al Amorebieta, las bazas del Racing para doblegar al segundo clasificado",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/02/logrones-tocada-recalara-malata-latif-issman-resaca-copera/00031793626169871806613.htm",
+      "time": "2026-11-02T13:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rápida intervención por unos cartones ardiendo en la calle Carmen, en Ferrol",
+      "description": "Unos particulares apagaron el fuego",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/rapida-intervencion-cartones-ardiendo-calle-carmen-ferrol/00031793622740480836423.htm",
+      "time": "2026-11-02T12:40:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Robos en tres viviendas del rural de Cabanas el fin de semana: «Que la gente cierre puertas y ventanas»",
+      "description": "Aprovecharon breves ausencias de los dueños de las casas para entrar y llevarse dinero y pequeños efectos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/11/02/robos-tres-viviendas-rural-cabanas-fin-semana-gente-cierre-puertas-ventanas/00031793619707379454205.htm",
+      "time": "2026-11-02T11:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "«Finalizar con confianza», la exigencia que impera en el vestuario del Racing Club Ferrol",
+      "description": "Javi Vázquez defiende que la sequía goleadora de más de 250 minutos sin marcar se combate con insistencia y pone en valor las ocasiones generadas",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/02/finalizar-confianza-exigencia-impera-vestuario-racing-club-ferrol/00031793618101449305310.htm",
+      "time": "2026-11-02T11:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol, primera Ciudad de la Memoria en Galicia: «Sacrificio frente a la brutalidad»",
+      "description": "El BOE publica esta declaración, que reivindica la «cultura de la resistencia» de sus vecinos desde el siglo XIX hasta los últimos años del franquismo; incluye 22 espacios emblemáticos como muros de fusilamientos y prisiones de torturas; el socialista Gómez Besteiro recalca que «as administracións terán agora unhas obrigas»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/ferrol-primera-ciudad-memoria-galiciasacrificio-frente-brutalidad/00031793614573279111457.htm",
+      "time": "2026-11-02T10:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol elige a los miembros para las mesas electorales para el 29N",
+      "description": "Un pleno extraordinario sorteó los componentes que integrarán los 84 puntos donde están llamados a votar 53.326 ferrolanos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/ferrol-elige-miembros-mesas-electorales-29n/00031793612156509256811.htm",
+      "time": "2026-11-02T10:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "SAIC acelera su proyecto de Ferrol: se construirá antes y con más inversión",
       "description": "La compañía china acometerá la fábrica de coches de la marca MG en una sola fase, triplicando el presupuesto que había previsto inicialmente",
@@ -1834,69 +1933,6 @@
       "description": "El atacante del Racing estrelló el balón en el larguero con un disparo desde el círculo central, que rondó la línea de gol sin llegar a entrar",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/31/ojeda-sono-malata-quedo-celebrar/00031793477902238884891.htm",
       "time": "2026-10-31T20:22:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» del empate entre el Racing y la SD Ponferradina",
-      "description": "Ojeda y Endika los mejores en un partido en el que nadie fue capaz de romper la baraka",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/31/1x1-partido-racing-sd-ponferradina/00031793456055022666231.htm",
-      "time": "2026-10-31T17:37:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El gol da la espalda al Racing Club Ferrol, que empata con la Ponferradina (0-0)",
-      "description": "La friolera de 27 remates no bastó a los de Javi Vázquez para imponerse a los bercianos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/31/racing-club-ferrol-sd-ponferradina/00031793455999796698913.htm",
-      "time": "2026-10-31T17:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O BNG convoca este domingo un Samaín reivindicativo na estación de bus «pantasma»",
-      "description": "O acto terá lugar ás 17.00 horas e denunciará a situación do transporte público",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/01/bng-convoca-hoxe-samain-reivindicativo-na-estacion-bus-pantasma/0003_202611F1C5991.htm",
-      "time": "2026-10-31T16:16:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Protesta en Ferrol por la celebración de un acto de Vox",
-      "description": "Más de 200 personas se concentraron por la presencia de Jorge Buxadé en la ciudad, aunque sin que se produjesen altercados",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/31/protesta-ferrol-celebracion-acto-vox/00031793452584183595288.htm",
-      "time": "2026-10-31T13:48:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La nostalgia llena los cementerios de la comarca de Ferrolterra",
-      "description": "En el camposanto de Catabois se mantendrá hasta la tarde del lunes, incluida, el dispositivo especial de tráfico.",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/31/nostalgia-llena-cementerios-comarca-ferrolterra/00031793449834384206996.htm",
-      "time": "2026-10-31T12:37:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El pasaporte para un sueño del Baxi Ferrol, por cortesía de Maruxas de Nata",
-      "description": "La marca de galletas con base en San Sadurniño lanza un libro de firmas exclusivo con diseño de la ferrolana Blanca Vila, que se repartirá el martes durante la visita del Olimpiakós",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/31/pasaporte-sueno-baxi-ferrol-cortesia-maruxas-nata/00031793446140894451883.htm",
-      "time": "2026-10-31T12:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Detenidos tres operarios en Fene por robar a su propia empresa: vendían el material «sobrante» de las obras",
-      "description": "El perjuicio económico para la firma, ubicada en Vilar do Colo, supera los 6.000 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/31/detenidos-tres-operarios-fene-robar-propia-empresa-vendian-material-sobrante-obras/00031793439495293520884.htm",
-      "time": "2026-10-31T09:48:01+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
