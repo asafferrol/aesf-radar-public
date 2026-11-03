@@ -99,15 +99,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "SAIC acelera su proyecto de Ferrol: se construirá antes y con más inversión",
-    "description": "La compañía china acometerá la fábrica de coches de la marca MG en una sola fase, triplicando el presupuesto que había previsto inicialmente",
-    "url": "https://www.lavozdegalicia.es/noticia/economia/2026/11/02/saic-acelera-proyecto-ferrol-construira-inversion/0003_202611G2P22991.htm",
-    "time": "2026-11-02T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Recuperar el respeto",
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/02/recuperar-respeto/0003_202611F2C8993.htm",
@@ -265,6 +256,15 @@
     "description": "Imaxina Global, centrada en el diseño gráfico, interiorismo e imagen corporativa, destaca con su «startup» de construcción modular inteligente Cubbox",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/10/31/imprenta-naron-trabajar-navantia-loewe-hoteles-pais/0003_202610F31C5995.htm",
     "time": "2026-10-31T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "SAIC acelera su proyecto de Ferrol: se construirá antes y con más inversión",
+    "description": "La compañía china acometerá la fábrica de coches de la marca MG en una sola fase, triplicando el presupuesto que había previsto inicialmente",
+    "url": "https://www.lavozdegalicia.es/noticia/economia/2026/11/02/saic-acelera-proyecto-ferrol-construira-inversion/0003_202611G2P22991.htm",
+    "time": "2026-10-30T23:01:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
