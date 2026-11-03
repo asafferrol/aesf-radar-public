@@ -1,7 +1,34 @@
 {
   "hours": 48,
-  "count": 515,
+  "count": 514,
   "items": [
+    {
+      "title": "La cuerda del Baxi Ferrol duró menos de la cuenta contra el Olimpiakós (58-77)",
+      "description": "Las de Lino López, que ofrecieron una imagen netamente superior a la de la ida en la primera parte, acusaron un cansancio del que sacaron tajada las griegas",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/03/baxi-olimpiakos/00031793730792567365586.htm",
+      "time": "2026-11-03T20:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rueda celebra el primer aval estatal a SAIC y que el grupo acelere su apuesta por Ferrol",
+      "description": "El Puerto espera la llegada de una nueva embarcación para descargar coches asiáticos, pero sin fecha de momento",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/04/rueda-celebra-primer-aval-estatal-saic-grupo-acelere-apuesta-ferrol/0003_202611G4P27991.htm",
+      "time": "2026-11-03T16:57:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Vecinos del centro de Ferrol presentan alegaciones a la declaración de celebraciones como de interés municipal",
+      "description": "Consideran que el edicto busca eximir a esos eventos del cumplimiento de la normativa acústica",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/04/vecinos-centro-alegan-declaracion-celebraciones-interes-municipal/0003_202611F4C3991.htm",
+      "time": "2026-11-03T16:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La UD Logroñés regresa a Ferrol casi cinco años después",
       "description": "El Racing Club Ferrol cayó en aquel partido por la mínima con el solitario tanto de Dubasin",
@@ -4600,42 +4627,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Fallece José Martínez Vidal, fundador del restaurante O Parrulo de Ferrol",
-      "description": "El empresario y cocinero tenía 97 años y en enero recibió, junto a su esposa, una de las insignias de oro del Concello de Ferrol por engrandecer la ciudad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/01/fallece-jose-martinez-vidal-fundador-restaurante-parrulo/00031793560003326607731.htm",
-      "time": "2026-11-01T19:40:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La naronesa Sara Guerrero, reina de plata en Ibiza",
-      "description": "Se quedó a treinta y dos segundos del oro en la Copa de Europa de Triatlón de este domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/01/naronesa-sara-guerrero-reina-plata-ibiza/00031793557355255846374.htm",
-      "time": "2026-11-01T18:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Samaín do BNG na estación «pantasma» de buses de Ferrol",
-      "description": "A formación recrimina o «mal de ollo» da Xunta cos veciños de Ferrolterra que «simplemente queremos un transporte público digno»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/02/span-langglsamain-na-estacion-pantasma-busesspan/0003_202611F2C2993.htm",
-      "time": "2026-11-01T17:47:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Parrulo Ferrol aplaca el parón con un amistoso contra el Famalicão",
-      "description": "El duelo, que se desarrollará en el marco del Trofeo Cidade de Ferrol, será el viernes a las 20.00 horas en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/01/parrulo-ferrol-aplaca-paron-amistoso-contra-famalic/00031793550705907269194.htm",
-      "time": "2026-11-01T16:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
