@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T16:14:07.629975+00:00",
-  "count": 626,
+  "generated_at": "2026-11-04T21:54:37.545299+00:00",
+  "count": 627,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "Dani Ojeda confía en el gol tras el recital de ocasiones del Racing",
+      "description": "El atacante quiere prolongar la fortaleza de A Malata frente al Logroñés",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/04/dani-ojeda-confia-gol-tras-recital-ocasiones-racing/00031793812442634937207.htm",
+      "time": "2026-11-04T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Aarón Rey presentado con el Kitchee SC de Hong Kong",
+      "description": "El exracinguista emprende el reto internacional tras salir del AC Bellinzona suizo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/04/aaron-rey-presentado-kitchee-sc-hong-kong/00031793812672065309812.htm",
+      "time": "2026-11-04T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "A por el objetivo de 5.000 personas en la Carrera Contra el Cáncer",
+      "description": "Mañana, jueves, cierran las inscripciones para la competición del domingo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/04/objetivo-5000-personas-carrera-contra-cancer/00031793813128758851822.htm",
+      "time": "2026-11-04T17:39:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos de cada tres nuevos parados en la comarca de Ferrol corresponden al sector servicios",
+      "description": "El desempleo subió en octubre con 273 demandantes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/dos-tres-nuevos-parados-comarca-corresponden-sector-servicios/0003_202611F5C5992.htm",
+      "time": "2026-11-04T17:12:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Arde un coche híbrido cuando salía de la autopista en Ferrol",
       "description": "El vehículo, con un motor eléctrico y otro de gasolina, entró en combustión por motivos que se desconocen",
@@ -5631,33 +5667,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "De xoubas bañadas en oro a embutido de porco celta: un universo de sabores",
-      "description": "La Deputación muestra en Cataluña el potencial de A Paisaxe que Sabe",
-      "url": "https://www.lavozdegalicia.es/noticia/carballo/2026/11/03/span-langgl-xoubas-banadas-oro-embutido-porco-celta-universo-saboresspan/0003_202611C3C8994.htm",
-      "time": "2026-11-02T20:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Cocina Económica de Ferrol lanza un SOS para «seguir funcionando más allá de 10 años»",
-      "description": "La caída del número de socios, debido al envejecimiento, y el aumento de costes han provocado que la entidad lance una campaña para garantizar su supervivencia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/02/cocina-economica-ferrol-lanza-sos-seguir-funcionando-alla-10-anos/00031793616185181216671.htm",
-      "time": "2026-11-02T16:39:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vox se querella contra el delegado del Gobierno en Galicia: «No protegió el acto electoral en Ferrol»",
-      "description": "La formación de Santiago Abascal habla de «boicot de Galiza Nova»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/vox-querella-contra-delegado-gobierno-galicia-protegio-acto-electoral-ferrol/00031793636426006772670.htm",
-      "time": "2026-11-02T16:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
