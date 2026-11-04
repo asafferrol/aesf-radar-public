@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:08:39.257313+00:00",
+  "generated_at": "2026-11-04T16:14:07.629975+00:00",
   "count": 626,
   "sources": {
     "lavoz_ferrol": {
@@ -14,7 +14,7 @@
     },
     "boe": {
       "ok": true,
-      "count": 233,
+      "count": 236,
       "name": "BOE"
     },
     "youtube": {
@@ -25,6 +25,69 @@
     }
   },
   "items": [
+    {
+      "title": "Arde un coche híbrido cuando salía de la autopista en Ferrol",
+      "description": "El vehículo, con un motor eléctrico y otro de gasolina, entró en combustión por motivos que se desconocen",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/04/arde-coche-hibrido-salia-autopista-ferrol/00031793807056118611276.htm",
+      "time": "2026-11-04T15:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Concentración en Ferrol por el derecho al tren: «A mobilización cidadá vai evitar que as reivindicacións queden no olvido»",
+      "description": "El Foro Cidadán polo Ferrocarril convoca una protesta este sábado, 7 de noviembre, a las 11.00 horas frente a estación",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/04/nueva-concentracion-comarcal-derecho-tren-vai-mobilizacion-cidada-obrigue-reivindicacions-non-queden-olvido/00031793793014744734181.htm",
+      "time": "2026-11-04T15:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El pleno de Ferrol aprobará la gratuidad de los atestados policiales para los implicados en accidentes de tráfico",
+      "description": "Hasta ahora se cobraban 70 euros por la copia del informe",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/pleno-aprobara-gratuidad-atestados-policiales-implicados-accidentes-trafico/0003_202611F5C2994.htm",
+      "time": "2026-11-04T15:25:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PSOE denuncia el mal estado de la red de abastecimiento y saneamiento en la calle Pedregás en Ferrol",
+      "description": "El concejal socialista Julián Reina denuncia « avarías continuas » y cortes de suministro de hasta una semana",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/05/psoe-denuncia-mal-estado-red-abastecimiento-saneamiento-calle-pedregas/0003_202611F5C2995.htm",
+      "time": "2026-11-04T15:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El padre y el hijo acusados del ataque con catanas en Ferrol culpan a la familia de las víctimas de «amenazarnos de muerte»",
+      "description": "Dicen que las heridas con arma blanca se originaron «porque estaban tirados en el suelo», el juicio continúa celebrándose en la Audiencia Provincial; los perjudicados también son padre e hijo y aún sufren ahora secuelas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/04/padre-hijo-acusados-ataque-catanas-ferrol-culpan-familia-victimas-amenazarnos-muerte/00031793794279475523477.htm",
+      "time": "2026-11-04T12:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un policía de Ferrol logra que le paguen la ropa de paisano desde el año 2020",
+      "description": "El agente de la Comisaría de la Policía Nacional presta sus funciones con vestimenta de calle en la Brigada Local de Policía Judicial, la justicia le da la razón",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/04/policia-ferrol-logra-paguen-ropa-paisano-ano-2020/00031793792681777195666.htm",
+      "time": "2026-11-04T12:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El patrullero Atalaya concluye 64 días de misión en Ceuta y el estrecho",
+      "description": "La unidad de la Armada centró sus cometidos en la verificación y supervisión del tráfico naval para asegurar la libertad de navegación en este paso estratégico",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/05/patrullero-atalaya-concluye-64-dias-mision-ceuta-estrecho/0003_202611F5C5991.htm",
+      "time": "2026-11-04T11:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La VAC Costa Norte, la gran olvidada de los presupuestos autonómicos",
       "description": "La Xunta consigna un millón de euros para el tramo AG-64 a Sanguiñeira para 2027, tras años sin ejecutar un céntimo",
@@ -2639,6 +2702,24 @@
       "title": "ILUSTRE COLEGIO NOTARIAL DE VALENCIA.",
       "description": "V. Anuncios. - C. Anuncios particulares - ANUNCIOS PARTICULARES - Referencia: BOE-B-2026-36113 - KBytes: 195 - Páginas: 1",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36113",
+      "time": "2026-11-03T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto 974/2026, de 4 de noviembre, por el que se dispone el cese de don Óscar Puente Santiago como Ministro de Transportes y Movilidad Sostenible.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - PRESIDENCIA DEL GOBIERNO - Ceses - Referencia: BOE-A-2026-23171 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23171",
+      "time": "2026-11-03T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto 975/2026, de 4 de noviembre, por el que se dispone que el Vicepresidente Primero del Gobierno y Ministro de Economía, Comercio y Empresa asuma el despacho ordinario de los asuntos del Ministerio de Transportes y Movilidad Sostenible.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - PRESIDENCIA DEL GOBIERNO - Despacho - Referencia: BOE-A-2026-23172 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23172",
       "time": "2026-11-03T23:00:00+00:00",
       "source": "BOE",
       "source_id": "boe",
@@ -5574,87 +5655,6 @@
       "description": "La formación de Santiago Abascal habla de «boicot de Galiza Nova»",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/vox-querella-contra-delegado-gobierno-galicia-protegio-acto-electoral-ferrol/00031793636426006772670.htm",
       "time": "2026-11-02T16:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La fase de Caranza de Abrir Ferrol al mar comenzará por los aparcamientos",
-      "description": "El alcalde avanza que las obras darán inicio « nos próximos días ou semanas »",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/03/fase-caranza-abrir-ferrol-mar-comenzara-aparcamientos/0003_202611F3C1993.htm",
-      "time": "2026-11-02T15:52:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Hospital Ribera Juan Cardona revalida su compromiso con el Baxi Ferrol",
-      "description": "El centro sanitario renovó su convenio de colaboración asistencial con el club",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/02/hospital-ribera-juan-cardona-revalida-compromiso-baxi-ferrol/00031793633060295988597.htm",
-      "time": "2026-11-02T15:28:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol, a no dejarse ir y alimentar su sueño europeo",
-      "description": "El Olimpiakós, con una ventaja de 28 puntos, mide este martes «A Maxia da Malata»",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/02/baxi-ferrol-dejarse-ir-alimentar-sueno-europeo/00031793630125984124810.htm",
-      "time": "2026-11-02T14:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una UD Logroñés tocada recalará en A Malata sin Latif Issman y con resaca copera",
-      "description": "La sanción al ghanés y su visita el miércoles al Amorebieta, las bazas del Racing para doblegar al segundo clasificado",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/02/logrones-tocada-recalara-malata-latif-issman-resaca-copera/00031793626169871806613.htm",
-      "time": "2026-11-02T13:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Rápida intervención por unos cartones ardiendo en la calle Carmen, en Ferrol",
-      "description": "Unos particulares apagaron el fuego",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/rapida-intervencion-cartones-ardiendo-calle-carmen-ferrol/00031793622740480836423.htm",
-      "time": "2026-11-02T12:40:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Robos en tres viviendas del rural de Cabanas el fin de semana: «Que la gente cierre puertas y ventanas»",
-      "description": "Aprovecharon breves ausencias de los dueños de las casas para entrar y llevarse dinero y pequeños efectos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/11/02/robos-tres-viviendas-rural-cabanas-fin-semana-gente-cierre-puertas-ventanas/00031793619707379454205.htm",
-      "time": "2026-11-02T11:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Finalizar con confianza», la exigencia que impera en el vestuario del Racing Club Ferrol",
-      "description": "Javi Vázquez defiende que la sequía goleadora de más de 250 minutos sin marcar se combate con insistencia y pone en valor las ocasiones generadas",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/02/finalizar-confianza-exigencia-impera-vestuario-racing-club-ferrol/00031793618101449305310.htm",
-      "time": "2026-11-02T11:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol, primera Ciudad de la Memoria en Galicia: «Sacrificio frente a la brutalidad»",
-      "description": "El BOE publica esta declaración, que reivindica la «cultura de la resistencia» de sus vecinos desde el siglo XIX hasta los últimos años del franquismo; incluye 22 espacios emblemáticos como muros de fusilamientos y prisiones de torturas; el socialista Gómez Besteiro recalca que «as administracións terán agora unhas obrigas»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/ferrol-primera-ciudad-memoria-galiciasacrificio-frente-brutalidad/00031793614573279111457.htm",
-      "time": "2026-11-02T10:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol elige a los miembros para las mesas electorales para el 29N",
-      "description": "Un pleno extraordinario sorteó los componentes que integrarán los 84 puntos donde están llamados a votar 53.326 ferrolanos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/02/ferrol-elige-miembros-mesas-electorales-29n/00031793612156509256811.htm",
-      "time": "2026-11-02T10:08:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
