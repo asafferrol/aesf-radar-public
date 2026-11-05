@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T17:11:23.310485+00:00",
-  "count": 587,
+  "generated_at": "2026-11-05T22:40:38.112083+00:00",
+  "count": 589,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "El Concello de Ferrol sufraga chubasqueros reutilizables para los aficionados del Racing",
+      "description": "Un contrato menor de Alcaldía recoge la adquisición de 8.000 ponchos verdes serigrafiados por un importe de 16.940 euros para paliar las molestias derivadas de las obras de la cubierta",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/05/chubasqueros/00031793904879710770496.htm",
+      "time": "2026-11-05T19:26:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Vehículo nuevo para el parque de bomberos de Ferrol",
+      "description": "El pleno aprueba una contribución especial para adquirir una autobomba para el servicio de extinción de incendios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/05/vehiculo-nuevo-parque-bomberos-ferrol/00031793905073979720452.htm",
+      "time": "2026-11-05T19:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Aitor Pascual: «Estaré con el corazón un pelín dividido, pero más a favor del Racing»",
+      "description": "El lateral ferrolano, que se encuentra en búsqueda de equipo tras su salida de la UD Logroñés, presenciará el duelo entre sus dos exclubes",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/05/aitor-pascual-estare-corazon-pelin-dividido-favor-racing/00031793899165591285406.htm",
+      "time": "2026-11-05T17:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un vecino de Narón intoxicado por monóxido de carbono debido a una masa de pan olvidada en el horno",
+      "description": "La vivienda era una antigua panadería, el SPEIS detectó valores muy altos por CO y el afectado fue atendido en el lugar",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/05/vecino-naron-intoxicado-monoxido-carbono-debido-masa-pan-olvidada-horno/00031793897819931370757.htm",
+      "time": "2026-11-05T17:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los futuros ingenieros muestran su creatividad en el concurso de prototipos de la Politécnica de Ferrol",
+      "description": "El certamen, organizado por el profesor Javier Cuadrado, se celebró este jueves en el Campus Industrial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/05/futuros-ingenieros-muestran-creatividad-concurso-protipos-politenica-ferrol/00031793877655038578385.htm",
+      "time": "2026-11-05T17:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El Chiquibásquet Nadal Ares alcanza su décima edición",
       "description": "El campus se celebrará durante los días 28, 29 y 30 de diciembre",
@@ -5280,33 +5325,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Las diez mejores imágenes de la visita del Olimpiakós griego al Baxi Ferrol",
-      "description": "A Malata volvió a vestirse de gala para una noche europea en la que la derrota de las suyas no empañó el espectáculo",
-      "url": "https://www.lavozdegalicia.es/album/deportes/2026/11/03/diez-mejores-imagenes-visita-olimpiakos-griego-baxi-ferrol/01101793744120213222176.htm",
-      "time": "2026-11-03T22:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Lino López: «No hago cálculos nunca»",
-      "description": "El técnico del Baxi Ferrol reseñó que el cuadro heleno aprovechó la bajada de las suyas para sacar ventaja y evitar hacer cuentas sobre un posible pase de ronda",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/03/lino-lopez-segunda-parte-faltaron-fuerzas/00031793742545032607987.htm",
-      "time": "2026-11-03T21:57:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La cuerda del Baxi Ferrol duró menos de la cuenta contra el Olimpiakós (58-77)",
-      "description": "Las de Lino López, que ofrecieron una imagen netamente superior a la de la ida en la primera parte, acusaron un cansancio del que sacaron tajada las griegas",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/03/baxi-olimpiakos/00031793730792567365586.htm",
-      "time": "2026-11-03T20:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
