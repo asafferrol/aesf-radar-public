@@ -1,7 +1,88 @@
 {
   "hours": 48,
-  "count": 549,
+  "count": 550,
   "items": [
+    {
+      "title": "En busca del abuelo asesinado en Ferrol: «Toda la vida luché para darle una sepultura digna»",
+      "description": "David Llamazares, su nieto de 84 años, reclamó en los juzgados el reconocimiento de José Carrascosa como víctima del franquismo; sus restos están en la fosa común de Serantes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/07/busca-abuelo-asesinado-serantes-merece-sepultura-digna/0003_202611F7C4_COPY993.htm",
+      "time": "2026-11-06T16:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Xunta licita las obras de 92 nuevas viviendas públicas en Narón por 17 millones",
+      "description": "La promoción estará distribuida en 2 bloques y la mayoría de los nuevos hogares serán de 2 y 3 dormitorios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/07/xunta-licita-obras-92-nuevas-viviendas-publicas-naron-17-millones/0003_202611F7C8993.htm",
+      "time": "2026-11-06T16:08:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Pujol, reconversión a prueba de estrellas en el Racing-UD Logroñés",
+      "description": "El central, asentado en el lateral derecho por la baja de Migue, se verá las caras con Anai Morales, la gran baza ofensiva visitante",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/06/pujol-reconversion-prueba-estrellas-racing-ud-logrones/00031793980764499623875.htm",
+      "time": "2026-11-06T16:04:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez no negocia la ambición: «En mi mente solo entra la palabra victoria»",
+      "description": "El técnico del Racing apela al crecimiento para superar al Logroñés y reclama más precisión para transformar en goles las ocasiones",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/06/javi-vazquez-negocia-ambicion-mente-solo-entra-palabra-victoria/00031793960005648406140.htm",
+      "time": "2026-11-06T15:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "As Pontes estrena el Campionato Xunta de Galicia Enerxías Alternativas",
+      "description": "La primera prueba de este ecorali autonómico pionero en el territorio nacional se desarrollará este sábado con once equipos participantes",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/06/as-pontes-estrena-campionato-xunta-galicia-enerxias-alternativas/00031793977370580586988.htm",
+      "time": "2026-11-06T15:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El pacense Manuel García arbitrará el Racing-UD Logroñés",
+      "description": "Los ferrolanos, con dos antecedentes, no saben lo que es perder con este colegiado",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/06/pacense-manuel-garcia-arbitrara-racing-ud-logrones/00031793967564738584344.htm",
+      "time": "2026-11-06T12:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Agustín, Nené, padrino",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/07/agustin-nene-padrino/0003_202611F7C4991.htm",
+      "time": "2026-11-06T11:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El BNG afea al gobierno local la compra de 8.000 chubasqueros para el Racing Club Ferrol",
+      "description": "Los nacionalistas critican el desembolso de 16.940 euros en estas prendas, que se repartirán en el partido de este sábado para paliar las molestias que se puedan derivar de las obras de A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/06/bng-afea-gobierno-local-compra-8000-chubasqueros-racing/00031793964600194921606.htm",
+      "time": "2026-11-06T11:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La junta electoral apercibe al Concello de Ferrol por la presentación del proyecto del Sánchez Aguilera y de los avances de Abrir Ferrol al mar",
+      "description": "Considera que vulneró la Loreg y obliga a retirar las publicaciones realizadas en la web municipal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/06/junta-electoral-apercibe-alcalde-ferrol-presentacion-proyecto-sanchez-aguilera-avances-abrir-ferrol-mar/00031793961535645189562.htm",
+      "time": "2026-11-06T11:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La caída del clan de Los Chaquetas: perdición por los Ferraris y un agente encarcelado",
       "description": "La organización criminal llegó a timar a un vecino de Narón al que le entregaron 30 kilos de supuesta coca y al final 29 eran de cemento; doce detenidos con guarderías de droga y armas",
@@ -4867,78 +4948,6 @@
       "description": "Mañana, jueves, cierran las inscripciones para la competición del domingo",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/04/objetivo-5000-personas-carrera-contra-cancer/00031793813128758851822.htm",
       "time": "2026-11-04T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dos de cada tres nuevos parados en la comarca de Ferrol corresponden al sector servicios",
-      "description": "El desempleo subió en octubre con 273 demandantes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/dos-tres-nuevos-parados-comarca-corresponden-sector-servicios/0003_202611F5C5992.htm",
-      "time": "2026-11-04T17:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arde un coche híbrido cuando salía de la autopista en Ferrol",
-      "description": "El vehículo, con un motor eléctrico y otro de gasolina, entró en combustión por motivos que se desconocen",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/04/arde-coche-hibrido-salia-autopista-ferrol/00031793807056118611276.htm",
-      "time": "2026-11-04T15:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Concentración en Ferrol por el derecho al tren: «A mobilización cidadá vai evitar que as reivindicacións queden no olvido»",
-      "description": "El Foro Cidadán polo Ferrocarril convoca una protesta este sábado, 7 de noviembre, a las 11.00 horas frente a estación",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/04/nueva-concentracion-comarcal-derecho-tren-vai-mobilizacion-cidada-obrigue-reivindicacions-non-queden-olvido/00031793793014744734181.htm",
-      "time": "2026-11-04T15:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El pleno de Ferrol aprobará la gratuidad de los atestados policiales para los implicados en accidentes de tráfico",
-      "description": "Hasta ahora se cobraban 70 euros por la copia del informe",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/pleno-aprobara-gratuidad-atestados-policiales-implicados-accidentes-trafico/0003_202611F5C2994.htm",
-      "time": "2026-11-04T15:25:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PSOE denuncia el mal estado de la red de abastecimiento y saneamiento en la calle Pedregás en Ferrol",
-      "description": "El concejal socialista Julián Reina denuncia « avarías continuas » y cortes de suministro de hasta una semana",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/05/psoe-denuncia-mal-estado-red-abastecimiento-saneamiento-calle-pedregas/0003_202611F5C2995.htm",
-      "time": "2026-11-04T15:22:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El padre y el hijo acusados del ataque con catanas en Ferrol culpan a la familia de las víctimas de «amenazarnos de muerte»",
-      "description": "Dicen que las heridas con arma blanca se originaron «porque estaban tirados en el suelo», el juicio continúa celebrándose en la Audiencia Provincial; los perjudicados también son padre e hijo y aún sufren ahora secuelas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/04/padre-hijo-acusados-ataque-catanas-ferrol-culpan-familia-victimas-amenazarnos-muerte/00031793794279475523477.htm",
-      "time": "2026-11-04T12:39:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un policía de Ferrol logra que le paguen la ropa de paisano desde el año 2020",
-      "description": "El agente de la Comisaría de la Policía Nacional presta sus funciones con vestimenta de calle en la Brigada Local de Policía Judicial, la justicia le da la razón",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/04/policia-ferrol-logra-paguen-ropa-paisano-ano-2020/00031793792681777195666.htm",
-      "time": "2026-11-04T12:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El patrullero Atalaya concluye 64 días de misión en Ceuta y el estrecho",
-      "description": "La unidad de la Armada centró sus cometidos en la verificación y supervisión del tráfico naval para asegurar la libertad de navegación en este paso estratégico",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/05/patrullero-atalaya-concluye-64-dias-mision-ceuta-estrecho/0003_202611F5C5991.htm",
-      "time": "2026-11-04T11:23:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
