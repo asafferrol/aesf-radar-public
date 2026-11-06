@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T17:12:28.831505+00:00",
-  "count": 550,
+  "generated_at": "2026-11-06T22:07:22.160134+00:00",
+  "count": 551,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,42 @@
     }
   },
   "items": [
+    {
+      "title": "El Famalicão impone su fútbol caótico a O Parrulo en el Trofeo Cidade de Ferrol (4-8)",
+      "description": "La intensidad inicial marcó una pauta de la que, pese al empate local antes del descanso, no pudieron desembarazarse los de Casas",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/06/parrulo-ferrol-famalic/00031793990527718852139.htm",
+      "time": "2026-11-06T20:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi no afloja y prolonga su racha ante el Leganés (64-66)",
+      "description": "Las de Lino López superaron al conjunto madrileño en un encuentro igualado hasta el final",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/06/baxi/00031793991071791934973.htm",
+      "time": "2026-11-06T19:44:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Evacuada una nonagenaria por un incendio en la cocina de leña de su casa, en Ortigueira",
+      "description": "La Policía Local rescató a la mujer, encamada, que ha sido trasladada al hospital por inhalación de humo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/11/06/evacuada-nonagenaria-incendio-cocina-lena-casa-ortigueira/00031793986415079133464.htm",
+      "time": "2026-11-06T17:45:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Culpable de un delito de homicidio el hombre que mató a otro con un palo de eucalipto en Mañón",
+      "description": "El Tribunal de Jurado de la Audiencia Provincial de A Coruña dictó este veredicto por unanimidad, en el juicio el acusado pidió perdón y dijo que nunca fue su intención matarlo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/manon/2026/11/06/culpable-delito-homicidio-hombre-mato-palo-eucalipto-manon/00031793985880308682510.htm",
+      "time": "2026-11-06T17:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "En busca del abuelo asesinado en Ferrol: «Toda la vida luché para darle una sepultura digna»",
       "description": "David Llamazares, su nieto de 84 años, reclamó en los juzgados el reconocimiento de José Carrascosa como víctima del franquismo; sus restos están en la fosa común de Serantes",
@@ -4947,33 +4983,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Dani Ojeda confía en el gol tras el recital de ocasiones del Racing",
-      "description": "El atacante quiere prolongar la fortaleza de A Malata frente al Logroñés",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/04/dani-ojeda-confia-gol-tras-recital-ocasiones-racing/00031793812442634937207.htm",
-      "time": "2026-11-04T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Aarón Rey presentado con el Kitchee SC de Hong Kong",
-      "description": "El exracinguista emprende el reto internacional tras salir del AC Bellinzona suizo",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/04/aaron-rey-presentado-kitchee-sc-hong-kong/00031793812672065309812.htm",
-      "time": "2026-11-04T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A por el objetivo de 5.000 personas en la Carrera Contra el Cáncer",
-      "description": "Mañana, jueves, cierran las inscripciones para la competición del domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/04/objetivo-5000-personas-carrera-contra-cancer/00031793813128758851822.htm",
-      "time": "2026-11-04T17:39:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
