@@ -1,7 +1,43 @@
 {
   "hours": 48,
-  "count": 593,
+  "count": 595,
   "items": [
+    {
+      "title": "Shirley Fernández y José Luis Martínez, los reyes del estreno del Eco Rali autonómico",
+      "description": "La viveirense se impuso en la modalidad de eléctricos y el piloto de casa hizo propio en la de híbridos en la cita que se desarrolló en As Pontes",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/07/shirley-fernandez-jose-luis-martinez-reyes-estreno-eco-rali-autonomico/00031794082642184591742.htm",
+      "time": "2026-11-07T20:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Extinguido un pequeño incendio en una vivienda de Xuvia causado por un electrodoméstico",
+      "description": "Acudieron los profesionales del SPEIS y la policía local; no hubo que lamentar heridos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/07/extinguido-pequeno-incendio-vivienda-xuvia-causada-electrodomestico/00031794080407887901806.htm",
+      "time": "2026-11-07T19:44:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las diez mejores imágenes del partido del Racing Club Ferrol frente a la UD Logroñés",
+      "description": "Los de Javi Vázquez cayeron en el alargue en una nueva sesión vermú en A Malata",
+      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/11/07/diez-mejores-imagenes-partido-racing-club-ferrol-frente-logrones/01101794080262805791212.htm",
+      "time": "2026-11-07T19:39:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Pablo Vázquez, una senda con brillo olímpico de Río Seco a Dakar",
+      "description": "El deportista del Atletismo Narón participará este lunes en la final de 2.000 metros obstáculos en los Juegos de la Juventud",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/07/pablo-vazquez-senda-brillo-olimpico-rio-seco-dakar/00031794078520722280752.htm",
+      "time": "2026-11-07T19:11:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Réquiem por los 904 asesinados del franquismo en la ría de Ferrol: «Todos llevamos una mochila de gran dolor»",
       "description": "El Memorial de Canido acoge el homenaje a las víctimas de la represión que a partir del próximo año será institucional y del Concello; el concejal José Antonio Ponte Far destacó que «os mozos aínda descoñecen un 90 % do que pasou, foi unha enorme traxedia que debe ser recordada»",
@@ -5320,24 +5356,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Concello de Ferrol sufraga chubasqueros reutilizables para los aficionados del Racing",
-      "description": "Un contrato menor de Alcaldía recoge la adquisición de 8.000 ponchos verdes serigrafiados por un importe de 16.940 euros para paliar las molestias derivadas de las obras de la cubierta",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/05/chubasqueros/00031793904879710770496.htm",
-      "time": "2026-11-05T19:26:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vehículo nuevo para el parque de bomberos de Ferrol",
-      "description": "El pleno aprueba una contribución especial para adquirir una autobomba para el servicio de extinción de incendios",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/05/vehiculo-nuevo-parque-bomberos-ferrol/00031793905073979720452.htm",
-      "time": "2026-11-05T19:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
