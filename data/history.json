@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 599,
+  "count": 598,
   "items": [
+    {
+      "title": "Capitulación in extremis del Racing Club Ferrol frente a la UD Logroñés (1-2)",
+      "description": "Val deshizo el empate en el último suspiro del encuentro y los de Javi Vázquez encadenan tres jornadas consecutivas sin ganar",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/07/racing-club-ferrol-ud-logrones/00031794045580603882199.htm",
+      "time": "2026-11-07T14:04:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol pide auxilio ante el abandono del tren: « Queremos un servizo do século XXI »",
+      "description": "A la protesta también acudieron las anpas para reclamar mejores conexiones en autobús con los centros educativos, « no IES de Trasancos había un bus que levaba un vidro roto »; los participantes recordaron a las víctimas de los últimos accidentes ferroviarios en España",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/07/ferrol-pide-auxilio-ante-abandono-trenqueremos-servizo-do-seculo-xxi/00031794054344185950981.htm",
+      "time": "2026-11-07T13:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El renacimiento del Bambú Club de Ferrol",
       "description": "Finalizada la reconversión de la antigua sala de fiestas en equipamiento social para Recimil",
@@ -5362,33 +5380,6 @@
       "description": "El Concello destinará un máximo de 197.000 euros a sufragar la comitiva en la zona urbana y la rural y el desfile de Papá Noel del día de Nochebuena",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/tres-empresas-optan-organizar-cabalgata-reyes-ferrol-debera-durar-45-minutos/00031793894369266842336.htm",
       "time": "2026-11-05T16:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los candidatos del PSOE defienden la inversión del Gobierno en la comarca de Ferrol",
-      "description": "Julián Reina, Montserrat García y Alejandro García destacaron los programas del naval",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/candidatos-psoe-defienden-inversion-gobierno-comarca-ferrol/00031793886261297421235.htm",
-      "time": "2026-11-05T13:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Detenido en Ferrol un hombre de 44 años tras llevarse varias cazadoras de un coche",
-      "description": "El supuesto ladrón rompió la ventana de un vehículo en la calle del Sol, para sustraer ropa de su interior; fue arrestado por la Policía Local",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/detenido-ferrol-hombre-44-anos-tras-llevarse-varias-cazadoras-coche/00031793881439404544678.htm",
-      "time": "2026-11-05T12:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El golpe antidroga a los Chaquetas de Ferrol se salda con doce detenidos: coca, Ferraris y engaños con cemento",
-      "description": "La operación de la Guardia Civil, Vigilancia Aduanera y Policía Nacional ya envió a ocho de ellos a la cárcel; la organización criminal engañó a un vecino de Narón que pagó 255.000 euros por 29 kilos de cemento pensando que era coca; se confirma que uno de los detenidos era agente de las fuerzas de seguridad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/05/golpe-antidroga-chaquetas-ferrol-salda-doce-detenidos-coca-ferraris-enganos-cemento/00031793871189306914324.htm",
-      "time": "2026-11-05T09:59:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
