@@ -1,5 +1,41 @@
 [
   {
+    "title": "Un Racing de notable, pero con asignaturas pendientes",
+    "description": "La falta de gol y la necesidad de refuerzos son las claves para aspirar al ascenso",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/08/racing-notable-asignaturas-pendientes/00031794160538555286140.htm",
+    "time": "2026-11-08T17:59:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Racing sale del «playoff», pero sus jugadores mantienen la confianza",
+    "description": "Eto'o pide el apoyo de la afición y Bernal apela a la unión del vestuario",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/08/racing/00031794159628876197365.htm",
+    "time": "2026-11-08T17:54:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un tsunami verde recorre Ferrol para contribuir a la lucha contra el cáncer",
+    "description": "La carrera de la AECC batió su récord de participación con 5.600 inscritos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/08/tsunami-verde-recorre-ferrol-contribuir-lucha-contra-cancer/00031794159297461748687.htm",
+    "time": "2026-11-08T17:49:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Búscate en la Carrera Contra el Cáncer de Ferrol, con 5.600 participantes",
+    "description": "El tsunami verte tiñó el centro de la ciudad",
+    "url": "https://www.lavozdegalicia.es/album/ferrol/2026/11/08/buscate-carrera-contra-cancer-ferrol-5600-participantes/01101794157599525436655.htm",
+    "time": "2026-11-08T17:49:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Ilesa la conductora de un coche que volcó al salir de la AP-9 en Fene",
     "description": "La joven salió por su propio pie del vehículo, que se fue contra la cuneta",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/11/08/ilesa-conductora-coche-volco-salir-ap-9-fene/00031794131490306249784.htm",
@@ -9,9 +45,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "En el «lujo» de la nueva residencia pública de mayores de Ferrol",
-    "description": "Las instalaciones de O Bertón albergan ya a 43 mayores y se llenarán en enero",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/lujo-nueva-residencia/0003_202611F8C1991.htm",
+    "title": "Nostalgia por la estación de bus de Ferrol: «Recuerdo tomar los sándwiches en la cafetería cuando estaban de moda»",
+    "description": "Los vecinos recuerdan la época en la que había servicios y personal en la terminal de autobuses",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/recuerdo-tomar-sandwiches-cafeteria-moda/0003_202611F8C3991.htm",
     "time": "2026-11-08T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -45,24 +81,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "San Sadurniño retira a placa franquista do lavadoiro do Chao de Lamas",
-    "description": "O Concello cumpre así coa Lei de memoria democrática, dentro do proxecto «Enterrar o espírito da guerra e os discursos de odio»",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/11/08/span-langglsan-sadurnino-retira-placa-franquista-do-lavadoiro-do-chao-lamasspan/0003_202611F8C9992.htm",
-    "time": "2026-11-08T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Manuel Pereira, médico de familia jubilado: «Hay que escuchar al paciente, darle un abrazo, tratarlo con empatía»",
-    "description": "Nació en Becerreá y desarrolló casi toda su carrera profesional en Pontedeume, donde ha sido nombrado Hijo Predilecto",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/08/volver-poner-paciente-centro-nuevas-tecnologias/0003_202611F8C9991.htm",
-    "time": "2026-11-08T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "La fábrica de MG ocupará más de la mitad del puerto exterior de Ferrol",
     "description": "El complejo del gigante automovilístico SAIC requerirá 426.000 de los 626.000 metros de Caneliñas, forzando un profundo reajuste de concesiones",
     "url": "https://www.lavozdegalicia.es/noticia/economia/2026/11/08/fabrica-mg-ocupara-mitad-puerto-exterior-ferrol/0003_202611G8P30991.htm",
@@ -81,9 +99,18 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Nostalgia por la estación de bus de Ferrol: «Recuerdo tomar los sándwiches en la cafetería cuando estaban de moda»",
-    "description": "Los vecinos recuerdan la época en la que había servicios y personal en la terminal de autobuses",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/recuerdo-tomar-sandwiches-cafeteria-moda/0003_202611F8C3991.htm",
+    "title": "En el «lujo» de la nueva residencia pública de mayores de Ferrol",
+    "description": "Las instalaciones de O Bertón albergan ya a 43 mayores y se llenarán en enero",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/lujo-nueva-residencia/0003_202611F8C1991.htm",
+    "time": "2026-11-08T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Manuel Pereira, médico de familia jubilado: «Hay que escuchar al paciente, darle un abrazo, tratarlo con empatía»",
+    "description": "Nació en Becerreá y desarrolló casi toda su carrera profesional en Pontedeume, donde ha sido nombrado Hijo Predilecto",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/08/volver-poner-paciente-centro-nuevas-tecnologias/0003_202611F8C9991.htm",
     "time": "2026-11-08T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -135,24 +162,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Las diez mejores imágenes del partido del Racing Club Ferrol frente a la UD Logroñés",
-    "description": "Los de Javi Vázquez cayeron en el alargue en una nueva sesión vermú en A Malata",
-    "url": "https://www.lavozdegalicia.es/album/oparacing/2026/11/07/diez-mejores-imagenes-partido-racing-club-ferrol-frente-logrones/01101794080262805791212.htm",
-    "time": "2026-11-07T19:39:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Pablo Vázquez, una senda con brillo olímpico de Río Seco a Dakar",
-    "description": "El deportista del Atletismo Narón participará este lunes en la final de 2.000 metros obstáculos en los Juegos de la Juventud",
-    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/07/pablo-vazquez-senda-brillo-olimpico-rio-seco-dakar/00031794078520722280752.htm",
-    "time": "2026-11-07T19:11:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Réquiem por los 904 asesinados del franquismo en la ría de Ferrol: «Todos llevamos una mochila de gran dolor»",
     "description": "El Memorial de Canido acoge el homenaje a las víctimas de la represión que a partir del próximo año será institucional y del Concello; el concejal José Antonio Ponte Far destacó que «os mozos aínda descoñecen un 90 % do que pasou, foi unha enorme traxedia que debe ser recordada»",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/07/requiem-904-asesinados-franquismo-ria-ferrol-llevamos-mochila-gran-dolor/00031794070800158993377.htm",
@@ -166,15 +175,6 @@
     "description": "El técnico racinguista lamenta que los errores se paguen demasiado caro y apela a la estabilidad para superar el bache",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/07/javi-hemos-estado-nivel-queremos-/00031794074059300806425.htm",
     "time": "2026-11-07T17:56:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El «1x1» de la derrota del Racing Club Ferrol contra la UD Logroñés",
-    "description": "El conjunto visitante consiguió el 1-2 en el minuto 94",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/07/1x1-racing-club-ferrol-ud-logrones/00031794054293214844641.htm",
-    "time": "2026-11-07T15:42:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -265,15 +265,6 @@
     "description": "La parroquia de Valdoviño dispondrá de una carpa por si llueve",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/11/07/vilarrube-honra-san-martino-satelites/0003_202611F7C9993.htm",
     "time": "2026-11-07T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Baxi no afloja y prolonga su racha ante el Leganés (64-66)",
-    "description": "Las de Lino López superaron al conjunto madrileño en un encuentro igualado hasta el final",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/06/baxi/00031793991071791934973.htm",
-    "time": "2026-11-06T19:44:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
