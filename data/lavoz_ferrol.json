@@ -1,5 +1,14 @@
 [
   {
+    "title": "Ilesa la conductora de un coche que volcó al salir de la AP-9 en Fene",
+    "description": "La joven salió por su propio pie del vehículo, que se fue contra la cuneta",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/11/08/ilesa-conductora-coche-volco-salir-ap-9-fene/00031794131490306249784.htm",
+    "time": "2026-11-08T10:07:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "En el «lujo» de la nueva residencia pública de mayores de Ferrol",
     "description": "Las instalaciones de O Bertón albergan ya a 43 mayores y se llenarán en enero",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/lujo-nueva-residencia/0003_202611F8C1991.htm",
@@ -65,7 +74,7 @@
   {
     "title": "El cura de la prisión de Teixeiro: «Tuve una misa en la cárcel con 75 presos, ojalá fuese así en mis parroquias»",
     "description": "El capellán José González acaba de hacer el Camino de Santiago con diez presos en un ambiente en el que «nadie vigila a nadie»",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/misa-carcel-75-presos-ojala-parroquias/0003_202611H8C10991.htm",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/11/08/misa-carcel-75-presos-ojala-parroquias/0003_202611H8C10991.htm",
     "time": "2026-11-08T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -75,15 +84,6 @@
     "title": "Nostalgia por la estación de bus de Ferrol: «Recuerdo tomar los sándwiches en la cafetería cuando estaban de moda»",
     "description": "Los vecinos recuerdan la época en la que había servicios y personal en la terminal de autobuses",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/recuerdo-tomar-sandwiches-cafeteria-moda/0003_202611F8C3991.htm",
-    "time": "2026-11-08T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "En busca de setas por la comarca: «Este ano estamos collendo boletus e níscalos»",
-    "description": "El presidente de la Asociación Micolóxica Viriato, Manolo Costas, nos explica cómo se recolecta desde el pinar de Cabanas",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/11/08/busca-setas-comarca-collendo-boletus-niscalos/0003_202611F8C5991.htm",
     "time": "2026-11-08T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -111,6 +111,15 @@
     "title": "O Comité de Empresa de Navantia mostra o seu apoio á Foga Xeral",
     "description": "Fai un chamamento ao conxunto dos traballadores a secundala",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/span-langgl-comite-empresa-navantia-mostra-seu-apoio-a-foga-xeralspan/0003_202611F8C10993.htm",
+    "time": "2026-11-08T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "En busca de setas por la comarca: «Este ano estamos collendo boletus e níscalos»",
+    "description": "El presidente de la Asociación Micolóxica Viriato, Manolo Costas, nos explica cómo se recolecta desde el pinar de Cabanas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/11/08/busca-setas-comarca-collendo-boletus-niscalos/0003_202611F8C5991.htm",
     "time": "2026-11-08T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -216,27 +225,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Concello de As Pontes, Industria y Endesa se reúnen para la planificación del suelo",
-    "description": "Analizan el posible aprovechamiento de los espacios próximos a la central",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/07/concello-as-pontes-industria-defensa-reunen-planificacion-suelo/0003_202611F7C8_COPY994.htm",
-    "time": "2026-11-07T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Pontedeume, convertida estes días en Vila das Lendas, réndese á literatura e á tradición oral",
     "description": "Carmen Blanco, Xosé Fonte Sardiña, Francisco Castro e Pedro Feijoo, entre os participantes",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/07/span-langglpontedeume-convertida-estes-dias-vila-das-lendas-rendese-spanspan-langgla-literaturaspan/0003_202611F7C9992.htm",
-    "time": "2026-11-07T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Vilarrube honra a San Martiño con dos días de fiesta y la actuación de Los Satélites",
-    "description": "La parroquia de Valdoviño dispondrá de una carpa por si llueve",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/11/07/vilarrube-honra-san-martino-satelites/0003_202611F7C9993.htm",
     "time": "2026-11-07T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -255,6 +246,24 @@
     "title": "El renacimiento del Bambú Club de Ferrol",
     "description": "Finalizada la reconversión de la antigua sala de fiestas en equipamiento social para Recimil",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/07/renacimiento-bambu-club/0003_202611F7C1991.htm",
+    "time": "2026-11-07T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Ánxela Loureiro, escritora: «Todo o mundo debería cantar e bailar, para ter menos estrés nas nosas vidas»",
+    "description": "A coñecida autora de Ferrol lanza tres libros en tan só dous meses",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/07/mundo-deberia-cantar-bailar-ter-estres-nas-nosas-vidas/0003_202611F7C5_COPY993.htm",
+    "time": "2026-11-07T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Vilarrube honra a San Martiño con dos días de fiesta y la actuación de Los Satélites",
+    "description": "La parroquia de Valdoviño dispondrá de una carpa por si llueve",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/11/07/vilarrube-honra-san-martino-satelites/0003_202611F7C9993.htm",
     "time": "2026-11-07T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -297,6 +306,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "La caída del clan de Los Chaquetas: perdición por los Ferraris y un agente encarcelado",
+    "description": "La organización criminal llegó a timar a un vecino de Narón al que le entregaron 30 kilos de supuesta coca y al final 29 eran de cemento; doce detenidos con guarderías de droga y armas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/06/caida-clan-chaquetas/0003_202611F6C1_COPY997.htm",
+    "time": "2026-11-06T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Recuperar el respeto",
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/02/recuperar-respeto/0003_202611F2C8993.htm",
@@ -333,15 +351,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Ferrol lidera la representación gallega en el encuentro nacional de campus periféricos",
-    "description": "La cita, que reúne a 19 universidades, se desarrolla en Melilla",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/29/ferrol-lidera-representacion-gallega-encuentro-nacional-campus-perifericos/0003_202610F29C4991.htm",
-    "time": "2026-10-28T15:42:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Por la concordia",
     "description": "",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/10/26/concordia/0003_202610F26C8992.htm",
@@ -373,15 +382,6 @@
     "description": "La exposición «La inteligencia del trazo» está compuesta por 135 trabajos y puede visitarse hasta el 16 de enero de forma gratuita en la sede de Afundación",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/09/29/centenar-dibujos-mingote-desembarcan-ferrol/00031790695460093251771.htm",
     "time": "2026-09-30T03:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "A la búsqueda de figurantes para el rodaje de una película en Ares",
-    "description": "Pueden optar hombres y mujeres mayores de edad; las grabaciones se llevarán a cabo entre octubre y diciembre",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/09/28/ala-busqueda-figurantes-rodaje-pelicula-ares/0003_202609F28C2992.htm",
-    "time": "2026-09-27T14:24:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

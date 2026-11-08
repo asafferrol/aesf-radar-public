@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 356,
+  "count": 354,
   "items": [
+    {
+      "title": "Ilesa la conductora de un coche que volcó al salir de la AP-9 en Fene",
+      "description": "La joven salió por su propio pie del vehículo, que se fue contra la cuneta",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/11/08/ilesa-conductora-coche-volco-salir-ap-9-fene/00031794131490306249784.htm",
+      "time": "2026-11-08T10:07:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "En el «lujo» de la nueva residencia pública de mayores de Ferrol",
       "description": "Las instalaciones de O Bertón albergan ya a 43 mayores y se llenarán en enero",
@@ -114,6 +123,15 @@
       "title": "O Comité de Empresa de Navantia mostra o seu apoio á Foga Xeral",
       "description": "Fai un chamamento ao conxunto dos traballadores a secundala",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/08/span-langgl-comite-empresa-navantia-mostra-seu-apoio-a-foga-xeralspan/0003_202611F8C10993.htm",
+      "time": "2026-11-08T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El cura de la prisión de Teixeiro: «Tuve una misa en la cárcel con 75 presos, ojalá fuese así en mis parroquias»",
+      "description": "El capellán José González acaba de hacer el Camino de Santiago con diez presos en un ambiente en el que «nadie vigila a nadie»",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/11/08/misa-carcel-75-presos-ojala-parroquias/0003_202611H8C10991.htm",
       "time": "2026-11-08T04:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -3166,42 +3184,6 @@
       "description": "La primera prueba de este ecorali autonómico pionero en el territorio nacional se desarrollará este sábado con once equipos participantes",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/06/as-pontes-estrena-campionato-xunta-galicia-enerxias-alternativas/00031793977370580586988.htm",
       "time": "2026-11-06T15:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El pacense Manuel García arbitrará el Racing-UD Logroñés",
-      "description": "Los ferrolanos, con dos antecedentes, no saben lo que es perder con este colegiado",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/06/pacense-manuel-garcia-arbitrara-racing-ud-logrones/00031793967564738584344.htm",
-      "time": "2026-11-06T12:22:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Agustín, Nené, padrino",
-      "description": "",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/07/agustin-nene-padrino/0003_202611F7C4991.htm",
-      "time": "2026-11-06T11:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El BNG afea al gobierno local la compra de 8.000 chubasqueros para el Racing Club Ferrol",
-      "description": "Los nacionalistas critican el desembolso de 16.940 euros en estas prendas, que se repartirán en el partido de este sábado para paliar las molestias que se puedan derivar de las obras de A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/06/bng-afea-gobierno-local-compra-8000-chubasqueros-racing/00031793964600194921606.htm",
-      "time": "2026-11-06T11:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La junta electoral apercibe al Concello de Ferrol por la presentación del proyecto del Sánchez Aguilera y de los avances de Abrir Ferrol al mar",
-      "description": "Considera que vulneró la Loreg y obliga a retirar las publicaciones realizadas en la web municipal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/06/junta-electoral-apercibe-alcalde-ferrol-presentacion-proyecto-sanchez-aguilera-avances-abrir-ferrol-mar/00031793961535645189562.htm",
-      "time": "2026-11-06T11:03:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
