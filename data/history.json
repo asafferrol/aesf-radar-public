@@ -1,7 +1,16 @@
 {
   "hours": 48,
-  "count": 351,
+  "count": 350,
   "items": [
+    {
+      "title": "Excarcelan al conductor de un vehículo que volcó en Cerdido",
+      "description": "El conductor fue trasladado herido a un centro hospitalario",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/11/08/excarcelan-conductor-vehiculo-volco-cerdido/00031794174392846597469.htm",
+      "time": "2026-11-08T21:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un Racing de notable, pero con asignaturas pendientes",
       "description": "La falta de gol y la necesidad de refuerzos son las claves para aspirar al ascenso",
@@ -3142,24 +3151,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "El Famalicão impone su fútbol caótico a O Parrulo en el Trofeo Cidade de Ferrol (4-8)",
-      "description": "La intensidad inicial marcó una pauta de la que, pese al empate local antes del descanso, no pudieron desembarazarse los de Casas",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/06/parrulo-ferrol-famalic/00031793990527718852139.htm",
-      "time": "2026-11-06T20:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi no afloja y prolonga su racha ante el Leganés (64-66)",
-      "description": "Las de Lino López superaron al conjunto madrileño en un encuentro igualado hasta el final",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/06/baxi/00031793991071791934973.htm",
-      "time": "2026-11-06T19:44:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
