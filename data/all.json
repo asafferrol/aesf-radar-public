@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T10:47:41.146822+00:00",
-  "count": 554,
+  "generated_at": "2026-11-10T18:18:18.525203+00:00",
+  "count": 557,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 48,
+      "count": 47,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,69 @@
     }
   },
   "items": [
+    {
+      "title": "Estas serán las manifestaciones de la huelga general del 11N en Ferrol y As Pontes",
+      "description": "En la ciudad naval se han covocado dos protestas, con media hora de diferencia, en la mañana de este miércoles",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/seran-manifestaciones-huelga-general-11n-ferrol-as-pontes/00031794328893114919352.htm",
+      "time": "2026-11-10T17:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing de Ferrol busca frenar la brecha de la Primera RFEF",
+      "description": "El Lugo, primer clasificado, se escapa con once puntos de ventaja sobre el conjunto departamental",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/10/racing/00031794326448698905791.htm",
+      "time": "2026-11-10T16:28:02+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Prisión para el hombre que le cortó el cuello y una oreja al cliente de un bar de Ferrol",
+      "description": "El atacante utilizó un botellín roto como arma, la magistrada de guardia adopta esta medida debido al riesgo de fuga y de reiteración",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/prision-hombre-corto-cuello-oreja-cliente-bar-ferrol/00031794322517833394903.htm",
+      "time": "2026-11-10T15:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El racinguismo prepara sus viajes a Lezama y O Couto",
+      "description": "Las entradas para visitar al Bilbao Athletic y a la UD Ourense cuestan 15 euros",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/10/venta-entradas-desplazamiento-lezama/00031794314655160950782.htm",
+      "time": "2026-11-10T12:46:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Valdoviño adelanta la Navidad con una campaña en 54 establecimientos locales",
+      "description": "Se sortearán diez cheques regalo por valor de cien euros cada uno",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/valdovino-adelanta-navidad-campana-54-establecimientos-locales/00031794311623825367656.htm",
+      "time": "2026-11-10T12:07:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Adiós a Simón Cabarcos, mítico del fútbol gallego y artesano que fabricó las espinilleras de estrellas como Messi, Luis Suárez o Griezmann",
+      "description": "El pontés, que fue guardameta de equipos como el CD As Pontes, Narón Balompé y Bergantiños; y también fue conocido en el fútbol mundial por la fabricación de las protecciones, falleció este martes a los 47 años",
+      "url": "https://www.lavozdegalicia.es/noticia/obituarios/2026/11/10/adios-simon-cabarcos-sonrisa-perenne-cuido-suyos-dentro-fuera-campobr-/00031794307770301259487.htm",
+      "time": "2026-11-10T11:59:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Portos finaliza la obras de dragado en Barallobre y en primavera iniciará las de Miño y Pontedeume",
+      "description": "La actuación acabó con el problema de calado por la sedimentación acumulada desde la construcción de los pantalanes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/10/portos-finaliza-obras-dragado-barallobre-primavera-iniciara-mino-pontedeume/00031794311503805404269.htm",
+      "time": "2026-11-10T11:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Segundo apercibimiento al Concello de Ferrol por incumplimiento de la ley electoral",
       "description": "La junta electoral de zona requiere al Ayuntamiento que retire de la web municipal anuncios realizados y advierte de abrir un proceso sancionador en caso de reincidencia",
@@ -4971,42 +5034,6 @@
       "description": "El conductor fue trasladado herido a un centro hospitalario",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/cerdido/2026/11/08/excarcelan-conductor-vehiculo-volco-cerdido/00031794174392846597469.htm",
       "time": "2026-11-08T21:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un Racing de notable, pero con asignaturas pendientes",
-      "description": "La falta de gol y la necesidad de refuerzos son las claves para aspirar al ascenso",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/08/racing-notable-asignaturas-pendientes/00031794160538555286140.htm",
-      "time": "2026-11-08T17:59:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing sale del «playoff», pero sus jugadores mantienen la confianza",
-      "description": "Eto'o pide el apoyo de la afición y Bernal apela a la unión del vestuario",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/08/racing/00031794159628876197365.htm",
-      "time": "2026-11-08T17:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un tsunami verde recorre Ferrol para contribuir a la lucha contra el cáncer",
-      "description": "La carrera de la AECC batió su récord de participación con 5.600 inscritos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/08/tsunami-verde-recorre-ferrol-contribuir-lucha-contra-cancer/00031794159297461748687.htm",
-      "time": "2026-11-08T17:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Búscate en la Carrera Contra el Cáncer de Ferrol, con 5.600 participantes",
-      "description": "El tsunami verte tiñó el centro de la ciudad",
-      "url": "https://www.lavozdegalicia.es/album/ferrol/2026/11/08/buscate-carrera-contra-cancer-ferrol-5600-participantes/01101794157599525436655.htm",
-      "time": "2026-11-08T17:49:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
