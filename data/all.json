@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T20:43:45.848480+00:00",
-  "count": 242,
+  "generated_at": "2026-11-10T02:56:49.048997+00:00",
+  "count": 296,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -9,7 +9,7 @@
     },
     "dog": {
       "ok": true,
-      "count": 46,
+      "count": 54,
       "name": "DOG · Xunta de Galicia"
     },
     "boe": {
@@ -25,6 +25,492 @@
     }
   },
   "items": [
+    {
+      "title": "DECRETO 130/2026, de 9 de noviembre, por el que se dispone que cese María José Echevarría Moreno como directora general de Calidad Ambiental y Sostenibilidad.",
+      "description": "a) Ceses Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0760-091126-0005_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 131/2026, de 9 de noviembre, por el que se dispone que cese María de los Ángeles Vázquez Suárez como directora general de Desarrollo Pesquero.",
+      "description": "a) Ceses Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0427-091126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 132/2026, de 9 de noviembre, por el que se nombra directora general de Calidad Ambiental y Sostenibilidad a Margarita Segade Castro.",
+      "description": "b) Nombramientos Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0760-091126-0006_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 133/2026, de 9 de noviembre, por el que se nombra directora general de Pesca, Acuicultura e Innovación Tecnológica a María de los Ángeles Vázquez Suárez.",
+      "description": "b) Nombramientos Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0427-091126-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 134/2026, de 9 de noviembre, por el que se nombra director general de Desarrollo Pesquero a José David Gómez Brandariz.",
+      "description": "b) Nombramientos Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0427-091126-0003_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 135/2026, de 9 de noviembre, por el que se encarga el despacho de los asuntos de la Presidencia, durante la ausencia de su titular, al conselleiro de Presidencia, Justicia y Deportes.",
+      "description": "c) Sustituciones Presidencia de la Xunta de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioC3B0-091126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 136/2026, de 26 de octubre, por el que se aprueba el cambio de titularidad a favor del Ayuntamiento de As Somozas del tramo antiguo que conecta con la carretera AC-110 en el punto kilométrico 15+130 y en el punto kilométrico 15+200, margen izquierdo, junto con su dominio público viario.",
+      "description": "III. Otras disposiciones Consellería de Vivienda y Planificación de Infraestructuras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0765-031126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 6 de noviembre de 2026 por la que se determinan los servicios mínimos, en el ámbito de la asistencia sanitaria, durante la huelga general de ámbito nacional convocada para el día 11 de noviembre de 2026.",
+      "description": "III. Otras disposiciones Consellería de Sanidad",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioC3K1-061126-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 26 de octubre de 2026 por la que se fija el precio privado para la venta al público de una publicación.",
+      "description": "III. Otras disposiciones Consellería de Cultura, Lengua y Juventud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0766-031126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 27 de octubre de 2026 por la que se fijan los precios privados para la venta al público de diversas publicaciones.",
+      "description": "III. Otras disposiciones Consellería de Cultura, Lengua y Juventud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0766-041126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 4 de noviembre de 2026, de la Dirección General de Formación y Cualificación para el Empleo, por la que se da publicidad de las ayudas concedidas al amparo de la Orden de 9 de marzo de 2026 por la que se establecen las bases reguladoras de las ayudas y subvenciones para la realización de programas de formación-empleo Talento joven para personas jóvenes incluidas en el fichero del Sistema nacional de garantía juvenil en el ámbito de la Comunidad Autónoma de Galicia, cofinanciadas por la Unión Europea en el marco del programa FSE+ Galicia 2021-2027, y se procede a su convocatoria para los años 2026 y 2027 (código de procedimiento TR353B) (Diario Oficial de Galicia número 58, de 27 de marzo de 2026).",
+      "description": "III. Otras disposiciones Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0767-051126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 6 de noviembre de 2026 por la que se activa la situación de alerta o escasez severa en la unidad territorial de escasez 01-Río Verdugo, Ría de Vigo y Ría de Baiona, en la unidad territorial de escasez 02-Costa de Pontevedra, en la unidad territorial de escasez 11-Río Mero, Arteixo y Ría de A Coruña, y en la unidad territorial de escasez 14-Ferrol.",
+      "description": "III. Otras disposiciones Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioO143-061126-0004_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Dirección General de Administración Local, por la que se publican los listados de personas que se incorporan en las bolsas autonómicas gallegas existentes para la provisión temporal, mediante interinidad, de puestos de trabajo reservados a personal funcionario de la Administración local con habilitación de carácter nacional de las entidades locales gallegas, en virtud de lo dispuesto en la Orden TFP/297/2019, de 7 de marzo, del entonces denominado Ministerio de Política Territorial y Función Pública.",
+      "description": "IV. Oposiciones y concursos Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0759-021126-0007_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 30 de octubre de 2026 por la que se convoca la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto PS.C01.00.000.15770.004).",
+      "description": "IV. Oposiciones y concursos Consellería de Política Social e Igualdad",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0762-021126-0007_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 4 de noviembre de 2026 por la que se anuncia la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en la entidad pública empresarial Augas de Galicia (código del puesto IV.E10.00.000.15770.005).",
+      "description": "IV. Oposiciones y concursos Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0760-041126-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 22 de octubre de 2026 por la que se anuncia la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto FC.C04.00.002.15770.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0597-021126-0003_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 22 de octubre de 2026 por la que se anuncia la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto FC.C04.00.004.15770.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0597-021126-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 28 de octubre de 2026 por la que se anuncia la convocatoria pública para la provisión de un puesto de personal directivo en el Área Sanitaria de Vigo.",
+      "description": "IV. Oposiciones y concursos Consellería de Sanidad",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioC3K1-031126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 29 de octubre de 2026 por la que se resuelve la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería convocado mediante la Orden de 22 de septiembre de 2026 (codigo del puesto EM.601.00.001.15770.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0767-021126-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 29 de octubre de 2026 por la que se anuncia la convocatoria para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto PX.301.00.000.15770.002).",
+      "description": "IV. Oposiciones y concursos Consellería de Empleo, Comercio y Emigración",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0767-021126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 2 de noviembre de 2026 por la que se hacen públicos el lugar, la fecha y la hora de realización del primer ejercicio de la fase de oposición del proceso selectivo para el ingreso, por el turno de acceso libre, en el grupo I, categoría titulado/a superior, convocado por la Resolución de 15 de septiembre de 2026.",
+      "description": "IV. Oposiciones y concursos Agencia para la Calidad del Sistema Universitario de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioO601-021126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 2 de noviembre de 2026 por el que se da publicidad a la resolución de la misma fecha por la que se convoca un concurso público de una plaza de profesorado permanente laboral.",
+      "description": "IV. Oposiciones y concursos Universidad de A Coruña",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG2017-021126-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ACUERDO de 16 de octubre de 2026, del Departamento Territorial de Lugo, por el que se somete a información pública la solicitud de otorgamiento de la autorización administrativa previa y de construcción y de declaración de utilidad pública, en concreto, de una instalación de distribución de energía eléctrica en el ayuntamiento de Monterroso (expediente IN407A 2026/065-2).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-201026-0004_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 3 de septiembre de 2026, del Departamento Territorial de Pontevedra, por la que se conceden las autorizaciones administrativas previa y de construcción de una instalación eléctrica en el ayuntamiento de Ponte Caldelas (expediente IN407A 2026/045-4).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-210926-0006_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 16 de octubre de 2026, del Departamento Territorial de A Coruña, por la que se concede la autorización administrativa previa y de construcción de una instalación de distribución eléctrica en el ayuntamiento de Touro (expediente IN407A 2026/208-1).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-201026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 19 de octubre de 2026, del Departamento Territorial de Pontevedra, por la que se concede la autorización administrativa de cierre de una instalación eléctrica en el ayuntamiento de Vigo (expediente IN407A 2026/132-4).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-201026-0012_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 19 de octubre de 2026, del Departamento Territorial de Pontevedra, por la que se conceden las autorizaciones administrativas previa y de construcción de una instalación eléctrica en el ayuntamiento de O Porriño (expediente IN407A 2026/150-4).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-201026-0011_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 19 de octubre de 2026, del Departamento Territorial de Pontevedra, por la que se conceden las autorizaciones administrativas previa y de construcción de una instalación eléctrica en el ayuntamiento de Mos (expediente IN407A 2026/155-4).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-201026-0009_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 3 de noviembre de 2026, del Departamento Territorial de A Coruña, por la que se concede la autorización administrativa previa y de construcción de una instalación de distribución eléctrica en el ayuntamiento de Cerceda (expediente IN407A 2026/132-1).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-041126-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 26 de octubre de 2026, del Departamento Territorial de Ourense, por el que se convoca a los interesados al acto de levantamiento de las actas de pago del justiprecio de las fincas afectadas por un proyecto de instalación eléctrica situada en el ayuntamiento de Esgos (expediente IN407A 2024/107-3).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-271026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 26 de octubre de 2026, del Departamento Territorial de A Coruña, de comunicación de la fecha de pago de los justiprecios e intereses en el expediente de expropiación IN407A 2022/078-1, en el ayuntamiento de Sada.",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-261026-0013_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 26 de octubre de 2026, del Departamento Territorial de A Coruña, de comunicación de la fecha de pago de los justiprecios e intereses en el expediente de expropiación IN407A 2022/165-1, en el ayuntamiento de Outes.",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0763-261026-0012_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 26 de octubre de 2026, del Servicio de Coordinación de Energías Renovables, por el que se emplaza a las personas interesadas para ser notificadas por comparecencia en el expediente del proyecto Parque eólico Monte Redondo (expediente IN408A 2020/029).",
+      "description": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0760-271026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 3 de noviembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto para la ampliación de una explotación de vacuno de leche en el lugar de Santa Mariña, en la parroquia de As Maroñas, en el ayuntamiento de Mazaricos (A Coruña) (expediente 2025/0170).",
+      "description": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0760-031126-0003_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 23 de octubre de 2026, del Departamento Territorial de Pontevedra, por el que se emplaza a la persona interesada para ser notificada por comparecencia en el expediente sancionador número INC-PO-0047/2026‑IUL.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0426-261026-0008_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 3 de noviembre de 2026 por la que se autoriza la transmisión mortis causa de la concesión administrativa de la batea Fero.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0427-051126-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 16 de octubre de 2026, del Departamento Territorial de Vigo, por el que se hace pública la transmisión de la titularidad del parque de cultivos marinos número 133.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0427-201026-0005_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 16 de octubre de 2026, del Departamento Territorial de Vigo, por el que se hace pública la transmisión de la titularidad del parque de cultivos marinos número 356.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0427-201026-0003_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 26 de octubre de 2026, del Departamento Territorial de A Coruña, por el que se notifica la resolución del expediente PSC-FE-0001/2026-PPM y ocho más.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0427-261026-0004_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 17 de septiembre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Centro, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de Outes (expediente DH.A15.104215).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioO143-180926-0003_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 14 de octubre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de Pontevedra (expediente DH.A36.114063).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioO143-141026-0013_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 26 de octubre de 2026, del Servicio de Tramitación de Autorizaciones y Concesiones, por el que se somete a información pública el expediente de extinción por el vencimiento del plazo de concesiones de aguas (expediente DH.A15.20803).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioO143-271026-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 28 de octubre de 2026, del Servicio de Tramitación de Autorizaciones y Concesiones, por el que se notifican los oficios de citación de visitas de reconocimiento sobre el terreno de expedientes de extinción de concesiones de aguas (expediente DH.A15.22127 y diecisiete más).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioO143-291026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 28 de octubre de 2026 por el que se somete al trámite de información pública el proyecto de construcción Fomento de la movilidad sostenible. Itinerario peatonal y ciclista en la PO-552. Tramos Carregal-área de descanso y Currás-O Torrón, de clave PO/26/036.06, así como la relación individual de bienes, derechos y propietarios afectados por el proyecto. Actuación susceptible de ser cofinanciada por la Unión Europea a través del Fondo Europeo de Desarrollo Regional (Feder) en el marco del programa Galicia Feder 2021-2027.",
+      "description": "a) Administración autonómica Agencia Gallega de Infraestructuras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0181-291026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CÉDULA de 30 de octubre de 2026 por la que se notifica el acuerdo de inicio del procedimiento para la declaración de abandono de la embarcación Paxaro, depositada en la rampa de varada del puerto de As Corvaceiras (Pontevedra).",
+      "description": "a) Administración autonómica Puertos de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioC141-301026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 20 de octubre de 2026, de la Secretaría General de la Universidad de Santiago de Compostela, de extravío del Gran Diploma de Gestión y Dirección de Empresas Hosteleras.",
+      "description": "a) Administración autonómica Universidad de Santiago de Compostela",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG2018-201026-0003_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 20 de octubre de 2026, de la Secretaría General de la Universidad de Santiago de Compostela, de extravío de un diploma de Gestión de Empresas Hosteleras.",
+      "description": "a) Administración autonómica Universidad de Santiago de Compostela",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG2018-201026-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de gestión de la biomasa en las parcelas sitas en el suelo de núcleo rural de Vilouxe y Cimadevila (expediente 1535/2026).",
+      "description": "b) Administración local Ayuntamiento de Nogueira de Ramuín",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioL352-201026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación infructuosa relativa a la gestión de biomasa.",
+      "description": "b) Administración local Ayuntamiento de Nogueira de Ramuín",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioL352-201026-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación del requerimiento de gestión de la biomasa (expediente 2025032396).",
+      "description": "b) Administración local Ayuntamiento de Ourense",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioL354-211026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación del requerimiento de gestión de la biomasa (expediente 2026045092).",
+      "description": "b) Administración local Ayuntamiento de Ourense",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioL354-271026-0001_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 28 de septiembre de 2026, de la Gerencia Municipal de Urbanismo, sobre el recurso contencioso-administrativo PO 4430/2025.",
+      "description": "b) Administración local Ayuntamiento de Vigo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioL257-201026-0002_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 15 de octubre de 2026, de la Gerencia Municipal de Urbanismo, de trámite de información pública del convenio urbanístico de ejecución de planeamiento, zona 1, plaza de España, sobre las parcelas situadas entre la avenida Gran Vía, la calle Honduras, la calle Caracas y la calle Fernando Conde (expediente 5371/401).",
+      "description": "b) Administración local Ayuntamiento de Vigo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioL257-201026-0003_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de la convocatoria de la asamblea general ordinaria.",
+      "description": "c) Otros anuncios Comunidade de Usuarios de Canudo-Redondela",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261110/AnuncioG0803-211026-1_es.html",
+      "time": "2026-11-09T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
     {
       "title": "La Mancomunidad de Ferrol corta el grifo: restricciones en el uso del agua, menos presión y reparación de la fuga de As Pías",
       "description": "En el pleno celebrado este lunes se acordó implantar medidas ante la caída del nivel del embalse de As Forcadas al 26,15 %",
