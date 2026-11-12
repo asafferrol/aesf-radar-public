@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-12T07:13:49.558594+00:00",
-  "count": 529,
+  "generated_at": "2026-11-12T15:59:17.422909+00:00",
+  "count": 528,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 47,
+      "count": 48,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,87 @@
     }
   },
   "items": [
+    {
+      "title": "La Xunta y la UDC firman el convenio para construir el nuevo centro de investigación EI3 del Campus de Ferrol",
+      "description": "El conselleiro de Educación, Román Rodríguez, y el rector de la Universidade da Coruña, Ricardo Cao, firmaron este jueves los acuerdos para financiar los trabajos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/12/xunta-udc-firman-convenio-construir-nuevo-centro-investigacion-ei3-campus-ferrol/00031794485194797963724.htm",
+      "time": "2026-11-12T15:42:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Levitaciones, desapariciones y un viaje a la fantasía: Magic Mateo arranca su nueva gira en Ortigueira",
+      "description": "Será este sábado en el Teatro de Beneficencia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/12/levitaciones-desapariciones-viaje-fantasia-magic-mateo-arranca-nueva-gira-ortigueira/00031794496810688873717.htm",
+      "time": "2026-11-12T15:25:06+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Luz verde para la rehabilitación del primer edificio de la ciudad deportiva del Racing",
+      "description": "Solo unos días después de que el club ferrolano estrenase el primer campo de entrenamiento, el Concello concedió la licencia para la recuperación del inmueble con forma de H",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/12/luz-verde-rehabilitacion-primer-edificio-ciudad-deportiva-racing/00031794495007518442680.htm",
+      "time": "2026-11-12T14:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Correos ya vende cestas de Navidad en Ferrol y te las envía gratis a casa",
+      "description": "La compañía aprovecha su red de oficinas en la comarca para facilitar las compras y los envíos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/12/correos-vende-cestas-navidad-ferrol-envia-gratis-casa/00031794485652400182531.htm",
+      "time": "2026-11-12T12:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cadena humana contra la entrada de jabalíes en el colegio Juan de Lángara, en Ferrol: «Pedimos seguridade»",
+      "description": "Los animales llegan a acceder a primera hora de la mañana al recinto, cuando los niños hacen uso del servicio de madrugadores; la anpa recalca que «non é normal que cada día nos atopemos cos xabarís dentro do cole», el Concello afirma que trabaja en una solución definitiva",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/12/cadena-humana-contra-entrada-jabalies-colegio-juan-langara-ferrolpedimos-seguridade/00031794478065326594696.htm",
+      "time": "2026-11-12T11:57:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Detenidos dos narcos en Ferrol que repartían cocaína a domicilio las 24 horas del día",
+      "description": "El Tribunal de Instancia decretó el ingreso en prisión de uno de ellos, forman parte de una organización delictiva en la que ya hubo seis arrestados en enero que actuaban en patinetes; tenían almacenadas en la ciudad 12.000 dosis de coca",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/12/detenidos-dos-narcos-ferrol-repartian-cocaina-domicilio-24-horas-dia/00031794480091786235702.htm",
+      "time": "2026-11-12T11:04:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Factory Gym Ferrol, en el podio del Campeonato del Mundo de culturismo",
+      "description": "Iván Amado volvió con dos bronces y José Migue López alcanzó un meritorio cuarto puesto",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/12/factory-gym-ferrol-podio-campeonato-mundo-culturismo/00031794480835879440590.htm",
+      "time": "2026-11-12T10:59:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrolterra representará a Galicia en la Copa de España de pádel",
+      "description": "El equipo masculino Marea Verde Smash Padel 4 Camping Valdoviño concurre al torneo de Ligas Autonómicas como campeón regional en la tercera categoría",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/12/ferrolterra-representante-galicia-copa-espana-padel/00031794478465011388408.htm",
+      "time": "2026-11-12T10:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Club de Remo Narón gana músculo con una nueva trainera",
+      "description": "La entidad presentará este sábado una embarcación: «Es un salto de calidad»",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/12/club-remo-naron-gana-musculo-nueva-trainera/00031794476963108344452.htm",
+      "time": "2026-11-12T09:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Dos buques con base en Ferrol, en las maniobras antisubmarinas turcas",
       "description": "Los ejercicios reúnen a 4.500 militares, ocho submarinos y medios aéreos",
@@ -4692,96 +4773,6 @@
       "description": "El Lugo, primer clasificado, se escapa con once puntos de ventaja sobre el conjunto departamental",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/10/racing/00031794326448698905791.htm",
       "time": "2026-11-10T16:28:02+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Prisión para el hombre que le cortó el cuello y una oreja al cliente de un bar de Ferrol",
-      "description": "El atacante utilizó un botellín roto como arma, la magistrada de guardia adopta esta medida debido al riesgo de fuga y de reiteración",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/prision-hombre-corto-cuello-oreja-cliente-bar-ferrol/00031794322517833394903.htm",
-      "time": "2026-11-10T15:09:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El racinguismo prepara sus viajes a Lezama y O Couto",
-      "description": "Las entradas para visitar al Bilbao Athletic y a la UD Ourense cuestan 15 euros",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/10/venta-entradas-desplazamiento-lezama/00031794314655160950782.htm",
-      "time": "2026-11-10T12:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Valdoviño adelanta la Navidad con una campaña en 54 establecimientos locales",
-      "description": "Se sortearán diez cheques regalo por valor de cien euros cada uno",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/valdovino-adelanta-navidad-campana-54-establecimientos-locales/00031794311623825367656.htm",
-      "time": "2026-11-10T12:07:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Adiós a Simón Cabarcos, mítico del fútbol gallego y artesano que fabricó las espinilleras de estrellas como Messi, Luis Suárez o Griezmann",
-      "description": "El pontés, que fue guardameta de equipos como el CD As Pontes, Narón Balompé y Bergantiños; y también fue conocido en el fútbol mundial por la fabricación de las protecciones, falleció este martes a los 47 años",
-      "url": "https://www.lavozdegalicia.es/noticia/obituarios/2026/11/10/adios-simon-cabarcos-sonrisa-perenne-cuido-suyos-dentro-fuera-campobr-/00031794307770301259487.htm",
-      "time": "2026-11-10T11:59:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Portos finaliza la obras de dragado en Barallobre y en primavera iniciará las de Miño y Pontedeume",
-      "description": "La actuación acabó con el problema de calado por la sedimentación acumulada desde la construcción de los pantalanes",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/10/portos-finaliza-obras-dragado-barallobre-primavera-iniciara-mino-pontedeume/00031794311503805404269.htm",
-      "time": "2026-11-10T11:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Portos finaliza la obras de dragado en Barallobre y en primavera iniciará las de Miño y Pontedeume",
-      "description": "La actuación acabó con el problema de calado por la sedimentación acumulada desde la construcción de los pantalanes",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/10/portos-finaliza-obras-dragado-barallobre-primavera-iniciara-mino-pontedeume/00031794311503805404269.htm",
-      "time": "2026-11-10T11:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Segundo apercibimiento al Concello de Ferrol por incumplimiento de la ley electoral",
-      "description": "La junta electoral de zona requiere al Ayuntamiento que retire de la web municipal anuncios realizados y advierte de abrir un proceso sancionador en caso de reincidencia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/nuevo-apercibimiento-concello-ferrol-incumplimiento-ley-electoral/00031794303113653324847.htm",
-      "time": "2026-11-10T10:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "De los secretos de los naufragios al sonido a oscuras de un astillero: así serán las dos nuevas salas de Exponav",
-      "description": "El Museo de la Construcción Naval de Ferrol aprovechará su cierre entre los días 16 y 30 de este mes para preparar los nuevos espacios expositivos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/secretos-naufragios-sonido-oscuras-astillero-seran-dos-nuevas-salas-exponav/00031794305230877388293.htm",
-      "time": "2026-11-10T10:13:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "De los secretos de los naufragios al sonido a oscuras de un astillero: así serán las dos nuevas salas de Exponav",
-      "description": "El Museo de la Construcción Naval de Ferrol aprovechará su cierre entre los días 16 y 30 de este mes para preparar los nuevos espacios expositivos",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/10/secretos-naufragios-sonido-oscuras-astillero-seran-dos-nuevas-salas-exponav/00031794305230877388293.htm",
-      "time": "2026-11-10T10:13:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un motorista resulta herido en un accidente en la Praza do Inferniño en Ferrol",
-      "description": "Un alcance entre dos vehículos en Narón causó también lesiones a una persona",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/motorista-resulta-herido-accidente-praza-do-infernino-ferrol/00031794299363597650137.htm",
-      "time": "2026-11-10T08:53:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
