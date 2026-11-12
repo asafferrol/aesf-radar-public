@@ -1,7 +1,25 @@
 {
   "hours": 48,
-  "count": 528,
+  "count": 527,
   "items": [
+    {
+      "title": "La delantera del Racing aglutina el 60 % del total de los goles anotados",
+      "description": "Dentro del bajo índice anotador, los tantos de los puntas son mayoría en el club ferrolano",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/12/delantera-racing-aglutina-60-total-goles-anotados/00031794505358556742178.htm",
+      "time": "2026-11-12T17:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Alfredo Ramo arbitrará el choque del Racing frente al Bilbao Athletic",
+      "description": "Hay un antecedente entre el maño y los ferrolanos el pasado curso, con derrota a domicilio frente al Zamora",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/12/alfredo-ramo-arbitrara-choque-racing-frente-bilbao-athletic/00031794498136447963838.htm",
+      "time": "2026-11-12T16:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La Xunta y la UDC firman el convenio para construir el nuevo centro de investigación EI3 del Campus de Ferrol",
       "description": "El conselleiro de Educación, Román Rodríguez, y el rector de la Universidade da Coruña, Ricardo Cao, firmaron este jueves los acuerdos para financiar los trabajos",
@@ -4726,33 +4744,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "La música sin barreras protagoniza el Festival Inclusón en Narón",
-      "description": "",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/musica-barreras-protagoniza-festival-incluson/00031794338488836383313.htm",
-      "time": "2026-11-10T19:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Estas serán las manifestaciones de la huelga general del 11N en Ferrol y As Pontes",
-      "description": "En la ciudad naval se han covocado dos protestas, con media hora de diferencia, en la mañana de este miércoles",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/seran-manifestaciones-huelga-general-11n-ferrol-as-pontes/00031794328893114919352.htm",
-      "time": "2026-11-10T17:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing de Ferrol busca frenar la brecha de la Primera RFEF",
-      "description": "El Lugo, primer clasificado, se escapa con once puntos de ventaja sobre el conjunto departamental",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/10/racing/00031794326448698905791.htm",
-      "time": "2026-11-10T16:28:02+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
