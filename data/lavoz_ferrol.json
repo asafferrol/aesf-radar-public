@@ -1,5 +1,68 @@
 [
   {
+    "title": "Dos buques con base en Ferrol, en las maniobras antisubmarinas turcas",
+    "description": "Los ejercicios reúnen a 4.500 militares, ocho submarinos y medios aéreos",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/12/dos-buques-base-ferrol-maniobras-antisubmarinas-turcas/0003_202611F12C3991.htm",
+    "time": "2026-11-12T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Aneiros y Álvarez Vidal analizan los objetivos del Puerto en materia de infraestructuras",
+    "description": "Durante el encuentro, los responsables abordaron las principales líneas de actuación del organismo",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/12/aneiros-alvarez-vidal-analizan-objetivos-puerto-materia-infraestructuras/0003_202611F12C6991.htm",
+    "time": "2026-11-12T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "A Xunta distingue co premio Bibliotecas que Inspiran un proxecto documental ortegano",
+    "description": "Céntrase na conservación e difusión do patrimonio",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/12/xunta-distingue-co-premio-bibliotecas-inspiran-proxecto-documental-ortegano/0003_202611F12C2993.htm",
+    "time": "2026-11-12T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Seitura 22 organiza en Ortigueira «Máis alá dos parques eólicos»",
+    "description": "La iniciativa pondrá el foco en las oportunidades asociadas a la repotenciación",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/11/12/seitura-22-organiza-ortigueira-mais-ala-dos-parques-eolicos/0003_202611F12C5992.htm",
+    "time": "2026-11-12T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Robert Finley: el milagro tardío del blues se subirá en Ferrol a las tablas del Jofre",
+    "description": "Una enfermedad que le provocó una ceguera casi total hizo de la guitarra su medio de vida en las aceras de Arkansas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/12/milagro-tardio-blues-subira-tablas-jofre/0003_202611F12C2991.htm",
+    "time": "2026-11-12T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Teatro en Narón para descubrir a la mujer detrás de dos Nobel",
+    "description": "El Pazo da Cultura acogió el estreno de una obra sobre Marie Curie",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/11/teatro-naron-descubrir-mujer-detras-dos-nobel/00031794398031247207988.htm",
+    "time": "2026-11-12T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Los Primerizos llenarán La Room de sabor latino",
+    "description": "El grupo ferrolano actuará este sábado a las 22.00 horas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/11/primerizos-llenaran-room-sabor-latino/00031794398310324823502.htm",
+    "time": "2026-11-12T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "A Malata se prepara para su jornada más electoral el 29N",
     "description": "El Racing Club Ferrol recibirá a la AD Mérida el domingo de las elecciones generales, a partir de las 12.00 horas",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/11/malata-prepara-jornada-electoral-29n/00031794421989725641491.htm",
@@ -18,10 +81,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Obramat abrirá en Narón el 18 de noviembre con 6.000 metros cuadrados y más de 90 empleos",
-    "description": "El nuevo almacén de Parque Gándara se convierte en el cuarto centro de la compañía en Galicia",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/11/obramat-abrira-naron-18-noviembre-6000-metros-cuadrados-90-empleos/00031794415319184148246.htm",
-    "time": "2026-11-11T16:55:00+00:00",
+    "title": "Atracan una gasolinera en Cecebre y se llevan 1.500 euros de la caja",
+    "description": "Tres encapuchados entraron en la estación el pasado martes a pocos minutos del cierre",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/cambre/2026/11/12/atracan-gasolinera-cecebre-llevan-1500-euros-caja/0003_202611H12C5991.htm",
+    "time": "2026-11-11T16:17:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -72,10 +135,37 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Seguimiento mayoritario de la huelga general en Ferrolterra, donde no se han registrado incidencias",
-    "description": "Cierre masivo en polígonos industriales, Alcampo, comercio local y servicios esenciales en Navantia y Urbaser",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/11/seguimiento-mayoritario-huelga-ferrolterra-registrado-incidencias/00031794385470596713857.htm",
-    "time": "2026-11-11T08:43:00+00:00",
+    "title": "Talento y solidaridad en Canido",
+    "description": "",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/talento-solidaridad-canido/00031794339125886851294.htm",
+    "time": "2026-11-11T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "50 años de farmacia en Ferrolterra",
+    "description": "",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/50-anos-farmacia-ferrolterra/00031794339250510356220.htm",
+    "time": "2026-11-11T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "«Estou encantado de formar parte xa da familia do monstro Vákner»",
+    "description": "Unha necesidade e unha escusa inventada para darlle solución: diso vai o relato co que Miguel García vén de gañar o certame literario Territorio Vákner 2026 na súa modalidade de adultos",
+    "url": "https://www.lavozdegalicia.es/noticia/carballo/2026/11/11/span-langglestou-encantado-formarspanspan-langglparte-xa-da-familia-do-monstro-vaknerspan/0003_202611C11C8991.htm",
+    "time": "2026-11-11T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Una vecina de Ferrol víctima de un fraude bancario recibirá casi 9.000 euros",
+    "description": "La Audiencia Provincial aplica la reciente doctrina del Tribunal de Justicia de la Unión Europea sobre pagos no autorizados",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/11/ferrolana-victima-fraude-bancario-recibira-9000-euros-sentencia/0003_202611F11C3995.htm",
+    "time": "2026-11-11T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -90,27 +180,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Trece locales hosteleros ofrecen sus recetas en el certamen de tapas de outono de Cedeira",
-    "description": "Los clientes podrán optar al sorteo de una cena y de cestas de Navidad que aporta el Concello, del 13 al 15 de noviembre",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/11/11/trece-locales-hosteleros-ofrecen-recetas-certamen-tapas-outono-cedeira/0003_202611F11C5995.htm",
-    "time": "2026-11-11T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Talento y solidaridad en Canido",
-    "description": "",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/talento-solidaridad-canido/00031794339125886851294.htm",
-    "time": "2026-11-11T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "50 años de farmacia en Ferrolterra",
-    "description": "",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/10/50-anos-farmacia-ferrolterra/00031794339250510356220.htm",
+    "title": "Con el agua al cuello en Ferrol y su comarca: comienzan las prohibiciones de uso por la sequía",
+    "description": "Siete municipios estrenaron bajada de presión nocturna y directrices por el bajo nivel de As Forcadas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/11/ferrolterra-agua-cuello/0003_202611F11C1991.htm",
     "time": "2026-11-11T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -144,15 +216,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Prisión para el hombre que le cortó el cuello y una oreja al cliente de un bar de Ferrol",
-    "description": "El atacante utilizó un botellín roto como arma, la magistrada de guardia adopta esta medida debido al riesgo de fuga y de reiteración",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/prision-hombre-corto-cuello-oreja-cliente-bar-ferrol/00031794322517833394903.htm",
-    "time": "2026-11-10T15:09:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El racinguismo prepara sus viajes a Lezama y O Couto",
     "description": "Las entradas para visitar al Bilbao Athletic y a la UD Ourense cuestan 15 euros",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/10/venta-entradas-desplazamiento-lezama/00031794314655160950782.htm",
@@ -180,51 +243,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Portos finaliza la obras de dragado en Barallobre y en primavera iniciará las de Miño y Pontedeume",
-    "description": "La actuación acabó con el problema de calado por la sedimentación acumulada desde la construcción de los pantalanes",
-    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/10/portos-finaliza-obras-dragado-barallobre-primavera-iniciara-mino-pontedeume/00031794311503805404269.htm",
-    "time": "2026-11-10T11:56:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Segundo apercibimiento al Concello de Ferrol por incumplimiento de la ley electoral",
-    "description": "La junta electoral de zona requiere al Ayuntamiento que retire de la web municipal anuncios realizados y advierte de abrir un proceso sancionador en caso de reincidencia",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/nuevo-apercibimiento-concello-ferrol-incumplimiento-ley-electoral/00031794303113653324847.htm",
-    "time": "2026-11-10T10:14:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "De los secretos de los naufragios al sonido a oscuras de un astillero: así serán las dos nuevas salas de Exponav",
-    "description": "El Museo de la Construcción Naval de Ferrol aprovechará su cierre entre los días 16 y 30 de este mes para preparar los nuevos espacios expositivos",
-    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/10/secretos-naufragios-sonido-oscuras-astillero-seran-dos-nuevas-salas-exponav/00031794305230877388293.htm",
-    "time": "2026-11-10T10:13:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El naronés cinco veces mejor peluquero de España: «Apellidarse Calvo es el colmo de la profesión, ¡pero no me ha ido mal!»",
-    "description": "Antonio Calvo celebra 30 años en el sector tras recorrer medio mundo formando a profesionales",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/09/narones-cinco-veces-mejor-peluquero-espana-apellidarse-calvo-colmo-profesion-me-ido-mal/00031794243138328309922.htm",
-    "time": "2026-11-10T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Ordenan tirar la vivienda que una pareja de Ferrol montó en un alpendre de su finca sin licencias y para sus hijos",
-    "description": "Tenía cocina, comedor, dos dormitorios y baño, justo al lado de la casa familiar; el Tribunal Superior de Xustiza de Galicia da la razón al Concello, las imágenes de Google Earth confirman que fueron obras recientes",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/ordenan-tirar-vivienda-creada-alpendre-pareja-ferrol/0003_202611F10C3993.htm",
-    "time": "2026-11-10T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "A Capela gravará el IBI de las viviendas desocupadas, más a los propietarios de cuatro o más inmuebles",
     "description": "El Ayuntamiento podrá aplicar un recargo de hasta el 150 % de la cuota líquida del impuesto",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/a-capela/2026/11/10/capela-gravara-ibi-viviendas-desocupadas-propietarios-cuatro/0003_202611F10C6991.htm",
@@ -234,9 +252,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La calle Real de Ferrol se prepara para brillar",
-    "description": "Las obras de renovación del alumbrado incluirán dos arcadas luminosas de bienvenida a A Magdalena e instalará mobiliario urbano en el tramo entre las plazas de Armas y Amboage",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/10/calle-real-prepara-brillar/0003_202611F10C1991.htm",
+    "title": "El naronés cinco veces mejor peluquero de España: «Apellidarse Calvo es el colmo de la profesión, ¡pero no me ha ido mal!»",
+    "description": "Antonio Calvo celebra 30 años en el sector tras recorrer medio mundo formando a profesionales",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/09/narones-cinco-veces-mejor-peluquero-espana-apellidarse-calvo-colmo-profesion-me-ido-mal/00031794243138328309922.htm",
     "time": "2026-11-10T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -256,24 +274,6 @@
     "description": "El ferrolano terminó cuarto en los 2.000 metros obstáculos en Dakar",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/09/pablo-vazquez-roza-podio-juegos-olimpicos-juventud/00031794246790531780441.htm",
     "time": "2026-11-09T17:55:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un hombre vestido de Papá Noel se pone a hacer flexiones en los tejados de Ferrol",
-    "description": "Para asombro y preocupación de los vecinos, el individuo se subió a lo más alto de un edificio de cuatro alturas con este disfraz para practicar deporte",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/09/hombre-vestido-papa-noel-pone-flexiones-tejados-ferrol/00031794243731389575393.htm",
-    "time": "2026-11-09T17:19:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El comercio local se reinventa con la recogida de paquetes: «Empezamos con diez al día y ahora tenemos más de 40»",
-    "description": "Estancos, librerías o tiendas de chuches complementan su actividad gestionando bultos de empresas de mensajería; reciben un ingreso por cada envío del que se encargan, pero la mayoría lo hacen para aumentar visibilidad",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/06/comercio-local-reinventa-recogida-paquetes/00031793974034728731811.htm",
-    "time": "2026-11-09T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
