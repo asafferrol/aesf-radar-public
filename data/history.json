@@ -1,7 +1,106 @@
 {
   "hours": 48,
-  "count": 614,
+  "count": 620,
   "items": [
+    {
+      "title": "Qué hacer en Ferrolterra, Eume y Ortegal: fin de semana de magostos y tapeo",
+      "description": "La comarca acoge en las próximas 48 horas cuatro degustaciones de castañas y tres concursos de pinchos",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/ferrolterra-eume-ortegal-fin-semana-magostos-tapeo/00031794587422945937320.htm",
+      "time": "2026-11-13T16:57:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ropero, más que un buen fondo de armario para el Racing Club Ferrol",
+      "description": "El atacante, que ya aportó el tanto de la única victoria visitante de los de Javi Vázquez, llama a la puerta de la titularidad en la salida a Lezama",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/13/ropero-buen-fondo-armario-racing-club-ferrol/00031794588448964398697.htm",
+      "time": "2026-11-13T16:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La junta electoral desestima el recurso del Partido Popular tras el apercibimiento al Concello de Ferrol",
+      "description": "El organismo provincial avala la resolución del de zona e incide en que el alcalde es además candidato al Senado por el PP",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/14/junta-electoral-desestima-recurso-partido-popular-tras-apercibimiento-concello/0003_202611F14C2992.htm",
+      "time": "2026-11-13T16:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El rey Felipe VI visitará las unidades de la Armada en Ferrol para conocer su labor y capacidades",
+      "description": "Está previsto que el monarca se desplace el próximo jueves a la ciudad naval",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/rey-felipe-vi-visitara-unidades-armada-ferrol/00031794581989002948760.htm",
+      "time": "2026-11-13T15:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O BNG levará ao Parlamento a demanda de actuacións integrais no ciclo da auga na comarca de Ferrol",
+      "description": "Os deputados Mon Fernández e Montserrat Valcarce atribúen á «falta dunha xestión dilixente» a situación do encoro das Forcadas e a rede de subministro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/14/span-langgl-bng-levara-ao-parlamento-demanda-actuacions-integrais-ciclo-da-augaspan/0003_202611F14C2994.htm",
+      "time": "2026-11-13T15:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un corte de agua por la rotura de una tubería afectó a 200 viviendas y negocios de Ferrol",
+      "description": "La avería se produjo de madrugada en la confluencia de las calles de la Tierra y Magdalena, tras otra incidencia similar en la calle Real en la tarde del jueves",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/corte-agua-rotura-tuberia-afecto-200-viviendas-negocios-ferrol/00031794574705366595893.htm",
+      "time": "2026-11-13T13:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Parrulo Ferrol, a exprimir A Malata «como si no hubiera mañana» ante Peñíscola",
+      "description": "Los de Gerard Casas retoman, este sábado, la competición tras el parón por selecciones",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/13/parrulo-ferrol-exprimir-malata-hubiera-manana-ante-peniscola/00031794574192199212991.htm",
+      "time": "2026-11-13T12:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rey Varela fija el tren, el dique y la construcción de 400 pisos como prioridades para Ferrol del futuro Gobierno",
+      "description": "El candidato al Senado y alcalde aplaca las quinielas y asegura que «Feijoo tiene muy claro que mi compromiso es Ferrol»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/rey-varela-fija-tren-dique-construccion-400-pisos-prioridades-ferrol-futuro-gobierno/00031794573459625914258.htm",
+      "time": "2026-11-13T12:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Mis decisiones son para ganar. El que se juega su puesto soy yo»",
+      "description": "El entrenador del Racing de Ferrol reivindica la profundidad de su plantilla pese a las tres jornadas sin ganar y pide confianza",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/13/javi-vazquez-sigo-siempre-podre-construir-grupo-humano-potente/00031794566422484335610.htm",
+      "time": "2026-11-13T11:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Álvaro Juan regresa a una convocatoria del Racing Club Ferrol tras casi seis meses",
+      "description": "Edgar Pujol, convocado con República Dominicana, y Raúl Blanco, por problemas físicos, causan baja",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/13/alvaro-juan-regresa-convocatoria-racing-club-ferrol-tras-seis-meses/00031794566195015609667.htm",
+      "time": "2026-11-13T11:33:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Rescatadas cuatro personas tras la caída de un coche a un río en Ferrol y el accidente de una furgoneta en Narón",
+      "description": "En el caso del furgón, el conductor fue extraído por los SPEIS mediante tableros a la ambulancia; en el coche que cayó al agua intervinieron los Bomberos de Ferrol y personas presentes en el suceso",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/rescatadas-cuatro-personas-tras-caida-coche-rio-ferrol-accidente-furgoneta-naron/00031794562465725358156.htm",
+      "time": "2026-11-13T10:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Luz verde a la modificación que avanza en la venta de viviendas del poblado de As Veigas, en As Pontes",
       "description": "El cambio urbanístico incluye la creación de dos aparcamientos y la adaptación de los trazados viarios; la propuesta contó con los votos favorables del PSOE y del PP y con la abstención del BNG",
@@ -5479,51 +5578,6 @@
       "description": "El canario, que recibió del aficionado Antón Romero el galardón Estrella Galicia a mejor jugador de octubre, puso el foco en la precisión por encima de la finalización y ratificó su confianza en el equipo ferrolano",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/11/ojeda-jugador-racing-confianza-siempre-demuestra-tirar-/00031794420217985453141.htm",
       "time": "2026-11-11T18:09:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Obramat abrirá en Narón el 18 de noviembre con 6.000 metros cuadrados y más de 90 empleos",
-      "description": "El nuevo almacén de Parque Gándara se convierte en el cuarto centro de la compañía en Galicia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/11/obramat-abrira-naron-18-noviembre-6000-metros-cuadrados-90-empleos/00031794415319184148246.htm",
-      "time": "2026-11-11T16:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Atracan una gasolinera en Cecebre y se llevan 1.500 euros de la caja",
-      "description": "Tres encapuchados entraron en la estación el pasado martes a pocos minutos del cierre",
-      "url": "https://www.lavozdegalicia.es/noticia/coruna/cambre/2026/11/12/atracan-gasolinera-cecebre-llevan-1500-euros-caja/0003_202611H12C5991.htm",
-      "time": "2026-11-11T16:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un árbol navideño de casi cuatro metros, en blanco y oro, para la pajarera del Cantón de Ferrol",
-      "description": "Los responsables de Floristería Ilusión transforman ya el espacio para las fiestas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/11/navidad-canton/00031794398177822615681.htm",
-      "time": "2026-11-11T15:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrolterra clama contra la precariedad en una masiva jornada de huelga: «La vivienda es un derecho, no un lujo»",
-      "description": "La plaza de Armas y la del Himno Galego, abarrotadas de personas en las dos manifestaciones convocadas esta mañana en la ciudad naval",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/11/ferrolterra-clama-contra-precariedad-masiva-jornada-huelga-vivienda-derecho-lujo/00031794397493961233293.htm",
-      "time": "2026-11-11T12:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Beñat Larrea, baja por sanción en las filas del Bilbao Athletic para la visita del Racing",
-      "description": "El zaguero fue expulsado en el minuto 4 de la salida de los cachorros de Lezama a Mérida",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/11/benat-larrea-causa-baja-sancion-filas-bilbao-athletic-visita-racing/00031794397243856656607.htm",
-      "time": "2026-11-11T11:51:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
