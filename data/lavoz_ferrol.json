@@ -1,5 +1,32 @@
 [
   {
+    "title": "Las diez mejores imágenes de la visita del Racing Club Ferrol al Bilbao Athletic",
+    "description": "Los de Javi Vázquez no pudieron pasar del empate sin goles en Lezama",
+    "url": "https://www.lavozdegalicia.es/album/oparacing/2026/11/14/diez-mejores-imagenes-visita-racing-club-ferrol-bilbao-athletic/01101794676366645986280.htm",
+    "time": "2026-11-14T17:24:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La naronesa Sara Guerrero conquista el oro mundial de relevos mixto",
+    "description": "La deportista del Náutico Narón compartió el triunfo con Antonio Serrat, Marta Pintanel y David Cantero",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/14/naronesasara-guerrero-conquista-oro-mundial-relevos-mixto/00031794676102122667570.htm",
+    "time": "2026-11-14T17:11:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Banco de Alimentos celebra su gran recogida en Ferrolterra: «Es muy gratificante ver que la gente responde»",
+    "description": "Muchos de los voluntarios son estudiantes de las escuelas de la Armada en Ferrol",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gratificante-ver-gente-responde-necesidades/0003_202611F15C4993.htm",
+    "time": "2026-11-14T16:41:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Javi Vázquez: «Es incomprensible lo que hemos vuelto a vivir»",
     "description": "El técnico del Racing de Ferrol lamenta la falta de gol tras el empate a ceros",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/14/javi-vazquez-incomprensible-hemos-vuelto-vivir/00031794670846852225305.htm",
@@ -18,8 +45,8 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El Racing Club Ferrol se enquista en Lezama (0-0)",
-    "description": "Los de Javi Vázquez, que apretaron en el tramo final sin lograr decantar la balanza, no pudieron pasar del empatre ante un Bilbao Athletic que jugó en inferioridad desde el minuto 10",
+    "title": "Oclusión total del Racing Club Ferrol en Lezama (0-0)",
+    "description": "Los de Javi Vázquez, que jugaron en superioridad desde el minuto 10, no lograron imponerse al Bilbao Athletic y suman cuatro choques sin ganar",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/14/bilbao-athletic-racing-club-ferrol/00031794653836056675434.htm",
     "time": "2026-11-14T13:58:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -153,15 +180,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Buján, el cachorro llamado a hacer valer la ley del ex",
-    "description": "El extremo del Racing marcó su último gol de Liga en Lezama contra un Barakaldo en el que también militó",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/13/bujan-cachorro-llamado-valer-ley-ex/00031794596519318358200.htm",
-    "time": "2026-11-13T19:06:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El hombre que le arrancó la oreja de un mordisco a otro en una discoteca de Ferrol se enfrenta a cuatro años de cárcel",
     "description": "También le dio puñetazos y le golpeó con un vaso de cristal, la víctima necesitó cirugía y la vacuna antitetánica entre otras medidas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/hombre-arranco-oreja-mordisco-discoteca-ferrol-enfrenta-cuatro-anos-medio-carcel/00031794589600124432435.htm",
@@ -207,15 +225,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Rescatadas cuatro personas tras la caída de un coche a un río en Ferrol y el accidente de una furgoneta en Narón",
-    "description": "En el caso del furgón, el conductor fue extraído por los SPEIS mediante tableros a la ambulancia; en el coche que cayó al agua intervinieron los Bomberos de Ferrol y personas presentes en el suceso",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/rescatadas-cuatro-personas-tras-caida-coche-rio-ferrol-accidente-furgoneta-naron/00031794562465725358156.htm",
-    "time": "2026-11-13T10:14:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Ramiro Ledo: «Unha cidade con cines é unha cidade mellor»",
     "description": "O director dos Duplex, os únicos cinemas que quedan en Ferrol, sinala que «La bola negra» funcionou para que moita xente redescubra as salas; este mes de outubro foi o mellor da súa historia",
     "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/11/13/span-langglvivir-do-cine-e-sono-feito-realidadespan/0003_202611E13P48993.htm",
@@ -238,15 +247,6 @@
     "description": "La Armada activa el ejercicio interno Ábrego 26 para evaluar su capacidad logística en tierra",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/13/arsenal-pone-prueba-respuesta-ante-escalada-belica/0003_202611F13C1991.htm",
     "time": "2026-11-13T03:46:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Luz verde para la rehabilitación del primer edificio de la ciudad deportiva del Racing",
-    "description": "Solo unos días después de que el club ferrolano estrenase el primer campo de entrenamiento, el Concello concedió la licencia para la recuperación del inmueble con forma de H",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/12/luz-verde-rehabilitacion-primer-edificio-ciudad-deportiva-racing/00031794495007518442680.htm",
-    "time": "2026-11-12T14:56:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

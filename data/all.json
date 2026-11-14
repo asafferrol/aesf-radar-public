@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T15:57:00.619482+00:00",
-  "count": 758,
+  "generated_at": "2026-11-14T20:27:20.590793+00:00",
+  "count": 759,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,33 @@
     }
   },
   "items": [
+    {
+      "title": "Las diez mejores imágenes de la visita del Racing Club Ferrol al Bilbao Athletic",
+      "description": "Los de Javi Vázquez no pudieron pasar del empate sin goles en Lezama",
+      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/11/14/diez-mejores-imagenes-visita-racing-club-ferrol-bilbao-athletic/01101794676366645986280.htm",
+      "time": "2026-11-14T17:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La naronesa Sara Guerrero conquista el oro mundial de relevos mixto",
+      "description": "La deportista del Náutico Narón compartió el triunfo con Antonio Serrat, Marta Pintanel y David Cantero",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/14/naronesasara-guerrero-conquista-oro-mundial-relevos-mixto/00031794676102122667570.htm",
+      "time": "2026-11-14T17:11:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Banco de Alimentos celebra su gran recogida en Ferrolterra: «Es muy gratificante ver que la gente responde»",
+      "description": "Muchos de los voluntarios son estudiantes de las escuelas de la Armada en Ferrol",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gratificante-ver-gente-responde-necesidades/0003_202611F15C4993.htm",
+      "time": "2026-11-14T16:41:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Javi Vázquez: «Es incomprensible lo que hemos vuelto a vivir»",
       "description": "El técnico del Racing de Ferrol lamenta la falta de gol tras el empate a ceros",
@@ -6828,24 +6855,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "La delantera del Racing aglutina el 60 % del total de los goles anotados",
-      "description": "Dentro del bajo índice anotador, los tantos de los puntas son mayoría en el club ferrolano",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/12/delantera-racing-aglutina-60-total-goles-anotados/00031794505358556742178.htm",
-      "time": "2026-11-12T17:48:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Alfredo Ramo arbitrará el choque del Racing frente al Bilbao Athletic",
-      "description": "Hay un antecedente entre el maño y los ferrolanos el pasado curso, con derrota a domicilio frente al Zamora",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/12/alfredo-ramo-arbitrara-choque-racing-frente-bilbao-athletic/00031794498136447963838.htm",
-      "time": "2026-11-12T16:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
