@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:01:16.573789+00:00",
+  "generated_at": "2026-11-15T19:41:23.274106+00:00",
   "count": 428,
   "sources": {
     "lavoz_ferrol": {
@@ -25,6 +25,60 @@
     }
   },
   "items": [
+    {
+      "title": "Pontón pide o voto para o BNG desde Narón: «Galiza ten que facerse valer»",
+      "description": "A portavoz do Bloque participou nun mitin en Narón, xunto ao candidato ao Congreso Néstor Rego",
+      "url": "https://www.lavozdegalicia.es/noticia/elecciones-29n/2026/11/15/ponton-pide-voto-bng-naron-galiza-ten-facerse-valer/00031794768100246344717.htm",
+      "time": "2026-11-15T18:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Gerard Casas: «Hemos ganado, pero creo que hemos dado un paso atrás»",
+      "description": "El técnico reconoce los errores pese a una victoria vital en A Malata",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gerard-casas-hemos-ganado-creo-hemos-dado-paso-atras/00031794759970835537178.htm",
+      "time": "2026-11-15T16:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La campaña electoral toma la feria de Ferrol",
+      "description": "Populares y socialistas aprovecharon la cita para repartir folletos informativos; un tromba de agua obligó a retrasar la salida de la comitiva del PP, que terminó cruzándose con la del PSOE, con intercambio de caramelos incluido",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/campana-electoral-toma-feria-ferrol/00031794758891116886709.htm",
+      "time": "2026-11-15T16:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing, la búsqueda del gol dentro de un orden más desordenado",
+      "description": "Más allá de que el entrenador tiene que dar unas directrices, el jugador tiene que sacar a relucir su intuición",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/racing-busqueda-gol-orden-desordenado/00031794757699632196563.htm",
+      "time": "2026-11-15T15:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Migue Leal: «Tenemos que tener tranquilidad; no hay que volverse locos»",
+      "description": "Alegato a la calma del lateral del Racing, que ve el trabajo como única medida para frenar la sequía anotadora de los ferrolanos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/migue-lealtenemos-tener-tranquilidad-volverse-loco/00031794754176479616821.htm",
+      "time": "2026-11-15T14:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las vacas flacas del Racing Club Ferrol",
+      "description": "Los de Javi Vázquez, que deben capear una racha de cuatro jornadas sin ganar, cuentan con un precedente esperanzador en la temporada 22-23",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/vacas-flacas-racing-club-ferrol/00031794751675939349236.htm",
+      "time": "2026-11-15T14:11:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Abierta una nueva convocatoria con pisos de alquiler asequible en Ares, Ferrol y Cedeira",
       "description": "Casa 47 pone a disposición un total de cinco viviendas repartidas entre los tres municipios",
@@ -83,6 +137,15 @@
       "title": "La Kopistería impulsa la primera librería solidaria de Ferrol",
       "description": "Finu García Moreno decidió implementar esta iniciativa en su negocio",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/15/kopisteria-impulsa-primera-libreria-solidaria-ferrol/0003_202611F15C4992.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Millo corvo cosechado y secado en Narón que se muele en Lalín para toda España",
+      "description": "José Antonio Muíño produce esta variedad de grano negro, que una tahona santiaguesa transforma en broa para algún restaurante con estrellas Michelin",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/agricultura/2026/11/15/millo-corvo-cosechado-secado-naron-muele-lalin-espana/0003_202611F15C5991.htm",
       "time": "2026-11-15T04:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -3810,69 +3873,6 @@
       "description": "El gremio de la publicidad entrega sus galardones anuales en la ciudad",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/14/industria-comunicacion-inunda-ferrol-talento-creatividad/0003_202611F14C4991.htm",
       "time": "2026-11-13T20:16:02+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Buján, el cachorro llamado a hacer valer la ley del ex",
-      "description": "El extremo del Racing marcó su último gol de Liga en Lezama contra un Barakaldo en el que también militó",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/13/bujan-cachorro-llamado-valer-ley-ex/00031794596519318358200.htm",
-      "time": "2026-11-13T19:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El hombre que le arrancó la oreja de un mordisco a otro en una discoteca de Ferrol se enfrenta a cuatro años de cárcel",
-      "description": "También le dio puñetazos y le golpeó con un vaso de cristal, la víctima necesitó cirugía y la vacuna antitetánica entre otras medidas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/hombre-arranco-oreja-mordisco-discoteca-ferrol-enfrenta-cuatro-anos-medio-carcel/00031794589600124432435.htm",
-      "time": "2026-11-13T17:33:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Qué hacer en Ferrolterra, Eume y Ortegal: fin de semana de magostos y tapeo",
-      "description": "La comarca acoge en las próximas 48 horas cuatro degustaciones de castañas y tres concursos de pinchos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/ferrolterra-eume-ortegal-fin-semana-magostos-tapeo/00031794587422945937320.htm",
-      "time": "2026-11-13T16:57:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ropero, más que un buen fondo de armario para el Racing Club Ferrol",
-      "description": "El atacante, que ya aportó el tanto de la única victoria visitante de los de Javi Vázquez, llama a la puerta de la titularidad en la salida a Lezama",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/13/ropero-buen-fondo-armario-racing-club-ferrol/00031794588448964398697.htm",
-      "time": "2026-11-13T16:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La junta electoral desestima el recurso del Partido Popular tras el apercibimiento al Concello de Ferrol",
-      "description": "El organismo provincial avala la resolución del de zona e incide en que el alcalde es además candidato al Senado por el PP",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/14/junta-electoral-desestima-recurso-partido-popular-tras-apercibimiento-concello/0003_202611F14C2992.htm",
-      "time": "2026-11-13T16:10:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El rey Felipe VI visitará las unidades de la Armada en Ferrol para conocer su labor y capacidades",
-      "description": "Está previsto que el monarca se desplace el próximo jueves a la ciudad naval",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/rey-felipe-vi-visitara-unidades-armada-ferrol/00031794581989002948760.htm",
-      "time": "2026-11-13T15:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O BNG levará ao Parlamento a demanda de actuacións integrais no ciclo da auga na comarca de Ferrol",
-      "description": "Os deputados Mon Fernández e Montserrat Valcarce atribúen á «falta dunha xestión dilixente» a situación do encoro das Forcadas e a rede de subministro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/14/span-langgl-bng-levara-ao-parlamento-demanda-actuacions-integrais-ciclo-da-augaspan/0003_202611F14C2994.htm",
-      "time": "2026-11-13T15:03:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
