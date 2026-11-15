@@ -1,7 +1,79 @@
 {
   "hours": 48,
-  "count": 436,
+  "count": 434,
   "items": [
+    {
+      "title": "Abierta una nueva convocatoria con pisos de alquiler asequible en Ares, Ferrol y Cedeira",
+      "description": "Casa 47 pone a disposición un total de cinco viviendas repartidas entre los tres municipios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/abren-nueva-convocatoria-pisos-alquiler-asequible-ares-ferrol-cedeira/0003_202611F15C4991.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Moeche licita las obras de mejora de la piscina municipal",
+      "description": "Cuentan con un presupuesto de más de 100.000 euros",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/moeche/2026/11/15/moeche-licita-obras-mejora-piscina-municipal/0003_202611F15C9993.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De polígono de tiro a nuevo pulmón verde en Ferrol: «Tiene que haber para todos los gustos»",
+      "description": "Catabois visibiliza la reconversión de 13.000 metros cuadrados de suelo militar en área de ocio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/poligono-tiro-nuevo-pulmon-verde-ferrol-haber-gustos/00031794588499266874616.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las vidas detrás del Narón de 40.000 habitantes: «La localidad tiene una personalidad única»",
+      "description": "La vivienda, los servicios y su ubicación estratégica están detrás del aumento de población del concello; cuatro vecinos que se mudaron recientemente cuentan sus historias",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/14/vidas-detras-naron-40000-habitantes-localidad-personalidad-unica/00031794674252714296840.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Millo corvo cosechado y secado en Narón que se muele en Lalín para toda España",
+      "description": "José Antonio Muíño produce esta variedad de grano negro, que una tahona santiaguesa transforma en broa para algún restaurante con estrellas Michelin",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/15/millo-corvo-cosechado-secado-naron-muele-lalin-espana/0003_202611F15C5991.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Juan Manuel Bermúdez, investigador de la UDC: «Siempre quise ser científico para aportar algo de utilidad a la sociedad»",
+      "description": "No sueña con el nobel, pero sí con desarrollar a escala comercial refrigerantes de neveras a partir de plásticos y latas",
+      "url": "https://www.lavozdegalicia.es/noticia/ciencia/2026/11/15/siempre-quise-cientifico-aportar-utilidad-sociedad/0003_202611F15C12993.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Kopistería impulsa la primera librería solidaria de Ferrol",
+      "description": "Finu García Moreno decidió implementar esta iniciativa en su negocio",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/15/kopisteria-impulsa-primera-libreria-solidaria-ferrol/0003_202611F15C4992.htm",
+      "time": "2026-11-15T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cofradías y científicos luchan de la mano para recuperar la zamburiña de Ferrol",
+      "description": "La sala Curuxeiras acoge con éxito de público una jornada gastronómica que ha servido para presentar un proyecto de investigación sobre el bivalvo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/15/cofradias-cientificos-luchan-mano-recuperar-zamburina-ferrol/0003_202611F15C8991.htm",
+      "time": "2026-11-15T03:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "O Parrulo Ferrol también se rinde al talento de Pablo Vázquez",
       "description": "El deportista de la comarca, que quedó cuarto en los Juegos Olímpicos de la Juventud en Dakar, realizó el saque de honor",
@@ -169,6 +241,15 @@
       "description": "El número 2 al Congreso por el PSOE en la provincia pidió una « mobilización histórica » en defensa de los derechos humanos y reivindicó la inversión realizada en la ciudad",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/14/julian-reina-llama-remontada-epica-psoe/0003_202611F14C2993.htm",
       "time": "2026-11-14T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De vigilar buques rusos en Galicia a desplegarse en África: así opera la flota de patrulleros de Ferrol",
+      "description": "Cinco barcos con dotaciones que suman doscientos militares combinan tareas dentro de aguas nacionales y misiones internacionales",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/15/patrulleros-vigilar-atlantico-operar-africa/0003_202611F15C2998.htm",
+      "time": "2026-11-14T03:47:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
@@ -3823,105 +3904,6 @@
       "description": "En el caso del furgón, el conductor fue extraído por los SPEIS mediante tableros a la ambulancia; en el coche que cayó al agua intervinieron los Bomberos de Ferrol y personas presentes en el suceso",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/rescatadas-cuatro-personas-tras-caida-coche-rio-ferrol-accidente-furgoneta-naron/00031794562465725358156.htm",
       "time": "2026-11-13T10:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Luz verde a la modificación que avanza en la venta de viviendas del poblado de As Veigas, en As Pontes",
-      "description": "El cambio urbanístico incluye la creación de dos aparcamientos y la adaptación de los trazados viarios; la propuesta contó con los votos favorables del PSOE y del PP y con la abstención del BNG",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/luz-verde-modificacion-avanza-venta-viviendas-poblado-pontes-as-veigas/0003_202611F13C6991.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arranca una nueva edición de Tapéate Ferrol con 24 locales y precios a cuatro euros",
-      "description": "El certamen gastronómico se prolongará hasta el día 22 de este mes de noviembre con propuestas dulces y saladas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/arranca-nueva-edicion-tapeate-ferrol-24-locales-precios-cuatro-euros/0003_202611F13C5994.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Valdoviño no subasta la nave municipal de Mourente",
-      "description": "El Ayuntamiento reitera que se trató de un error de la Seguridad Social y asegura que, aunque la subasta estuviese activa, nunca se podría adjudicar la nave",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/11/13/valdovino-subasta-nave-municipal-mourente/0003_202611F13C6992.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O PSdeG levará ao Parlamento a ampliación do comedor do CEIP Maciñeira de Neda",
-      "description": "Os socialistas aseguran que xa «hai instalacións no centro que poden ser adecuadas» para prestar este servizo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/11/13/psdeg-levara-ao-parlamento-ampliacion-do-comedor-do-ceip-macineira-neda/0003_202611F13C6993.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Alejandro Seoane, penalista de Ferrol: «El blanqueo usa ahora las técnicas de Al Capone con sus lavanderías»",
-      "description": "Indica que en los últimos casos de narcos en esta ciudad y en Narón fue clave «su alto nivel de vida», que puso en alerta a los investigadores",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/13/blanqueo-utiliza-tecnicas-capone-lavanderias/0003_202611F13C3_COPY992.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ribera Juan Cardona, reconocido por su compromiso con la excelencia asistencial",
-      "description": "La Fundación IDIS premia al grupo propietario del hospital de Caranza",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/ribera-juan-cardona-reconocido-compromiso-excelencia-asistencial/0003_202611F13C5992.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "A abordaxe da menopausia é a protagonista da XV xornada da Real Academia de Medicina e ASF",
-      "description": "Está destinada a médicos e enfermeiros do hospital e dos centros de saúde",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/abordaxe-da-menopausia-e-protagonista-da-xv-xornada-da-real-academia-medicina-asf/0003_202611F13C5991.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El gusto de cantar",
-      "description": "La asociación Porta do Dique presenta esta tarde en el Casino el cuento infantil «El Coro de Valletriste»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/12/gusto-cantar/00031794503494439302851.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Cita con los clásicos",
-      "description": "La Real Filharmonía de Galicia deleitará al público esta noche en el auditorio de Ferrol con piezas de Planells, Rachmaninov y Sibelius",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/12/cita-clasicos/00031794503272558485815.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ramiro Ledo: «Unha cidade con cines é unha cidade mellor»",
-      "description": "O director dos Duplex, os únicos cinemas que quedan en Ferrol, sinala que «La bola negra» funcionou para que moita xente redescubra as salas; este mes de outubro foi o mellor da súa historia",
-      "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/11/13/span-langglvivir-do-cine-e-sono-feito-realidadespan/0003_202611E13P48993.htm",
-      "time": "2026-11-13T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Arsenal de Ferrol pone a prueba su respuesta ante una escalada bélica",
-      "description": "La Armada activa el ejercicio interno Ábrego 26 para evaluar su capacidad logística en tierra",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/13/arsenal-pone-prueba-respuesta-ante-escalada-belica/0003_202611F13C1991.htm",
-      "time": "2026-11-13T03:46:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
