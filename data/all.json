@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T10:48:23.213208+00:00",
-  "count": 355,
+  "generated_at": "2026-11-16T20:41:26.278440+00:00",
+  "count": 357,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,87 @@
     }
   },
   "items": [
+    {
+      "title": "El viento tira un árbol enorme en un parque muy frecuentado por niños en Cedeira: «Menos mal que no pasaba nadie por debajo»",
+      "description": "El Concello tala por precaución otros dos ejemplares en la plaza de Floreal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/viento-tira-arbol-grandes-dimensiones-parque-frecuentado-ninos-cedeira-mal-pasaba-debajo/00031794855143798739316.htm",
+      "time": "2026-11-16T19:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Monju y Bernal siembran racinguismo en el Colegio Arenales Compañía",
+      "description": "Los jugadores del Racing Club Ferrol visitaron este lunes al alumnado de quinto y sexto de primaria",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/16/monju-bernal-siembran-racinguismo-colegio-arenales-compania/00031794847826101260324.htm",
+      "time": "2026-11-16T16:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol se va de bares en busca de la mejor tapa: «Agotamos existencias»",
+      "description": "Éxito en el primer fin de semana del certamen, que dura hasta el domingo",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/17/ferrol-va-bares-busca-mejor-tapa-agotamos-existencias/0003_202611F17C4991.htm",
+      "time": "2026-11-16T16:54:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez y el aval de la experiencia para capear el bache del Racing",
+      "description": "El madrileño ya lidió con rachas similares o peores a la actual del club ferrolano en el Algeciras o el Talavera y acabó saliendo a flote",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/16/javi-vazquez-aval-experiencia-capear-bache-racing/00031794844478570502765.htm",
+      "time": "2026-11-16T16:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos días de reseteo antes de volver al ruedo en el Racing Club Ferrol",
+      "description": "El cuerpo técnico arrancará el miércoles la preparación del derbi del domingo frente a la UD Ourense",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/16/dos-dias-reseteo-filas-racing-club-ferrol/00031794836719641685376.htm",
+      "time": "2026-11-16T13:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Iago Fuertes se pega un baño de plata en Italia y escala en el ránking global",
+      "description": "El naronés, en pareja con García Calahorro, ganó el FIP Silver de Como",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/16/iago-fuertes-pega-bano-plata-italia-escala-ranking-global/00031794833799520783902.htm",
+      "time": "2026-11-16T13:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Diputación ofrece una aportación « razoable » para reparar la fuga de agua del puente de As Pías",
+      "description": "El organismo provincial señala que concretará la cuantía cuando la Mancomunidade de la comarca de Ferrol presente el proyecto técnico y su presupuesto detallado",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/16/diputacion-colaborara-reparacion-fuga-as-pias/00031794830668442878342.htm",
+      "time": "2026-11-16T12:29:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Retratos contra estigmas: Ferrol muestra la cara más humana de la esclerosis múltiple",
+      "description": "El hospital Naval acoge una exposición fotográfica de personas que conviven con la patología",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/retratos-contra-estigmas-ferrol-muestra-cara-humana-esclerosis-multiple/00031794830002523418766.htm",
+      "time": "2026-11-16T11:58:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Arde un garaje en Narón que en el interior tenía vehículos enchufables",
+      "description": "El incendio se originó a partir de un cuadro ardiendo e intervinieron efectivos del SPEIS, en este edificio del barrio de Freixeiro",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/16/arde-garaje-naron-interior-tenia-vehiculos-enchufables/00031794825550099719860.htm",
+      "time": "2026-11-16T10:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Las carreras ilegales regresan a la provincia de A Coruña con citas por TikTok: «Alerones y multas en polígonos»",
       "description": "Ferrol y Narón concentran las quedadas combatidas con drones y un gran refuerzo policial, las ciudades de A Coruña y Santiago ya las frenaron",
@@ -3153,69 +3234,6 @@
       "description": "Un inconmensurable Caio César y un doblete de Malaguti impulsaron a los de Casas, que avanzan con paso firme en la élite",
       "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/14/parrulo-ferrol-peniscola/00031794682796844597547.htm",
       "time": "2026-11-14T21:12:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las diez mejores imágenes de la visita del Racing Club Ferrol al Bilbao Athletic",
-      "description": "Los de Javi Vázquez no pudieron pasar del empate sin goles en Lezama",
-      "url": "https://www.lavozdegalicia.es/album/oparacing/2026/11/14/diez-mejores-imagenes-visita-racing-club-ferrol-bilbao-athletic/01101794676366645986280.htm",
-      "time": "2026-11-14T17:24:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La naronesa Sara Guerrero conquista el oro mundial de relevos mixto",
-      "description": "La deportista del Náutico Narón compartió el triunfo con Antonio Serrat, Marta Pintanel y David Cantero",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/14/naronesasara-guerrero-conquista-oro-mundial-relevos-mixto/00031794676102122667570.htm",
-      "time": "2026-11-14T17:11:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Banco de Alimentos celebra su gran recogida en Ferrolterra: «Es muy gratificante ver que la gente responde»",
-      "description": "Muchos de los voluntarios son estudiantes de las escuelas de la Armada en Ferrol",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gratificante-ver-gente-responde-necesidades/0003_202611F15C4993.htm",
-      "time": "2026-11-14T16:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez: «Es incomprensible lo que hemos vuelto a vivir»",
-      "description": "El técnico del Racing de Ferrol lamenta la falta de gol tras el empate a ceros",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/14/javi-vazquez-incomprensible-hemos-vuelto-vivir/00031794670846852225305.htm",
-      "time": "2026-11-14T15:45:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» del empate del Racing Club Ferrol contra el Bilbao Athletic",
-      "description": "Los de Javi Vázquez no consiguieron el gol, pese a su gran insistencia",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/14/1x1-xxx-racing-club-ferrol-contra-bilbao-athletic/00031794655241962134931.htm",
-      "time": "2026-11-14T14:08:01+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing Club Ferrol se enquista en Lezama (0-0)",
-      "description": "Los de Javi Vázquez, que apretaron en el tramo final sin lograr decantar la balanza, no pudieron pasar del empatre ante un Bilbao Athletic que jugó en inferioridad desde el minuto 10",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/14/bilbao-athletic-racing-club-ferrol/00031794653836056675434.htm",
-      "time": "2026-11-14T13:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PSOE cierra filas en torno a la inversión industrial del Gobierno en Ferrolterra: «O nivel de compromiso dos partidos se mide con feitos»",
-      "description": "Candidatos y cargos públicos de la formación socialista protagonizaron actos de campaña este sábado en Ferrol y Pontedeume",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/14/psoe-cierra-filas-torno-inversion-industrial-ferrolterra-nivel-compromiso-dos-partidos-coas-institucions-mide-feitos/00031794655203934733268.htm",
-      "time": "2026-11-14T12:20:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
