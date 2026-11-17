@@ -1,7 +1,52 @@
 [
   {
-    "title": "Un apagón dejó sin luz a los vecinos de Valdoviño y obligó a trasladar generadores al centro de salud",
-    "description": "La avería se produjo por las fuertes rachas de viento y se mantuvo al municipio sin servicio durante horas",
+    "title": "Cuatro pasaportes de Ferrolterra para el Campeonato de España de yudo",
+    "description": "Mario Tenreiro, Miguel Trillo, Daniela Sevillano y Alba González de Bernardo aseguraron plaza",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/17/cuatro-pasaportes-ferrolterra-campeonato-espana-yudo/00031794942176499227689.htm",
+    "time": "2026-11-17T19:19:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Javi Vázquez, un motivador perfeccionista al frente del Racing Club Ferrol",
+    "description": "Jugadores y profesionales del fútbol coinciden en destacar la personalidad y temple ante la adversidad del entrenador: «Es un auténtico crac en el diálogo»",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/17/javi-vazquez-motivador-perfeccionista-frente-racing-club-ferrol/00031794939080689669983.htm",
+    "time": "2026-11-17T18:22:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Parque Gándara abre sus puertas este miércoles en Narón: «Ha sido un trabajo de equipo con mucha ilusión»",
+    "description": "La inauguración con los directivos de la compañía y las autoridades tuvo lugar este martes",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/17/parque-gandara-abre-puertas-miercoles-naron/00031794912722275765560.htm",
+    "time": "2026-11-17T16:17:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Lucas Rodríguez extiende el plumaje internacional a la base de O Parrulo Ferrol",
+    "description": "El canterano, preseleccionado con la selección española sub-19, conocerá este jueves si viaja a Serbia",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/17/lucas-rodriguez-extiende-plumaje-internacional-base-parrulo-ferrol/00031794918287505613501.htm",
+    "time": "2026-11-17T12:35:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La CGT denuncia casi un mes de espera para la convocatoria de 99 plazas en Navantia",
+    "description": "La compañía anunció el pasado mes de octubre la oferta de empleo, pero «non se sabe nada delas»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/cgt-denuncia-mes-espera-convocatoria-99-plazas-navantia/00031794916188564488454.htm",
+    "time": "2026-11-17T12:15:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un apagón deja sin luz durante diez horas a 4.000 vecinos de Cedeira y Valdoviño",
+    "description": "La avería se produjo por la caída de una rama en la línea y obligó a trasladar generadores al centro de salud",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/apagon-deja-luz-vecinos-valdovino-madrugada/00031794910327475141183.htm",
     "time": "2026-11-17T10:41:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -36,27 +81,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La Xunta aprueba la creación del Museo de Ferrol y su integración en la red gallega",
-    "description": "Las obras de remodelación del centro cultural Torrente Ballester finalizarán en diciembre",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/xunta-aprueba-creacion-museo-ferrol-integracion-red-gallega/0003_202611F17C6991.htm",
-    "time": "2026-11-17T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Un hombre reconoce que robó dos motosierras a maderistas de montes de San Sadurniño",
     "description": "Aceptó seis meses de prisión, rebajando la condena a la mitad y logrando la suspensión de su entrada en la cárcel",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/11/17/hombre-reconoce-robo-dos-motosierras-maderistas-montes-san-sadurnino/0003_202611F17C2991.htm",
-    "time": "2026-11-17T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "CC.OO. insta a Navantia a cumplir el plan industrial aprobado en octubre",
-    "description": "La compañía llevaba sin este plan desde el 2022, «con las consiguientes inseguridades en cuanto a inversiones, empleo y futuro de la compañía»",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/ccoo-insta-navantia-cumplir-plan-industrial-firmo-octubre/0003_202611F17C4992.htm",
     "time": "2026-11-17T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -193,33 +220,6 @@
     "description": "Ferrol y Narón concentran las quedadas combatidas con drones y un gran refuerzo policial, las ciudades de A Coruña y Santiago ya las frenaron",
     "url": "https://www.lavozdegalicia.es/noticia/lugo/pol/2026/11/16/carreras-ilegales-regresan-provincia-citas-tiktok-alerones-multas-poligonos/0003_202611F16C5_COPY993.htm",
     "time": "2026-11-16T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Gerard Casas: «Hemos ganado, pero creo que hemos dado un paso atrás»",
-    "description": "El técnico reconoce los errores pese a una victoria vital en A Malata",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gerard-casas-hemos-ganado-creo-hemos-dado-paso-atras/00031794759970835537178.htm",
-    "time": "2026-11-15T16:29:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Racing, la búsqueda del gol dentro de un orden más desordenado",
-    "description": "Más allá de que el entrenador tiene que dar unas directrices, el jugador tiene que sacar a relucir su intuición",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/racing-busqueda-gol-orden-desordenado/00031794757699632196563.htm",
-    "time": "2026-11-15T15:56:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Migue Leal: «Tenemos que tener tranquilidad; no hay que volverse locos»",
-    "description": "Alegato a la calma del lateral del Racing, que ve el trabajo como única medida para frenar la sequía anotadora de los ferrolanos",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/migue-lealtenemos-tener-tranquilidad-volverse-loco/00031794754176479616821.htm",
-    "time": "2026-11-15T14:54:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"

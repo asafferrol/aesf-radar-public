@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T11:48:16.800789+00:00",
-  "count": 699,
+  "generated_at": "2026-11-17T20:03:58.303438+00:00",
+  "count": 698,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,51 @@
     }
   },
   "items": [
+    {
+      "title": "Cuatro pasaportes de Ferrolterra para el Campeonato de España de yudo",
+      "description": "Mario Tenreiro, Miguel Trillo, Daniela Sevillano y Alba González de Bernardo aseguraron plaza",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/17/cuatro-pasaportes-ferrolterra-campeonato-espana-yudo/00031794942176499227689.htm",
+      "time": "2026-11-17T19:19:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez, un motivador perfeccionista al frente del Racing Club Ferrol",
+      "description": "Jugadores y profesionales del fútbol coinciden en destacar la personalidad y temple ante la adversidad del entrenador: «Es un auténtico crac en el diálogo»",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/17/javi-vazquez-motivador-perfeccionista-frente-racing-club-ferrol/00031794939080689669983.htm",
+      "time": "2026-11-17T18:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Parque Gándara abre sus puertas este miércoles en Narón: «Ha sido un trabajo de equipo con mucha ilusión»",
+      "description": "La inauguración con los directivos de la compañía y las autoridades tuvo lugar este martes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/17/parque-gandara-abre-puertas-miercoles-naron/00031794912722275765560.htm",
+      "time": "2026-11-17T16:17:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Lucas Rodríguez extiende el plumaje internacional a la base de O Parrulo Ferrol",
+      "description": "El canterano, preseleccionado con la selección española sub-19, conocerá este jueves si viaja a Serbia",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/17/lucas-rodriguez-extiende-plumaje-internacional-base-parrulo-ferrol/00031794918287505613501.htm",
+      "time": "2026-11-17T12:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La CGT denuncia casi un mes de espera para la convocatoria de 99 plazas en Navantia",
+      "description": "La compañía anunció el pasado mes de octubre la oferta de empleo, pero «non se sabe nada delas»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/cgt-denuncia-mes-espera-convocatoria-99-plazas-navantia/00031794916188564488454.htm",
+      "time": "2026-11-17T12:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un apagón dejó sin luz a los vecinos de Valdoviño y obligó a trasladar generadores al centro de salud",
       "description": "La avería se produjo por las fuertes rachas de viento y se mantuvo al municipio sin servicio durante horas",
@@ -6261,60 +6306,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Pontón pide o voto para o BNG desde Narón: «Galiza ten que facerse valer»",
-      "description": "A portavoz do Bloque participou nun mitin en Narón, xunto ao candidato ao Congreso Néstor Rego",
-      "url": "https://www.lavozdegalicia.es/noticia/elecciones-29n/2026/11/15/ponton-pide-voto-bng-naron-galiza-ten-facerse-valer/00031794768100246344717.htm",
-      "time": "2026-11-15T18:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Gerard Casas: «Hemos ganado, pero creo que hemos dado un paso atrás»",
-      "description": "El técnico reconoce los errores pese a una victoria vital en A Malata",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gerard-casas-hemos-ganado-creo-hemos-dado-paso-atras/00031794759970835537178.htm",
-      "time": "2026-11-15T16:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La campaña electoral toma la feria de Ferrol",
-      "description": "Populares y socialistas aprovecharon la cita para repartir folletos informativos; un tromba de agua obligó a retrasar la salida de la comitiva del PP, que terminó cruzándose con la del PSOE, con intercambio de caramelos incluido",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/campana-electoral-toma-feria-ferrol/00031794758891116886709.htm",
-      "time": "2026-11-15T16:15:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing, la búsqueda del gol dentro de un orden más desordenado",
-      "description": "Más allá de que el entrenador tiene que dar unas directrices, el jugador tiene que sacar a relucir su intuición",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/racing-busqueda-gol-orden-desordenado/00031794757699632196563.htm",
-      "time": "2026-11-15T15:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Migue Leal: «Tenemos que tener tranquilidad; no hay que volverse locos»",
-      "description": "Alegato a la calma del lateral del Racing, que ve el trabajo como única medida para frenar la sequía anotadora de los ferrolanos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/migue-lealtenemos-tener-tranquilidad-volverse-loco/00031794754176479616821.htm",
-      "time": "2026-11-15T14:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las vacas flacas del Racing Club Ferrol",
-      "description": "Los de Javi Vázquez, que deben capear una racha de cuatro jornadas sin ganar, cuentan con un precedente esperanzador en la temporada 22-23",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/15/vacas-flacas-racing-club-ferrol/00031794751675939349236.htm",
-      "time": "2026-11-15T14:11:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
