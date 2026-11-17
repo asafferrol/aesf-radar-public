@@ -1,9 +1,126 @@
 [
   {
-    "title": "El viento tira un árbol enorme en un parque muy frecuentado por niños en Cedeira: «Menos mal que no pasaba nadie por debajo»",
-    "description": "El Concello tala por precaución otros dos ejemplares en la plaza de Floreal",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/viento-tira-arbol-grandes-dimensiones-parque-frecuentado-ninos-cedeira-mal-pasaba-debajo/00031794855143798739316.htm",
-    "time": "2026-11-16T19:09:00+00:00",
+    "title": "Un apagón dejó sin luz a los vecinos de Valdoviño y obligó a trasladar generadores al centro de salud",
+    "description": "La avería se produjo por las fuertes rachas de viento y se mantuvo al municipio sin servicio durante horas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/apagon-deja-luz-vecinos-valdovino-madrugada/00031794910327475141183.htm",
+    "time": "2026-11-17T10:41:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La orquesta Olympus protagonizará la fiesta de Fin de Año en Fene",
+    "description": "La celebración en la plaza del Concello incluirá sesión de DJ Oski & Hugo, servicio de guardarropa y chocolate con churros gratis hasta las seis de la mañana",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/orquesta-olympus-protagonizara-fiesta-fin-ano-fene/00031794907192951613307.htm",
+    "time": "2026-11-17T09:29:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Las subastas por deudas cogen fuerza en Ferrol y Narón",
+    "description": "El edificio de una promotora que debe casi 400.000 euros está en pujas judiciales en Narón, alguna vivienda tiene ocupantes sin derecho a permanencia y otra con derecho a permanencia",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/17/subastas-deudas-cogen-fuerza/0003_202611F17C1_COPY991.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El embalse de As Forcadas, a un cuarto de su capacidad pese a las lluvias",
+    "description": "La Diputación se abre a colaborar en la reparación de la fuga de As Pías, pero sin concretar la cuantía a la espera del proyecto que elaborará la Mancomunidad de municipios de la comarca de Ferrol",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/as-forcadas-cuarto-capacidad/0003_202611F17C3991.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La Xunta aprueba la creación del Museo de Ferrol y su integración en la red gallega",
+    "description": "Las obras de remodelación del centro cultural Torrente Ballester finalizarán en diciembre",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/xunta-aprueba-creacion-museo-ferrol-integracion-red-gallega/0003_202611F17C6991.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un hombre reconoce que robó dos motosierras a maderistas de montes de San Sadurniño",
+    "description": "Aceptó seis meses de prisión, rebajando la condena a la mitad y logrando la suspensión de su entrada en la cárcel",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/san-sadurnino/2026/11/17/hombre-reconoce-robo-dos-motosierras-maderistas-montes-san-sadurnino/0003_202611F17C2991.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "CC.OO. insta a Navantia a cumplir el plan industrial aprobado en octubre",
+    "description": "La compañía llevaba sin este plan desde el 2022, «con las consiguientes inseguridades en cuanto a inversiones, empleo y futuro de la compañía»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/ccoo-insta-navantia-cumplir-plan-industrial-firmo-octubre/0003_202611F17C4992.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Difusión cultural",
+    "description": "La Asociación de Persoas Xordas de Ferrolterra organizó una charla sobre Torrente Ballester",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/difusion-cultural/00031794851807295801348.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Broche final para Festea",
+    "description": "El ciclo de teatro de marionetas y objetos animados se despidió este domingo con la compañía lusa Krisálida",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/broche-final-festea/00031794851674945565620.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Escolares ferrolanos reconstruyen la vida en los castros",
+    "description": "La UDC y el Concello involucran a los más pequeños en la arqueología y el patrimonio histórico",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/escolares-ferrolanos-reconstruyen-vida-castros/00031794851439378868305.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Setas de más de un kilo en Narón: «En 60 años no había visto nada igual»",
+    "description": "Fueron halladas en bosques de Xuvia en perfectas condiciones, algo muy poco habitual en ejemplares de este calibre",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/16/setas-kilo-naron-60-anos-habia-visto-igual/00031794849096856682111.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Un queixo de Lácteos de Moeche, premiado nos World Cheese Awards",
+    "description": "No certame participaron 5.330 queixos de 45 países",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/moeche/2026/11/17/queixo-lacteos-moeche-premiado-world-cheese-awards/0003_202611F17C5993.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El visado de nuevas viviendas en Ferrol se dispara un 204 % en siete meses",
+    "description": "El Colegio Oficial de la Arquitectura Técnica indica «que es un dato inédito hasta la fecha»",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/16/visado-nuevas-viviendas-ferrol-dispara-204-siete-meses/00031794853771360389755.htm",
+    "time": "2026-11-17T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El PP de Ares presenta a su candidato para las municipales",
+    "description": "Se trata del hasta ahora presidente de la gestora del partido en el localidad, Marcos Carballo",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ares/2026/11/17/pp-ares-presenta-candidato-municipales/0003_202611F17C5994.htm",
+    "time": "2026-11-17T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -54,28 +171,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "La Diputación ofrece una aportación « razoable » para reparar la fuga de agua del puente de As Pías",
-    "description": "El organismo provincial señala que concretará la cuantía cuando la Mancomunidade de la comarca de Ferrol presente el proyecto técnico y su presupuesto detallado",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/16/diputacion-colaborara-reparacion-fuga-as-pias/00031794830668442878342.htm",
-    "time": "2026-11-16T12:29:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Retratos contra estigmas: Ferrol muestra la cara más humana de la esclerosis múltiple",
     "description": "El hospital Naval acoge una exposición fotográfica de personas que conviven con la patología",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/retratos-contra-estigmas-ferrol-muestra-cara-humana-esclerosis-multiple/00031794830002523418766.htm",
     "time": "2026-11-16T11:58:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Arde un garaje en Narón que en el interior tenía vehículos enchufables",
-    "description": "El incendio se originó a partir de un cuadro ardiendo e intervinieron efectivos del SPEIS, en este edificio del barrio de Freixeiro",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/16/arde-garaje-naron-interior-tenia-vehiculos-enchufables/00031794825550099719860.htm",
-    "time": "2026-11-16T10:51:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -99,46 +198,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Roger de Lauria, invicto Almirante de Aragón",
-    "description": "El nombre del ilustre marino volverá a surcar los mares a bordo de la F-112 Roger de Lauria",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/roger-lauria-invicto-almirante-aragon/0003_202611F16C8993.htm",
-    "time": "2026-11-16T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Vecinos de Narón denuncian que llevan años conviviendo con goteras y humedades",
-    "description": "Se trata de un edificio que suma más de 60 viviendas de protección autonómica en el barrio de O Alto",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/16/vecinos-naron-denuncian-llevan-anos-conviviendo-goteras-humedades/0003_202611F16C3991.htm",
-    "time": "2026-11-16T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Aberto o prazo para solicitar as axudas municipais de Neda para libros e material escolar",
-    "description": "Poderanse solicitar ata o 1 de decembro",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/11/16/span-langglaberto-prazo-solicitar-as-axudas-municipais-neda-libros-material-escolarspan/0003_202611F16C3992.htm",
-    "time": "2026-11-16T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Gerard Casas: «Hemos ganado, pero creo que hemos dado un paso atrás»",
     "description": "El técnico reconoce los errores pese a una victoria vital en A Malata",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gerard-casas-hemos-ganado-creo-hemos-dado-paso-atras/00031794759970835537178.htm",
     "time": "2026-11-15T16:29:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La campaña electoral toma la feria de Ferrol",
-    "description": "Populares y socialistas aprovecharon la cita para repartir folletos informativos; un tromba de agua obligó a retrasar la salida de la comitiva del PP, que terminó cruzándose con la del PSOE, con intercambio de caramelos incluido",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/campana-electoral-toma-feria-ferrol/00031794758891116886709.htm",
-    "time": "2026-11-15T16:15:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -162,27 +225,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Las vidas detrás del Narón de 40.000 habitantes: «La localidad tiene una personalidad única»",
-    "description": "La vivienda, los servicios y su ubicación estratégica están detrás del aumento de población del concello; cuatro vecinos que se mudaron recientemente cuentan sus historias",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/14/vidas-detras-naron-40000-habitantes-localidad-personalidad-unica/00031794674252714296840.htm",
-    "time": "2026-11-15T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Juan Manuel Bermúdez, investigador de la UDC: «Siempre quise ser científico para aportar algo de utilidad a la sociedad»",
-    "description": "No sueña con el nobel, pero sí con desarrollar a escala comercial refrigerantes de neveras a partir de plásticos y latas",
-    "url": "https://www.lavozdegalicia.es/noticia/ciencia/2026/11/15/siempre-quise-cientifico-aportar-utilidad-sociedad/0003_202611F15C12993.htm",
-    "time": "2026-11-15T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La Kopistería impulsa la primera librería solidaria de Ferrol",
-    "description": "Finu García Moreno decidió implementar esta iniciativa en su negocio",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/15/kopisteria-impulsa-primera-libreria-solidaria-ferrol/0003_202611F15C4992.htm",
+    "title": "Abierta una nueva convocatoria con pisos de alquiler asequible en Ares, Ferrol y Cedeira",
+    "description": "Casa 47 pone a disposición un total de cinco viviendas repartidas entre los tres municipios",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/abren-nueva-convocatoria-pisos-alquiler-asequible-ares-ferrol-cedeira/0003_202611F15C4991.htm",
     "time": "2026-11-15T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -198,9 +243,9 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Abierta una nueva convocatoria con pisos de alquiler asequible en Ares, Ferrol y Cedeira",
-    "description": "Casa 47 pone a disposición un total de cinco viviendas repartidas entre los tres municipios",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/abren-nueva-convocatoria-pisos-alquiler-asequible-ares-ferrol-cedeira/0003_202611F15C4991.htm",
+    "title": "La Kopistería impulsa la primera librería solidaria de Ferrol",
+    "description": "Finu García Moreno decidió implementar esta iniciativa en su negocio",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/15/kopisteria-impulsa-primera-libreria-solidaria-ferrol/0003_202611F15C4992.htm",
     "time": "2026-11-15T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -216,37 +261,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El Banco de Alimentos celebra su gran recogida en Ferrolterra: «Es muy gratificante ver que la gente responde»",
-    "description": "Muchos de los voluntarios son estudiantes de las escuelas de la Armada en Ferrol",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/15/gratificante-ver-gente-responde-necesidades/0003_202611F15C4993.htm",
-    "time": "2026-11-14T16:41:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La red BNI Albatros impulsa el negocio empresarial local",
-    "description": "El grupo que fomenta el intercambio de negocios entre emprendedores estrena directiva",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/red-bni-albatros-impulsa-negocio-empresarial-local/00031794592310750137625.htm",
-    "time": "2026-11-14T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Intercambio educativo",
-    "description": "La Escola Oficial de Idiomas de Ferrol acoge a dos alumnas de Finlandia",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/intercambio-educativo/00031794592609432567193.htm",
-    "time": "2026-11-14T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Cocina saludable",
-    "description": "Los cursos de cocina de José Manuel Loureiro se llenan de alumnos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/13/cocina-saludable/00031794592460154646231.htm",
-    "time": "2026-11-14T04:00:00+00:00",
+    "title": "Las vidas detrás del Narón de 40.000 habitantes: «La localidad tiene una personalidad única»",
+    "description": "La vivienda, los servicios y su ubicación estratégica están detrás del aumento de población del concello; cuatro vecinos que se mudaron recientemente cuentan sus historias",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/14/vidas-detras-naron-40000-habitantes-localidad-personalidad-unica/00031794674252714296840.htm",
+    "time": "2026-11-15T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -261,28 +279,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Raul Veiga estrea a súa película en Ferrol: «Inspiroume a transformación que vin na miña esposa cando se tornou avoa»",
-    "description": "O Dúplex Cinema de Ferrol acolle este luns o estreo do filme «A avoa e o amor», seguido dun coloquio co director",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/12/raul-veiga-estrea-sua-pelicula-ferrol-inspiroume-transformacion-vin-na-mina-esposa-cando-tornou-avoa/00031794501755003952424.htm",
-    "time": "2026-11-14T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "De vigilar buques rusos en Galicia a desplegarse en África: así opera la flota de patrulleros de Ferrol",
     "description": "Cinco barcos con dotaciones que suman doscientos militares combinan tareas dentro de aguas nacionales y misiones internacionales",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/15/patrulleros-vigilar-atlantico-operar-africa/0003_202611F15C2998.htm",
     "time": "2026-11-14T03:47:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Ramiro Ledo: «Unha cidade con cines é unha cidade mellor»",
-    "description": "O director dos Duplex, os únicos cinemas que quedan en Ferrol, sinala que «La bola negra» funcionou para que moita xente redescubra as salas; este mes de outubro foi o mellor da súa historia",
-    "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/11/13/span-langglvivir-do-cine-e-sono-feito-realidadespan/0003_202611E13P48993.htm",
-    "time": "2026-11-13T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
