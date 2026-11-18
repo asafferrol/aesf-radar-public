@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-18T10:21:44.265271+00:00",
-  "count": 584,
+  "generated_at": "2026-11-18T18:54:37.407886+00:00",
+  "count": 583,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
-      "count": 48,
+      "count": 47,
       "name": "La Voz de Galicia · Ferrol"
     },
     "dog": {
@@ -25,6 +25,69 @@
     }
   },
   "items": [
+    {
+      "title": "El Racing Genuine inicia en Tarragona su cuarta temporada",
+      "description": "El sábado jugarán frente a la UD Ibiza y el Levante UD EDI, mientras que el domingo se medirán a la Fundación Málaga CF",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/equipo-genuine-inicia-tarragona-cuarta-temporada/00031795022800726973349.htm",
+      "time": "2026-11-18T17:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "O Couto, un campo y tres rivales en la historia del Racing de Ferrol",
+      "description": "Este domingo, ante la UD Ourense, rendirá su vigésimoquinta visita al recinto",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/couto-campo-tres-rivales-historia-racing-ferrol/00031795022601088642122.htm",
+      "time": "2026-11-18T17:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Piden 60.001 euros de multa para un seguidor con prohibición de acceso al estadio",
+      "description": "Los hechos sucedieron en el encuentro frente a la SD Ponferradina",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/piden-60001-euros-multa-seguidor-prohibicion-acceso-estadio/00031795022255937437576.htm",
+      "time": "2026-11-18T17:20:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Casi 1.300 estudiantes buscan en Ferrol el futuro de sus sueños: «Hay muchísimas opciones»",
+      "description": "El Auditorio Álvaro Lamas acoge este miércoles la II Feira de Educación e Formación, organizada por el Concello y la UDC",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/19/1300-estudiantes-busca-futuro-muchisimas-opciones/0003_202611F19C2991.htm",
+      "time": "2026-11-18T16:40:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El rey regresa este jueves a Ferrol para supervisar unidades de la Armada en su cuarta visita oficial",
+      "description": "Felipe VI estará al mediodía en el Cuartel de Dolores, sin invitación a las habituales autoridades civiles",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/18/rey-regresa-jueves-ferrol-visitar-unidades-armada-cuarta-visitaoficial/00031795018990084460646.htm",
+      "time": "2026-11-18T16:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Desprendimiento en el local de Ferrol en el que Aspaneps atiende a niños con problemas psicosociales: «Esto es un peligro»",
+      "description": "Elementos de la pared y la persiana se vinieron abajo en plena noche en un edificio de Defensa situado en Canido que está a la espera de su adquisición por el Concello",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/18/desprendimiento-local-ferrol-aspaneps-atiende-ninos-seis-anos/00031795001041801382957.htm",
+      "time": "2026-11-18T13:30:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol recurre a las tomas inferiores de As Forcadas para garantizar el abastecimiento de agua",
+      "description": "La medida se adoptó el pasado viernes, cuando el embalse tocó su suelo histórico, con un 25,07 % de nivel de ocupación",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/18/ferrolabrio-tomas-inferiores-as-forcadas-garantizar-abastecimiento-agua/00031794993993629320661.htm",
+      "time": "2026-11-18T10:22:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El Serviola colaboró con artillería de costa y con la estación de vigilancia de Ceuta",
       "description": "El patrullero, con base en Ferrol, se centró fundamentalmente en el seguimiento de «embarcaciones de interés»",
@@ -5205,78 +5268,6 @@
       "description": "El Concello tala por precaución otros dos ejemplares en la plaza de Floreal",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/viento-tira-arbol-grandes-dimensiones-parque-frecuentado-ninos-cedeira-mal-pasaba-debajo/00031794855143798739316.htm",
       "time": "2026-11-16T19:09:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Monju y Bernal siembran racinguismo en el Colegio Arenales Compañía",
-      "description": "Los jugadores del Racing Club Ferrol visitaron este lunes al alumnado de quinto y sexto de primaria",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/16/monju-bernal-siembran-racinguismo-colegio-arenales-compania/00031794847826101260324.htm",
-      "time": "2026-11-16T16:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol se va de bares en busca de la mejor tapa: «Agotamos existencias»",
-      "description": "Éxito en el primer fin de semana del certamen, que dura hasta el domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/17/ferrol-va-bares-busca-mejor-tapa-agotamos-existencias/0003_202611F17C4991.htm",
-      "time": "2026-11-16T16:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez y el aval de la experiencia para capear el bache del Racing",
-      "description": "El madrileño ya lidió con rachas similares o peores a la actual del club ferrolano en el Algeciras o el Talavera y acabó saliendo a flote",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/16/javi-vazquez-aval-experiencia-capear-bache-racing/00031794844478570502765.htm",
-      "time": "2026-11-16T16:03:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dos días de reseteo antes de volver al ruedo en el Racing Club Ferrol",
-      "description": "El cuerpo técnico arrancará el miércoles la preparación del derbi del domingo frente a la UD Ourense",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/16/dos-dias-reseteo-filas-racing-club-ferrol/00031794836719641685376.htm",
-      "time": "2026-11-16T13:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Iago Fuertes se pega un baño de plata en Italia y escala en el ránking global",
-      "description": "El naronés, en pareja con García Calahorro, ganó el FIP Silver de Como",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/16/iago-fuertes-pega-bano-plata-italia-escala-ranking-global/00031794833799520783902.htm",
-      "time": "2026-11-16T13:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Diputación ofrece una aportación « razoable » para reparar la fuga de agua del puente de As Pías",
-      "description": "El organismo provincial señala que concretará la cuantía cuando la Mancomunidade de la comarca de Ferrol presente el proyecto técnico y su presupuesto detallado",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/16/diputacion-colaborara-reparacion-fuga-as-pias/00031794830668442878342.htm",
-      "time": "2026-11-16T12:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Retratos contra estigmas: Ferrol muestra la cara más humana de la esclerosis múltiple",
-      "description": "El hospital Naval acoge una exposición fotográfica de personas que conviven con la patología",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/retratos-contra-estigmas-ferrol-muestra-cara-humana-esclerosis-multiple/00031794830002523418766.htm",
-      "time": "2026-11-16T11:58:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arde un garaje en Narón que en el interior tenía vehículos enchufables",
-      "description": "El incendio se originó a partir de un cuadro ardiendo e intervinieron efectivos del SPEIS, en este edificio del barrio de Freixeiro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/16/arde-garaje-naron-interior-tenia-vehiculos-enchufables/00031794825550099719860.htm",
-      "time": "2026-11-16T10:51:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
