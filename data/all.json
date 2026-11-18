@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T02:20:11.332286+00:00",
-  "count": 432,
+  "generated_at": "2026-11-18T10:21:44.265271+00:00",
+  "count": 584,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -14,7 +14,7 @@
     },
     "boe": {
       "ok": true,
-      "count": 289,
+      "count": 146,
       "name": "BOE"
     },
     "youtube": {
@@ -25,6 +25,132 @@
     }
   },
   "items": [
+    {
+      "title": "El Serviola colaboró con artillería de costa y con la estación de vigilancia de Ceuta",
+      "description": "El patrullero, con base en Ferrol, se centró fundamentalmente en el seguimiento de «embarcaciones de interés»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/serviola-colaboro-artilleria-costa-estacion-vigilancia-ceuta/00031794996088472283724.htm",
+      "time": "2026-11-18T10:12:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos heridos y grandes retenciones al chocar un camión y un coche en la autopista, en Pontedeume",
+      "description": "La colisión por alcance se produjo en el kilómetro 24, según informa la Guardia Civil, provocando caravanas hasta el túnel da Pedra do Couto; en San Sadurniño también hubo otro accidente",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/18/dos-heridos-grandes-retenciones-chocar-camion-coche-autopista-pontedeume/00031794992564950572900.htm",
+      "time": "2026-11-18T09:21:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El nuevo paseo de Irmandiños avanza hacia su estreno este año en Ferrol",
+      "description": "En marcha el aglomerado que abre la recta final del proyecto que derribó la muralla del Arsenal Militar",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/18/irmandinos-estreno-ano/0003_202611F18C1991.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Cárcel para el jefe de una obra en Ortigueira donde dos obreros se rompieron brazos, piernas y costillas",
+      "description": "Al coordinador de seguridad le cayeron tres meses de prisión, los empresarios quedaron absueltos en el juicio en Ortigueira y después en la Audiencia Provincial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/carcel-jefe-obra-dos-obreros-rompieron-brazos-piernas-costillas/0003_202611F18C4992.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PSOE carga contra el Concello de Ferrol por no abrir el parque canino de Catabois: «Non lles da a gaña»",
+      "description": "Ángel Mato asegura que el retraso se debe a que el alcalde «non pode ir a sacarse a foto»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/psoe-carga-contra-concello-abrir-parque-canino-catabois-non-lles-da-gana/0003_202611F18C2993.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Trece recetas competirán en «As Pontes, Terra de Cogomelos»",
+      "description": "La asociación vecinal A Choupana acogerá el día 28 el concurso gastronómico",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/11/18/trece-recetas-competiran-as-pontes-terra-cogomelos/0003_202611F18C6993.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "«Magusto» en Canido",
+      "description": "El barrio ferrolano vivió una jornada de encuentro vecinal con música y castañas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/magusto-canido/00031794936437552984529.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Postales solidarias",
+      "description": "La asociación Asotrame recoge en Odeón mensajes para dar ánimos a los pacientes de cáncer hematológico",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/postales-solidarias/00031794936580258974150.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Dos carreras, dos trabajos y dos hijas con 30 años: «Los días normales casi nunca existen»",
+      "description": "El ferrolano Jacinto Portela estudió Farmacia primero y Óptica y Optometría después; ahora está al frente de una botica en Valdoviño y una óptica en Narón; además, es padre de una niña de un año y medio y en unas semanas llegará la segunda",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/dos-carreras-dos-trabajos-dos-hijas-30-anos-renunciaria-/00031794912399795926784.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PP critica la política energética del PSOE, que aborda retos económicos con el empresariado",
+      "description": "El candidato popular al Senado José Manuel Rey Varela visitó Megasa junto a Alberto Nadal, Julián Reina se reunió con Cofer y Néstor Rego pidió en As Pontes el voto para el BNG para frenar a la derecha",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/pp-critica-politica-energetica-psoe-aborda-retos-economicos-empresariado/0003_202611F18C4991.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Chus Andrade, elegida persona del año por el voluntariado de ASCM",
+      "description": "Con esta iniciativa se busca reconocer la dedicación y la implicación de quienes aportan su tiempo e ilusión a la entidad",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/chus-andrade-elegida-persona-ano-voluntariado-ascm/0003_202611F18C2991.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una descarga de blues, «soul» y emoción con Robert Finley",
+      "description": "A sus 72 años, el músico estadounidense encandiló a un teatro Jofre hasta la bandera",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/descarga-blues-soul-emocion-robert-finley/00031794935802101501795.htm",
+      "time": "2026-11-18T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los últimos aprendices de Astano: «Cando vemos a grúa sentimos nostalxia e rabia»",
+      "description": "De las botaduras de petroleros a la dura reconversión, los operarios que hace 50 años entraron en el astillero de Fene celebran su lucha y su amistad junto a su profesor Manuel Caldevilla",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/18/ultimos-aprendices-astano-cando-vemos-grua-sentimos-nostalxia-rabia/0003_202611F18C3_COPY992.htm",
+      "time": "2026-11-18T03:55:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Mar instala un dique flotante y draga el muelle de Barallobre, que alberga 110 embarcaciones",
+      "description": "Invierte en torno a 1,3 millones de euros en el puerto pesquero",
+      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/18/mar-instala-dique-flotante-draga-muelle-barallobre-alberga-110-embarcaciones/0003_202611F18C6992.htm",
+      "time": "2026-11-18T03:51:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "DECRETO 139/2026, de 9 de noviembre, por el que se modifica el Decreto 145/2024, de 20 de mayo, por el que se establece la estructura orgánica del Servicio Gallego de Salud.",
       "description": "I. Disposiciones generales Consellería de Sanidad",
@@ -536,6 +662,1320 @@
       "time": "2026-11-17T23:00:00+00:00",
       "source": "DOG · Xunta de Galicia",
       "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Sumario",
+      "description": "Sumario del diario núm. 287, correspondiente al miércoles 18 de noviembre de 2026. - Referencia: BOE-S-2026-287 - KBytes: 347",
+      "url": "https://www.boe.es/boe/dias/2026/11/18/",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto-ley 37/2026, de 17 de noviembre, por el que se aprueban medidas urgentes en materia de retribuciones del personal al servicio del sector público.",
+      "description": "I. Disposiciones generales - JEFATURA DEL ESTADO - Medidas urgentes - Referencia: BOE-A-2026-24119 - KBytes: 211 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24119",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto-ley 38/2026, de 17 de noviembre, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial y medidas fiscales urgentes para evitar la tributación del salario mínimo interprofesional de 2027 en el Impuesto sobre la Renta de las Personas Físicas.",
+      "description": "I. Disposiciones generales - JEFATURA DEL ESTADO - Medidas urgentes - Referencia: BOE-A-2026-24120 - KBytes: 317 - Páginas: 19",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24120",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto-ley 39/2026, de 17 de noviembre, por el que se modifican el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre; el Real Decreto 902/2020, de 13 de octubre, de igualdad retributiva entre mujeres y hombres; la Ley 3/2023, de 28 de febrero, de Empleo; y el Real Decreto 723/2026, de 9 de septiembre, por el que se transpone la Directiva (UE) 2019/1152 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a unas condiciones laborales transparentes y previsibles en la Unión Europea.",
+      "description": "I. Disposiciones generales - JEFATURA DEL ESTADO - Medidas urgentes - Referencia: BOE-A-2026-24121 - KBytes: 367 - Páginas: 31",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24121",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Acuerdo sobre Transporte Aéreo entre el Reino de España y la República Oriental del Uruguay, hecho en Kuala Lumpur el 22 de octubre de 2024.",
+      "description": "I. Disposiciones generales - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Tratados internacionales - Referencia: BOE-A-2026-24122 - KBytes: 279 - Páginas: 14",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24122",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto 1027/2026, de 17 de noviembre, por el que se dispone el cese de doña María Marcos Salvador como Directora del Departamento de Seguridad de la Presidencia del Gobierno.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - PRESIDENCIA DEL GOBIERNO - Ceses - Referencia: BOE-A-2026-24123 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24123",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 17 de noviembre de 2026, de la Presidencia del Congreso de los Diputados, por la que se declara la vacante del cargo de Defensor del Pueblo.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CORTES GENERALES - Defensor del Pueblo - Referencia: BOE-A-2026-24124 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24124",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Real Decreto 1028/2026, de 17 de noviembre, por el que se nombra Gobernadora Alterna por España en el Banco Africano de Desarrollo, el Fondo Africano de Desarrollo, el Banco Asiático de Desarrollo, el Fondo Asiático de Desarrollo, la Corporación Interamericana de Inversiones y el Banco Interamericano de Desarrollo a doña Paula Conthe Calvo.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Nombramientos - Referencia: BOE-A-2026-24125 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24125",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 13 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de septiembre de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Destinos - Referencia: BOE-A-2026-24126 - KBytes: 201 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24126",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, la Subsecretaría, por la que se resuelve concurso específico, convocado por Resolución de 2 de marzo de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE HACIENDA - Destinos - Referencia: BOE-A-2026-24127 - KBytes: 2058 - Páginas: 47",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24127",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 2 de marzo de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE HACIENDA - Destinos - Referencia: BOE-A-2026-24128 - KBytes: 1423 - Páginas: 32",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24128",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden EFD/1234/2026, de 10 de noviembre, por la que, a propuesta de la Consejería de Educación de la Comunidad Autónoma del Principado de Asturias, se nombra funcionaria de carrera del Cuerpo de Catedráticos de Enseñanza Secundaria a doña Lucía Pérez González.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Nombramientos - Referencia: BOE-A-2026-24129 - KBytes: 193 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24129",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 2 de julio de 2026.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Destinos - Referencia: BOE-A-2026-24130 - KBytes: 573 - Páginas: 15",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24130",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de noviembre de 2026, de la Universidad de Vigo, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24131 - KBytes: 190 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24131",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de noviembre de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don Rafael Molina Carmona.",
+      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24132 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24132",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de noviembre de 2026, de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo, por la que se aprueban las bases y se convoca la provisión de plaza de Coordinador/a de la Cooperación Española en Panamá.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Personal laboral - Referencia: BOE-A-2026-24133 - KBytes: 267 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24133",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de noviembre de 2026, de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo, por la que se aprueban las bases y se convoca la provisión de plaza de Coordinador/a de la Cooperación Española en Senegal.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Personal laboral - Referencia: BOE-A-2026-24134 - KBytes: 278 - Páginas: 8",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24134",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Orden PJC/1235/2026, de 10 de noviembre, por la que se convoca concurso para la provisión de plaza de notario/a, adscrito a la Dirección General de Seguridad Jurídica y Fe Pública.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Notarios - Referencia: BOE-A-2026-24135 - KBytes: 264 - Páginas: 10",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24135",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Consorcio de la Ciudad de Santiago de Compostela, por la que se aprueba y publica la relación provisional de personas admitidas y excluidas del proceso selectivo para la provisión, por el sistema general de acceso libre, de plazas de personal laboral fijo en la Orquesta Real Filharmonía de Galicia, convocado por Resolución de 21 de septiembre de 2026.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE HACIENDA - Personal laboral - Referencia: BOE-A-2026-24136 - KBytes: 302 - Páginas: 6",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24136",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 10 de noviembre de 2026, de la Subsecretaría, por la que se convoca el proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Ingenieros Técnicos en Topografía.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Cuerpo de Ingenieros Técnicos en Topografía - Referencia: BOE-A-2026-24137 - KBytes: 416 - Páginas: 31",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24137",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 21 de octubre de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Personal funcionario. Concursos - Referencia: BOE-A-2026-24138 - KBytes: 1613 - Páginas: 76",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24138",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 10 de noviembre de 2026, de la Subsecretaría, por la que se amplía el plazo para resolver la convocatoria de libre designación, efectuada por Resolución de 2 de septiembre de 2026.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Procedimientos de libre designación - Referencia: BOE-A-2026-24139 - KBytes: 189 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24139",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 13 de noviembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Procedimientos de libre designación - Referencia: BOE-A-2026-24140 - KBytes: 249 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24140",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 5 de noviembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Procedimientos de libre designación - Referencia: BOE-A-2026-24141 - KBytes: 254 - Páginas: 5",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24141",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 16 de noviembre de 2026, de la Subsecretaría, por la que se corrigen errores en la de 3 de noviembre de 2026, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Personal funcionario. Concursos - Referencia: BOE-A-2026-24142 - KBytes: 190 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24142",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Procedimientos de libre designación - Referencia: BOE-A-2026-24143 - KBytes: 235 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24143",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 10 de noviembre de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en el departamento y en el Real Patronato sobre Discapacidad.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Personal funcionario. Concursos - Referencia: BOE-A-2026-24144 - KBytes: 1048 - Páginas: 47",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24144",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de la Función Pública, por la que se convoca concurso unitario de provisión de puestos de trabajo reservados a personal funcionario de administración local con habilitación de carácter nacional para el año 2026.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA - Funcionarios de administración local con habilitación de carácter nacional - Referencia: BOE-A-2026-24145 - KBytes: 5117 - Páginas: 147",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24145",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de la Función Pública, por la que se publica la convocatoria del concurso unitario de provisión de puestos de trabajo reservados a personal funcionario de administración local con habilitación de carácter nacional, en el ámbito de la Comunidad Autónoma del País Vasco.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA - Funcionarios de administración local con habilitación de carácter nacional - Referencia: BOE-A-2026-24146 - KBytes: 192 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24146",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de Profesorado y Personal de Centros Públicos, del Departamento de Educación y Formación Profesional, por la que se publica la convocatoria de concurso oposición para el ingreso y acceso a la función pública docente y adquisición de nuevas especialidades.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - COMUNIDAD AUTÓNOMA DE CATALUÑA - Cuerpos de funcionarios docentes - Referencia: BOE-A-2026-24147 - KBytes: 189 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24147",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 13 de noviembre de 2026, de la Dirección General de Recursos Humanos, de la Consejería de Educación, Ciencia y Universidades, por la que se publica la convocatoria del procedimiento selectivo de ingreso al Cuerpo de Catedráticos de Música y Artes Escénicas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - COMUNIDAD DE MADRID - Cuerpos de funcionarios docentes - Referencia: BOE-A-2026-24148 - KBytes: 232 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24148",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 28 de septiembre de 2026, del Ayuntamiento de María (Almería), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24149 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24149",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 26 de octubre de 2026, del Ayuntamiento de La Puebla de Montalbán (Toledo), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24150 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24150",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 6 de noviembre de 2026, del Ayuntamiento de L'Alfàs del Pi (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24151 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24151",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, del Ayuntamiento de Burgos, referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24152 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24152",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, del Ayuntamiento de Estepona (Málaga), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24153 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24153",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, del Ayuntamiento de Navalcarnero (Madrid), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24154 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24154",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, del Ayuntamiento de Alicante, Patronato Municipal de Educación Infantil, referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24155 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24155",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Diputación Provincial de Valencia/València, referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24156 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24156",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, del Ayuntamiento de Castelldefels (Barcelona), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24157 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24157",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, del Ayuntamiento de Castelldefels (Barcelona), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24158 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24158",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, del Ayuntamiento de Oviedo (Asturias), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24159 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24159",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de La Puebla de Cazalla (Sevilla), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24160 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24160",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Salt (Girona), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24161 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24161",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Benamejí (Córdoba), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24162 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24162",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Fortuna (Murcia), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24163 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24163",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Consejo Insular de Formentera (Illes Balears), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24164 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24164",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Castelldefels (Barcelona), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24165 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24165",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Barakaldo (Bizkaia), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24166 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24166",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Laredo (Cantabria), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24167 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24167",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Sant Antoni de Portmany (Illes Balears), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24168 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24168",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Alpedrete (Madrid), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24169 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24169",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Salobreña (Granada), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24170 - KBytes: 188 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24170",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, de la Diputación Provincial de Palencia, referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24171 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24171",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Almoradí (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24172 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24172",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Viladecans (Barcelona), referente a la convocatoria para proveer una plaza.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24173 - KBytes: 186 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24173",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Godella (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24174 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24174",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 10 de noviembre de 2026, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Cuerpos docentes universitarios - Referencia: BOE-A-2026-24175 - KBytes: 253 - Páginas: 11",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24175",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Universidad Jaume I, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Técnica Básica de Laboratorios.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Personal técnico, de gestión y de administración y servicios - Referencia: BOE-A-2026-24176 - KBytes: 426 - Páginas: 11",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24176",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Universidad Jaume I, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Técnica Básica de Laboratorios.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Personal técnico, de gestión y de administración y servicios - Referencia: BOE-A-2026-24177 - KBytes: 282 - Páginas: 11",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24177",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Universidad Jaume I, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Media de Asesoramiento Lingüístico.",
+      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Personal técnico, de gestión y de administración y servicios - Referencia: BOE-A-2026-24178 - KBytes: 267 - Páginas: 11",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24178",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con la Universidad de León, para la realización de prácticas de los alumnos de grado y posgrado.",
+      "description": "III. Otras disposiciones - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Comunidad de Castilla y León. Convenio - Referencia: BOE-A-2026-24179 - KBytes: 262 - Páginas: 9",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24179",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 23 de octubre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio de encomienda de gestión al Ayuntamiento de El Cerro de Andévalo, para la ejecución de obras de reforma y rehabilitación de la casa-cuartel de la Guardia Civil de titularidad estatal radicada en el municipio, en el marco del Programa de Fomento de Empleo Agrario.",
+      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Encomienda de gestión - Referencia: BOE-A-2026-24180 - KBytes: 220 - Páginas: 6",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24180",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 12 de noviembre de 2026, de la Dirección General del Libro, del Cómic y de la Lectura, por la que se publica el Convenio con la Biblioteca Nacional de España, O.A., para regular el suministro y uso de metadatos y miniaturas.",
+      "description": "III. Otras disposiciones - MINISTERIO DE CULTURA - Convenios - Referencia: BOE-A-2026-24181 - KBytes: 231 - Páginas: 7",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24181",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica la Adenda de prórroga del Convenio con la Fundación Ramón Areces, para el desarrollo del proyecto «Nuevas perspectivas en el estudio de cambios de circulación oceánica, utilizando trazadores radioactivos ambientales» en el marco del Programa Retorno del Talento 2024.",
+      "description": "III. Otras disposiciones - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Convenios - Referencia: BOE-A-2026-24182 - KBytes: 201 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24182",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 10 de noviembre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre el Instituto Social de la Marina de Las Palmas y el Gobierno de Canarias, para la administración y participación en gastos de inmuebles de uso compartido en Arrecife.",
+      "description": "III. Otras disposiciones - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Comunidad Autónoma de Canarias. Convenio - Referencia: BOE-A-2026-24183 - KBytes: 241 - Páginas: 7",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24183",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 11 de noviembre de 2026, de la Secretaría General Técnica, por la que se publica la Adenda de modificación del Convenio con Biovida Saude Ltda., para prestar asistencia médica subvencionada a los emigrantes españoles residentes en la región Sao Paolo (Brasil) que carezcan de recursos suficientes.",
+      "description": "III. Otras disposiciones - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Convenios - Referencia: BOE-A-2026-24184 - KBytes: 209 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24184",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 13 de noviembre de 2026, del Banco de España, por la que se publica el Acuerdo de la Comisión Ejecutiva de 11 de noviembre de 2026, de adopción de medida provisional de suspensión de la actividad de captación de fondos reembolsables del público respecto de Gusuduru, SL.",
+      "description": "III. Otras disposiciones - BANCO DE ESPAÑA - Entidades de crédito - Referencia: BOE-A-2026-24185 - KBytes: 187 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24185",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de 17 de noviembre de 2026, del Banco de España, por la que se publican los cambios del euro correspondientes al día 17 de noviembre de 2026, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+      "description": "III. Otras disposiciones - BANCO DE ESPAÑA - Mercado de divisas - Referencia: BOE-A-2026-24186 - KBytes: 212 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24186",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Mesa del Senado. Objeto: Servicios para la impartición de clases presenciales de lengua de signos en el Senado. Expediente: 15/2026.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - CORTES GENERALES - Referencia: BOE-B-2026-37896 - KBytes: 203 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37896",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Mutualidad General Judicial MUGEJU. Objeto: Servicio de Prevención Ajeno de Riesgos Laborales, de carácter integral, que deberá proporcionar cobertura en las cuatro especialidades preventivas:. Seguridad en el Trabajo. . Higiene Industrial . Ergonomía y Psicosociología aplicada.. Medicina del Trabajo - Vigilancia de la salud. Expediente: 2026_ASE_003 PRL.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Referencia: BOE-B-2026-37897 - KBytes: 205 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37897",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: Servicio de asistencia técnica SETAD. Expediente: 2026/AR21U/00001532E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37898 - KBytes: 212 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37898",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Camara de polvo y arena. Expediente: 582026054600.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37899 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37899",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Apoyo conductor en CEDEA. Expediente: 582026012400.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37900 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37900",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Subdirección General de Contratación de Tecnologías de la Información y de las Comunicaciones (TIC). Objeto: Contrato Basado 2 en el Acuerdo Marco de Servicios de Consultoría e Implementación de Tecnologías Emergentes y Disruptivas en los Servicios de Información de la Infraestructura Integral de Información para la Defensa (expediente Nº 2024/SP03032003/00000369E). Expediente: 2026/SP03032007/00000740E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37901 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37901",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 23 de la Base Aérea de Albacete. Objeto: Suministro de medicamentos y productos farmacéuticos para la Base Aérea de Albacete (OMFE). Expediente: 2026/EA23/00001610E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37902 - KBytes: 208 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37902",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico-Administrativa 41 - Base Aérea de San Javier. Objeto: Adquisición de accesorios L3HARRIS para el EZAPAC. Expediente: 2026/EA41/00001958E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37903 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37903",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Mantenimiento de material de logística Sanitaria EXP 2022/ETSAE0906/2066E (Lote 1 Preventivo/Correctivo). Expediente: 2026/ETSAE0906/00004318E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37904 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37904",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Intendente de San Fernando. Objeto: Suministro de grasas, aceites y lubricantes no incluidos en el Acuerdo Marco para buques apoyados por el Arsenal de Cádiz. Expediente: 2026/AR43U/00002969E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37905 - KBytes: 219 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37905",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición, instalación y mantenimiento de sistemas de C2 en PU Lote 1. Expediente: 2026/ETSAE0906/00004419E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37906 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37906",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: LOTE 2, Mochila Ligera de Combate. Expediente: 2026/ETSAE0906/00004824E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37907 - KBytes: 208 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37907",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Subdirección General de Contratación de Tecnologías de la Información y de las Comunicaciones (TIC). Objeto: Adquisicion de 160 escaneres para la Renovacion Tecnologica del organo Central del Ministerio de Defensa. Expediente: 2026/SP03032007/00000453E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37908 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37908",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Jefatura de la Sección Económico-Administrativa 26 - Base Aérea de Zaragoza (Agrupación BASE). Objeto: Suministro de propano. Expediente: 2026/EA26/00002613E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37909 - KBytes: 214 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37909",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico-Administrativa 41 - Base Aérea de San Javier. Objeto: Murcia / Alcantarilla / Base Aérea de Alcantarilla / Climatización sala de plegados de la Base Aérea de Alcantarilla. Expediente: 2026/EA41/00001656E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37910 - KBytes: 210 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37910",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Sección de Asuntos Económicos del Parque y Centro de Abastecimiento de Material de Intendencia. Objeto: Apoyo logístico operativo y administrativo para el sostenimiento del material de intendencia del Parque y Centro de Abastecimiento de Material de Intendencia. Expediente: 2026/ETSAE0111/00000784.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37911 - KBytes: 221 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37911",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Curso Transporte Sanitario Acuartelamiento Aziaoin en Berrioplano, Pamplona. Expediente: 2026/ETSAE0327/00003340E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37912 - KBytes: 212 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37912",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Suministros de repuestos para mantenimiento y reparación de material de buceo (Equipos de C.C. O2, Chalecos de Flotabilidad, Griferías y Trajes Secos) para el RPEI 12 (Zaragoza). Expediente: 2026/ETSAE0327/00006185E.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DEFENSA - Referencia: BOE-B-2026-37913 - KBytes: 209 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37913",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Plataforma de formación en idiomas extranjeros para todo el personal de la AEAT más clases one to one mediante sistema de videoconferencia integrado en la propia plataforma. Expediente: 26810010800.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-37914 - KBytes: 204 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37914",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Servicio de comunicaciones Iridium para la flota naval, aeronaval y terrestre del Departamento de Aduanas e II.EE. Expediente: 26710030500.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-37915 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37915",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Seguro obligatorio de los vehículos adscritos al Departamento de Aduanas e II.EE. Expediente: 26710106300.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-37916 - KBytes: 214 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37916",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Dirección General de Tráfico. Objeto: Servicio de consultoría para la actualización del cuerpo normativo de vehículos. Expediente: 1DGT2A000446.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DEL INTERIOR - Referencia: BOE-B-2026-37917 - KBytes: 201 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37917",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General de Tráfico. Objeto: Suministro de prendas y artículos de uniformidad de trabajo para el personal de la Agrupación de Tráfico de la Guardia Civil (8 Lotes). Expediente: 1DGT2B000155.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DEL INTERIOR - Referencia: BOE-B-2026-37918 - KBytes: 230 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37918",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección Provincial del Servicio Público de Empleo Estatal en Murcia. Objeto: Servicios Auxiliares de Transporte y Reparto de Material entre unidades dependientes de la Dirección Provincial del SEPE en Murcia. Años 2027 y 2028. Expediente: PASA-1/2026.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Referencia: BOE-B-2026-37919 - KBytes: 210 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37919",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General del Servicio Público de Empleo Estatal. Objeto: Servicio de carga y descarga y movimiento de muebles y enseres en las instalaciones de los servicios centrales del SEPE. Expediente: PA 16/26.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Referencia: BOE-B-2026-37920 - KBytes: 214 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37920",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Ministerio de Vivienda y Agenda Urbana. Objeto: Servicio de producción y realización de eventos públicos institucionales con cobertura informativa promovidos por el Ministerio de Vivienda y Agenda Urbana. Expediente: 2601CTRGA002.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE VIVIENDA Y AGENDA URBANA - Referencia: BOE-B-2026-37921 - KBytes: 204 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37921",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: Suministro de sistema inalámbrico de banda ancha para la Compañía Nacional de Teatro Clásico. Expediente: MSA260100.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37922 - KBytes: 210 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37922",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: Suministro de tableros de madera para el pavimento del salón de actos del Castillo Palacio de Magalia. Expediente: MSA260101.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37923 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37923",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Cultura . Objeto: Servicio de mantenimiento integral de las dos sedes del Archivo de la Corona de Aragón (ACA). Expediente: J260016.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37924 - KBytes: 213 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37924",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Presidencia de la Gerencia de Infraestructuras y Equipamientos de Cultura O.A. Objeto: Obras de construcción de la fase 1 de un centro integrado de 6+12+16+6 unidades (infantil, primaria, secundaria, bachillerato) en la calle Cortadura del Valle (solar del Brull) de Ceuta. Expediente: 26/222 OB.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37925 - KBytes: 221 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37925",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Gerencia de Infraestructuras y Equipamientos de Cultura O.A. Objeto: Servicio para la dirección facultativa completa y coordinación de seguridad y salud en fase de ejecución de las obras de construcción de la fase 1 de un centro integrado de 6+12+16+6 unidades (infantil, primaria, secundaria, bachillerato) en la calle Cortadura del Valle (solar del Brull) de Ceuta. Expediente: 26/223 SE.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37926 - KBytes: 222 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37926",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General de Patrimonio Cultural y Bellas Artes. Objeto: Servicio de diseño, producción, montaje y desmontaje de la exposición \"La Belle Époque\" en el Archivo Histórico de la Nobleza. Expediente: MSA260081.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37927 - KBytes: 205 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37927",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Cultura . Objeto: Servicio de transporte de obras para la exposición temporal 'A la sombra de Vulcano. Bronce romano en Hispania' en el Museo Nacional de Arte Romano de Mérida. Expediente: J260009.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37928 - KBytes: 213 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37928",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: Contratación del suministro de la escenografía para el espectáculo \"Los fugaces\". Producción Centro Dramático Nacional. Expediente: MSA260099.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37929 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37929",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General del Libro, del Cómic y de la Lectura. Objeto: Suministro de un desarrollo de explotación y difusión de datos sobre el sistema de gestión bibliotecaria ABSYSNET del catálogo colectivo del Patrimonio Bibliográfico Español: Mapa del Patrimonio Bibliográfico Español y Mapas temáticos y generación de informes estadísticos. Expediente: NS260053.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CULTURA - Referencia: BOE-B-2026-37930 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37930",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Economía, Comercio y Empresa. Objeto: Servicios de desarrollo y gestión de los sistemas de información que soportan las actividades de las funciones de análisis de la situación de solvencia, financiera y control de la actividad de los supervisados que desempeña la Dirección General de Seguros y Fondos de Pensiones. Expediente: 202600000027.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Referencia: BOE-B-2026-37931 - KBytes: 232 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37931",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Subdirección General de Análisis Presupuestario y Gestión Financiera del Instituto de Mayores y Servicios Sociales . Objeto: Suministro de víveres con destino al Centro de Recuperación de Personas con Discapacidad Física sito en calle Donantes de Sangre, 1 de Lardero (La Rioja). Expediente: 477/2026.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Referencia: BOE-B-2026-37932 - KBytes: 236 - Páginas: 4",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37932",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de mantenimiento de dos equipos de citometría de flujo de la marca Becton Dickinson, destinado al Centro de Investigaciones Interdisciplinares de Alcalá de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: 35196/27.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Referencia: BOE-B-2026-37933 - KBytes: 213 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37933",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de mantenimiento preventivo de diversos equipos del Animalario con destino al Centro de Investigaciones Biológicas Margarita Salas (CIB). Expediente: LOT54/26.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Referencia: BOE-B-2026-37934 - KBytes: 222 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37934",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Secretaría General de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Objeto: Servicio de apoyo a la gestión delegada de la plataforma de teleformación, en la ejecución de las acciones formativas y creación de contenidos digitales para las iniciativas formativas para la Secretaria General Adjunta de Recursos Humanos. Gabinete de Formación. Expediente: 35397/26.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Referencia: BOE-B-2026-37935 - KBytes: 218 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37935",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Instituto Social de la Marina -Dirección Provincial de Castellón. Objeto: Mantenimiento de sistemas de alimentación ininterrumpida (SAI). Expediente: 122026PA1004.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Referencia: BOE-B-2026-37936 - KBytes: 209 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37936",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: INSS-Dirección provincial de Pontevedra. Objeto: Seguridad y vigilancia del edificio sede de la D.P. INSS Pontevedra y determinados Centros dependientes de la misma. 12 meses a contar desde 1 de enero de 2027 o fecha formalización contrato. Expediente: 36/VC-182/26/SE-PA.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Referencia: BOE-B-2026-37937 - KBytes: 205 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37937",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de formalización de contratos de: Dirección General de Gestión Migratoria. Objeto: Suministro de productos de limpieza e higiene, con destino a los CAPI de Mislata, Alcobendas y Vallecas. Expediente: 202503OC0019.",
+      "description": "V. Anuncios. - A. Contratación del Sector Público - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Referencia: BOE-B-2026-37938 - KBytes: 224 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37938",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la autoridad Portuaria de Pasaia, por el que se inicia el Trámite de Competencia de Proyectos correspondiente a la solicitud de concesión administrativa formulada por Sobrinos de Manuel Cámara S.A.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-37939 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37939",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Autoridad Portuaria de Pasaia, por el que se inicia el Trámite de Competencia de Proyectos correspondiente a la solicitud de concesión administrativa formulada por Estibadora Algeposa S.A.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-37940 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37940",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Autoridad Portuaria de Valencia sobre solicitud de otorgamiento de concesión de dominio público portuario formulada por I-DE Redes Eléctricas Inteligentes, S.A.U. en el puerto de Sagunto.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-37941 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37941",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Autoridad Portuaria de la Bahía de Algeciras por la que se somete a información pública la solicitud de concesión demanial formulada por la Sociedad Federada de Pesca Deportiva El Mero.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-37942 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37942",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio del Adif-Alta Velocidad por el que se somete a información pública a efectos de declaración de la necesidad de ocupación la Modificación del Proyecto de Construcción de Plataforma de la Línea de Alta Velocidad Antequera - Granada. Tramo: Variante de Loja. Riofrío.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-37943 - KBytes: 211 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37943",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Autoridad Portuaria de Bilbao por el que se somete a información pública la solicitud de concesión del Consorcio de Aguas Bilbao Bizkaia en el municipio de Getxo.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE - Referencia: BOE-B-2026-37944 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37944",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Extracto de la Resolución de 16 de noviembre de 2026 de la Secretaría de Estado de Educación, por la que se convocan ayudas para participar en el programa nacional \"Centros de Educación Ambiental\" durante el año 2027",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Referencia: BOE-B-2026-37945 - KBytes: 200 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37945",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Extracto de la Resolución de 16 de noviembre de 2026 de la Secretaría de Estado de Educación, por la que se convocan ayudas para participar en el programa nacional \"Recuperación y utilización educativa de pueblos abandonados\" durante el año 2027.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Referencia: BOE-B-2026-37946 - KBytes: 203 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37946",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Extracto de la resolución de 17 de noviembre de 2026 del Servicio Público de Empleo Estatal, por la que se aprueba la convocatoria de trámite anticipado para la concesión de subvenciones públicas para la ejecución de programas de formación de ámbito estatal, dirigidos prioritariamente a las personas ocupadas.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Referencia: BOE-B-2026-37947 - KBytes: 205 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37947",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del Ministerio de Agricultura, Pesca y Alimentación, por la que se acuerda someter a información pública el Proyecto Actualizado del \"Acondicionamiento del antiguo trazado del FFCC Santander Mediterráneo como Camino Natural (Tramo Comarca Comunidad de Teruel)\".",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Referencia: BOE-B-2026-37948 - KBytes: 200 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37948",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Delegación del Gobierno en Castilla y León por el que se convoca para el levantamiento de actas previas a la ocupación de bienes y derechos afectados por la instalación fotovoltaica «Navabuena Solar», de 449,148 MW de potencia pico, 424,710 MW de potencia instalada, y sus infraestructuras de evacuación, en Villalba de los Alcores, La Mudarra y Valladolid, en la provincia de Valladolid.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA - Referencia: BOE-B-2026-37949 - KBytes: 217 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37949",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Demarcación de Costas en Valencia sobre el otorgamiento de la concesión para ocupación y aprovechamiento del dominio público marítimo-terrestre, en el termino municipal de Valencia.(Valencia).",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37950 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37950",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. por el que se hace público el otorgamiento de la concesión para aprovechamiento de 0,15 l/s de agua procedente de tres (3) manantiales situados en la parroquia de Celeiros (San Fins), término municipal de Ponteareas (Pontevedra), con destino a abastecimiento de los núcleos de As Bouzas y A Arrotea. Expediente: A/36/14291-1.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37951 - KBytes: 200 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37951",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio del Servicio Provincial de Costas de Gipuzkoa por el que se somete a Información Pública la solicitud de adscripción formulada por la Dirección de Puertos, Asuntos Marítimos y Litoral del Departamento de Alimentación, Desarrollo Rural, Agricultura y Pesca del Gobierno Vasco, para la ocupación de bienes de dominio público marítimo-terrestre con destino a la construcción del futuro vial de acceso al muelle de carga del puerto de Orio en la margen izquierda de la ría del Oria, en los términos municipales de Aia y Orio (Gipuzkoa). Ref.: ADS01/26/20/0001.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37952 - KBytes: 201 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37952",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de transmutación de derechos de aguas privadas a públicas para riego y un volumen de 19.375 m³/año a captar de aguas subterráneas en el término municipal de Paterna del Campo (Huelva). Expediente A-8763/2023-ing.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37953 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37953",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de autorización de producción y suministro de aguas regeneradas procedentes de la Estación Regeneradora de Agua situada en el término municipal de Alcalá de Guadaira (Sevilla). Expediente de ref.: ERA0015/SE-278 /2025.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37954 - KBytes: 204 - Páginas: 2",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37954",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de 42,84 l/s de aguas a derivar del arroyo Granjuela y del río Pontones, mediante 5 tomas, con destino a riego, en el término municipal de Arroyo de la Luz (Cáceres).",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37955 - KBytes: 212 - Páginas: 3",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37955",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de transmutación de derechos de aguas privadas a públicas para riego y un volumen de 29.820 m³/año a captar de aguas subterráneas en el término municipal de Pedrera (Sevilla). Expediente A-9474/2023-ing.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37956 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37956",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de modificación de características de concesión de aguas públicas para riego-uso ganadero y un volumen de 54.592 m³/año a captar de Arroyo del Tamujoso en el término municipal de Adamuz (Córdoba). Expediente M-5712/2023-ing.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO - Referencia: BOE-B-2026-37957 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37957",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Resolución de la Delegación del Gobierno para el Plan Nacional sobre Drogas, por la que se anuncia la venta en Subasta Pública Electrónica 9/2026 de Relojes.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE SANIDAD - Referencia: BOE-B-2026-37958 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37958",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Agencia Catalana del Agua de revisión de la autorización de vertido al pantano de San Antonio de las aguas residuales procedentes de los municipios de La Pobla de Segur y Sant Joan de Vinyafrescal, previamente tratadas en la EDAR de La Pobla de Segur, para adaptarla a las nuevas condiciones de gestión de los sistemas de saneamiento, los puntos de desbordamiento y el cálculo del canon de control de vertidos.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - COMUNIDAD AUTÓNOMA DE CATALUÑA - Referencia: BOE-B-2026-37959 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37959",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Facultad de Geografía e Historia de la Universitat de Valéncia sobre extravío de título universitario.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - UNIVERSIDADES - Referencia: BOE-B-2026-37960 - KBytes: 195 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37960",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio del Servicio de Gestión de la Docencia y Estudiantes de la Universitat Jaume I de Castelló sobre extravío de título universitario.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - UNIVERSIDADES - Referencia: BOE-B-2026-37961 - KBytes: 196 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37961",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Facultad de Ciencias Sociales de la Universidad Antonio de Nebrija sobre extravío de título universitario.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - UNIVERSIDADES - Referencia: BOE-B-2026-37962 - KBytes: 196 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37962",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Facultad de Derecho de la Universidad de Granada sobre extravío de título universitario.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - UNIVERSIDADES - Referencia: BOE-B-2026-37963 - KBytes: 195 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37963",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes del Bajo Guadalquivir sobre convocatoria de Junta.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37964 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37964",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes Río Dílar de Ogíjares sobre convocatoria de Junta General Ordinaria.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37965 - KBytes: 197 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37965",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes el Llano sobre convocatoria de junta general ordinaria.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37966 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37966",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes Nº1 Canal del Cinca sobre convocatoria de Junta General Ordinaria.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37967 - KBytes: 199 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37967",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Usuarios de Chan, Puente, Aldea y Pazo sobre convocatoria de Asamblea General Ordinaria.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37968 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37968",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes Las Cuatro Vegas de Almería sobre convocatoria de Junta.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37969 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37969",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes Cabra sobre convocatoria de Junta.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37970 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37970",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes Acequia de Grio sobre convocatoria de Junta.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37971 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37971",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "Anuncio de la Comunidad de Regantes del Canal Júcar-Turia Sector IX de Benifayó sobre convocatoria a Asamblea General Extraordinaria.",
+      "description": "V. Anuncios. - B. Otros anuncios oficiales - OTROS ENTES - Referencia: BOE-B-2026-37972 - KBytes: 198 - Páginas: 1",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37972",
+      "time": "2026-11-17T23:00:00+00:00",
+      "source": "BOE",
+      "source_id": "boe",
       "type": "OFICIAL"
     },
     {
@@ -3837,78 +5277,6 @@
       "description": "El incendio se originó a partir de un cuadro ardiendo e intervinieron efectivos del SPEIS, en este edificio del barrio de Freixeiro",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/16/arde-garaje-naron-interior-tenia-vehiculos-enchufables/00031794825550099719860.htm",
       "time": "2026-11-16T10:51:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las carreras ilegales regresan a la provincia de A Coruña con citas por TikTok: «Alerones y multas en polígonos»",
-      "description": "Ferrol y Narón concentran las quedadas combatidas con drones y un gran refuerzo policial, las ciudades de A Coruña y Santiago ya las frenaron",
-      "url": "https://www.lavozdegalicia.es/noticia/lugo/pol/2026/11/16/carreras-ilegales-regresan-provincia-citas-tiktok-alerones-multas-poligonos/0003_202611F16C5_COPY993.htm",
-      "time": "2026-11-16T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Aberto o prazo para solicitar as axudas municipais de Neda para libros e material escolar",
-      "description": "Poderanse solicitar ata o 1 de decembro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/neda/2026/11/16/span-langglaberto-prazo-solicitar-as-axudas-municipais-neda-libros-material-escolarspan/0003_202611F16C3992.htm",
-      "time": "2026-11-16T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Fene organiza concursos de decoración de Nadal para comerciantes e veciñanza",
-      "description": "As decoracións deberán permanecer expostas e sen modificacións desde o 18 de decembro ata o 6 de xaneiro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/11/16/span-langglfene-organiza-concursos-decoracion-nadal-comerciantes-vecinanzaspan/0003_202611F16C3993.htm",
-      "time": "2026-11-16T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Exposición de pintura e fotografía no hospital Arquitecto Marcide de Ferrol",
-      "description": "A mostra cos traballos presentados ao concurso xa se pode ver no CHUF",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/16/exposicion-pintura-fotografia-arquitecto-marcide/0003_202611F16C2992.htm",
-      "time": "2026-11-16T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Santiago lidera la carga de población flotante de la provincia de A Coruña con 23.493 personas: «Hai que atender e planificar esta mobilidade»",
-      "description": "La ciudad herculina suma a diario a 15.868 vecinos más, por los 2.462 de Ferrol y los 1.392 de Bergondo",
-      "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/11/12/santiago-lidera-carga-poblacion-flotante-provincia-recibiendo-dia-23493-personas/00031794499042404152150.htm",
-      "time": "2026-11-16T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El futuro museo del tren de Ferrol toma forma: «Lo hacemos todo con nuestro trabajo»",
-      "description": "La Asociación Ferrolterra Amigos del Ferrocarril adecúa su local en el centro comercial Porta Nova para abrir en mayo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/16/futuro-museo-tren-ferrol-toma-forma/0003_202611F16C1991.htm",
-      "time": "2026-11-16T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Vecinos de Narón denuncian que llevan años conviviendo con goteras y humedades",
-      "description": "Se trata de un edificio que suma más de 60 viviendas de protección autonómica en el barrio de O Alto",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/16/vecinos-naron-denuncian-llevan-anos-conviviendo-goteras-humedades/0003_202611F16C3991.htm",
-      "time": "2026-11-16T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Roger de Lauria, invicto Almirante de Aragón",
-      "description": "El nombre del ilustre marino volverá a surcar los mares a bordo de la F-112 Roger de Lauria",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/16/roger-lauria-invicto-almirante-aragon/0003_202611F16C8993.htm",
-      "time": "2026-11-16T04:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
