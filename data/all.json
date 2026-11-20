@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T23:40:14.547305+00:00",
-  "count": 389,
+  "generated_at": "2026-11-20T04:17:35.643781+00:00",
+  "count": 388,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,96 @@
     }
   },
   "items": [
+    {
+      "title": "Parque Gándara empieza a funcionar en Narón: «Es la segunda vez que venimos esta mañana»",
+      "description": "La apertura del Action completó la puesta en marcha de la nueva zona comercial",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/19/parque-gandara-empieza-funcionar-naron-segunda-vez-venimos-manana/00031795108493095142115.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Cámara abre mercados extranjeros a más de una veintena de empresas del área de Ferrol",
+      "description": "La entidad asesoró a un millar de emprendedores desde su sede en la ciudad naval",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/20/camara-abre-mercados-extranjeros-veintena-empresas/0003_202611F20C2992.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El PP de Narón exigirá en el pleno la rehabilitación urgente de la plaza de A Gándara",
+      "description": "La formación denuncia el deterioro del pavimento, los bancos y el entorno del monumento dedicado a la Mujer",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/20/pp-naron-exigira-pleno-rehabilitacion-urgente-plaza-gandara/0003_202611F20C4991.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Choque político en Cabanas tras el rechazo de la oposición a un crédito de 231.500 euros",
+      "description": "Acusan al gobierno del PP de falta de transparencia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cabanas/2026/11/20/choque-politico-cabanas-tras-rechazo-oposicion-credito-231500-euros/0003_202611F20C4993.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La hostelería de A Coruña será más cara en el 2027 para subir los salarios un 3 %",
+      "description": "Los empresarios ya tuvieron que pagar 500 euros a cada trabajador por el año 2025",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/11/19/hosteleria-coruna-sera-cara-2027-subir-salarios-3-/00031795111934389721658.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La seguridad ciudadana y la AP-9 se cuelan en la campaña electoral en Ferrolterra",
+      "description": "PP, PSOE y BNG protagonizaron diversos actos en la comarca este jueves",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/seguridad-ciudadana-ap-9-cuelan-campana-electoral-ferrolterra/00031795110851501575754.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El escenario inesperado",
+      "description": "El peluquero Fran Muíño convertirá su salón este domingo en un teatro para representar la obra «Cierra tú»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/escenario-inesperado/00031795104857649442667.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Teatro cercano",
+      "description": "El ciclo «Domingos a Escena» programa para este domingo próximo la obra «A culpa de Laura»",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/teatro-cercano/00031795104656517710669.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De lata de pimentón a instrumento de percusión",
+      "description": "El músico y artesano ferrolano Óscar Fojo crea un instrumento de percusión a partir de una lata de pimentón",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/lata-pimenton-instrumento-percusion/00031795104105864947416.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Madre e hija abren un centro de masajes pionero en Ferrolterra: «Tenemos 'spa' capliar y tratamientos con luces led»",
+      "description": "Toshi Masajes, situado en el polígono de A Gándara, nació con la vocación proporcionar bienestar y eliminar el estrés",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/17/madre-hija-abren-centro-masajes-pionero-ferrolterra-servicio-dar-bienestar/00031794936894626909648.htm",
+      "time": "2026-11-20T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "DECRETO 142/2026, de 9 de noviembre, por el que se crea y se regula el Registro de autorizaciones y concesiones en el dominio público marítimo-terrestre en el ámbito de la Comunidad Autónoma de Galicia.",
       "description": "I. Disposiciones generales Consellería de Medio Ambiente y Cambio Climático",
@@ -561,6 +651,15 @@
       "description": "La ampliación de contrato, que llega tras la lesión de larga duración del guardameta, facilita el acuerdo para la liberación de su ficha",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/19/racing-club-ferrol-renueva-lucas-diaz-2028/00031795095510509949162.htm",
       "time": "2026-11-19T13:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Diputación de A Coruña destinará 9,6 millones a los servicios sociales de los concellos pequeños",
+      "description": "Sube a 16 euros la hora de ayuda en el hogar a los 177 profesionales de los 82 municipios de la provincia de menos de 20.000 habitantes",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/11/19/diputacion-coruna-destinara-96-millones-servicios-sociales-concellos-pequenos/00031795095768744730769.htm",
+      "time": "2026-11-19T13:50:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
@@ -3414,114 +3513,6 @@
       "description": "La colisión por alcance se produjo en el kilómetro 24, según informa la Guardia Civil, provocando caravanas hasta el túnel da Pedra do Couto; en San Sadurniño también hubo otro accidente",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/18/dos-heridos-grandes-retenciones-chocar-camion-coche-autopista-pontedeume/00031794992564950572900.htm",
       "time": "2026-11-18T09:21:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El nuevo paseo de Irmandiños avanza hacia su estreno este año en Ferrol",
-      "description": "En marcha el aglomerado que abre la recta final del proyecto que derribó la muralla del Arsenal Militar",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/18/irmandinos-estreno-ano/0003_202611F18C1991.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Cárcel para el jefe de una obra en Ortigueira donde dos obreros se rompieron brazos, piernas y costillas",
-      "description": "Al coordinador de seguridad le cayeron tres meses de prisión, los empresarios quedaron absueltos en el juicio en Ortigueira y después en la Audiencia Provincial",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/carcel-jefe-obra-dos-obreros-rompieron-brazos-piernas-costillas/0003_202611F18C4992.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PSOE carga contra el Concello de Ferrol por no abrir el parque canino de Catabois: «Non lles da a gaña»",
-      "description": "Ángel Mato asegura que el retraso se debe a que el alcalde «non pode ir a sacarse a foto»",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/psoe-carga-contra-concello-abrir-parque-canino-catabois-non-lles-da-gana/0003_202611F18C2993.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Trece recetas competirán en «As Pontes, Terra de Cogomelos»",
-      "description": "La asociación vecinal A Choupana acogerá el día 28 el concurso gastronómico",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/as-pontes-de-garcia-rodriguez/2026/11/18/trece-recetas-competiran-as-pontes-terra-cogomelos/0003_202611F18C6993.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "«Magusto» en Canido",
-      "description": "El barrio ferrolano vivió una jornada de encuentro vecinal con música y castañas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/magusto-canido/00031794936437552984529.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Postales solidarias",
-      "description": "La asociación Asotrame recoge en Odeón mensajes para dar ánimos a los pacientes de cáncer hematológico",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/postales-solidarias/00031794936580258974150.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dos carreras, dos trabajos y dos hijas con 30 años: «Los días normales casi nunca existen»",
-      "description": "El ferrolano Jacinto Portela estudió Farmacia primero y Óptica y Optometría después; ahora está al frente de una botica en Valdoviño y una óptica en Narón; además, es padre de una niña de un año y medio y en unas semanas llegará la segunda",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/dos-carreras-dos-trabajos-dos-hijas-30-anos-renunciaria-/00031794912399795926784.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El PP critica la política energética del PSOE, que aborda retos económicos con el empresariado",
-      "description": "El candidato popular al Senado José Manuel Rey Varela visitó Megasa junto a Alberto Nadal, Julián Reina se reunió con Cofer y Néstor Rego pidió en As Pontes el voto para el BNG para frenar a la derecha",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/pp-critica-politica-energetica-psoe-aborda-retos-economicos-empresariado/0003_202611F18C4991.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Chus Andrade, elegida persona del año por el voluntariado de ASCM",
-      "description": "Con esta iniciativa se busca reconocer la dedicación y la implicación de quienes aportan su tiempo e ilusión a la entidad",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/18/chus-andrade-elegida-persona-ano-voluntariado-ascm/0003_202611F18C2991.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una descarga de blues, «soul» y emoción con Robert Finley",
-      "description": "A sus 72 años, el músico estadounidense encandiló a un teatro Jofre hasta la bandera",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/17/descarga-blues-soul-emocion-robert-finley/00031794935802101501795.htm",
-      "time": "2026-11-18T04:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los últimos aprendices de Astano: «Cando vemos a grúa sentimos nostalxia e rabia»",
-      "description": "De las botaduras de petroleros a la dura reconversión, los operarios que hace 50 años entraron en el astillero de Fene celebran su lucha y su amistad junto a su profesor Manuel Caldevilla",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/18/ultimos-aprendices-astano-cando-vemos-grua-sentimos-nostalxia-rabia/0003_202611F18C3_COPY992.htm",
-      "time": "2026-11-18T03:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Mar instala un dique flotante y draga el muelle de Barallobre, que alberga 110 embarcaciones",
-      "description": "Invierte en torno a 1,3 millones de euros en el puerto pesquero",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/18/mar-instala-dique-flotante-draga-muelle-barallobre-alberga-110-embarcaciones/0003_202611F18C6992.htm",
-      "time": "2026-11-18T03:51:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
