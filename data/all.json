@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T13:09:38.423231+00:00",
-  "count": 673,
+  "generated_at": "2026-11-20T21:03:06.107482+00:00",
+  "count": 671,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,69 @@
     }
   },
   "items": [
+    {
+      "title": "Doble metal para el cedeirés Damián Suárez en en el Mundial de Abu Dabi",
+      "description": "El deportista, adscrito al Club Delikia, revalida oro en la categoría júnior y conquista el bronce absoluto de acuatlón",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/20/doble-metal-cedeires-damian-suarez-mundial-abu-dabi/00031795201689167272372.htm",
+      "time": "2026-11-20T19:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Arranca la rehabilitación de las dependencias de la ciudad deportiva del Racing",
+      "description": "La retirada del tejado del edificio con forma de H en Mandiá evidencia un nuevo avance en las instalaciones del club ferrolano",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/arranca-rehabilitacion-dependencias-ciudad-deportiva-racing-club-ferrol/00031795197001329882157.htm",
+      "time": "2026-11-20T17:56:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Los bomberos voluntarios de Briegal regresan de Perú: «Allí las muertes por inundaciones se asumen con normalidad»",
+      "description": "Manoel Tato, del parque de Ferrol, explica que la oenegé culminó la consolidación del primer grupo de rescate acuático binacional entre el país andino y Bolivia",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/bomberos-voluntarios-briegal-regresan-peru-muertes-inundaciones-asumen-normalidad/00031795193793384575382.htm",
+      "time": "2026-11-20T17:27:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Daniel Clemente arbitrará el derbi entre la UD Ourense y el Racing",
+      "description": "El tinerfeño de 28 años nunca se cruzó, hasta la fecha, con el combinado ferrolano",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/daniel-clemente-arbitrara-derbi-ourense-racing/00031795194620437686775.htm",
+      "time": "2026-11-20T17:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Nueva ampliación de capital del Grupo Élite, accionista mayoritario del Racing",
+      "description": "El Boletín Oficial del Registro Mercantil de A Coruña, del 13 de noviembre, recoge una inyección de medio millón de euros",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/nueva-ampliacion-capital-grupo-elite-accionista-mayoritario-racing/00031795188591009844432.htm",
+      "time": "2026-11-20T16:03:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Se apagan las luces del bar Beceiro: medio siglo de cafés, partidas y vida en Recimil",
+      "description": "Manuel Beceiro se jubila a los 67 años y el próximo 30 de noviembre pondrá fin a una historia familiar que comenzó en 1973, cuando los trabajadores de Bazán llenaban el local",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/apagan-luces-bar-beceiro-medio-siglo-cafes-partidas-vida-recimil/00031795187753472727380.htm",
+      "time": "2026-11-20T15:19:05+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Qué hacer este fin de semana: las tapas toman la zona de Ferrol",
+      "description": "La celebración de Santa Icía regará de conciertos varios municipios",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/fin-semana-tapas-toman-ferrolterra/00031795179652554801147.htm",
+      "time": "2026-11-20T15:06:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un militar retirado de Ferrol logra que le reembolsen 4.000 euros por la atención a su mujer en el hospital Marcide",
       "description": "Su esposa acudió al centro médico de la aseguradora del ISFAS tras una semana de malestar, le recetaron un mucolítico y acabó en la sanidad pública con un infarto pulmonar",
@@ -6000,87 +6063,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Lucas Díaz dice adiós a la temporada en el Racing Club Ferrol",
-      "description": "El guardameta, que sufre una luxación acromioclavicular y será operado en los próximos días, estará de baja todo lo que queda de curso",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/lucas-diaz-dice-adios-temporada-racing-club-ferrol/00031795026671117998241.htm",
-      "time": "2026-11-18T20:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Navantia fabrica en Fene bloques de las F-110 y lo hará para los barcos logísticos británicos",
-      "description": "La antigua Astano carece de pedidos en su área de especialización, la producción de estructuras de eólica marina",
-      "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/19/navantia-fabrica-fene-bloques-f-110-hara-pa-ra-barcos-logisticos-britanicos/0003_202611G19P36991.htm",
-      "time": "2026-11-18T19:55:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing Genuine inicia en Tarragona su cuarta temporada",
-      "description": "El sábado jugarán frente a la UD Ibiza y el Levante UD EDI, mientras que el domingo se medirán a la Fundación Málaga CF",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/equipo-genuine-inicia-tarragona-cuarta-temporada/00031795022800726973349.htm",
-      "time": "2026-11-18T17:31:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Couto, un campo y tres rivales en la historia del Racing de Ferrol",
-      "description": "Este domingo, ante la UD Ourense, rendirá su vigésimoquinta visita al recinto",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/couto-campo-tres-rivales-historia-racing-ferrol/00031795022601088642122.htm",
-      "time": "2026-11-18T17:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "O Couto, un campo y tres rivales en la historia del Racing de Ferrol",
-      "description": "Este domingo, ante la UD Ourense, rendirá su vigésimoquinta visita al recinto",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/couto-campo-tres-rivales-historia-racing-ferrol/00031795022601088642122.htm",
-      "time": "2026-11-18T17:25:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Piden 60.001 euros de multa para un seguidor con prohibición de acceso al estadio",
-      "description": "Los hechos sucedieron en el encuentro frente a la SD Ponferradina",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/piden-60001-euros-multa-seguidor-prohibicion-acceso-estadio/00031795022255937437576.htm",
-      "time": "2026-11-18T17:20:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Casi 1.300 estudiantes buscan en Ferrol el futuro de sus sueños: «Hay muchísimas opciones»",
-      "description": "El Auditorio Álvaro Lamas acoge este miércoles la II Feira de Educación e Formación, organizada por el Concello y la UDC",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/19/1300-estudiantes-busca-futuro-muchisimas-opciones/0003_202611F19C2991.htm",
-      "time": "2026-11-18T16:40:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El rey regresa este jueves a Ferrol para supervisar unidades de la Armada en su cuarta visita oficial",
-      "description": "Felipe VI estará al mediodía en el Cuartel de Dolores, sin invitación a las habituales autoridades civiles",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/18/rey-regresa-jueves-ferrol-visitar-unidades-armada-cuarta-visitaoficial/00031795018990084460646.htm",
-      "time": "2026-11-18T16:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Desprendimiento en el local de Ferrol en el que Aspaneps atiende a niños con problemas psicosociales: «Esto es un peligro»",
-      "description": "Elementos de la pared y la persiana se vinieron abajo en plena noche en un edificio de Defensa situado en Canido que está a la espera de su adquisición por el Concello",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/18/desprendimiento-local-ferrol-aspaneps-atiende-ninos-seis-anos/00031795001041801382957.htm",
-      "time": "2026-11-18T13:30:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }

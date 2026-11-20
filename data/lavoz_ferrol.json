@@ -1,5 +1,68 @@
 [
   {
+    "title": "Doble metal para el cedeirés Damián Suárez en en el Mundial de Abu Dabi",
+    "description": "El deportista, adscrito al Club Delikia, revalida oro en la categoría júnior y conquista el bronce absoluto de acuatlón",
+    "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/20/doble-metal-cedeires-damian-suarez-mundial-abu-dabi/00031795201689167272372.htm",
+    "time": "2026-11-20T19:14:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Arranca la rehabilitación de las dependencias de la ciudad deportiva del Racing",
+    "description": "La retirada del tejado del edificio con forma de H en Mandiá evidencia un nuevo avance en las instalaciones del club ferrolano",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/arranca-rehabilitacion-dependencias-ciudad-deportiva-racing-club-ferrol/00031795197001329882157.htm",
+    "time": "2026-11-20T17:56:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Los bomberos voluntarios de Briegal regresan de Perú: «Allí las muertes por inundaciones se asumen con normalidad»",
+    "description": "Manoel Tato, del parque de Ferrol, explica que la oenegé culminó la consolidación del primer grupo de rescate acuático binacional entre el país andino y Bolivia",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/bomberos-voluntarios-briegal-regresan-peru-muertes-inundaciones-asumen-normalidad/00031795193793384575382.htm",
+    "time": "2026-11-20T17:27:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Daniel Clemente arbitrará el derbi entre la UD Ourense y el Racing",
+    "description": "El tinerfeño de 28 años nunca se cruzó, hasta la fecha, con el combinado ferrolano",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/daniel-clemente-arbitrara-derbi-ourense-racing/00031795194620437686775.htm",
+    "time": "2026-11-20T17:15:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Nueva ampliación de capital del Grupo Élite, accionista mayoritario del Racing",
+    "description": "El Boletín Oficial del Registro Mercantil de A Coruña, del 13 de noviembre, recoge una inyección de medio millón de euros",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/nueva-ampliacion-capital-grupo-elite-accionista-mayoritario-racing/00031795188591009844432.htm",
+    "time": "2026-11-20T16:03:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Se apagan las luces del bar Beceiro: medio siglo de cafés, partidas y vida en Recimil",
+    "description": "Manuel Beceiro se jubila a los 67 años y el próximo 30 de noviembre pondrá fin a una historia familiar que comenzó en 1973, cuando los trabajadores de Bazán llenaban el local",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/apagan-luces-bar-beceiro-medio-siglo-cafes-partidas-vida-recimil/00031795187753472727380.htm",
+    "time": "2026-11-20T15:19:05+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Qué hacer este fin de semana: las tapas toman la zona de Ferrol",
+    "description": "La celebración de Santa Icía regará de conciertos varios municipios",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/fin-semana-tapas-toman-ferrolterra/00031795179652554801147.htm",
+    "time": "2026-11-20T15:06:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Un militar retirado de Ferrol logra que le reembolsen 4.000 euros por la atención a su mujer en el hospital Marcide",
     "description": "Su esposa acudió al centro médico de la aseguradora del ISFAS tras una semana de malestar, le recetaron un mucolítico y acabó en la sanidad pública con un infarto pulmonar",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/20/militar-retirado-ferrol-logra-reembolsen-4000-euros-atencion-mujer-hospital-marcide/00031795176771502471622.htm",
@@ -37,7 +100,7 @@
   },
   {
     "title": "El Racing Club Ferrol blinda su portería con Miguel Morro",
-    "description": "El madrileño, con experiencia en España y Portugal, se une al proyecto",
+    "description": "El madrileño, con experiencia en España y Portugal, se une al proyecto y ya cuenta con licencia: «Vengo a ayudar»",
     "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/19/lucas-renueva-morro-llega-racing/00031795114679891675874.htm",
     "time": "2026-11-20T09:41:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -48,15 +111,6 @@
     "title": "La Cámara abre mercados extranjeros a más de una veintena de empresas del área de Ferrol",
     "description": "La entidad asesoró a un millar de emprendedores desde su sede en la ciudad naval",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/20/camara-abre-mercados-extranjeros-veintena-empresas/0003_202611F20C2992.htm",
-    "time": "2026-11-20T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "La seguridad ciudadana y la AP-9 se cuelan en la campaña electoral en Ferrolterra",
-    "description": "PP, PSOE y BNG protagonizaron diversos actos en la comarca este jueves",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/seguridad-ciudadana-ap-9-cuelan-campana-electoral-ferrolterra/00031795110851501575754.htm",
     "time": "2026-11-20T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
@@ -117,24 +171,6 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "César Fernández: «Estoy capacitado para esta oportunidad»",
-    "description": "El guardameta reconoce que lleva mucho tiempo preparándose y esperando este momento",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/19/cesar-fernandez-capacitado-oportunidad/00031795111062268459190.htm",
-    "time": "2026-11-19T18:01:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Dylan Blanco se corona campeón en Castilla y León",
-    "description": "El piloto de nueve años se impuso en la categoría Mini Novel y suma un nuevo título a su triunfo en la Supercopa Galicia",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/dylan-blanco-corona-campeon-castilla-leon/00031795106353357907665.htm",
-    "time": "2026-11-19T16:41:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Iva Belosevic, operada con éxito de la rotura del ligamento",
     "description": "El alta hospitalaria se concretará en función de su evolución y, posteriormente, comenzará el proceso de rehabilitación",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/iva-belosevic-operada-exito-rotura-ligamento/00031795106236319598547.htm",
@@ -162,28 +198,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Usuarios del tren tirados a primera hora de la mañana en Ferrol: «Perdimos el enlace con Madrid»",
-    "description": "Uno de los pasajeros del primer trayecto de este jueves denuncia que el ferrocarril con destino A Coruña salió con 25 minutos de retraso y en la estación «no había absolutamente nadie» para atenderlos",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/usuarios-tren-tirados-primera-hora-manana-ferrol-perdimos-enlace-madrid/00031795104173173676688.htm",
-    "time": "2026-11-19T16:35:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El Atios de Valdoviño y la Policía Local de Narón, en la Semana Europea de la Robótica",
     "description": "Tendrá lugar los días 26 y 27 en el CIFP Politécnico de Santiago",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/11/20/atios-valdovino-policia-local-naron-semana-europea-robotica/0003_202611F20C4992.htm",
     "time": "2026-11-19T15:49:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El Racing Club Ferrol renueva a Lucas Díaz hasta el 2028",
-    "description": "La ampliación de contrato, que llega tras la lesión de larga duración del guardameta, facilita el acuerdo para la liberación de su ficha",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/19/racing-club-ferrol-renueva-lucas-diaz-2028/00031795095510509949162.htm",
-    "time": "2026-11-19T13:56:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -198,10 +216,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Punta Candieira, en Cedeira, vuelve a marcar la máxima racha de viento, de 108 kilómetros por hora",
-    "description": "La estación meteorológica lleva dos días batiendo los valores más altos, tras alcanzar el miércoles los 127,2 km/h",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/11/19/punta-candieira-cedeira-vuelve-marcar-maxima-racha-viento-108-kilometros-hora/00031795080833676370163.htm",
-    "time": "2026-11-19T10:08:00+00:00",
+    "title": "El antiguo centro de salud de Narón: cinco años esperando una nueva vida",
+    "description": "El pleno aprobó trasladar la ludoteca municipal al primer piso del edificio, pero a día de hoy sigue vacío",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/19/antiguo-centro-salud-naron-cinco-anos-esperando-nueva-vida/0003_202611F19C5991.htm",
+    "time": "2026-11-19T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -216,28 +234,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "El antiguo centro de salud de Narón: cinco años esperando una nueva vida",
-    "description": "El pleno aprobó trasladar la ludoteca municipal al primer piso del edificio, pero a día de hoy sigue vacío",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/naron/2026/11/19/antiguo-centro-salud-naron-cinco-anos-esperando-nueva-vida/0003_202611F19C5991.htm",
-    "time": "2026-11-19T04:00:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Navantia fabrica en Fene bloques de las F-110 y lo hará para los barcos logísticos británicos",
     "description": "La antigua Astano carece de pedidos en su área de especialización, la producción de estructuras de eólica marina",
     "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/19/navantia-fabrica-fene-bloques-f-110-hara-pa-ra-barcos-logisticos-britanicos/0003_202611G19P36991.htm",
     "time": "2026-11-18T19:55:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "O Couto, un campo y tres rivales en la historia del Racing de Ferrol",
-    "description": "Este domingo, ante la UD Ourense, rendirá su vigésimoquinta visita al recinto",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/18/couto-campo-tres-rivales-historia-racing-ferrol/00031795022601088642122.htm",
-    "time": "2026-11-18T17:25:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
