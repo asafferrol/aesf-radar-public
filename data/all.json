@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T16:56:51.096012+00:00",
-  "count": 664,
+  "generated_at": "2026-11-21T22:02:21.840585+00:00",
+  "count": 665,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,24 @@
     }
   },
   "items": [
+    {
+      "title": "Las trombas de agua dejan un reguero de inundaciones en Ferrol",
+      "description": "En Narón, un árbol de gran porte cayó sobre el tendido del alumbrado público y cortó el acceso a unas viviendas",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/21/trombas-agua-dejan-reguero-inundaciones-ferrol/00031795295609318575625.htm",
+      "time": "2026-11-21T21:32:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Medio millar de racinguistas alentarán al equipo en O Couto",
+      "description": "Las cuatro jornadas sin ganar no frenan el impulso de la marea verde",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/21/medio-millar-racinguistas-alentaran-equipo/00031795282211011192297.htm",
+      "time": "2026-11-21T17:41:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un derbi inédito y con el gol entre ceja y ceja para la UD Ourense y el Racing",
       "description": "Los locales, colistas con solo cinco tantos en lo que va de Liga, reciben a un cuadro ferrolano falto de pólvora y sostenido por su buen hacer defensivo",
@@ -5991,15 +6009,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "César Fernández: «Estoy capacitado para esta oportunidad»",
-      "description": "El guardameta reconoce que lleva mucho tiempo preparándose y esperando este momento",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/19/cesar-fernandez-capacitado-oportunidad/00031795111062268459190.htm",
-      "time": "2026-11-19T18:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
