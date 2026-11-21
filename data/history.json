@@ -1,7 +1,61 @@
 {
   "hours": 48,
-  "count": 669,
+  "count": 664,
   "items": [
+    {
+      "title": "Un derbi inédito y con el gol entre ceja y ceja para la UD Ourense y el Racing",
+      "description": "Los locales, colistas con solo cinco tantos en lo que va de Liga, reciben a un cuadro ferrolano falto de pólvora y sostenido por su buen hacer defensivo",
+      "url": "https://www.lavozdegalicia.es/noticia/futbolgallego/2026/11/21/derbi-inedito-gol-ceja-ceja-ourense-racing/00031795273271975744143.htm",
+      "time": "2026-11-21T16:24:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi mide su ambición ante el arsenal de estrellas del Azul Marino",
+      "description": "Lino apela al trabajo colectivo para frenar a uno de los aspirantes al título",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/21/baxi-mide-ambicion-ante-arsenal-estrellas-azul-marino/00031795273773621371569.htm",
+      "time": "2026-11-21T15:13:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "De ruta: Fragas do Eume, refugio al borde del invierno",
+      "description": "Alfombras de hojas ocres, niebla entre los castaños y el rumor del río crecido convierten al bosque atlántico en un paraíso íntimo lejos de las multitudes",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/19/as-fragas-refugio-borde-invierno/0003_202611SL19F23992.htm",
+      "time": "2026-11-21T12:30:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Pujol y Blanco, de vuelta en la convocatoria del Racing",
+      "description": "También estará disponible el nuevo guardameta Miguel Morro en un derbi que se pierden Fabio y Monju por sanción",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/21/pujol-blanco-vuelta-convocatoria-racing/00031795263080948648106.htm",
+      "time": "2026-11-21T12:23:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La junta anual de accionistas del Racing Club Ferrol, fijada para el 16 de diciembre",
+      "description": "La entidad presentará las cuentas de la pasada temporada, así como el presupuesto de la temporada en curso",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/21/junta-anual-accionistas-racing-club-ferrol-fijada-16-diciembre/00031795261449074936230.htm",
+      "time": "2026-11-21T11:48:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez: «Ya no creo en la mala suerte, esto va de meter goles»",
+      "description": "El entrenador del Racing exige un paso adelante en la definición y apela a la fortaleza del vestuario para superar el bache ante la UD Ourense",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/21/javi-vazquez-cansa-excusas-va-meter-goles-creo-mala-suerte/00031795257092790450621.htm",
+      "time": "2026-11-21T11:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Navantia Ferrol lanza al fin la convocatoria de 99 plazas",
       "description": "Ya activa en su portal de empleo, incluye 55 puestos júnior y 44 sénior para oficios e ingeniería",
@@ -5920,105 +5974,6 @@
       "description": "El guardameta reconoce que lleva mucho tiempo preparándose y esperando este momento",
       "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/19/cesar-fernandez-capacitado-oportunidad/00031795111062268459190.htm",
       "time": "2026-11-19T18:01:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Dylan Blanco se corona campeón en Castilla y León",
-      "description": "El piloto de nueve años se impuso en la categoría Mini Novel y suma un nuevo título a su triunfo en la Supercopa Galicia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/dylan-blanco-corona-campeon-castilla-leon/00031795106353357907665.htm",
-      "time": "2026-11-19T16:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Iva Belosevic, operada con éxito de la rotura del ligamento",
-      "description": "El alta hospitalaria se concretará en función de su evolución y, posteriormente, comenzará el proceso de rehabilitación",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/iva-belosevic-operada-exito-rotura-ligamento/00031795106236319598547.htm",
-      "time": "2026-11-19T16:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Gerard Casas: «El partido es una final y tenemos que conseguir los tres puntos»",
-      "description": "O Parrulo busca una victoria en una complicada visita al Xota navarro",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/gerard-casas-partido-final-tenemos-conseguir-tres-puntos/00031795106076601704800.htm",
-      "time": "2026-11-19T16:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El rey supervisa el potencial armamentístico de la Armada en Ferrol",
-      "description": "Felipe VI recorrió los talleres de misiles y torpedos en Mougá y realizó su primera visita al Tercio Norte de Infantería de Marina",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/19/rey-inspecciona-ferrol-armamento-material-armada/00031795095234095937333.htm",
-      "time": "2026-11-19T16:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Usuarios del tren tirados a primera hora de la mañana en Ferrol: «Perdimos el enlace con Madrid»",
-      "description": "Uno de los pasajeros del primer trayecto de este jueves denuncia que el ferrocarril con destino A Coruña salió con 25 minutos de retraso y en la estación «no había absolutamente nadie» para atenderlos",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/19/usuarios-tren-tirados-primera-hora-manana-ferrol-perdimos-enlace-madrid/00031795104173173676688.htm",
-      "time": "2026-11-19T16:35:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Xunta respalda la mejora energética del local social de Val de Esmelle",
-      "description": "Sufragó trabajos para una mayor eficiencia y aislamiento térmico",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/20/xunta-respalda-mejora-energetica-local-social-val-esmelle/0003_202611F20C2991.htm",
-      "time": "2026-11-19T15:54:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Atios de Valdoviño y la Policía Local de Narón, en la Semana Europea de la Robótica",
-      "description": "Tendrá lugar los días 26 y 27 en el CIFP Politécnico de Santiago",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/11/20/atios-valdovino-policia-local-naron-semana-europea-robotica/0003_202611F20C4992.htm",
-      "time": "2026-11-19T15:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing Club Ferrol renueva a Lucas Díaz hasta el 2028",
-      "description": "La ampliación de contrato, que llega tras la lesión de larga duración del guardameta, facilita el acuerdo para la liberación de su ficha",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/19/racing-club-ferrol-renueva-lucas-diaz-2028/00031795095510509949162.htm",
-      "time": "2026-11-19T13:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La Diputación de A Coruña destinará 9,6 millones a los servicios sociales de los concellos pequeños",
-      "description": "Sube a 16 euros la hora de ayuda en el hogar a los 177 profesionales de los 82 municipios de la provincia de menos de 20.000 habitantes",
-      "url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/11/19/diputacion-coruna-destinara-96-millones-servicios-sociales-concellos-pequenos/00031795095768744730769.htm",
-      "time": "2026-11-19T13:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ortigueira suma un nuevo Claudio Express, en el polígono de A Rega",
-      "description": "Gadisa incorpora su segundo establecimiento franquiciado en la localidad en lo que va de año, ubicado en el área de servicio del polígono de A Rega",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ortigueira/2026/11/19/ortigueira-suma-nuevo-claudio-express/00031795085878074451143.htm",
-      "time": "2026-11-19T11:11:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Punta Candieira, en Cedeira, vuelve a marcar la máxima racha de viento, de 108 kilómetros por hora",
-      "description": "La estación meteorológica lleva dos días batiendo los valores más altos, tras alcanzar el miércoles los 127,2 km/h",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/11/19/punta-candieira-cedeira-vuelve-marcar-maxima-racha-viento-108-kilometros-hora/00031795080833676370163.htm",
-      "time": "2026-11-19T10:08:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
