@@ -1,7 +1,70 @@
 {
   "hours": 48,
-  "count": 332,
+  "count": 331,
   "items": [
+    {
+      "title": "El «1x1» de la victoria del Racing Club Ferrol frente a la UD Ourense",
+      "description": "Los de Javi Vázquez, que cuajaron el peor partido en lo que va de curso, tiraron de fe para llevarse los tres puntos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/22/1x1-victoria-racing-club-ferrol-frente-ourense/00031795362976045468700.htm",
+      "time": "2026-11-22T16:11:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Javi Vázquez, técnico del Racing: «Hemos estado peor que nunca»",
+      "description": "Fiel a su máxima de ver más allá del resultado, el preparador destaca que la fe se impuso a un partido plagado de imprecisiones en Ourense",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/22/javi-vazquez-tecnico-racinghemos-estado-peor-nunca/00031795359599243818739.htm",
+      "time": "2026-11-22T15:05:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Las diez mejores imágenes de la visita de Azul Marino al Baxi Ferrol",
+      "description": "El retorno de Blanca Millán se tradujo en la primera derrota local para las de Lino López",
+      "url": "https://www.lavozdegalicia.es/album/deportes/2026/11/22/diez-mejores-imagenes-visita-azul-marino-baxi-ferrol/01101795355179855977236.htm",
+      "time": "2026-11-22T13:50:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El derbi de O Couto toma rumbo a Ferrol en el último instante (2-3)",
+      "description": "Un intercambio de golpes acelerado en el tramo final encumbró deja a la UD Ourense compuesta y sin puntos ante un Racing con mayor pegada",
+      "url": "https://www.lavozdegalicia.es/noticia/ourense/2026/11/23/derbi-escurre-ourense/0003_202611O23C4991.htm",
+      "time": "2026-11-22T13:36:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi Ferrol se estrella contra el acierto exterior del Azul Marino (58-83)",
+      "description": "Las ferrolanas lo intentaron hasta el final, pero la remontada no fue posible",
+      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/22/baxi-ferrol-azul-marino/00031795349302113852410.htm",
+      "time": "2026-11-22T12:49:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol se lanza a la carrera para escapar de la violencia machista",
+      "description": "Cientos de participantes tomaron parte en la prueba deportiva y la andaina que recorrieron A Magdalena dentro de la programación del 25N",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/22/ferrol-corrio-escapar-violencia-machista/00031795347456656921600.htm",
+      "time": "2026-11-22T12:14:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una rotura de la conducción de agua deja sin suministro a numerosos hogares en Fene",
+      "description": "La avería se produjo en pleno casco urbano, en las cercanías del cruce principal",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/11/22/rotura-conduccion-agua-deja-suministro-numerosos-abonados-fene/00031795341069435179317.htm",
+      "time": "2026-11-22T10:37:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "La naronesa Sara Guerrero, plata en la Copa del Mundo de Tauranga",
       "description": "Solo la italiana Carlotta Missaglia fue mejor que la del Náutico Narón",
@@ -2914,78 +2977,6 @@
       "description": "Manoel Tato, del parque de Ferrol, explica que la oenegé culminó la consolidación del primer grupo de rescate acuático binacional entre el país andino y Bolivia",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/bomberos-voluntarios-briegal-regresan-peru-muertes-inundaciones-asumen-normalidad/00031795193793384575382.htm",
       "time": "2026-11-20T17:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Daniel Clemente arbitrará el derbi entre la UD Ourense y el Racing",
-      "description": "El tinerfeño de 28 años nunca se cruzó, hasta la fecha, con el combinado ferrolano",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/daniel-clemente-arbitrara-derbi-ourense-racing/00031795194620437686775.htm",
-      "time": "2026-11-20T17:15:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Nueva ampliación de capital del Grupo Élite, accionista mayoritario del Racing",
-      "description": "El Boletín Oficial del Registro Mercantil de A Coruña, del 13 de noviembre, recoge una inyección de medio millón de euros",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/nueva-ampliacion-capital-grupo-elite-accionista-mayoritario-racing/00031795188591009844432.htm",
-      "time": "2026-11-20T16:03:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Se apagan las luces del bar Beceiro: medio siglo de cafés, partidas y vida en Recimil",
-      "description": "Manuel Beceiro se jubila a los 67 años y el próximo 30 de noviembre pondrá fin a una historia familiar que comenzó en 1973, cuando los trabajadores de Bazán llenaban el local",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/apagan-luces-bar-beceiro-medio-siglo-cafes-partidas-vida-recimil/00031795187753472727380.htm",
-      "time": "2026-11-20T15:19:05+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Qué hacer este fin de semana: las tapas toman la zona de Ferrol",
-      "description": "La celebración de Santa Icía regará de conciertos varios municipios",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/fin-semana-tapas-toman-ferrolterra/00031795179652554801147.htm",
-      "time": "2026-11-20T15:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Un militar retirado de Ferrol logra que le reembolsen 4.000 euros por la atención a su mujer en el hospital Marcide",
-      "description": "Su esposa acudió al centro médico de la aseguradora del ISFAS tras una semana de malestar, le recetaron un mucolítico y acabó en la sanidad pública con un infarto pulmonar",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/20/militar-retirado-ferrol-logra-reembolsen-4000-euros-atencion-mujer-hospital-marcide/00031795176771502471622.htm",
-      "time": "2026-11-20T12:41:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Pasek presentará en As Pontes Duncon, un proyecto industrial de 70 millones basado en la transformación de la dunita",
-      "description": "La actuación prevé desarrollarse por fases en el polígono de Penapurreira, en una parcela de más de 40.000 metros cuadrados",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/pasek-presentara-as-pontes-duncon-proyecto-industrial-70-millones-basado-transformacion-dunita/00031795175868918806862.htm",
-      "time": "2026-11-20T12:15:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol activa un sistema para que las personas sordas puedan comunicarse con la Policía Local",
-      "description": "A través de un número de WhatsApp podrán enviarse avisos a la sala del 092",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/20/ferrol-activa-sistema-personas-sordas-puedan-comunicarse-policia-local/00031795175918191771279.htm",
-      "time": "2026-11-20T12:08:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Detenido el agresor de un hostelero de Valdoviño: estuvo a la fuga más de un mes en patinete",
-      "description": "El ataque se produjo a principios del mes de octubre, el presunto ladrón robó al gerente 500 euros y un coche que después dejó en Caranza; ya ingresó en prisión tras escaparse hasta tres veces de la policía",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/valdovino/2026/11/20/detenido-agresor-hostelero-valdovino-dio-fuga-mes-tras-robarle-coche/00031795168706682963701.htm",
-      "time": "2026-11-20T10:29:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
