@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T17:23:51.945655+00:00",
-  "count": 331,
+  "generated_at": "2026-11-22T22:38:08.222632+00:00",
+  "count": 328,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -25,6 +25,15 @@
     }
   },
   "items": [
+    {
+      "title": "Bernal, el inesperado cazafantasmas del gol para el Racing",
+      "description": "El mediocentro, cuyo último tanto oficial se remontaba a hace más de una década, abrió la lata para los ferrolanos",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/22/bernal-cazafantasmas-gol/00031795373309411861264.htm",
+      "time": "2026-11-22T18:53:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "El «1x1» de la victoria del Racing Club Ferrol frente a la UD Ourense",
       "description": "Los de Javi Vázquez, que cuajaron el peor partido en lo que va de curso, tiraron de fe para llevarse los tres puntos",
@@ -2967,42 +2976,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "O Parrulo Ferrol vence a Xota y sostiene el vuelo en la Liga Prime (2-3)",
-      "description": "Los de Gerard Casas, que se repusieron a un gol en el primer minuto, propusieron más y resistieron al arreón final",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/20/xota-parrulo-ferrol/00031795203832659579211.htm",
-      "time": "2026-11-20T21:06:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Doble metal para el cedeirés Damián Suárez en en el Mundial de Abu Dabi",
-      "description": "El deportista, adscrito al Club Delikia, revalida oro en la categoría júnior y conquista el bronce absoluto de acuatlón",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/20/doble-metal-cedeires-damian-suarez-mundial-abu-dabi/00031795201689167272372.htm",
-      "time": "2026-11-20T19:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Arranca la rehabilitación de las dependencias de la ciudad deportiva del Racing",
-      "description": "La retirada del tejado del edificio con forma de H en Mandiá evidencia un nuevo avance en las instalaciones del club ferrolano",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/20/arranca-rehabilitacion-dependencias-ciudad-deportiva-racing-club-ferrol/00031795197001329882157.htm",
-      "time": "2026-11-20T17:56:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Los bomberos voluntarios de Briegal regresan de Perú: «Allí las muertes por inundaciones se asumen con normalidad»",
-      "description": "Manoel Tato, del parque de Ferrol, explica que la oenegé culminó la consolidación del primer grupo de rescate acuático binacional entre el país andino y Bolivia",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/20/bomberos-voluntarios-briegal-regresan-peru-muertes-inundaciones-asumen-normalidad/00031795193793384575382.htm",
-      "time": "2026-11-20T17:27:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
