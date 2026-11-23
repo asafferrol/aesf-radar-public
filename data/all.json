@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T22:38:08.222632+00:00",
-  "count": 328,
+  "generated_at": "2026-11-23T03:06:01.048973+00:00",
+  "count": 86,
   "sources": {
     "lavoz_ferrol": {
       "ok": true,
@@ -9,7 +9,7 @@
     },
     "dog": {
       "ok": true,
-      "count": 51,
+      "count": 44,
       "name": "DOG · Xunta de Galicia"
     },
     "boe": {
@@ -25,6 +25,402 @@
     }
   },
   "items": [
+    {
+      "title": "ORDEN de 10 de noviembre de 2026 por la que se clasifica de interés para el desarrollo rural de Galicia la Fundación Montes de Vigo 2046.",
+      "description": "III. Otras disposiciones Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0759-131126-0007_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 13 de noviembre de 2026, de la Dirección General de Relaciones Exteriores y con la Unión Europea, por la que se hacen públicas las ayudas concedidas al amparo de la Orden de 24 de julio de 2026 por la que se aprueban las bases reguladoras de la concesión de subvenciones, en régimen de concurrencia competitiva, para la ejecución de proyectos de educación para el desarrollo y la ciudadanía global y se procede a su convocatoria para el año 2026 (código de procedimiento PR804A).",
+      "description": "III. Otras disposiciones Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0759-131126-0010_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 16 de noviembre de 2026 por la que se modifica parcialmente la Resolución de 27 de junio de 2026, conjunta de la Consellería de Educación, Ciencia, Universidades y Formación Profesional y de la Agencia Gallega de Innovación, por la que se adjudican las ayudas de la Orden de 19 de diciembre de 2025 por la que se establecen las bases para la concesión, en régimen de concurrencia competitiva, de las ayudas para completar la etapa de formación posdoctoral en las universidades del Sistema universitario de Galicia, en los organismos públicos de investigación de Galicia y en otras entidades del Sistema de I+D+i gallego, y se procede a su convocatoria para el año 2026 (códigos de procedimiento ED481D e IN606C).",
+      "description": "III. Otras disposiciones Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0761-161126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 143/2026, de 9 de noviembre, por el que se aprueba el cambio de titularidad, a favor del Ayuntamiento de Arteixo, de una superficie de dominio público viario (DPV) de la carretera AC-552, a lo largo del Centro Social de Lañas.",
+      "description": "III. Otras disposiciones Consellería de Vivienda y Planificación de Infraestructuras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0765-161126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "DECRETO 144/2026, de 9 de noviembre, por el que se aprueba el cambio de titularidad, a favor del Ayuntamiento de Cortegada, del tramo antiguo de la carretera OU-531 (variante V-91), del p.k. 51+260 al 51+330, en su margen izquierdo, junto con su dominio público viario.",
+      "description": "III. Otras disposiciones Consellería de Vivienda y Planificación de Infraestructuras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0765-161126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 6 de noviembre de 2026 por la que se convocan elecciones para la renovación de los órganos rectores de las cofradías de pescadores de Galicia, incluidas sus agrupaciones sectoriales, y de sus federaciones.",
+      "description": "III. Otras disposiciones Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0427-101126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 13 de noviembre de 2026 por la que se anuncia convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto ED.901.00.000.15770.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Educación, Ciencia, Universidades y Formación Profesional",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0761-131126-0003_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 13 de noviembre de 2026 por la que se resuelve la convocatoria pública para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería, convocado mediante la Orden de 6 de octubre de 2026 (código del puesto MA.C03.00.000.15770.002).",
+      "description": "IV. Oposiciones y concursos Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-131126-0009_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ORDEN de 12 de noviembre de 2026 por la que se declara desierta la convocatoria pública anunciada por la Orden de 16 de septiembre de 2026 para la provisión, por el sistema de libre designación, de un puesto de trabajo vacante en esta consellería (código del puesto FC.C07.00.000.15770.001).",
+      "description": "IV. Oposiciones y concursos Consellería de Hacienda y Administración Pública",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0597-131126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 13 de noviembre de 2026, de la Dirección General de Recursos Humanos, por la que se nombran nuevos miembros de los tribunales calificadores en los procesos selectivos para el ingreso en diversas categorías de personal estatutario fijo, convocados por las resoluciones de 16 de julio, 21 de agosto, 23 de septiembre, 11 de noviembre y de 10 y 11 de diciembre de 2025, y se da publicidad de la modificación de la condición de participación de alguno de sus miembros.",
+      "description": "IV. Oposiciones y concursos Servicio Gallego de Salud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0003-161126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 16 de noviembre de 2026, de la Gerencia del Área Sanitaria de Ourense, Verín y O Barco de Valdeorras, por la que se resuelve la convocatoria pública para la provisión, por el procedimiento de evaluación colegiada, de un puesto vacante de personal licenciado sanitario (jefe/a del Servicio de Oftalmología).",
+      "description": "IV. Oposiciones y concursos Servicio Gallego de Salud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0003-161126-0003_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 16 de noviembre de 2026, de la Gerencia del Área Sanitaria de Ourense, Verín y O Barco de Valdeorras, por la que se resuelve la convocatoria pública para la provisión, por el procedimiento de evaluación colegiada, de un puesto vacante de personal licenciado sanitario (jefe/a de la Sección de Angiología y Cirugía Vascular).",
+      "description": "IV. Oposiciones y concursos Servicio Gallego de Salud",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0003-161126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CORRECCIÓN DE ERRORES. Resolución de 4 de noviembre de 2026 por la que se convoca un concurso de acceso a una plaza de catedrático/a de universidad por promoción interna, por el turno de reserva de personas con discapacidad.",
+      "description": "IV. Oposiciones y concursos Universidad de A Coruña",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG2017-171126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "CORRECCIÓN DE ERRORES. Resolución de 4 de noviembre de 2026 por la que se convoca un concurso de acceso a plazas de catedrático/a de universidad por promoción interna.",
+      "description": "IV. Oposiciones y concursos Universidad de A Coruña",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG2017-171126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Pontevedra, por el que se notifica a las personas solicitantes de justicia gratuita la resolución de su expediente, acordada por la Comisión de Asistencia Jurídica Gratuita de Pontevedra (expediente PR 204A 2026/6634-4 y uno más).",
+      "description": "a) Administración autonómica Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0759-091126-0005_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Pontevedra, por el que se notifica el requerimiento de documentación en el procedimiento de cancelación de la inscripción en el Registro de Parejas de Hecho de Galicia (expediente PO-PR212B/2026/03440).",
+      "description": "a) Administración autonómica Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0759-091126-0004_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de A Coruña, por el que se notifica la resolución de cancelación de la inscripción en el Registro de Parejas de Hecho de Galicia (expediente AC-PR212B/2026/02554 (AC-2020/00424) y dos más).",
+      "description": "a) Administración autonómica Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0759-091126-0003_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de A Coruña, por el que se notifica el emplazamiento para el trámite de audiencia en el expediente de cancelación de la inscripción en el Registro de Parejas de Hecho de Galicia (expediente AC-PR212E/2026/02799 (AC-2023/00735) y tres más).",
+      "description": "a) Administración autonómica Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0759-091126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de A Coruña, por el que se notifica la resolución de archivo de la solicitud de inscripción en el Registro de Parejas de Hecho de Galicia (expediente AC-PR212A/2025/02014 y tres más).",
+      "description": "a) Administración autonómica Consellería de Presidencia, Justicia y Deportes",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0759-091126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "RESOLUCIÓN de 27 de octubre de 2026, del Departamento Territorial de Pontevedra, por la que se conceden las autorizaciones administrativas previa y de construcción de una instalación eléctrica en el ayuntamiento de Salvaterra de Miño (expediente IN407A 2026/154-4).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0763-281026-0009_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Pontevedra, por el que se comunica el inicio del plazo para la presentación de la hoja de aprecio de los bienes y derechos afectados por la ejecución del proyecto Sustitución de los apoyos AHM86Q4G//276, AHKSAEP2//277, AHJHDTIT//278 y AHI9H2JU//279 de la LMTA LAL805.",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0763-091126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Lugo, del acuerdo de ocupación y del requerimiento para presentar las hojas de aprecio de los bienes y derechos afectados por una instalación eléctrica en el ayuntamiento de Monforte de Lemos (expediente IN407A 2025/113-2).",
+      "description": "a) Administración autonómica Consellería de Economía e Industria",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0763-061126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Ourense, por el que se emplaza a las personas interesadas para ser notificadas por comparecencia en el expediente ANI-OU-42/2026-V y dos más.",
+      "description": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 9 de noviembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto de ampliación de una explotación de ganado de vacuno de leche en el lugar de Fontorto, en la parroquia de Boado, en el ayuntamiento de Mesía (A Coruña) (expediente 2026/0013).",
+      "description": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0004_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 9 de noviembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto de un campamento de turismo en el lugar de Piñarrostro, en la parroquia de A Cova, en el ayuntamiento de Carballedo (Lugo) (expediente 2026/0002).",
+      "description": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0003_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 9 de noviembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto del sistema de almacenamiento de energía de baterías (BESS) Raposeiras de 4 MW y su infraestructura de evacuación, en los ayuntamientos de Carral, Cerceda y Ordes (A Coruña) (expediente 2025/0048).",
+      "description": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Pontevedra, por el que se notifica el acuerdo de suspensión del expediente sancionador 20260142VS-PO, por infracción en materia sanitaria.",
+      "description": "a) Administración autonómica Consellería de Sanidad",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioC3K1-061126-0003_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 5 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se notifica el apercibimiento previo a la imposición de multas coercitivas en el expediente sancionador MON-LU-0183/2025-DIS.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0011_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 5 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se notifica la imposición de la decimotercera multa coercitiva en el expediente sancionador MON-LU-0176/2022-V.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0010_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 5 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se notifica el apercibimiento previo a la imposición de multas coercitivas en el expediente sancionador MON-LU-0167/2025-V.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0009_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 5 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se notifica el apercibimiento previo a la imposición de multas coercitivas en el expediente sancionador MON-LU-0139/2025-DIS.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0008_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 5 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se notifica el apercibimiento previo a la imposición de multas coercitivas en el expediente sancionador MON-LU-0132/2025-FOR.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0005_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 5 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se notifica el apercibimiento previo a la imposición de multas coercitivas en el expediente sancionador MON-LU-0101/2025-DIA.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0004_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 5 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se notifica el acuerdo de imposición de la decimosexta multa coercitiva en el expediente sancionador MON-LU-0056/2022-CSA.",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0003_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Pontevedra, por el que se notifica a una persona interesada el trámite de audiencia en relación con la modificación del acuerdo de la zona de concentración parcelaria de Codeseda (A Estrada, Pontevedra).",
+      "description": "a) Administración autonómica Consellería del Medio Rural",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0426-091126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 27 de octubre de 2026, del Departamento Territorial de Vigo, por el que se hace pública la transmisión de la titularidad del parque de cultivos marinos 1514-9743.",
+      "description": "a) Administración autonómica Consellería del Mar",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0427-021126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 30 de octubre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de novación de la concesión de aguas con clave DH.A36.07267, otorgada el 14 de julio de 2004, en los ayuntamientos de Redondela y Pazos de Borbén (expediente DH.A36.100262).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioO143-021126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 9 de noviembre de 2026, del Servicio de Tramitación de Autorizaciones y Concesiones, por el que se notifican las comunicaciones de la información existente en el Registro de Aguas (expediente DH.B15.8354 y setenta y cuatro más).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioO143-091126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 17 de noviembre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se corrigen errores del Anuncio de 21 de octubre de 2026 por el que se somete a información pública una solicitud de autorización de obras de construcción de estación de servicio en el ayuntamiento de Pontevedra (expediente DH.W36.118733).",
+      "description": "a) Administración autonómica Augas de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioO143-171126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de 11 de noviembre de 2026 por el que se somete al trámite de información pública el proyecto de construcción Mejora de accesibilidad y conectividad de las paradas de autobús situadas en la Red autonómica de carreteras de Galicia (RACG) en el área urbana de Pontevedra, de clave PO/22/058.06; así como la relación individual de bienes, derechos y propietarios afectados por el proyecto. Actuación susceptible de ser cofinanciada por la Unión Europea a través del Fondo Europeo de Desarrollo Regional (Feder) en el marco del programa Galicia Feder 2021-2027.",
+      "description": "a) Administración autonómica Agencia Gallega de Infraestructuras",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0181-131126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ACTO de notificación, en procedimiento de gestión de biomasa vegetal, de acuerdo de imposición de multa coercitiva en el expediente 725/2026.",
+      "description": "b) Administración local Ayuntamiento de Arbo",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioL201-031126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación a personas desconocidas de la comunicación y requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y retirada de especies arbóreas prohibidas (expediente 2026040319).",
+      "description": "b) Administración local Ayuntamiento de Ourense",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioL354-021126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de notificación de la comunicación y requerimiento para recordar el cumplimiento de la obligación de gestión de la biomasa vegetal y retirada de especies arbóreas de parcelas priorizadas (expediente 2026043936).",
+      "description": "b) Administración local Ayuntamiento de Ourense",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioL354-021126-0002_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
+    {
+      "title": "ANUNCIO de la aprobación inicial del proyecto de expropiación urbanística por el procedimiento de tasación conjunta para la adquisición de terrenos destinados al sistema viario en Portomedal, Coucieiro.",
+      "description": "b) Administración local Ayuntamiento de Val do Dubra",
+      "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioL188-021126-0001_es.html",
+      "time": "2026-11-22T23:00:00+00:00",
+      "source": "DOG · Xunta de Galicia",
+      "source_id": "dog",
+      "type": "OFICIAL"
+    },
     {
       "title": "Bernal, el inesperado cazafantasmas del gol para el Racing",
       "description": "El mediocentro, cuyo último tanto oficial se remontaba a hace más de una década, abrió la lata para los ferrolanos",
@@ -402,2580 +798,6 @@
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
       "type": "NOTICIAS"
-    },
-    {
-      "title": "Sumario",
-      "description": "Sumario del diario núm. 290, correspondiente al sábado 21 de noviembre de 2026. - Referencia: BOE-S-2026-290 - KBytes: 409",
-      "url": "https://www.boe.es/boe/dias/2026/11/21/",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Real Decreto-ley 40/2026, de 20 de noviembre, de medidas urgentes para el impulso de la competitividad y la soberanía tecnológica en el ámbito científico e investigador.",
-      "description": "I. Disposiciones generales - JEFATURA DEL ESTADO - Medidas urgentes - Referencia: BOE-A-2026-24437 - KBytes: 412 - Páginas: 37",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24437",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Real Decreto-ley 41/2026, de 20 de noviembre, por el que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.",
-      "description": "I. Disposiciones generales - JEFATURA DEL ESTADO - Medidas urgentes - Referencia: BOE-A-2026-24438 - KBytes: 705 - Páginas: 78",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24438",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Real Decreto 1032/2026, de 20 de noviembre, por el que se regulan los requisitos de sostenibilidad energética, medioambiental y de resiliencia y soberanía digital aplicables a los centros de datos.",
-      "description": "I. Disposiciones generales - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Centros de datos - Referencia: BOE-A-2026-24439 - KBytes: 375 - Páginas: 32",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de noviembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
-      "description": "I. Disposiciones generales - MINISTERIO DE HACIENDA - Tabaco. Precios - Referencia: BOE-A-2026-24440 - KBytes: 255 - Páginas: 4",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24440",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 13 de noviembre de 2026, de la Tesorería General de la Seguridad Social, por la que se publica el fallo de la Sentencia de 1 de diciembre de 2025 del Juzgado Central de lo Contencioso-Administrativo n.º 6, relativa a la cuestión de ilegalidad número 1/2025, en relación con la Resolución de 26 de diciembre de 2014, por la que se autoriza la utilización de tarjetas, tanto de débito como de crédito, como medio de pago de las deudas con la Seguridad Social en vía voluntaria no ingresadas dentro del plazo reglamentario, de las deudas en vía ejecutiva y de las deudas que hayan sido objeto de reclamación de deuda.",
-      "description": "I. Disposiciones generales - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Seguridad Social. Recaudación - Referencia: BOE-A-2026-24441 - KBytes: 192 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24441",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Acuerdo de 17 de noviembre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se prorroga el nombramiento como Jueces y Juezas sustitutos/as en funciones de sustitución y/o refuerzo a los miembros de la 75.ª promoción de la Escuela Judicial.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - CONSEJO GENERAL DEL PODER JUDICIAL - Nombramientos - Referencia: BOE-A-2026-24442 - KBytes: 217 - Páginas: 6",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24442",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 18 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 25 de septiembre de 2026.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Destinos - Referencia: BOE-A-2026-24443 - KBytes: 210 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24443",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Orden INT/1254/2026, de 17 de noviembre, por la que se nombra para el Mando de la 16.ª Zona de la Guardia Civil, Comunidad Autónoma de Canarias, al General de Brigada don Roberto Blanes González.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DEL INTERIOR - Nombramientos - Referencia: BOE-A-2026-24444 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24444",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Orden INT/1255/2026, de 17 de noviembre, por la que se nombra para el Mando de la 2.ª Zona de la Guardia Civil, Comunidad Autónoma de Castilla-La Mancha (Toledo), al General de Brigada don Jesús Manuel Rodrigo Sánchez.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DEL INTERIOR - Nombramientos - Referencia: BOE-A-2026-24445 - KBytes: 188 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24445",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de octubre 2026.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Destinos - Referencia: BOE-A-2026-24446 - KBytes: 253 - Páginas: 4",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24446",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 9 de noviembre de 2026, de la Universitat de València, por la que se nombra Catedrática de Universidad a doña María Oreto García Puchol.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24447 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24447",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, de la Universidad de Sevilla, por la que se nombra Profesor Titular de Universidad a don Santiago José Castroviejo Fisher.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24448 - KBytes: 189 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24448",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, de la Universidad de Sevilla, por la que se nombran Profesores Titulares de Universidad.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24449 - KBytes: 190 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24449",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrático de Universidad a don Didac Llorens Cubedo.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24450 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24450",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesor Titular de Universidad a don Adrián Ares Legaspi.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24451 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24451",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesora Titular de Universidad a doña Genoveva Tusell García.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24452 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24452",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Universidad Rey Juan Carlos, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24453 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24453",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de noviembre de 2026, de la Universidad de Alicante, por la que se anula la de 30 de octubre de 2026, por la que se nombra Profesora Titular de Universidad a doña Elena Gutiérrez Pérez.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24454 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24454",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 13 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se corrigen errores en la de 29 de octubre de 2026, por la que se nombra Profesor Titular de Universidad a don Camilo Zamora Ledezma.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24455 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24455",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 13 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se corrigen errores en la de 30 de octubre de 2026, por la que se nombra Profesor Titular de Universidad a don José Manuel Castillo Cara.",
-      "description": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias - UNIVERSIDADES - Nombramientos - Referencia: BOE-A-2026-24456 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24456",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 18 de noviembre de 2026, de la Subsecretaría, por la que se declaran desiertos puestos de trabajo de libre designación, convocados por Resolución de 24 de septiembre de 2026.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN - Procedimientos de libre designación - Referencia: BOE-A-2026-24457 - KBytes: 208 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24457",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 19 de noviembre de 2026, de la Secretaría de Estado de Justicia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES - Procedimientos de libre designación - Referencia: BOE-A-2026-24458 - KBytes: 308 - Páginas: 6",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24458",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución 430/38456/2026, de 13 de noviembre, de la Subsecretaría, por la que se convoca proceso selectivo para acceso, por el sistema general de acceso libre, en el Cuerpo de Oficiales de Arsenales de la Armada.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE DEFENSA - Cuerpo de Oficiales de Arsenales de la Armada - Referencia: BOE-A-2026-24459 - KBytes: 391 - Páginas: 28",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24459",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 19 de noviembre de 2026, de la Subsecretaría, por la que se modifica y se corrigen errores en la relación definitiva de personas admitidas y excluidas, y se modifica la composición de órganos de selección del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo, en los grupos profesionales M3, M2, M1, E2 y E1 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 3 de julio de 2026.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DEL INTERIOR - Personal laboral - Referencia: BOE-A-2026-24460 - KBytes: 230 - Páginas: 5",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24460",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de noviembre 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Personal funcionario. Concursos - Referencia: BOE-A-2026-24461 - KBytes: 748 - Páginas: 25",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24461",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES - Procedimientos de libre designación - Referencia: BOE-A-2026-24462 - KBytes: 247 - Páginas: 4",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24462",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 28 de octubre de 2026, del Ayuntamiento de Pego (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24463 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24463",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, del Cabildo Insular de Tenerife (Santa Cruz de Tenerife), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24464 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24464",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de noviembre de 2026, del Ayuntamiento de Dénia (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24465 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24465",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 13 de noviembre de 2026, del Ayuntamiento de Vic (Barcelona), Organismo Autónomo Xarxa de Serveis Urbans, referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24466 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24466",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 13 de noviembre de 2026, de la Mancomunitat de Municipis de la Safor (Valencia/València), que deja sin efecto la de 14 de octubre de 2026, referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24467 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24467",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 16 de noviembre de 2026, del Ayuntamiento de Navalcarnero (Madrid), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24468 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24468",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 17 de noviembre de 2026, del Ayuntamiento de Reus (Tarragona), referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24469 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24469",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 17 de noviembre de 2026, del Ayuntamiento de Portas (Pontevedra), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24470 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24470",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 17 de noviembre de 2026, de la Diputación Provincial de Burgos, referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24471 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24471",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 17 de noviembre de 2026, del Ayuntamiento de Liétor (Albacete), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24472 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24472",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 17 de noviembre de 2026, del Ayuntamiento de Alzira (Valencia/València), referente a la convocatoria para proveer una plaza.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24473 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24473",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 17 de noviembre de 2026, del Ayuntamiento de Córdoba, referente a la convocatoria para proveer varias plazas.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - ADMINISTRACIÓN LOCAL - Personal funcionario y laboral - Referencia: BOE-A-2026-24474 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24474",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 9 de noviembre de 2026, de la Universidad de Huelva, por la que se declaran desiertas plazas de cuerpos docentes universitarios.",
-      "description": "II. Autoridades y personal. - B. Oposiciones y concursos - UNIVERSIDADES - Cuerpos docentes universitarios - Referencia: BOE-A-2026-24475 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24475",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de noviembre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Madrigalejo, en materia de seguridad.",
-      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Convenios - Referencia: BOE-A-2026-24476 - KBytes: 226 - Páginas: 6",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24476",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 17 de noviembre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Bonares, en materia de seguridad.",
-      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Convenios - Referencia: BOE-A-2026-24477 - KBytes: 220 - Páginas: 6",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24477",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 19 de noviembre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con Airbnb.org, para colaborar en la mejora de la gestión de la protección civil y las emergencias.",
-      "description": "III. Otras disposiciones - MINISTERIO DEL INTERIOR - Convenios - Referencia: BOE-A-2026-24478 - KBytes: 221 - Páginas: 6",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24478",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Orden EFD/1256/2026, de 16 de noviembre, por la que se concede el ingreso en la Orden Civil de Alfonso X el Sabio con la categoría de Encomienda con Placa a don Santiago García Manzano.",
-      "description": "III. Otras disposiciones - MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES - Condecoraciones - Referencia: BOE-A-2026-24479 - KBytes: 187 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24479",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Cardtronics Spain, SLU.",
-      "description": "III. Otras disposiciones - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Convenios colectivos de trabajo - Referencia: BOE-A-2026-24480 - KBytes: 425 - Páginas: 34",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24480",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Happy Games, SL.",
-      "description": "III. Otras disposiciones - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Convenios colectivos de trabajo - Referencia: BOE-A-2026-24481 - KBytes: 372 - Páginas: 26",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24481",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el IV Convenio colectivo de Unedisa Comunicaciones, SL.",
-      "description": "III. Otras disposiciones - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Convenios colectivos de trabajo - Referencia: BOE-A-2026-24482 - KBytes: 605 - Páginas: 54",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24482",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de noviembre de 2026, de la Subsecretaría, por la que se publica el Convenio con la Generalitat de Catalunya, en materia de estadística para el año 2026.",
-      "description": "III. Otras disposiciones - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Comunidad Autónoma de Cataluña. Convenio - Referencia: BOE-A-2026-24483 - KBytes: 259 - Páginas: 7",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24483",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 13 de noviembre de 2026, de la Subsecretaría, por la que se publica el Convenio entre la Entidad Estatal de Seguros Agrarios, O.A., y la Comunitat Valenciana, para el intercambio de datos a efectos de gestión y control de subvenciones a los seguros agrarios de los beneficiarios de su Comunidad Autónoma.",
-      "description": "III. Otras disposiciones - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Comunitat Valenciana. Convenio - Referencia: BOE-A-2026-24484 - KBytes: 303 - Páginas: 10",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24484",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 12 de noviembre de 2026, de la Dirección General de Producciones y Mercados Agrarios, por la que se publica el Convenio con la Asociación Española de Criadores de Ganado Vacuno de Raza Monchina, para el depósito y custodia de material genético de animales de razas puras, consignado en el Banco Nacional de Germoplasma Animal.",
-      "description": "III. Otras disposiciones - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Convenios - Referencia: BOE-A-2026-24485 - KBytes: 217 - Páginas: 5",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24485",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Orden APA/1257/2026, de 17 de noviembre, por la que se modifican la Orden APA/372/2020, de 24 de abril, por la que se regula la pesquería de patudo («Thunnus obesus») en el Océano Atlántico y se establece un censo de buques autorizados a la pesca de patudo, y la Orden APA/25/2021, de 19 de enero, por la que se regula el ejercicio de la pesca de túnidos tropicales en el Océano Índico y se crea un censo de atuneros cerqueros congeladores autorizados a la pesca de túnidos tropicales en el Océano Índico.",
-      "description": "III. Otras disposiciones - MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN - Pesca marítima - Referencia: BOE-A-2026-24486 - KBytes: 301 - Páginas: 11",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24486",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, de la Dirección General de Vivienda y Suelo, por la que se publica el Convenio con la Comunidad Autónoma de Castilla-La Mancha, para la ejecución del Plan Estatal de Vivienda 2026-2030.",
-      "description": "III. Otras disposiciones - MINISTERIO DE VIVIENDA Y AGENDA URBANA - Comunidad Autónoma de Castilla-La Mancha. Convenio - Referencia: BOE-A-2026-24487 - KBytes: 465 - Páginas: 18",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24487",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 28 de octubre de 2026, de la Dirección General de Patrimonio Cultural y Bellas Artes, por la que se publica el Convenio con el Ayuntamiento de La Carolina, para el apoyo técnico en materia de explotación conjunta de la aplicación de gestión museográfica DOMUS, e intercambio y difusión de información a través de la misma en el Museo de La Carolina.",
-      "description": "III. Otras disposiciones - MINISTERIO DE CULTURA - Convenios - Referencia: BOE-A-2026-24488 - KBytes: 241 - Páginas: 9",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24488",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 16 de noviembre de 2026, del Museo Nacional Centro de Arte Reina Sofía, por la que se publica la segunda Adenda de prórroga del Convenio con la Sociedad Española de Radiodifusión, SLU, para el mecenazgo de la programación cultural del museo.",
-      "description": "III. Otras disposiciones - MINISTERIO DE CULTURA - Convenios - Referencia: BOE-A-2026-24489 - KBytes: 200 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24489",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 16 de noviembre de 2026, de la Subsecretaría, por la que se establece el procedimiento para la autoliquidación y el pago por vía telemática de la tasa por el examen de la documentación necesaria para la verificación del cumplimiento de los requisitos para la aprobación de la utilización de modelos internos y parámetros específicos en el cálculo del capital de solvencia obligatorio de la entidades aseguradoras y reaseguradoras.",
-      "description": "III. Otras disposiciones - MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA - Procedimientos administrativos. Gestión informatizada - Referencia: BOE-A-2026-24490 - KBytes: 199 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24490",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Orden SND/1258/2026, de 12 de noviembre, por la que se regula el procedimiento de concurrencia competitiva para la selección de proyectos del programa EU4Health.",
-      "description": "III. Otras disposiciones - MINISTERIO DE SANIDAD - Ayudas - Referencia: BOE-A-2026-24491 - KBytes: 226 - Páginas: 6",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24491",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 30 de octubre de 2026, del Instituto de Mayores y Servicios Sociales, por la que se aprueba la convocatoria para la elección de operaciones en el marco del Programa de Inclusión Social, Garantía Infantil y Lucha Contra la Pobreza, cofinanciado con el Fondo Social Europeo plus (FSE +).",
-      "description": "III. Otras disposiciones - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Ayudas - Referencia: BOE-A-2026-24492 - KBytes: 719 - Páginas: 55",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24492",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, del Instituto de Mayores y Servicios Sociales, por la que se publica el Convenio con la Comunidad Autónoma de la Región de Murcia, para el desarrollo del Marco de cooperación interadministrativa previsto en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia y para el establecimiento y financiación del nivel de protección acordado para el ejercicio 2026.",
-      "description": "III. Otras disposiciones - MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030 - Comunidad Autónoma de la Región de Murcia. Convenio - Referencia: BOE-A-2026-24493 - KBytes: 337 - Páginas: 17",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24493",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 6 de noviembre de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Comunidad Autónoma de Castilla-La Mancha, para la conservación de las estirpes de cerdo ibérico Torbiscal y Guadyerbas en el Centro de Investigaciones Agropecuarias «Dehesón del Encinar».",
-      "description": "III. Otras disposiciones - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Comunidad Autónoma de Castilla-La Mancha. Convenio - Referencia: BOE-A-2026-24494 - KBytes: 246 - Páginas: 10",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24494",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Universidad Politécnica de Madrid, para el establecimiento de las condiciones de funcionamiento del centro mixto de I+D+i Centro de Biotecnología y Genómica de Plantas.",
-      "description": "III. Otras disposiciones - MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES - Comunidad de Madrid. Convenio - Referencia: BOE-A-2026-24495 - KBytes: 749 - Páginas: 36",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24495",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 20 de noviembre de 2026, del Banco de España, por la que se publican los cambios del euro correspondientes al día 20 de noviembre de 2026, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
-      "description": "III. Otras disposiciones - BANCO DE ESPAÑA - Mercado de divisas - Referencia: BOE-A-2026-24496 - KBytes: 211 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24496",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 11 de noviembre de 2026, de la Comisión Ejecutiva del Banco de España, por la que se modifica la de 11 de diciembre de 1998, por la que se aprueban las cláusulas generales aplicables a las operaciones de política monetaria del Banco de España.",
-      "description": "III. Otras disposiciones - BANCO DE ESPAÑA - Política monetaria - Referencia: BOE-A-2026-24497 - KBytes: 308 - Páginas: 21",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24497",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Decreto 78/2026, de 13 de octubre, por el que se declara bien de interés cultural, de carácter inmaterial, el Teatro Popular Asturiano-Teatro Costumbrista Asturiano.",
-      "description": "III. Otras disposiciones - COMUNIDAD AUTÓNOMA DEL PRINCIPADO DE ASTURIAS - Bienes de interés cultural - Referencia: BOE-A-2026-24498 - KBytes: 237 - Páginas: 8",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24498",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 22 de octubre de 2026, de la Universidad Loyola Andalucía, por la que se publica el plan de estudios de Graduado o Graduada en Podología.",
-      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-24499 - KBytes: 245 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24499",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 26 de octubre de 2026, de la Universidad Loyola Andalucía, por la que se publican planes de estudios de Máster Universitario.",
-      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-24500 - KBytes: 274 - Páginas: 5",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24500",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, de la Universidad San Jorge, por la que se publica el plan de estudios de Graduado o Graduada en Odontología.",
-      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-24501 - KBytes: 270 - Páginas: 3",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24501",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Resolución de 10 de noviembre de 2026, de la Universidad San Jorge, por la que se publica el plan de estudios de Máster Universitario en Inteligencia Artificial Aplicada.",
-      "description": "III. Otras disposiciones - UNIVERSIDADES - Planes de estudios - Referencia: BOE-A-2026-24502 - KBytes: 242 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24502",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Corrección de errores de las candidaturas proclamadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre.",
-      "description": "III. Otras disposiciones - JUNTAS ELECTORALES PROVINCIALES - Elecciones generales. Proclamación de candidaturas - Referencia: BOE-A-2026-24503 - KBytes: 186 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24503",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ALCOY",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38248 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38248",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "AMPOSTA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38249 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38249",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ARANDA DE DUERO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38250 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38250",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BAÑEZA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38251 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38251",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CARMONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38252 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38252",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CAROLINA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38253 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38253",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CERDANYOLA DEL VALLES",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38254 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38254",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CERDANYOLA DEL VALLES",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38255 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38255",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CEUTA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38256 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38256",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "COLLADO VILLALBA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38257 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38257",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "EL VENDRELL",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38258 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38258",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ESTEPONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38259 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38259",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ESTEPONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38260 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38260",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "GETAFE",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38261 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38261",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "GETAFE",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38262 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38262",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "IGUALADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38263 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38263",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "IGUALADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38264 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38264",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "IGUALADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38265 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38265",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "IGUALADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38266 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38266",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "IGUALADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38267 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38267",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LANGREO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38268 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38268",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LANGREO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38269 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38269",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MAO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38270 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38270",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MARTORELL",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38271 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38271",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MONTIJO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38272 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38272",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "NOVELDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38273 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38273",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "OLOT",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38274 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38274",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "RONDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38275 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38275",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SANLUCAR BARRAMEDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38276 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38276",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SANLUCAR MAYOR",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38277 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38277",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SANT FELIU DE GUIXOLS",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38278 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38278",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SANT FELIU DE LLOBREGAT",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38279 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38279",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SEU D URGELL (LA)",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38280 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38280",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SUECA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38281 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38281",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SUECA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38282 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38282",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TERUEL",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38283 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38283",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38284 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38284",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38285 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38285",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38286 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38286",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VALVERDE DEL CAMINO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38287 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38287",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VILANOVA I LA GELTRU",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38288 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38288",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VILANOVA I LA GELTRU",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38289 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38289",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VILANOVA I LA GELTRU",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38290 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38290",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VILLANUEVA DE LA SERENA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38291 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38291",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VILLARROBLEDO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38292 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38292",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ZAMORA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL Y DE INSTRUCCIÓN - Referencia: BOE-B-2026-38293 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38293",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ALBACETE",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38294 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38294",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ALCALA DE HENARES",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38295 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38295",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ALGECIRAS",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38296 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38296",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BARCELONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38297 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38297",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BILBAO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38298 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38298",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CASTELLON DE LA PLANA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38299 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38299",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CASTELLON DE LA PLANA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38300 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38300",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CORDOBA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38301 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38301",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "CORDOBA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38302 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38302",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "DONOSTIA-SAN SEBASTIAN",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38303 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38303",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ELX",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38304 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38304",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "FUENGIROLA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38305 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38305",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "FUENLABRADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38306 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38306",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "FUENLABRADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38307 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38307",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "GRANADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38308 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38308",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "GRANOLLERS",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38309 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38309",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "GRANOLLERS",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38310 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38310",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "GRANOLLERS",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38311 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38311",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "HUELVA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38312 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38312",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "HUELVA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38313 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38313",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "IBIZA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38314 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38314",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "IBIZA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38315 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38315",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "JAEN",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38316 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38316",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LAS PALMAS DE GRAN CANARIA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38317 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38317",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LEON",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38318 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38318",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LEON",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38319 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38319",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LLEIDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38320 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38320",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LLEIDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38321 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38321",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LLEIDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38322 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38322",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LLEIDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38323 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38323",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LLEIDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38324 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38324",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "LLEIDA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38325 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38325",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38326 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38326",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38327 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38327",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38328 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38328",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38329 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38329",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38330 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38330",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MALAGA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38331 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38331",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MALAGA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38332 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38332",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MALAGA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38333 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38333",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MARBELLA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38334 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38334",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MARBELLA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38335 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38335",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MARBELLA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38336 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38336",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MOSTOLES",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38337 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38337",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ORIHUELA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38338 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38338",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ORIHUELA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38339 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38339",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "OVIEDO",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38340 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38340",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "PALMA DE MALLORCA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38341 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38341",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "PONFERRADA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38342 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38342",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SABADELL",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38343 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38343",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SALAMANCA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38344 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38344",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORREJON DE ARDOZ",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38345 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38345",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORREMOLINOS",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38346 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38346",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORREVIEJA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38347 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38347",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORREVIEJA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38348 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38348",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORREVIEJA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38349 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38349",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORREVIEJA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38350 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38350",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TORREVIEJA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38351 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38351",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VALLADOLID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38352 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38352",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ZARAGOZA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38353 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38353",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ZARAGOZA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38354 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38354",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ZARAGOZA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL - Referencia: BOE-B-2026-38355 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38355",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BARCELONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO MERCANTIL - Referencia: BOE-B-2026-38356 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38356",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BARCELONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO MERCANTIL - Referencia: BOE-B-2026-38357 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38357",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO PENAL - Referencia: BOE-B-2026-38358 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38358",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO PENAL - Referencia: BOE-B-2026-38359 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38359",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MADRID",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO PENAL - Referencia: BOE-B-2026-38360 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38360",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "BARCELONA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO SOCIAL - Referencia: BOE-B-2026-38361 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38361",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "SANTIAGO DE COMPOSTELA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN DE LO SOCIAL - Referencia: BOE-B-2026-38362 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38362",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "PALMA DE MALLORCA",
-      "description": "IV. Administración de Justicia - TRIBUNALES DE INSTANCIA. SECCIÓN CIVIL/JUZGADOS DE PRIMERA INSTANCIA - Referencia: BOE-B-2026-38363 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38363",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ROQUETAS DE MAR",
-      "description": "IV. Administración de Justicia - JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN - Referencia: BOE-B-2026-38364 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38364",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "TOLEDO",
-      "description": "IV. Administración de Justicia - JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN - Referencia: BOE-B-2026-38365 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38365",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ALICANTE/ALACANT",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38366 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38366",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38367 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38367",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38368 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38368",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38369 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38369",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38370 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38370",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38371 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38371",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38372 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38372",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38373 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38373",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38374 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38374",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38375 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38375",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "MURCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38376 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38376",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VALENCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38377 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38377",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VALENCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38378 - KBytes: 193 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38378",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "VALENCIA",
-      "description": "IV. Administración de Justicia - SERVICIOS COMUNES PROCESALES - Referencia: BOE-B-2026-38379 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38379",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38380 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38380",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38381 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38381",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CANTABRIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38382 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38382",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38383 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38383",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38384 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38384",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "E.R. SUBASTAS.SEDE BADAJOZ",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38385 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38385",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "E.R. SUBASTAS.SEDE BADAJOZ",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38386 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38386",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38387 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38387",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38388 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38388",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38389 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38389",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38390 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38390",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38391 - KBytes: 195 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38391",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38392 - KBytes: 195 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38392",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38393 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38393",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38394 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38394",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38395 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38395",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 29",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38396 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38396",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38397 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38397",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38398 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38398",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38399 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38399",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS GALICIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38400 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38400",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38401 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38401",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38402 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38402",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS GALICIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38403 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38403",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38404 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38404",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38405 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38405",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38406 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38406",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38407 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38407",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38408 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38408",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38409 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38409",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS MURCIA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38410 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38410",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38411 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38411",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38412 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38412",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38413 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38413",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38414 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38414",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38415 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38415",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38416 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38416",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38417 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38417",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38418 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38418",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38419 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38419",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38420 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38420",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38421 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38421",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38422 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38422",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38423 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38423",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38424 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38424",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38425 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38425",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38426 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38426",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38427 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38427",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38428 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38428",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38429 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38429",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38430 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38430",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38431 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38431",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38432 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38432",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38433 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38433",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38434 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38434",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38435 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38435",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38436 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38436",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38437 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38437",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38438 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38438",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38439 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38439",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38440 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38440",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS CATALUÑA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38441 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38441",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38442 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38442",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38443 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38443",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38444 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38444",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38445 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38445",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38446 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38446",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38447 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38447",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38448 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38448",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38449 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38449",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38450 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38450",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38451 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38451",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38452 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38452",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38453 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38453",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38454 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38454",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "U.R. SUBASTAS ANDALUCÍA 41",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE HACIENDA - Referencia: BOE-B-2026-38455 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38455",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Extracto de la Resolución de 19 de noviembre de 2026 de la Dirección General del Servicio Público de Empleo Estatal por la que se aprueba la convocatoria para la concesión de subvenciones destinadas a la financiación del programa de inserción laboral a través de obras y servicios de interés general y social, en colaboración con órganos de la Administración General del Estado, en el ámbito territorial de las ciudades de Ceuta y Melilla",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL - Referencia: BOE-B-2026-38456 - KBytes: 203 - Páginas: 2",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38456",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Valladolid, por el que se somete a información pública la solicitud de procedimiento simplificado de autorización administrativa previa y autorización administrativa de construcción de los módulos de almacenamiento por baterías de \"BESS El Caballero\", de 48,9 MW de potencia instalada, \"BESS Sinfonía I\", de 45,14 MW de potencia instalada y \"BESS Adaja I\", de 48,9 MW de potencia instalada, para su hibridación con las respectivas instalaciones solares fotovoltaicas El Caballero, Sinfonía I y Adaja I, y sus infraestructuras de evacuación, en la provincia de Valladolid.",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA - Referencia: BOE-B-2026-38457 - KBytes: 225 - Páginas: 5",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38457",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "AGENCIA TRIBUTARIA DE ANDALUCÍA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - COMUNIDAD AUTÓNOMA DE ANDALUCÍA - Referencia: BOE-B-2026-38458 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38458",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "AGENCIA TRIBUTARIA DE ANDALUCÍA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - COMUNIDAD AUTÓNOMA DE ANDALUCÍA - Referencia: BOE-B-2026-38459 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38459",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "AGENCIA TRIBUTARIA DE ANDALUCÍA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - COMUNIDAD AUTÓNOMA DE ANDALUCÍA - Referencia: BOE-B-2026-38460 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38460",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "ORGANISMO AUTÓNOMO DE HACIENDA FORAL DE NAVARRA",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - COMUNIDAD FORAL DE NAVARRA - Referencia: BOE-B-2026-38461 - KBytes: 195 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38461",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "AYUNTAMIENTO DE HUMANES",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - ADMINISTRACIÓN LOCAL - Referencia: BOE-B-2026-38462 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38462",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "DIPUTACIÓN PROVINCIAL DE SEVILLA ( OPAEF)",
-      "description": "V. Anuncios. - B. Otros anuncios oficiales - ADMINISTRACIÓN LOCAL - Referencia: BOE-B-2026-38463 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38463",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "NOTARÍA DE FRANCISCO JAVIER MONEDERO SAN MARTÍN",
-      "description": "V. Anuncios. - C. Anuncios particulares - ANUNCIOS PARTICULARES - Referencia: BOE-B-2026-38464 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38464",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
-    },
-    {
-      "title": "NOTARÍA DE FRANCISCO JAVIER MONEDERO SAN MARTÍN",
-      "description": "V. Anuncios. - C. Anuncios particulares - ANUNCIOS PARTICULARES - Referencia: BOE-B-2026-38465 - KBytes: 194 - Páginas: 1",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38465",
-      "time": "2026-11-20T23:00:00+00:00",
-      "source": "BOE",
-      "source_id": "boe",
-      "type": "OFICIAL"
     }
   ]
 }
