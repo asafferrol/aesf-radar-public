@@ -1,7 +1,115 @@
 {
   "hours": 48,
-  "count": 668,
+  "count": 672,
   "items": [
+    {
+      "title": "Aparatoso accidente en la autovía de As Pontes",
+      "description": "El conductor de un turismo resultó herido tras perder el control del vehículo y colisionar contra las barreras de seguridad de los carriles",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/24/aparatoso-accidente-autovia-as-pontes/00031795549276482271307.htm",
+      "time": "2026-11-24T19:52:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Ferrol ya tiene fecha para el encendido de su Navidad",
+      "description": "El estreno del alumbrado coincidirá con el del mercado en Armas, Amboage exhibirá un reclamo de gran formato y el bulevar e Irmandiños se suman a las luces",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/25/ferrol-encendera-navidad-dia-4/0003_202611F25C3991.htm",
+      "time": "2026-11-24T17:33:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El valor de la dedicación",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/valor-dedicacion/00031795539691019851663.htm",
+      "time": "2026-11-24T17:10:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Hugo López conquista el oro en la Supercopa de España en Madrid",
+      "description": "El triunfo le garantiza su clasificación para el Campeonato de España de su categoría",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/24/hugo-lopez-conquista-oro-supercopa-espana-madrid/00031795539884534411552.htm",
+      "time": "2026-11-24T17:10:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Eugenio Freire conquista el Campeonato de España de Quad",
+      "description": "Tras sufrir una fractura y luxación de la cabeza del fémur en 2025, el ferrolano ha recuperado su mejor nivel",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/24/eugenio-freire-conquista-campeonato-espana-quad/00031795540045570512853.htm",
+      "time": "2026-11-24T17:10:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Miguel Morro: «Vengo a hacerlo bien y quiero ponérselo difícil al míster»",
+      "description": "El madrileño destaca la ambición del proyecto del Racing de Ferrol y el buen ambiente",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/miguel-morro-vengo-hacerlo-bien-quiero-ponerselo-dificil-mister/00031795538702458246783.htm",
+      "time": "2026-11-24T17:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Mandiá encara la recta final de su primera fase",
+      "description": "Ansede prevé completar el segundo campo en tres meses y tener listo el edificio de servicios al inicio de la próxima temporada",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/mandiaencara-recta-final-primera-fase/00031795538873359961138.htm",
+      "time": "2026-11-24T17:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El equipo Genuine del Racing disfruta de la primera jornada de Liga en Tarragona",
+      "description": "La próxima concentración será en Pamplona en el mes de marzo",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/equipo-genuine-racing-disfruta-primera-jornada-liga-tarragona/00031795539040326724287.htm",
+      "time": "2026-11-24T17:09:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El embalse de As Forcadas remonta hasta el 32,38 % de ocupación gracias a las últimas lluvias",
+      "description": "El último boletín hidrológico de Augas de Galicia refleja que el pantano que abastece a la comarca de Ferrol almacena ya 3,20 hectómetros cúbicos, aunque continúa muy por debajo de la media autonómica",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/24/embalse-as-forcadas-remonta-3238-ocupacion-gracias-ultimas-lluvias/00031795534294787996486.htm",
+      "time": "2026-11-24T15:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Una mutua deniega la prestación por riesgo de embarazo a una técnica de farmacia de Ferrol con peligro de aborto",
+      "description": "El Tribunal Superior de Xustiza de Galicia reconoce ahora el derecho de la mujer a percibir estas cantidades desde la semana 16 de gestación, la mutua no se las daba hasta la semana 28 y la afectada tuvo que coger una baja por enfermedad común",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/24/mutua-deniega-prestacion-riesgo-embarazo-tecnica-farmacia-ferrol-peligro-aborto/00031795515080579116805.htm",
+      "time": "2026-11-24T12:41:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La Diputación de A Coruña abre el plazo para pedir las ayudas del Plan de Emprego Local 2027",
+      "description": "El organismo provincial destina 8,66 millones de euros para cuatro tipos de ayuda diferentes",
+      "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/11/24/diputacion-coruna-abre-plazo-pedir-ayudas-pel-2027-dotadas-86-millones/00031795518681812274767.htm",
+      "time": "2026-11-24T11:35:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un sensor en la espalda y alertas sonoras: la nueva herramienta de la UDC para proteger a los equipos de emergencias en Ferrol",
+      "description": "La Cátedra de Protección Civil y la Mancomunidade organizaron un taller práctico en el Parque de Bomberos para probar AppGym, un dispositivo desarrollado en el Campus Industrial.",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/24/sensor-espalda-alertas-sonoras-nueva-herramienta-udc-proteger-equipos-emergencias-ferrol/00031795518997081419293.htm",
+      "time": "2026-11-24T11:32:01+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Herida una vecina de Narón al caerle encima el techo de la cocina",
       "description": "Fue atendida por personal sanitario del 061 y los bomberos del SPEIS se encargaron de apuntalar el interior del inmueble, los vecinos se quejan de daños en sus viviendas desde hace años",
@@ -87,6 +195,15 @@
       "title": "Ayudas de la Xunta para renovar la maquinaria forestal",
       "description": "Una empresa de Cedeira renueva el equipo procesador de la madera",
       "url": "https://www.lavozdegalicia.es/noticia/ferrol/cedeira/2026/11/24/ayudas-xunta-renovar-maquinaria-forestal/0003_202611F24C6991.htm",
+      "time": "2026-11-24T04:00:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Carta a Yolanda Díaz: «La historia de Fene también incluye a mi abuelo»",
+      "description": "",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/11/24/historia-fene-incluye-abuelo/0003_202611G24P17991.htm",
       "time": "2026-11-24T04:00:00+00:00",
       "source": "La Voz de Galicia · Ferrol",
       "source_id": "lavoz_ferrol",
@@ -5932,87 +6049,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "Cae un árbol de gran porte a la entrada de la playa de Ares",
-      "description": "Los viandantes dieron la voz de alarma llamando al 112 en torno a las ocho de esta tarde de domingo",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/22/cae-arbol-gran-porte-entrada-playa-ares/00031795375143652342702.htm",
-      "time": "2026-11-22T19:29:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Bernal, el inesperado cazafantasmas del gol para el Racing",
-      "description": "El mediocentro, cuyo último tanto oficial se remontaba a hace más de una década, abrió la lata para los ferrolanos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/22/bernal-cazafantasmas-gol/00031795373309411861264.htm",
-      "time": "2026-11-22T18:53:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El «1x1» de la victoria del Racing Club Ferrol frente a la UD Ourense",
-      "description": "Los de Javi Vázquez, que cuajaron el peor partido en lo que va de curso, tiraron de fe para llevarse los tres puntos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/22/1x1-victoria-racing-club-ferrol-frente-ourense/00031795362976045468700.htm",
-      "time": "2026-11-22T16:11:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Javi Vázquez, técnico del Racing: «Hemos estado peor que nunca»",
-      "description": "Fiel a su máxima de ver más allá del resultado, el preparador destaca que la fe se impuso a un partido plagado de imprecisiones en Ourense",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/22/javi-vazquez-tecnico-racinghemos-estado-peor-nunca/00031795359599243818739.htm",
-      "time": "2026-11-22T15:05:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Las diez mejores imágenes de la visita de Azul Marino al Baxi Ferrol",
-      "description": "El retorno de Blanca Millán se tradujo en la primera derrota local para las de Lino López",
-      "url": "https://www.lavozdegalicia.es/album/deportes/2026/11/22/diez-mejores-imagenes-visita-azul-marino-baxi-ferrol/01101795355179855977236.htm",
-      "time": "2026-11-22T13:50:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El derbi de O Couto toma rumbo a Ferrol en el último instante (2-3)",
-      "description": "Un intercambio de golpes acelerado en el tramo final encumbró deja a la UD Ourense compuesta y sin puntos ante un Racing con mayor pegada",
-      "url": "https://www.lavozdegalicia.es/noticia/ourense/2026/11/23/derbi-escurre-ourense/0003_202611O23C4991.htm",
-      "time": "2026-11-22T13:36:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Baxi Ferrol se estrella contra el acierto exterior del Azul Marino (58-83)",
-      "description": "Las ferrolanas lo intentaron hasta el final, pero la remontada no fue posible",
-      "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/22/baxi-ferrol-azul-marino/00031795349302113852410.htm",
-      "time": "2026-11-22T12:49:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Ferrol se lanza a la carrera para escapar de la violencia machista",
-      "description": "Cientos de participantes tomaron parte en la prueba deportiva y la andaina que recorrieron A Magdalena dentro de la programación del 25N",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/22/ferrol-corrio-escapar-violencia-machista/00031795347456656921600.htm",
-      "time": "2026-11-22T12:14:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Una rotura de la conducción de agua deja sin suministro a numerosos hogares en Fene",
-      "description": "La avería se produjo en pleno casco urbano, en las cercanías del cruce principal",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/fene/2026/11/22/rotura-conduccion-agua-deja-suministro-numerosos-abonados-fene/00031795341069435179317.htm",
-      "time": "2026-11-22T10:37:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
