@@ -1,5 +1,77 @@
 [
   {
+    "title": "«Son muller e son nai, todas coñecemos casos de machismo infiltrado»",
+    "description": "Medio millar de personas participan en la concentración para conmemorar el día internacional contra la violencia a las mujeres",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/muller-nai-conocemos-casos-machismo-infiltrado/00031795634468859540295.htm",
+    "time": "2026-11-25T20:28:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Racing confirma la «pequeña rotura fibrilar» de Ger Nóvoa",
+    "description": "El central, que pidió el cambio antes del minuto veinte en Ourense, tiene tocado el bíceps femoral de su pierna derecha",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/25/racing-confirma-pequena-rotura-fibrilar-ger-novoa/00031795629077295110486.htm",
+    "time": "2026-11-25T18:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La planta para transformar la dunita en As Pontes echará a andar en el 2028",
+    "description": "El grupo Pasek invertirá 20 millones en una primera fase y creará treinta empleos en la fábrica que pondrá en marcha en el polígono de Penapurreira",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/25/planta-transformar-dunita-as-pontes-echara-andar-2028/00031795623938899364590.htm",
+    "time": "2026-11-25T16:32:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Defensa da su visto bueno final al diseño del nuevo Buque de Aprovisionamiento en Combate que construirá Navantia en Ferrol",
+    "description": "El astillero tiene en marcha los primeros bloques piloto del buque cuya quilla será colocada el segundo semestre del próximo año",
+    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/25/defensa-da-visto-bueno-final-diseno-nuevo-buque-aprovisionamiento-combate-construira-navantia-ferrol/00031795606508277275178.htm",
+    "time": "2026-11-25T16:16:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "AD Mérida, la gran asignatura pendiente del Racing en Primera Federación",
+    "description": "Ni el curso del ascenso logró el cuadro ferrolano sumar de tres ante los romanos",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/25/ad-merida-gran-asignatura-pendiente-racing-primera-federacion/00031795618274549336782.htm",
+    "time": "2026-11-25T15:46:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "Así es el exigente examen de combate al que se enfrenta el Juan Carlos I, el gigante naval construido en Ferrol",
+    "description": "Tras renovar sus sistemas de propulsión en astilleros, el navío valida en alta mar la respuesta de su dotación ante incendios, averías y amenazas aéreas",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/exigente-examen-combate-enfrenta-juan-carlos-i-gigante-naval-construido-ferrol/00031795619892589131185.htm",
+    "time": "2026-11-25T15:38:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "El Racing Club Ferrol pierde a Arroyo durante dos jornadas",
+    "description": "El ariete vallisoletano cumplirá sanción tras su expulsión con roja directa en O Couto; mismo castigo que el del analista Christian Parra",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/25/racing-club-ferrol-pierde-arroyo-durante-dos-jornadas/00031795619587042139243.htm",
+    "time": "2026-11-25T15:17:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
+    "title": "La penúltima sesión del año en A Malata también se disputará a las 12.00 horas",
+    "description": "El Cacereño de Julio Cobos visitará al Racing Club Ferrol el domingo 13 de diciembre",
+    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/25/penultima-sesion-ano-malata-disputara-1200-horas/00031795612482398223144.htm",
+    "time": "2026-11-25T13:31:01+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Estreno dorado para el fenés Bruno Carrodeguas en el Open Nacional de jiu-jitsu",
     "description": "El yudoca de la AD Judo Ferrolterra se estrenó en la modalidad con doble medalla",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/25/estreno-dorado-fenes-bruno-carrodeguas-open-nacional-jiu-jitsu/00031795611359974921919.htm",
@@ -9,17 +81,8 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "Defensa da su visto bueno final al diseño del nuevo Buque de Aprovisionamiento en Combate que construirá Navantia en Ferrol",
-    "description": "El astillero tiene en marcha los primeros bloques piloto del buque cuya quilla será colocada el segundo semestre del próximo año",
-    "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/11/25/defensa-da-visto-bueno-final-diseno-nuevo-buque-aprovisionamiento-combate-construira-navantia-ferrol/00031795606508277275178.htm",
-    "time": "2026-11-25T12:47:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "Prisión para el atracador de Pontedeume: llevaba armas y cafeína pura usada como droga en el coche",
-    "description": "Se trata de un vecino de Ferrol de 49 años, procedente de un entorno ya conocido por sus hechos delictivos; entró con una escopeta en un supermercado, disparó al techo y se llevó 200 euros",
+    "description": "Se trata de un vecino de Ferrol de 49 años, procedente de un entorno ya conocido por sus hechos delictivos (desde homicidio a violencia de género); entró con una escopeta en un supermercado, disparó al techo y se llevó 200 euros",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/pontedeume/2026/11/25/prision-atracador-pontedeume-llevaba-armas-cafeina-pura-usada-droga-coche/00031795607723151233212.htm",
     "time": "2026-11-25T12:11:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
@@ -36,37 +99,10 @@
     "type": "NOTICIAS"
   },
   {
-    "title": "De muebles a juguetes y regalos navideños: Narón acoge este domingo un mercado de segunda mano con setenta puestos y entrada gratis",
-    "description": "Abrirá sus puertas en horario de mañana y tarde en el recinto ferial de O Trece",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/muebles-juguetes-regalos-navidenos-naron-acoge-domingo-mercado-segunda-mano-setenta-puestos-entrada-gratis/00031795606469821537831.htm",
-    "time": "2026-11-25T11:39:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
     "title": "El Baxi Ferrol, a plantar cara al coco turco en la Eurocup Women",
     "description": "Después de jugar el domingo, plantilla y cuerpo técnico afrontaron un viaje de 15 horas antes de medir fuerzas, este jueves, con el todopoderoso Mersin",
     "url": "https://www.lavozdegalicia.es/noticia/deportes/2026/11/25/baxi-ferrol-plantar-cara-coco-turco-eurocup-women/00031795605386247825455.htm",
     "time": "2026-11-25T11:20:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Un robo de combustible en plena noche deja fuera de servicio dos generadores en Valdoviño",
-    "description": "Los equipos habían sido desplegados en Meirás para garantizar el suministro eléctrico durante la mejora de la red en la zona",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/robo-combustible-plena-noche-deja-fuera-servicio-dos-generadores-valdovino/00031795603195593989659.htm",
-    "time": "2026-11-25T10:46:05+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El pequeño comercio de Ferrolterra se suma al Black Friday: «Es una manera de ayudar a los clientes»",
-    "description": "Las tiendas de moda, perfumería e incluso ópticas de la comarca ofrecen descuentos especiales esta semana",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/pequeno-comercio-suma-black-friday/0003_202611F25C1991.htm",
-    "time": "2026-11-25T04:00:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
@@ -117,6 +153,15 @@
     "type": "NOTICIAS"
   },
   {
+    "title": "El pequeño comercio de Ferrolterra se suma al Black Friday: «Es una manera de ayudar a los clientes»",
+    "description": "Las tiendas de moda, perfumería e incluso ópticas de la comarca ofrecen descuentos especiales esta semana",
+    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/pequeno-comercio-suma-black-friday/0003_202611F25C1991.htm",
+    "time": "2026-11-25T04:00:00+00:00",
+    "source": "La Voz de Galicia · Ferrol",
+    "source_id": "lavoz_ferrol",
+    "type": "NOTICIAS"
+  },
+  {
     "title": "Concentración este miércoles en el Cantón para rechazar la violencia contra las mujeres",
     "description": "La comarca celebra con distintos actos el día internacional para erradicar el maltrato a las féminas",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/25/concentracion-miercoles-canton-rechazar-violencia-contra-mujeres/0003_202611F25C6993.htm",
@@ -148,51 +193,6 @@
     "description": "El estreno del alumbrado coincidirá con el del mercado en Armas, Amboage exhibirá un reclamo de gran formato y el bulevar e Irmandiños se suman a las luces",
     "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/25/ferrol-encendera-navidad-dia-4/0003_202611F25C3991.htm",
     "time": "2026-11-24T17:33:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El valor de la dedicación",
-    "description": "",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/valor-dedicacion/00031795539691019851663.htm",
-    "time": "2026-11-24T17:10:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Hugo López conquista el oro en la Supercopa de España en Madrid",
-    "description": "El triunfo le garantiza su clasificación para el Campeonato de España de su categoría",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/24/hugo-lopez-conquista-oro-supercopa-espana-madrid/00031795539884534411552.htm",
-    "time": "2026-11-24T17:10:01+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Miguel Morro: «Vengo a hacerlo bien y quiero ponérselo difícil al míster»",
-    "description": "El madrileño destaca la ambición del proyecto del Racing de Ferrol y el buen ambiente",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/miguel-morro-vengo-hacerlo-bien-quiero-ponerselo-dificil-mister/00031795538702458246783.htm",
-    "time": "2026-11-24T17:09:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "Mandiá encara la recta final de su primera fase",
-    "description": "Ansede prevé completar el segundo campo en tres meses y tener listo el edificio de servicios al inicio de la próxima temporada",
-    "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/24/mandiaencara-recta-final-primera-fase/00031795538873359961138.htm",
-    "time": "2026-11-24T17:09:00+00:00",
-    "source": "La Voz de Galicia · Ferrol",
-    "source_id": "lavoz_ferrol",
-    "type": "NOTICIAS"
-  },
-  {
-    "title": "El embalse de As Forcadas remonta hasta el 32,38 % de ocupación gracias a las últimas lluvias",
-    "description": "El último boletín hidrológico de Augas de Galicia refleja que el pantano que abastece a la comarca de Ferrol almacena ya 3,20 hectómetros cúbicos, aunque continúa muy por debajo de la media autonómica",
-    "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/24/embalse-as-forcadas-remonta-3238-ocupacion-gracias-ultimas-lluvias/00031795534294787996486.htm",
-    "time": "2026-11-24T15:35:00+00:00",
     "source": "La Voz de Galicia · Ferrol",
     "source_id": "lavoz_ferrol",
     "type": "NOTICIAS"
