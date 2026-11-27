@@ -1,7 +1,79 @@
 {
   "hours": 48,
-  "count": 668,
+  "count": 670,
   "items": [
+    {
+      "title": "Fallece una mujer atropellada cuando cruzaba la carretera de Catabois: «Esto es muy peligroso»",
+      "description": "Su acompañante fue trasladado herido grave al hospital Arquitecto Marcide",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/27/fallece-mujer-atropellada-cruzaba-carretera-catabois/00031795808580269357164.htm",
+      "time": "2026-11-27T19:57:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Baxi pone a prueba su reacción en Salamanca",
+      "description": "Las ferrolanas visitan Würzburg , con Claudia Soriano como una de las principales amenazas del conjunto salmantino",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/27/baxi/00031795798339516487739.htm",
+      "time": "2026-11-27T19:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Parte del comercio local de Ferrolterra nota el tirón del Black Friday: «Vino más gente»",
+      "description": "Mientras al centro de Ferrol le costó arrancar, Odeón era un hervidero",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/28/parte-comercio-local-nota-tiron-descuentos-vino-gente/0003_202611F28C2991.htm",
+      "time": "2026-11-27T16:28:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Gerard Casas: «El partido es muy largo y tenemos que ir a fuego lento»",
+      "description": "O Parrulo Ferrol busca ante el Córdoba su cuarta victoria seguida",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/27/gerard-casas-partido-largo-tenemos-ir-fuego-lento/00031795796017284624705.htm",
+      "time": "2026-11-27T16:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Un fallecido de Narón lleva más de 20 días en la morgue del Marcide sin que nadie lo reclame",
+      "description": "Sanidade confirma que el caso está en vías de judicialización",
+      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/27/fallecido-naron-lleva-20-dias-morgue-marcide-reclame/00031795794946446962457.htm",
+      "time": "2026-11-27T16:15:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "El Racing confirma que la operación de Lucas Díaz fue «un éxito»",
+      "description": "El guardameta, que pasó por quirófano este jueves por una luxación acromioclavicular, inicia su proceso de recuperación",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/27/racing-confirma-operacion-lucas-diaz-exito/00031795792953041278888.htm",
+      "time": "2026-11-27T15:31:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "La planta de Gijón, con capital gallego, se integrará en la red de regasificadoras del país",
+      "description": "El Musel E-Hub, participada por Enagás y Reganosa, reforzará el sistema en un momento de mayor operatividad de las terminales de ciclo combinado",
+      "url": "https://www.lavozdegalicia.es/noticia/economia/2026/11/28/planta-gijon-integrara-red-regasificadoras-pais/0003_202611G28P26991.htm",
+      "time": "2026-11-27T15:25:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
+    {
+      "title": "Unai Ropero, jugador del Racing: «Presión real es la de una familia que no llega a final de mes»",
+      "description": "El atacante, cedido a los ferrolanos por el Deportivo Alavés, confiesa que sus inicios en el barrio de Adurza son el mejor recordatorio de la gran oportunidad que le brinda el fútbol",
+      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/27/unai-ropero-jugador-racing-club-ferrolpresion-real-familia-llega-final-mes/00031795788417743346811.htm",
+      "time": "2026-11-27T14:16:00+00:00",
+      "source": "La Voz de Galicia · Ferrol",
+      "source_id": "lavoz_ferrol",
+      "type": "NOTICIAS"
+    },
     {
       "title": "Un siglo de historia y etiqueta: Exponav mostrará cómo se vestía en las botaduras de Ferrol",
       "description": "El Museo de la Construcción Naval reabrirá sus puertas el 1 de diciembre",
@@ -5959,60 +6031,6 @@
       "source": "BOE",
       "source_id": "boe",
       "type": "OFICIAL"
-    },
-    {
-      "title": "«Son muller e son nai, todas coñecemos casos de machismo infiltrado»",
-      "description": "Medio millar de personas participan en la concentración para conmemorar el día internacional contra la violencia a las mujeres",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/muller-nai-conocemos-casos-machismo-infiltrado/00031795634468859540295.htm",
-      "time": "2026-11-25T20:28:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing confirma la «pequeña rotura fibrilar» de Ger Nóvoa",
-      "description": "El central, que pidió el cambio antes del minuto veinte en Ourense, tiene tocado el bíceps femoral de su pierna derecha",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/25/racing-confirma-pequena-rotura-fibrilar-ger-novoa/00031795629077295110486.htm",
-      "time": "2026-11-25T18:00:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "La planta para transformar la dunita en As Pontes echará a andar en el 2028",
-      "description": "El grupo Pasek invertirá 20 millones en una primera fase y creará treinta empleos en la fábrica que pondrá en marcha en el polígono de Penapurreira",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2026/11/25/planta-transformar-dunita-as-pontes-echara-andar-2028/00031795623938899364590.htm",
-      "time": "2026-11-25T16:32:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "AD Mérida, la gran asignatura pendiente del Racing en Primera Federación",
-      "description": "Ni el curso del ascenso logró el cuadro ferrolano sumar de tres ante los romanos",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/25/ad-merida-gran-asignatura-pendiente-racing-primera-federacion/00031795618274549336782.htm",
-      "time": "2026-11-25T15:46:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "Así es el exigente examen de combate al que se enfrenta el Juan Carlos I, el gigante naval construido en Ferrol",
-      "description": "Tras renovar sus sistemas de propulsión en astilleros, el navío valida en alta mar la respuesta de su dotación ante incendios, averías y amenazas aéreas",
-      "url": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/25/exigente-examen-combate-enfrenta-juan-carlos-i-gigante-naval-construido-ferrol/00031795619892589131185.htm",
-      "time": "2026-11-25T15:38:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
-    },
-    {
-      "title": "El Racing Club Ferrol pierde a Arroyo durante dos jornadas",
-      "description": "El ariete vallisoletano cumplirá sanción tras su expulsión con roja directa en O Couto; mismo castigo que el del analista Christian Parra",
-      "url": "https://www.lavozdegalicia.es/noticia/oparacing/2026/11/25/racing-club-ferrol-pierde-arroyo-durante-dos-jornadas/00031795619587042139243.htm",
-      "time": "2026-11-25T15:17:00+00:00",
-      "source": "La Voz de Galicia · Ferrol",
-      "source_id": "lavoz_ferrol",
-      "type": "NOTICIAS"
     }
   ]
 }
